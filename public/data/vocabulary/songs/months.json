@@ -1,0 +1,237 @@
+{
+  "slug": "months",
+  "titles": {
+    "en": "Months",
+    "fr": "Mois",
+    "es": "Meses",
+    "it": "Mesi",
+    "pt": "Meses",
+    "de": "Monate",
+    "nl": "Maanden"
+  },
+  "category": "Time",
+  "style": "Calm / cyclical",
+  "comment": "A gentle song to learn the months of the year and the cycle of seasons.",
+
+  "cover": "/data/vocabulary/images/months.jpg",
+
+  "lyrics": {
+    "en": [
+      { "target": "A year begins in quiet light," },
+      { "target": "Cold and calm, soft and white," },
+      { "target": "Time moves slow, then starts to flow," },
+      { "target": "Round and round we go" },
+
+      { "target": "January, February — winter stays," },
+      { "target": "March arrives with longer days," },
+      { "target": "Frozen ground begins to wake," },
+      { "target": "Every step, a small change" },
+
+      { "target": "April rain begins to fall," },
+      { "target": "May brings flowers, bright and tall," },
+      { "target": "June is warm, the days are long," },
+      { "target": "Life returns in every song" },
+
+      { "target": "July shines under golden skies," },
+      { "target": "August glows as time flies by," },
+      { "target": "September cools the evening air," },
+      { "target": "Summer fades, but still is there" },
+
+      { "target": "October leaves fall to the ground," },
+      { "target": "November moves without a sound," },
+      { "target": "December brings the cold again," },
+      { "target": "The year comes back… to where it began" },
+
+      { "target": "Month by month, the seasons flow," },
+      { "target": "Fast or slow, they come and go," },
+      { "target": "Every end becomes a start," },
+      { "target": "Time is turning… like a heart" }
+    ],
+    "fr": [
+  { "target": "L’année commence en silence," },
+  { "target": "Dans le froid et la lumière blanche," },
+  { "target": "Le temps avance lentement," },
+  { "target": "Puis s’écoule doucement" },
+
+  { "target": "Janvier, février — l’hiver est là," },
+  { "target": "Mars arrive et réveille déjà," },
+  { "target": "La terre froide commence à changer," },
+  { "target": "Chaque jour… un peu plus léger" },
+
+  { "target": "Avril apporte la pluie fine," },
+  { "target": "Mai fait naître les fleurs qui brillent," },
+  { "target": "Juin étire les longues journées," },
+  { "target": "La vie revient… apaisée" },
+
+  { "target": "Juillet brille sous le soleil," },
+  { "target": "Août s’endort dans sa chaleur," },
+  { "target": "Septembre apporte l’air plus frais," },
+  { "target": "L’été s’en va… sans bruit" },
+
+  { "target": "Octobre laisse tomber les feuilles," },
+  { "target": "Novembre avance dans le brouillard," },
+  { "target": "Décembre revient avec le froid," },
+  { "target": "Et l’année revient… sur ses pas" },
+
+  { "target": "Mois après mois, tout s’enchaîne," },
+  { "target": "Lentement, le temps nous mène," },
+  { "target": "Chaque fin devient départ," },
+  { "target": "Le temps tourne… quelque part" }
+],
+"es": [
+  { "target": "El año empieza en silencio," },
+  { "target": "Frío suave, luz de invierno," },
+  { "target": "El tiempo pasa despacio," },
+  { "target": "Y luego fluye sin prisa" },
+
+  { "target": "Enero, febrero — sigue el frío," },
+  { "target": "Marzo llega con un nuevo latido," },
+  { "target": "La tierra empieza a despertar," },
+  { "target": "Cada día… un poco más" },
+
+  { "target": "Abril trae lluvia al caer," },
+  { "target": "Mayo flores por doquier," },
+  { "target": "Junio alarga el calor," },
+  { "target": "Y la vida vuelve en color" },
+
+  { "target": "Julio brilla bajo el sol," },
+  { "target": "Agosto guarda su calor," },
+  { "target": "Septiembre cambia el aire ya," },
+  { "target": "El verano empieza a marchar" },
+
+  { "target": "Octubre hojas deja caer," },
+  { "target": "Noviembre pasa sin hacer ruido," },
+  { "target": "Diciembre vuelve con el frío," },
+  { "target": "Y el año empieza… de nuevo aquí" },
+
+  { "target": "Mes a mes, todo se va," },
+  { "target": "Lento o rápido… volverá," },
+  { "target": "Cada final es empezar," },
+  { "target": "El tiempo gira… sin parar" }
+],
+"it": [
+  { "target": "L’anno inizia nel silenzio," },
+  { "target": "Freddo lieve, luce chiara," },
+  { "target": "Il tempo scorre piano piano," },
+  { "target": "Poi comincia a camminare" },
+
+  { "target": "Gennaio, febbraio — resta il freddo," },
+  { "target": "Marzo arriva con un nuovo respiro," },
+  { "target": "La terra inizia a cambiare," },
+  { "target": "Ogni giorno… un po’ più chiaro" },
+
+  { "target": "Aprile porta pioggia leggera," },
+  { "target": "Maggio accende fiori e colori," },
+  { "target": "Giugno allunga le sue giornate," },
+  { "target": "La vita torna nei cuori" },
+
+  { "target": "Luglio splende sotto il sole," },
+  { "target": "Agosto vive nel calore," },
+  { "target": "Settembre cambia l’aria intorno," },
+  { "target": "L’estate scivola piano" },
+
+  { "target": "Ottobre lascia cadere le foglie," },
+  { "target": "Novembre passa in silenzio," },
+  { "target": "Dicembre riporta il freddo," },
+  { "target": "E l’anno ricomincia… lento" },
+
+  { "target": "Mese dopo mese va," },
+  { "target": "Lento o veloce tornerà," },
+  { "target": "Ogni fine è un inizio già," },
+  { "target": "Il tempo gira… e va" }
+],
+"pt": [
+  { "target": "O ano começa em silêncio," },
+  { "target": "Frio leve, luz no ar," },
+  { "target": "O tempo passa devagar," },
+  { "target": "E começa a caminhar" },
+
+  { "target": "Janeiro, fevereiro — ainda frio," },
+  { "target": "Março chega com um novo brilho," },
+  { "target": "A terra começa a acordar," },
+  { "target": "Cada dia… a mudar" },
+
+  { "target": "Abril traz chuva a cair," },
+  { "target": "Maio flores a surgir," },
+  { "target": "Junho alonga os seus dias," },
+  { "target": "E a vida volta em harmonia" },
+
+  { "target": "Julho brilha sob o sol," },
+  { "target": "Agosto guarda o calor," },
+  { "target": "Setembro muda o ar," },
+  { "target": "O verão começa a passar" },
+
+  { "target": "Outubro folhas deixa cair," },
+  { "target": "Novembro passa sem se ouvir," },
+  { "target": "Dezembro traz o frio outra vez," },
+  { "target": "E o ano recomeça… talvez" },
+
+  { "target": "Mês a mês, tudo vai," },
+  { "target": "Devagar… depois volta atrás," },
+  { "target": "Cada fim é um recomeçar," },
+  { "target": "O tempo gira… sem parar" }
+],
+"de": [
+  { "target": "Das Jahr beginnt ganz still," },
+  { "target": "Kalt und ruhig, helles Licht," },
+  { "target": "Die Zeit vergeht ganz langsam," },
+  { "target": "Und bewegt sich Schritt für Schritt" },
+
+  { "target": "Januar, Februar — der Winter bleibt," },
+  { "target": "März kommt und bringt neue Zeit," },
+  { "target": "Die Erde fängt an sich zu drehen," },
+  { "target": "Jeden Tag… ein wenig mehr" },
+
+  { "target": "April bringt Regen leise," },
+  { "target": "Mai lässt Blumen wachsen," },
+  { "target": "Juni macht die Tage lang," },
+  { "target": "Und das Leben kehrt zurück" },
+
+  { "target": "Juli scheint im warmen Licht," },
+  { "target": "August trägt die Wärme weiter," },
+  { "target": "September bringt kühle Luft," },
+  { "target": "Der Sommer geht langsam fort" },
+
+  { "target": "Oktober lässt die Blätter fallen," },
+  { "target": "November geht ganz still vorbei," },
+  { "target": "Dezember bringt die Kälte zurück," },
+  { "target": "Und das Jahr beginnt von vorn" },
+
+  { "target": "Monat für Monat vergeht die Zeit," },
+  { "target": "Langsam oder schnell vorbei," },
+  { "target": "Jedes Ende wird ein Anfang," },
+  { "target": "Die Zeit dreht sich… immer weiter" }
+],
+"nl": [
+  { "target": "Het jaar begint heel stil," },
+  { "target": "Koud en licht, rustig aan," },
+  { "target": "De tijd gaat langzaam verder," },
+  { "target": "En begint weer te gaan" },
+
+  { "target": "Januari, februari — winter blijft," },
+  { "target": "Maart komt en brengt nieuw licht," },
+  { "target": "De aarde wordt weer wakker," },
+  { "target": "Elke dag… een beetje meer" },
+
+  { "target": "April brengt regen zacht," },
+  { "target": "Mei laat bloemen groeien," },
+  { "target": "Juni maakt de dagen lang," },
+  { "target": "En het leven komt terug" },
+
+  { "target": "Juli schijnt in warme zon," },
+  { "target": "Augustus houdt de warmte vast," },
+  { "target": "September maakt de lucht koel," },
+  { "target": "De zomer gaat langzaam weg" },
+
+  { "target": "Oktober laat de bladeren vallen," },
+  { "target": "November gaat stil voorbij," },
+  { "target": "December brengt de kou terug," },
+  { "target": "En het jaar begint opnieuw" },
+
+  { "target": "Maand na maand gaat het door," },
+  { "target": "Langzaam of snel, steeds weer," },
+  { "target": "Elk einde wordt een begin," },
+  { "target": "De tijd draait… altijd door" }
+]
+  }
+}

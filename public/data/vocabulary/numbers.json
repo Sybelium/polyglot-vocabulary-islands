@@ -1,0 +1,57 @@
+{
+  "id": 1,
+  "name": "Numbers",
+  "icon": "🔢",
+  "description": "Essential numbers and mathematical operations",
+  "words": [
+    { "id": 1, "en": "one", "fr": "un", "es": "uno", "it": "uno", "pt": "um", "de": "eins", "nl": "één", "image": "1️⃣" },
+    { "id": 2, "en": "two", "fr": "deux", "es": "dos", "it": "due", "pt": "dois", "de": "zwei", "nl": "twee", "image": "2️⃣" },
+    { "id": 3, "en": "three", "fr": "trois", "es": "tres", "it": "tre", "pt": "três", "de": "drei", "nl": "drie", "image": "3️⃣" },
+    { "id": 4, "en": "four", "fr": "quatre", "es": "cuatro", "it": "quattro", "pt": "quatro", "de": "vier", "nl": "vier", "image": "4️⃣" },
+    { "id": 5, "en": "five", "fr": "cinq", "es": "cinco", "it": "cinque", "pt": "cinco", "de": "fünf", "nl": "vijf", "image": "5️⃣" },
+    { "id": 6, "en": "six", "fr": "six", "es": "seis", "it": "sei", "pt": "seis", "de": "sechs", "nl": "zes", "image": "6️⃣" },
+    { "id": 7, "en": "seven", "fr": "sept", "es": "siete", "it": "sette", "pt": "sete", "de": "sieben", "nl": "zeven", "image": "7️⃣" },
+    { "id": 8, "en": "eight", "fr": "huit", "es": "ocho", "it": "otto", "pt": "oito", "de": "acht", "nl": "acht", "image": "8️⃣" },
+    { "id": 9, "en": "nine", "fr": "neuf", "es": "nueve", "it": "nove", "pt": "nove", "de": "neun", "nl": "negen", "image": "9️⃣" },
+    { "id": 10, "en": "ten", "fr": "dix", "es": "diez", "it": "dieci", "pt": "dez", "de": "zehn", "nl": "tien", "image": "🔟" },
+
+    { "id": 11, "en": "eleven", "fr": "onze", "es": "once", "it": "undici", "pt": "onze", "de": "elf", "nl": "elf", "image": "1️⃣1️⃣" },
+    { "id": 12, "en": "twelve", "fr": "douze", "es": "doce", "it": "dodici", "pt": "doze", "de": "zwölf", "nl": "twaalf", "image": "1️⃣2️⃣" },
+    { "id": 13, "en": "thirteen", "fr": "treize", "es": "trece", "it": "tredici", "pt": "treze", "de": "dreizehn", "nl": "dertien", "image": "1️⃣3️⃣" },
+    { "id": 14, "en": "fourteen", "fr": "quatorze", "es": "catorce", "it": "quattordici", "pt": "catorze", "de": "vierzehn", "nl": "veertien", "image": "1️⃣4️⃣" },
+    { "id": 15, "en": "fifteen", "fr": "quinze", "es": "quince", "it": "quindici", "pt": "quinze", "de": "fünfzehn", "nl": "vijftien", "image": "1️⃣5️⃣" },
+    { "id": 16, "en": "sixteen", "fr": "seize", "es": "dieciséis", "it": "sedici", "pt": "dezasseis", "de": "sechzehn", "nl": "zestien", "image": "1️⃣6️⃣" },
+    { "id": 17, "en": "seventeen", "fr": "dix-sept", "es": "diecisiete", "it": "diciassette", "pt": "dezassete", "de": "siebzehn", "nl": "zeventien", "image": "1️⃣7️⃣" },
+    { "id": 18, "en": "eighteen", "fr": "dix-huit", "es": "dieciocho", "it": "diciotto", "pt": "dezoito", "de": "achtzehn", "nl": "achttien", "image": "1️⃣8️⃣" },
+    { "id": 19, "en": "nineteen", "fr": "dix-neuf", "es": "diecinueve", "it": "diciannove", "pt": "dezanove", "de": "neunzehn", "nl": "negentien", "image": "1️⃣9️⃣" },
+    { "id": 20, "en": "twenty", "fr": "vingt", "es": "veinte", "it": "venti", "pt": "vinte", "de": "zwanzig", "nl": "twintig", "image": "2️⃣0️⃣" },
+
+    { "id": 21, "en": "twenty-one", "fr": "vingt et un", "es": "veintiuno", "it": "ventuno", "pt": "vinte e um", "de": "einundzwanzig", "nl": "eenentwintig", "image": "2️⃣1️⃣" },
+    { "id": 22, "en": "twenty-two", "fr": "vingt-deux", "es": "veintidós", "it": "ventidue", "pt": "vinte e dois", "de": "zweiundzwanzig", "nl": "tweeëntwintig", "image": "2️⃣2️⃣" },
+    { "id": 23, "en": "twenty-three", "fr": "vingt-trois", "es": "veintitrés", "it": "ventitré", "pt": "vinte e três", "de": "dreiundzwanzig", "nl": "drieëntwintig", "image": "2️⃣3️⃣" },
+
+    { "id": 24, "en": "thirty", "fr": "trente", "es": "treinta", "it": "trenta", "pt": "trinta", "de": "dreißig", "nl": "dertig", "image": "3️⃣0️⃣" },
+    { "id": 25, "en": "forty", "fr": "quarante", "es": "cuarenta", "it": "quaranta", "pt": "quarenta", "de": "vierzig", "nl": "veertig", "image": "4️⃣0️⃣" },
+    { "id": 26, "en": "fifty", "fr": "cinquante", "es": "cincuenta", "it": "cinquanta", "pt": "cinquenta", "de": "fünfzig", "nl": "vijftig", "image": "5️⃣0️⃣" },
+    { "id": 27, "en": "sixty", "fr": "soixante", "es": "sesenta", "it": "sessanta", "pt": "sessenta", "de": "sechzig", "nl": "zestig", "image": "6️⃣0️⃣" },
+    { "id": 28, "en": "seventy", "fr": "soixante-dix", "es": "setenta", "it": "settanta", "pt": "setenta", "de": "siebzig", "nl": "zeventig", "image": "7️⃣0️⃣" },
+    { "id": 29, "en": "eighty", "fr": "quatre-vingts", "es": "ochenta", "it": "ottanta", "pt": "oitenta", "de": "achtzig", "nl": "tachtig", "image": "8️⃣0️⃣" },
+    { "id": 30, "en": "ninety", "fr": "quatre-vingt-dix", "es": "noventa", "it": "novanta", "pt": "noventa", "de": "neunzig", "nl": "negentig", "image": "9️⃣0️⃣" },
+
+    { "id": 31, "en": "one hundred", "fr": "cent", "es": "cien", "it": "cento", "pt": "cem", "de": "hundert", "nl": "honderd", "image": "💯" },
+    { "id": 32, "en": "two hundred", "fr": "deux cents", "es": "doscientos", "it": "duecento", "pt": "duzentos", "de": "zweihundert", "nl": "tweehonderd", "image": "2️⃣0️⃣0️⃣" },
+    { "id": 33, "en": "one thousand", "fr": "mille", "es": "mil", "it": "mille", "pt": "mil", "de": "tausend", "nl": "duizend", "image": "1️⃣0️⃣0️⃣0️⃣" },
+    { "id": 34, "en": "one million", "fr": "un million", "es": "un millón", "it": "un milione", "pt": "um milhão", "de": "eine Million", "nl": "een miljoen", "image": "💰" },
+    { "id": 35, "en": "one billion", "fr": "un milliard", "es": "mil millones", "it": "un miliardo", "pt": "mil milhões", "de": "eine Milliarde", "nl": "een miljard", "image": "💸" },
+
+    { "id": 36, "en": "comma", "fr": "virgule", "es": "coma", "it": "virgola", "pt": "vírgula", "de": "Komma", "nl": "komma", "image": "," },
+    { "id": 37, "en": "exponent", "fr": "exposant", "es": "exponente", "it": "esponente", "pt": "expoente", "de": "Exponent", "nl": "exponent", "image": "ⁿ" },
+    { "id": 38, "en": "square root", "fr": "racine carrée", "es": "raíz cuadrada", "it": "radice quadrata", "pt": "raiz quadrada", "de": "Quadratwurzel", "nl": "vierkantswortel", "image": "√" },
+    { "id": 39, "en": "cubic root", "fr": "racine cubique", "es": "raíz cúbica", "it": "radice cubica", "pt": "raiz cúbica", "de": "Kubikwurzel", "nl": "derdemachtswortel", "image": "∛" },
+    { "id": 40, "en": "add", "fr": "additionner", "es": "sumar", "it": "addizionare", "pt": "somar", "de": "addieren", "nl": "optellen", "image": "➕" },
+    { "id": 41, "en": "subtract", "fr": "soustraire", "es": "restar", "it": "sottrarre", "pt": "subtrair", "de": "subtrahieren", "nl": "aftrekken", "image": "➖" },
+    { "id": 42, "en": "multiply", "fr": "multiplier", "es": "multiplicar", "it": "moltiplicare", "pt": "multiplicar", "de": "multiplizieren", "nl": "vermenigvuldigen", "image": "✖️" },
+    { "id": 43, "en": "divide", "fr": "diviser", "es": "dividir", "it": "dividere", "pt": "dividir", "de": "dividieren", "nl": "delen", "image": "➗" },
+    { "id": 44, "en": "equal", "fr": "égal", "es": "igual", "it": "uguale", "pt": "igual", "de": "gleich", "nl": "gelijk", "image": "=" }
+  ]
+}

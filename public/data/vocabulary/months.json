@@ -1,0 +1,20 @@
+{
+  "id": 26,
+  "name": "Months of the Year",
+  "icon": "🗓️",
+  "description": "The twelve months of the year",
+  "words": [
+    { "id": 1, "en": "January", "fr": "janvier", "es": "enero", "it": "gennaio", "pt": "janeiro", "de": "Januar", "nl": "januari", "image": "❄️" },
+    { "id": 2, "en": "February", "fr": "février", "es": "febrero", "it": "febbraio", "pt": "fevereiro", "de": "Februar", "nl": "februari", "image": "💘" },
+    { "id": 3, "en": "March", "fr": "mars", "es": "marzo", "it": "marzo", "pt": "março", "de": "März", "nl": "maart", "image": "🌬️" },
+    { "id": 4, "en": "April", "fr": "avril", "es": "abril", "it": "aprile", "pt": "abril", "de": "April", "nl": "april", "image": "🌸" },
+    { "id": 5, "en": "May", "fr": "mai", "es": "mayo", "it": "maggio", "pt": "maio", "de": "Mai", "nl": "mei", "image": "🌼" },
+    { "id": 6, "en": "June", "fr": "juin", "es": "junio", "it": "giugno", "pt": "junho", "de": "Juni", "nl": "juni", "image": "🌞" },
+    { "id": 7, "en": "July", "fr": "juillet", "es": "julio", "it": "luglio", "pt": "julho", "de": "Juli", "nl": "juli", "image": "🏖️" },
+    { "id": 8, "en": "August", "fr": "août", "es": "agosto", "it": "agosto", "pt": "agosto", "de": "August", "nl": "augustus", "image": "🌻" },
+    { "id": 9, "en": "September", "fr": "septembre", "es": "septiembre", "it": "settembre", "pt": "setembro", "de": "September", "nl": "september", "image": "🍂" },
+    { "id": 10, "en": "October", "fr": "octobre", "es": "octubre", "it": "ottobre", "pt": "outubro", "de": "Oktober", "nl": "oktober", "image": "🎃" },
+    { "id": 11, "en": "November", "fr": "novembre", "es": "noviembre", "it": "novembre", "pt": "novembro", "de": "November", "nl": "november", "image": "🍁" },
+    { "id": 12, "en": "December", "fr": "décembre", "es": "diciembre", "it": "dicembre", "pt": "dezembro", "de": "Dezember", "nl": "december", "image": "🎄" }
+  ]
+}

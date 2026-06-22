@@ -1,0 +1,32 @@
+{
+  "id": 12,
+  "name": "Fruits",
+  "icon": "🍎",
+  "description": "Common and exotic fruits",
+  "words": [
+    { "id": 1, "en": "apple", "fr": "pomme", "es": "manzana", "it": "mela", "pt": "maçã", "de": "Apfel", "nl": "appel", "image": "🍎" },
+    { "id": 2, "en": "banana", "fr": "banane", "es": "plátano", "it": "banana", "pt": "banana", "de": "Banane", "nl": "banaan", "image": "🍌" },
+    { "id": 3, "en": "lemon", "fr": "citron", "es": "limón", "it": "limone", "pt": "limão", "de": "Zitrone", "nl": "citroen", "image": "🍋" },
+    { "id": 4, "en": "orange", "fr": "orange", "es": "naranja", "it": "arancia", "pt": "laranja", "de": "Orange", "nl": "sinaasappel", "image": "🍊" },
+    { "id": 5, "en": "strawberry", "fr": "fraise", "es": "fresa", "it": "fragola", "pt": "morango", "de": "Erdbeere", "nl": "aardbei", "image": "🍓" },
+    { "id": 6, "en": "cherry", "fr": "cerise", "es": "cereza", "it": "ciliegia", "pt": "cereja", "de": "Kirsche", "nl": "kers", "image": "🍒" },
+    { "id": 7, "en": "pineapple", "fr": "ananas", "es": "piña", "it": "ananas", "pt": "ananás", "de": "Ananas", "nl": "ananas", "image": "🍍" },
+    { "id": 8, "en": "melon", "fr": "melon", "es": "melón", "it": "melone", "pt": "melão", "de": "Melone", "nl": "meloen", "image": "🍈" },
+    { "id": 9, "en": "watermelon", "fr": "pastèque", "es": "sandía", "it": "anguria", "pt": "melancia", "de": "Wassermelone", "nl": "watermeloen", "image": "🍉" },
+    { "id": 10, "en": "grapes", "fr": "raisin", "es": "uvas", "it": "uva", "pt": "uvas", "de": "Trauben", "nl": "druiven", "image": "🍇" },
+    { "id": 11, "en": "pear", "fr": "poire", "es": "pera", "it": "pera", "pt": "pera", "de": "Birne", "nl": "peer", "image": "🍐" },
+    { "id": 12, "en": "plum", "fr": "prune", "es": "ciruela", "it": "prugna", "pt": "ameixa", "de": "Pflaume", "nl": "pruim", "image": "🫐" },
+    { "id": 13, "en": "kiwi", "fr": "kiwi", "es": "kiwi", "it": "kiwi", "pt": "kiwi", "de": "Kiwi", "nl": "kiwi", "image": "🥝" },
+    { "id": 14, "en": "mango", "fr": "mangue", "es": "mango", "it": "mango", "pt": "manga", "de": "Mango", "nl": "mango", "image": "🥭" },
+    { "id": 15, "en": "passion fruit", "fr": "fruit de la passion", "es": "maracuyá", "it": "frutto della passione", "pt": "maracujá", "de": "Passionsfrucht", "nl": "passievrucht", "image": "🫐" },
+    { "id": 16, "en": "papaya", "fr": "papaye", "es": "papaya", "it": "papaya", "pt": "papaia", "de": "Papaya", "nl": "papaja", "image": "🫐" },
+    { "id": 17, "en": "raspberry", "fr": "framboise", "es": "frambuesa", "it": "lampone", "pt": "framboesa", "de": "Himbeere", "nl": "framboos", "image": "🫐" },
+    { "id": 18, "en": "blackberry", "fr": "mûre", "es": "mora", "it": "mora", "pt": "amora", "de": "Brombeere", "nl": "braam", "image": "🫐" },
+    { "id": 19, "en": "black currant", "fr": "cassis", "es": "grosella negra", "it": "ribes nero", "pt": "groselha preta", "de": "schwarze Johannisbeere", "nl": "zwarte bes", "image": "🫐" },
+    { "id": 20, "en": "apricot", "fr": "abricot", "es": "albaricoque", "it": "albicocca", "pt": "alperce", "de": "Aprikose", "nl": "abrikoos", "image": "🍑" },
+    { "id": 21, "en": "figs", "fr": "figues", "es": "higos", "it": "fichi", "pt": "figos", "de": "Feigen", "nl": "vijgen", "image": "🫒" },
+    { "id": 22, "en": "durian", "fr": "durian", "es": "durián", "it": "durian", "pt": "durian", "de": "Durian", "nl": "durian", "image": "🥥" },
+    { "id": 23, "en": "dates", "fr": "dattes", "es": "dátiles", "it": "datteri", "pt": "tâmaras", "de": "Datteln", "nl": "dadels", "image": "🫒" },
+    { "id": 24, "en": "coconut", "fr": "noix de coco", "es": "coco", "it": "noce di cocco", "pt": "coco", "de": "Kokosnuss", "nl": "kokosnoot", "image": "🥥" }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": 18,
+  "name": "Living Room",
+  "icon": "🛋️",
+  "description": "Living room furniture and decorations",
+  "words": [
+    { "id": 1, "en": "chair", "fr": "chaise", "es": "silla", "it": "sedia", "pt": "cadeira", "de": "Stuhl", "nl": "stoel", "image": "🪑" },
+    { "id": 2, "en": "table", "fr": "table", "es": "mesa", "it": "tavolo", "pt": "mesa", "de": "Tisch", "nl": "tafel", "image": "🪑" },
+    { "id": 3, "en": "stool", "fr": "tabouret", "es": "taburete", "it": "sgabello", "pt": "banco", "de": "Hocker", "nl": "kruk", "image": "🪑" },
+    { "id": 4, "en": "bench", "fr": "banc", "es": "banco", "it": "panca", "pt": "banco", "de": "Bank", "nl": "bank", "image": "🪑" },
+    { "id": 5, "en": "couch", "fr": "canapé", "es": "sofá", "it": "divano", "pt": "sofá", "de": "Sofa", "nl": "bank", "image": "🛋️" },
+    { "id": 6, "en": "closet", "fr": "placard", "es": "armario", "it": "armadio", "pt": "armário", "de": "Schrank", "nl": "kast", "image": "🚪" },
+    { "id": 7, "en": "drawer", "fr": "tiroir", "es": "cajón", "it": "cassetto", "pt": "gaveta", "de": "Schublade", "nl": "lade", "image": "📦" },
+    { "id": 8, "en": "chest", "fr": "coffre", "es": "baúl", "it": "baule", "pt": "baú", "de": "Truhe", "nl": "kist", "image": "🧳" },
+    { "id": 9, "en": "commode", "fr": "commode", "es": "cómoda", "it": "cassettiera", "pt": "cómoda", "de": "Kommode", "nl": "ladekast", "image": "🗄️" },
+    { "id": 10, "en": "clock", "fr": "horloge", "es": "reloj", "it": "orologio", "pt": "relógio", "de": "Uhr", "nl": "klok", "image": "🕐" },
+    { "id": 11, "en": "sofa", "fr": "canapé", "es": "sofá", "it": "divano", "pt": "sofá", "de": "Sofa", "nl": "bank", "image": "🛋️" },
+    { "id": 12, "en": "rocking chair", "fr": "fauteuil à bascule", "es": "mecedora", "it": "sedia a dondolo", "pt": "cadeira de baloiço", "de": "Schaukelstuhl", "nl": "schommelstoel", "image": "🪑" },
+    { "id": 13, "en": "painting", "fr": "tableau", "es": "cuadro", "it": "quadro", "pt": "quadro", "de": "Gemälde", "nl": "schilderij", "image": "🖼️" },
+    { "id": 14, "en": "lamp", "fr": "lampe", "es": "lámpara", "it": "lampada", "pt": "lâmpada", "de": "Lampe", "nl": "lamp", "image": "💡" },
+    { "id": 15, "en": "cushion", "fr": "coussin", "es": "cojín", "it": "cuscino", "pt": "almofada", "de": "Kissen", "nl": "kussen", "image": "🛋️" },
+    { "id": 16, "en": "carpet", "fr": "tapis", "es": "alfombra", "it": "tappeto", "pt": "tapete", "de": "Teppich", "nl": "tapijt", "image": "🟫" },
+    { "id": 17, "en": "desk", "fr": "bureau", "es": "escritorio", "it": "scrivania", "pt": "secretária", "de": "Schreibtisch", "nl": "bureau", "image": "🖥️" },
+    { "id": 18, "en": "television", "fr": "télévision", "es": "televisión", "it": "televisione", "pt": "televisão", "de": "Fernseher", "nl": "televisie", "image": "📺" },
+    { "id": 19, "en": "remote control", "fr": "télécommande", "es": "control remoto", "it": "telecomando", "pt": "comando", "de": "Fernbedienung", "nl": "afstandsbediening", "image": "📱" },
+    { "id": 20, "en": "radio", "fr": "radio", "es": "radio", "it": "radio", "pt": "rádio", "de": "Radio", "nl": "radio", "image": "📻" },
+    { "id": 21, "en": "vase", "fr": "vase", "es": "jarrón", "it": "vaso", "pt": "jarra", "de": "Vase", "nl": "vaas", "image": "🏺" },
+    { "id": 22, "en": "curtains", "fr": "rideaux", "es": "cortinas", "it": "tende", "pt": "cortinas", "de": "Vorhänge", "nl": "gordijnen", "image": "🪟" },
+    { "id": 23, "en": "fireplace", "fr": "cheminée", "es": "chimenea", "it": "camino", "pt": "lareira", "de": "Kamin", "nl": "open haard", "image": "🔥" },
+    { "id": 24, "en": "chest of drawers", "fr": "commode", "es": "cómoda", "it": "cassettiera", "pt": "cómoda", "de": "Kommode", "nl": "ladekast", "image": "🗄️" }
+  ]
+}

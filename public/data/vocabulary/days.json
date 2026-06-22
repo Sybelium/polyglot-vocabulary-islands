@@ -1,0 +1,15 @@
+{
+  "id": 25,
+  "name": "Days of the Week",
+  "icon": "📅",
+  "description": "The seven days of the week",
+  "words": [
+    { "id": 1, "en": "Monday", "fr": "lundi", "es": "lunes", "it": "lunedì", "pt": "segunda-feira", "de": "Montag", "nl": "maandag", "image": "📅" },
+    { "id": 2, "en": "Tuesday", "fr": "mardi", "es": "martes", "it": "martedì", "pt": "terça-feira", "de": "Dienstag", "nl": "dinsdag", "image": "📅" },
+    { "id": 3, "en": "Wednesday", "fr": "mercredi", "es": "miércoles", "it": "mercoledì", "pt": "quarta-feira", "de": "Mittwoch", "nl": "woensdag", "image": "📅" },
+    { "id": 4, "en": "Thursday", "fr": "jeudi", "es": "jueves", "it": "giovedì", "pt": "quinta-feira", "de": "Donnerstag", "nl": "donderdag", "image": "📅" },
+    { "id": 5, "en": "Friday", "fr": "vendredi", "es": "viernes", "it": "venerdì", "pt": "sexta-feira", "de": "Freitag", "nl": "vrijdag", "image": "📅" },
+    { "id": 6, "en": "Saturday", "fr": "samedi", "es": "sábado", "it": "sabato", "pt": "sábado", "de": "Samstag", "nl": "zaterdag", "image": "📅" },
+    { "id": 7, "en": "Sunday", "fr": "dimanche", "es": "domingo", "it": "domenica", "pt": "domingo", "de": "Sonntag", "nl": "zondag", "image": "📅" }
+  ]
+}

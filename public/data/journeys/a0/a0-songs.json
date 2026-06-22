@@ -1,0 +1,158 @@
+{
+  "numbers": {
+    "title": {
+      "en": "Happy Numbers",
+      "fr": "Happy Numbers",
+      "es": "Happy Numbers",
+      "it": "Happy Numbers",
+      "pt": "Happy Numbers",
+      "de": "Happy Numbers",
+      "nl": "Happy Numbers"
+    },
+    "image": "/data/vocabulary/images/numbers.jpg",
+    "audioBase": "/data/vocabulary/songs/numbers"
+  },
+  "colors": {
+    "title": {
+      "en": "Colors",
+      "fr": "Colors",
+      "es": "Colors",
+      "it": "Colors",
+      "pt": "Colors",
+      "de": "Colors",
+      "nl": "Colors"
+    },
+    "image": "/data/vocabulary/images/colors.jpg",
+    "audioBase": "/data/vocabulary/songs/colors"
+  },
+  "days": {
+    "title": {
+      "en": "Days",
+      "fr": "Days",
+      "es": "Days",
+      "it": "Days",
+      "pt": "Days",
+      "de": "Days",
+      "nl": "Days"
+    },
+    "image": "/data/vocabulary/images/days.jpg",
+    "audioBase": "/data/vocabulary/songs/days"
+  },
+  "months": {
+    "title": {
+      "en": "Months",
+      "fr": "Months",
+      "es": "Months",
+      "it": "Months",
+      "pt": "Months",
+      "de": "Months",
+      "nl": "Months"
+    },
+    "image": "/data/vocabulary/images/months.jpg",
+    "audioBase": "/data/vocabulary/songs/months"
+  },
+  "antonyms": {
+    "title": {
+      "en": "Antonyms",
+      "fr": "Antonyms",
+      "es": "Antonyms",
+      "it": "Antonyms",
+      "pt": "Antonyms",
+      "de": "Antonyms",
+      "nl": "Antonyms"
+    },
+    "image": "/data/vocabulary/images/antonyms.jpg",
+    "audioBase": "/data/vocabulary/songs/antonyms"
+  },
+  "buildings": {
+    "title": {
+      "en": "Buildings",
+      "fr": "Buildings",
+      "es": "Buildings",
+      "it": "Buildings",
+      "pt": "Buildings",
+      "de": "Buildings",
+      "nl": "Buildings"
+    },
+    "image": "/data/vocabulary/images/buildings.jpg",
+    "audioBase": "/data/vocabulary/songs/buildings"
+  },
+  "fruits": {
+    "title": {
+      "en": "Fruits",
+      "fr": "Fruits",
+      "es": "Fruits",
+      "it": "Fruits",
+      "pt": "Fruits",
+      "de": "Fruits",
+      "nl": "Fruits"
+    },
+    "image": "/data/vocabulary/images/fruits.jpg",
+    "audioBase": "/data/vocabulary/songs/fruits"
+  },
+  "house": {
+    "title": {
+      "en": "House",
+      "fr": "House",
+      "es": "House",
+      "it": "House",
+      "pt": "House",
+      "de": "House",
+      "nl": "House"
+    },
+    "image": "/data/vocabulary/images/house.jpg",
+    "audioBase": "/data/vocabulary/songs/house"
+  },
+  "human-body": {
+    "title": {
+      "en": "Human Body",
+      "fr": "Human Body",
+      "es": "Human Body",
+      "it": "Human Body",
+      "pt": "Human Body",
+      "de": "Human Body",
+      "nl": "Human Body"
+    },
+    "image": "/data/vocabulary/images/human-body.jpg",
+    "audioBase": "/data/vocabulary/songs/human-body"
+  },
+  "nature": {
+    "title": {
+      "en": "Nature",
+      "fr": "Nature",
+      "es": "Nature",
+      "it": "Nature",
+      "pt": "Nature",
+      "de": "Nature",
+      "nl": "Nature"
+    },
+    "image": "/data/vocabulary/images/nature.jpg",
+    "audioBase": "/data/vocabulary/songs/nature"
+  },
+  "transportation": {
+    "title": {
+      "en": "Transportation",
+      "fr": "Transportation",
+      "es": "Transportation",
+      "it": "Transportation",
+      "pt": "Transportation",
+      "de": "Transportation",
+      "nl": "Transportation"
+    },
+    "image": "/data/vocabulary/images/transportation.jpg",
+    "audioBase": "/data/vocabulary/songs/transportation"
+  },
+  "action": {
+    "title": {
+      "en": "Action",
+      "fr": "Action",
+      "es": "Action",
+      "it": "Action",
+      "pt": "Action",
+      "de": "Action",
+      "nl": "Action"
+    },
+    "image": "/data/vocabulary/images/action.jpg",
+    "audioBase": "/data/vocabulary/songs/action"
+  }
+}

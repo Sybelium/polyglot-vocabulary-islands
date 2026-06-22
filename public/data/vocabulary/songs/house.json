@@ -1,0 +1,554 @@
+{
+  "slug": "house",
+  "titles": {
+    "en": "House",
+    "fr": "Maison",
+    "es": "Casa",
+    "it": "Casa",
+    "pt": "Casa",
+    "de": "Haus",
+    "nl": "Huis"
+  },
+  "category": "House",
+  "style": "Story / adventure",
+  "comment": "A story-driven song exploring rooms and objects in a house.",
+  "cover": "/data/vocabulary/images/house.jpg",
+  "lyrics": {
+  "en": [
+  { "target": "I’m home alone — the door is closed," },
+  { "target": "The house is quiet… more than most," },
+  { "target": "The walls don’t move, the windows stare," },
+  { "target": "Is someone here… or just the air?" },
+
+  { "target": "A sound outside — I look around," },
+  { "target": "Near the fence… I hear a sound," },
+  { "target": "I grab the key, check the lock," },
+  { "target": "Someone’s there? — I hear a knock" },
+
+  { "target": "I ring the bell — no one’s there," },
+  { "target": "Just the garden… empty air" },
+
+  { "target": "In the house — room to room," },
+  { "target": "Something’s moving in the gloom," },
+  { "target": "Up the stairs or down below," },
+  { "target": "Where it is… I don’t know" },
+
+  { "target": "In the kitchen — something fell," },
+  { "target": "In the living room — I hear a bell," },
+  { "target": "The door moves slow… the floorboard creaks," },
+  { "target": "Is someone here… or does it speak?" },
+
+  { "target": "The window shakes, the ceiling sighs," },
+  { "target": "I turn around — no one in sight" },
+
+  { "target": "Up the stairs — step by step," },
+  { "target": "To the bedroom — hold my breath," },
+  { "target": "The door is open… just a bit," },
+  { "target": "I push it slow… and look in it" },
+
+  { "target": "No one there — just the bed," },
+  { "target": "But I feel something… in my head" },
+
+  { "target": "Down below — the basement calls," },
+  { "target": "Dark and cold behind the walls," },
+  { "target": "I take a step… then one more," },
+  { "target": "Something moves behind the door" },
+
+  { "target": "Up above — the attic tight," },
+  { "target": "A shadow passes… out of sight" },
+
+  { "target": "Every room, every space," },
+  { "target": "Every sound I try to trace," },
+  { "target": "From the roof down to the floor," },
+  { "target": "Something’s here… I’m almost sure" },
+
+  { "target": "Wait…" },
+  { "target": "A sound again…" },
+  { "target": "Closer now…" },
+
+  { "target": "I turn around — what do I see?" },
+  { "target": "A little cat… looking at me" },
+  { "target": "It runs away across the floor," },
+  { "target": "Through the house and out the door" },
+
+  { "target": "In the house — now I know," },
+  { "target": "It was nothing… just a show," },
+  { "target": "Up the stairs and down again," },
+  { "target": "I feel safe… inside my den" },
+
+  { "target": "The door is closed, I take a breath," },
+  { "target": "No more fear, no more stress," },
+  { "target": "From the key to every room," },
+  { "target": "This house is mine… no more gloom" }
+],
+"fr": [
+  { "target": "Je suis seul… la porte est fermée," },
+  { "target": "La maison semble s’arrêter," },
+  { "target": "Les murs écoutent, les fenêtres voient," },
+  { "target": "Y a quelqu’un… ou bien c’est moi ?" },
+
+  { "target": "Un bruit dehors — près du jardin," },
+  { "target": "Vers la clôture… je ne vois rien," },
+  { "target": "Je prends la clé, je touche la serrure," },
+  { "target": "Quelqu’un approche ?… ou je murmure ?" },
+
+  { "target": "Je sonne à la porte — personne ne vient," },
+  { "target": "Juste le vent… et le chemin" },
+
+  { "target": "Dans la maison — pièce par pièce," },
+  { "target": "Quelque chose bouge, je le sens," },
+  { "target": "En haut, en bas — je fais des pas," },
+  { "target": "Mais je ne sais pas… où ça va" },
+
+  { "target": "Dans la cuisine — un objet tombe," },
+  { "target": "Dans le salon — un son qui gronde," },
+  { "target": "La porte bouge… le sol craque," },
+  { "target": "Je me retourne — rien en face" },
+
+  { "target": "La fenêtre tremble, le plafond respire," },
+  { "target": "Un frisson monte… sans prévenir" },
+
+  { "target": "Je monte l’escalier doucement," },
+  { "target": "Vers la chambre — en retenant" },
+  { "target": "Mon souffle court, la porte entrouverte," },
+  { "target": "Je pousse un peu… et je m’alerte" },
+
+  { "target": "Rien sur le lit — tout est normal," },
+  { "target": "Mais quelque chose… me fait mal" },
+
+  { "target": "En bas — la cave froide et sombre," },
+  { "target": "Un bruit résonne dans l’ombre," },
+  { "target": "Je fais un pas… puis un autre encore," },
+  { "target": "Quelque chose bouge… derrière la porte" },
+
+  { "target": "Tout en haut — le grenier étroit," },
+  { "target": "Une ombre passe… je crois…" },
+
+  { "target": "Chaque pièce, chaque endroit," },
+  { "target": "Chaque bruit me suit déjà," },
+  { "target": "Du toit jusqu’au plancher," },
+  { "target": "Quelqu’un est là… j’en suis sûr, je sais" },
+
+  { "target": "Attends…" },
+  { "target": "Encore un bruit…" },
+  { "target": "Tout près…" },
+
+  { "target": "Je me retourne — qu’est-ce que je vois ?" },
+  { "target": "Un petit chat… juste là" },
+  { "target": "Il court, il glisse sur le sol," },
+  { "target": "Puis disparaît… comme un vol" },
+
+  { "target": "Dans la maison — tout est clair," },
+  { "target": "Il n’y avait rien… dans l’air," },
+  { "target": "En haut, en bas — je souris," },
+  { "target": "Cette maison… c’est chez moi, oui" },
+
+  { "target": "La porte est fermée, je respire enfin," },
+  { "target": "Plus de peur… tout va bien," },
+  { "target": "De la clé jusqu’au plafond," },
+  { "target": "Cette maison… est ma maison" }
+],
+"es": [
+  { "target": "Estoy solo… la puerta cerrada," },
+  { "target": "La casa en silencio… no dice nada," },
+  { "target": "Las paredes miran, las ventanas ven," },
+  { "target": "¿Hay alguien aquí… o no hay nadie?" },
+
+  { "target": "Un ruido afuera — cerca del jardín," },
+  { "target": "Por la valla… no veo a nadie allí," },
+  { "target": "Tomo la llave, toco el cerrojo," },
+  { "target": "¿Alguien se acerca?… lo oigo, lo noto" },
+
+  { "target": "Toco el timbre — nadie responde," },
+  { "target": "Solo el viento… que se esconde" },
+
+  { "target": "En la casa — cuarto a cuarto," },
+  { "target": "Algo se mueve… no estoy seguro," },
+  { "target": "Arriba, abajo — voy sin parar," },
+  { "target": "Pero no sé… dónde está" },
+
+  { "target": "En la cocina — algo cayó," },
+  { "target": "En la sala — un eco sonó," },
+  { "target": "La puerta cruje, el suelo también," },
+  { "target": "Me doy la vuelta… no hay nadie" },
+
+  { "target": "La ventana tiembla, el techo suspira," },
+  { "target": "Un escalofrío… me gira" },
+
+  { "target": "Subo las escaleras despacio," },
+  { "target": "Hacia el dormitorio — sin hacer ruido," },
+  { "target": "La puerta abierta… un poco más," },
+  { "target": "La empujo lento… ¿qué habrá detrás?" },
+
+  { "target": "Nada en la cama — todo igual," },
+  { "target": "Pero algo siento… no es normal" },
+
+  { "target": "Abajo — el sótano oscuro," },
+  { "target": "Frío y profundo… lo juro," },
+  { "target": "Doy un paso… luego dos," },
+  { "target": "Algo se mueve… detrás de mí" },
+
+  { "target": "Arriba — el ático pequeño," },
+  { "target": "Una sombra pasa… sin dueño" },
+
+  { "target": "Cada cuarto, cada rincón," },
+  { "target": "Cada sonido… en mi corazón," },
+  { "target": "Del tejado hasta el suelo," },
+  { "target": "Hay algo aquí… lo presiento" },
+
+  { "target": "Espera…" },
+  { "target": "Otra vez…" },
+  { "target": "Muy cerca…" },
+
+  { "target": "Me doy la vuelta — ¿qué es lo que veo?" },
+  { "target": "Un pequeño gato… jugando en el suelo" },
+  { "target": "Corre, salta, cruza el salón," },
+  { "target": "Y sale corriendo… por la puerta" },
+
+  { "target": "En la casa — ya lo sé," },
+  { "target": "No había nada… todo está bien," },
+  { "target": "Arriba, abajo — vuelvo a andar," },
+  { "target": "Esta casa… es mi hogar" },
+
+  { "target": "Cierro la puerta, respiro en paz," },
+  { "target": "Ya no hay miedo… todo está en calma," },
+  { "target": "De la llave hasta el rincón," },
+  { "target": "Esta casa… es mi hogar" }
+],
+"it": [
+  { "target": "Sono solo… la porta è chiusa," },
+  { "target": "La casa tace… come sospesa," },
+  { "target": "I muri ascoltano, le finestre guardano," },
+  { "target": "C’è qualcuno… o lo immagino?" },
+
+  { "target": "Un rumore fuori — nel giardino," },
+  { "target": "Vicino alla recinzione… piano piano," },
+  { "target": "Prendo la chiave, tocco la serratura," },
+  { "target": "Qualcuno arriva?… sento paura" },
+
+  { "target": "Suono il campanello — nessuno risponde," },
+  { "target": "Solo il vento… che si nasconde" },
+
+  { "target": "Nella casa — stanza per stanza," },
+  { "target": "Qualcosa si muove… senza distanza," },
+  { "target": "Su e giù — passo dopo passo," },
+  { "target": "Ma non so… dove è nascosto" },
+
+  { "target": "In cucina — qualcosa cade," },
+  { "target": "Nel soggiorno — un suono appare," },
+  { "target": "La porta si muove, il pavimento scricchiola," },
+  { "target": "Mi giro… ma non c’è nessuno" },
+
+  { "target": "La finestra trema, il soffitto respira," },
+  { "target": "Un brivido lento… mi gira" },
+
+  { "target": "Salgo le scale lentamente," },
+  { "target": "Verso la camera… silenziosamente," },
+  { "target": "La porta è aperta… appena un po’," },
+  { "target": "La spingo piano… cosa troverò?" },
+
+  { "target": "Niente sul letto — tutto normale," },
+  { "target": "Ma sento qualcosa… dentro me" },
+
+  { "target": "Sotto — la cantina buia e fredda," },
+  { "target": "Un rumore riecheggia… nella testa," },
+  { "target": "Faccio un passo… poi un altro ancora," },
+  { "target": "Qualcosa si muove… dietro la porta" },
+
+  { "target": "Sopra — la soffitta stretta," },
+  { "target": "Un’ombra passa… in fretta" },
+
+  { "target": "Ogni stanza, ogni angolo," },
+  { "target": "Ogni suono… mi segue un poco," },
+  { "target": "Dal tetto fino al pavimento," },
+  { "target": "C’è qualcosa… lo sento dentro" },
+
+  { "target": "Aspetta…" },
+  { "target": "Ancora…" },
+  { "target": "È vicino…" },
+
+  { "target": "Mi giro piano — cosa vedo?" },
+  { "target": "Un piccolo gatto… lì sul pavimento" },
+  { "target": "Corre veloce nel soggiorno," },
+  { "target": "E scappa via… fuori dal portone" },
+
+  { "target": "Nella casa — ora lo so," },
+  { "target": "Non c’era niente… solo un gioco," },
+  { "target": "Su e giù — torno a girare," },
+  { "target": "Questa casa… è da amare" },
+
+  { "target": "Chiudo la porta, respiro piano," },
+  { "target": "Niente più paura… ora è lontano," },
+  { "target": "Dalla chiave fino al soffitto," },
+  { "target": "Questa casa… è il mio rifugio" }
+],
+"pt": [
+  { "target": "Estou sozinho… a porta fechada," },
+  { "target": "A casa em silêncio… parada," },
+  { "target": "As paredes escutam, as janelas veem," },
+  { "target": "Há alguém aqui… ou não há ninguém?" },
+
+  { "target": "Um som lá fora — no jardim," },
+  { "target": "Perto da cerca… não vejo nada enfim," },
+  { "target": "Pego a chave, toco a fechadura," },
+  { "target": "Alguém se aproxima?… sinto insegurança" },
+
+  { "target": "Toco a campainha — ninguém responde," },
+  { "target": "Só o vento… que se esconde" },
+
+  { "target": "Na casa — quarto a quarto," },
+  { "target": "Algo se move… não estou certo," },
+  { "target": "Em cima, em baixo — vou andar," },
+  { "target": "Mas não sei… onde está" },
+
+  { "target": "Na cozinha — algo caiu," },
+  { "target": "Na sala — um som surgiu," },
+  { "target": "A porta range, o chão estala," },
+  { "target": "Eu me viro… não há nada" },
+
+  { "target": "A janela treme, o teto respira," },
+  { "target": "Um arrepio… me vira" },
+
+  { "target": "Subo as escadas devagar," },
+  { "target": "Para o quarto… sem falar," },
+  { "target": "A porta aberta… um pouco só," },
+  { "target": "Empurro leve… o que há lá?" },
+
+  { "target": "Nada na cama — tudo normal," },
+  { "target": "Mas sinto algo… não é igual" },
+
+  { "target": "Lá em baixo — o porão escuro," },
+  { "target": "Frio e fundo… eu juro," },
+  { "target": "Dou um passo… depois mais um," },
+  { "target": "Algo se move… nenhum som" },
+
+  { "target": "Lá em cima — o sótão pequeno," },
+  { "target": "Uma sombra passa… sereno" },
+
+  { "target": "Cada canto, cada lugar," },
+  { "target": "Cada som… a me chamar," },
+  { "target": "Do telhado até o chão," },
+  { "target": "Há algo aqui… no meu coração" },
+
+  { "target": "Espera…" },
+  { "target": "De novo…" },
+  { "target": "Bem perto…" },
+
+  { "target": "Eu me viro — o que eu vejo?" },
+  { "target": "Um pequeno gato… sem medo" },
+  { "target": "Corre rápido pela sala," },
+  { "target": "E sai correndo… pela porta" },
+
+  { "target": "Na casa — agora eu sei," },
+  { "target": "Não era nada… tudo bem," },
+  { "target": "Em cima, em baixo — volto a andar," },
+  { "target": "Esta casa… é o meu lar" },
+
+  { "target": "Fecho a porta, respiro em paz," },
+  { "target": "Já não há medo… tudo se desfaz," },
+  { "target": "Da chave até o telhado," },
+  { "target": "Este lugar… é meu abrigo" }
+],
+"de": [
+  { "target": "Ich bin allein… die Tür ist zu," },
+  { "target": "Das Haus ist still… keine Ruh," },
+  { "target": "Die Wände hören, die Fenster sehen," },
+  { "target": "Ist jemand hier… oder nur ich?" },
+
+  { "target": "Ein Geräusch draußen — im Garten nah," },
+  { "target": "Am Zaun entlang… ich seh nichts da," },
+  { "target": "Ich nehme den Schlüssel, dreh das Schloss," },
+  { "target": "Kommt jemand näher?… ich hör noch was" },
+
+  { "target": "Ich klingel an — doch keiner da," },
+  { "target": "Nur der Wind… ganz leise, ja" },
+
+  { "target": "Im Haus — Raum für Raum," },
+  { "target": "Etwas bewegt sich… ich glaub es kaum," },
+  { "target": "Nach oben, nach unten — ich geh herum," },
+  { "target": "Doch ich weiß nicht… warum" },
+
+  { "target": "In der Küche fällt etwas runter," },
+  { "target": "Im Wohnzimmer klingt es dumpfer," },
+  { "target": "Die Tür bewegt sich, der Boden knarrt," },
+  { "target": "Ich dreh mich um… nichts ist da" },
+
+  { "target": "Das Fenster wackelt, die Decke klingt," },
+  { "target": "Ein kalter Schauer… durch mich dringt" },
+
+  { "target": "Ich geh die Treppe langsam hoch," },
+  { "target": "Zum Schlafzimmer… ganz ohne Wort," },
+  { "target": "Die Tür ist offen… nur ein Spalt," },
+  { "target": "Ich drücke sie… und halt" },
+
+  { "target": "Nichts auf dem Bett — alles still," },
+  { "target": "Doch ich fühl etwas… ich weiß nicht was ich will" },
+
+  { "target": "Unten — der Keller dunkel und kalt," },
+  { "target": "Ein Echo kommt… durch den Spalt," },
+  { "target": "Ich mach einen Schritt… dann noch einen mehr," },
+  { "target": "Etwas bewegt sich… ich hör es sehr" },
+
+  { "target": "Ganz oben — der Dachboden klein," },
+  { "target": "Ein Schatten huscht… schnell vorbei" },
+
+  { "target": "Jeder Raum, jeder Ort," },
+  { "target": "Jedes Geräusch… zieht mich fort," },
+  { "target": "Vom Dach bis zum Boden tief," },
+  { "target": "Ist jemand hier… der mich rief?" },
+
+  { "target": "Warte…" },
+  { "target": "Schon wieder…" },
+  { "target": "Ganz nah…" },
+
+  { "target": "Ich dreh mich um — was seh ich da?" },
+  { "target": "Eine kleine Katze… wunderbar" },
+  { "target": "Sie rennt durchs Haus, ganz schnell hinaus," },
+  { "target": "Und verschwindet… aus dem Haus" },
+
+  { "target": "Im Haus — jetzt ist klar," },
+  { "target": "Es war nichts da… alles war wahr," },
+  { "target": "Nach oben, nach unten — ich geh wieder," },
+  { "target": "Dieses Haus… gehört mir wieder" },
+
+  { "target": "Die Tür ist zu, ich atme ein," },
+  { "target": "Keine Angst… ich bin allein," },
+  { "target": "Vom Schlüssel bis zum Dach," },
+  { "target": "Dieses Haus… gibt auf mich acht" }
+],
+"de": [
+  { "target": "Ich bin allein… die Tür ist zu," },
+  { "target": "Das Haus ist still… keine Ruh," },
+  { "target": "Die Wände hören, die Fenster sehen," },
+  { "target": "Ist jemand hier… oder nur ich?" },
+
+  { "target": "Ein Geräusch draußen — im Garten nah," },
+  { "target": "Am Zaun entlang… ich seh nichts da," },
+  { "target": "Ich nehme den Schlüssel, dreh das Schloss," },
+  { "target": "Kommt jemand näher?… ich hör noch was" },
+
+  { "target": "Ich klingel an — doch keiner da," },
+  { "target": "Nur der Wind… ganz leise, ja" },
+
+  { "target": "Im Haus — Raum für Raum," },
+  { "target": "Etwas bewegt sich… ich glaub es kaum," },
+  { "target": "Nach oben, nach unten — ich geh herum," },
+  { "target": "Doch ich weiß nicht… warum" },
+
+  { "target": "In der Küche fällt etwas runter," },
+  { "target": "Im Wohnzimmer klingt es dumpfer," },
+  { "target": "Die Tür bewegt sich, der Boden knarrt," },
+  { "target": "Ich dreh mich um… nichts ist da" },
+
+  { "target": "Das Fenster wackelt, die Decke klingt," },
+  { "target": "Ein kalter Schauer… durch mich dringt" },
+
+  { "target": "Ich geh die Treppe langsam hoch," },
+  { "target": "Zum Schlafzimmer… ganz ohne Wort," },
+  { "target": "Die Tür ist offen… nur ein Spalt," },
+  { "target": "Ich drücke sie… und halt" },
+
+  { "target": "Nichts auf dem Bett — alles still," },
+  { "target": "Doch ich fühl etwas… ich weiß nicht was ich will" },
+
+  { "target": "Unten — der Keller dunkel und kalt," },
+  { "target": "Ein Echo kommt… durch den Spalt," },
+  { "target": "Ich mach einen Schritt… dann noch einen mehr," },
+  { "target": "Etwas bewegt sich… ich hör es sehr" },
+
+  { "target": "Ganz oben — der Dachboden klein," },
+  { "target": "Ein Schatten huscht… schnell vorbei" },
+
+  { "target": "Jeder Raum, jeder Ort," },
+  { "target": "Jedes Geräusch… zieht mich fort," },
+  { "target": "Vom Dach bis zum Boden tief," },
+  { "target": "Ist jemand hier… der mich rief?" },
+
+  { "target": "Warte…" },
+  { "target": "Schon wieder…" },
+  { "target": "Ganz nah…" },
+
+  { "target": "Ich dreh mich um — was seh ich da?" },
+  { "target": "Eine kleine Katze… wunderbar" },
+  { "target": "Sie rennt durchs Haus, ganz schnell hinaus," },
+  { "target": "Und verschwindet… aus dem Haus" },
+
+  { "target": "Im Haus — jetzt ist klar," },
+  { "target": "Es war nichts da… alles war wahr," },
+  { "target": "Nach oben, nach unten — ich geh wieder," },
+  { "target": "Dieses Haus… gehört mir wieder" },
+
+  { "target": "Die Tür ist zu, ich atme ein," },
+  { "target": "Keine Angst… ich bin allein," },
+  { "target": "Vom Schlüssel bis zum Dach," },
+  { "target": "Dieses Haus… gibt auf mich acht" }
+],
+"nl": [
+  { "target": "Ik ben alleen… de deur is dicht," },
+  { "target": "Het huis is stil… geen enkel licht," },
+  { "target": "De muren luisteren, de ramen zien," },
+  { "target": "Is hier iemand… of alleen misschien?" },
+
+  { "target": "Een geluid buiten — in de tuin," },
+  { "target": "Bij de schutting… ik zie niets," },
+  { "target": "Ik pak de sleutel, draai het slot," },
+  { "target": "Komt er iemand?… ik hoor nog wat" },
+
+  { "target": "Ik druk op de bel — niemand daar," },
+  { "target": "Alleen de wind… heel zacht en klaar" },
+
+  { "target": "In het huis — kamer voor kamer," },
+  { "target": "Iets beweegt… ik voel het wel," },
+  { "target": "Naar boven, naar beneden — ik ga rond," },
+  { "target": "Maar ik weet niet… waar het begon" },
+
+  { "target": "In de keuken — iets valt neer," },
+  { "target": "In de woonkamer — een geluid weer," },
+  { "target": "De deur beweegt, de vloer kraakt," },
+  { "target": "Ik draai me om… niets dat raakt" },
+
+  { "target": "Het raam beweegt, het plafond zucht," },
+  { "target": "Een koude rilling… in de lucht" },
+
+  { "target": "Ik loop de trap langzaam op," },
+  { "target": "Naar de slaapkamer… stap voor stap," },
+  { "target": "De deur staat open… een klein stuk," },
+  { "target": "Ik duw zacht… wat zie ik terug?" },
+
+  { "target": "Niets op het bed — alles stil," },
+  { "target": "Maar ik voel iets… wat ik niet wil" },
+
+  { "target": "Beneden — de kelder donker en koud," },
+  { "target": "Een geluid dat echo houdt," },
+  { "target": "Ik zet een stap… dan nog één meer," },
+  { "target": "Iets beweegt… ik hoor het weer" },
+
+  { "target": "Boven — de zolder klein," },
+  { "target": "Een schaduw glijdt… en verdwijnt" },
+
+  { "target": "Elke kamer, elke plek," },
+  { "target": "Elk geluid… trekt me weg," },
+  { "target": "Van het dak tot aan de vloer," },
+  { "target": "Is hier iemand… dat ik hoor?" },
+
+  { "target": "Wacht…" },
+  { "target": "Weer dat geluid…" },
+  { "target": "Heel dichtbij…" },
+
+  { "target": "Ik draai me om — wat zie ik daar?" },
+  { "target": "Een kleine kat… gewoon maar" },
+  { "target": "Hij rent snel door de kamer heen," },
+  { "target": "En loopt naar buiten… weer alleen" },
+
+  { "target": "In het huis — nu is het klaar," },
+  { "target": "Er was niets… het is oké daar," },
+  { "target": "Naar boven, naar beneden — ik ga weer," },
+  { "target": "Dit huis voelt… als mijn sfeer" },
+
+  { "target": "De deur is dicht, ik adem zacht," },
+  { "target": "Geen angst meer… in de nacht," },
+  { "target": "Van de sleutel tot het dak," },
+  { "target": "Dit huis… voelt goed en zacht" }
+]
+  }
+}

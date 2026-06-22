@@ -1,0 +1,833 @@
+{
+  "id": "nature_qy",
+  "title": "Nature",
+  "language": "qy",
+  "trackType": "song",
+  "sourceMedia": {
+    "video": "nature_QN.mp4",
+    "durationSeconds": 276.416,
+    "observedStructure": "The uploaded MP4 appears to contain two passes of the lyric cycle; one full cycle is about 140 seconds."
+  },
+  "display": {
+    "showPhonetic": false,
+    "showTranslation": true,
+    "showTengwar": false
+  },
+  "lyrics": {
+    "sections": [
+      {
+        "name": "Opening",
+        "start": 0.0,
+        "end": 30.0,
+        "lines": [
+          {
+            "quenya": "Mi lómë cemessë,",
+            "english": "In the silence of the earth,"
+          },
+          {
+            "quenya": "yassë súrë yesta,",
+            "english": "where the wind begins to call,"
+          },
+          {
+            "quenya": "síressë, ëarissë,",
+            "english": "by the river, by the sea,"
+          },
+          {
+            "quenya": "nórë nu lómë esta",
+            "english": "there’s a hidden world for all"
+          }
+        ]
+      },
+      {
+        "name": "Journey",
+        "start": 30.0,
+        "end": 50.0,
+        "lines": [
+          {
+            "quenya": "Mi taurë lómëa nu,",
+            "english": "Through the forest, dark and deep,"
+          },
+          {
+            "quenya": "oronti or i alta,",
+            "english": "past the mountains standing high,"
+          },
+          {
+            "quenya": "síressë yassë lumbor caita,",
+            "english": "by the lake where shadows sleep,"
+          },
+          {
+            "quenya": "menel nu pella",
+            "english": "underneath the open sky"
+          }
+        ]
+      },
+      {
+        "name": "Whispers",
+        "start": 50.0,
+        "end": 70.0,
+        "lines": [
+          {
+            "quenya": "Aiwi lírir mi súrë,",
+            "english": "Trees are whispering in the air,"
+          },
+          {
+            "quenya": "lótë liltë calaressë,",
+            "english": "Flowers dancing in the light,"
+          },
+          {
+            "quenya": "sarnë caita nárë,",
+            "english": "Rocks are resting everywhere,"
+          },
+          {
+            "quenya": "tulir lindalë lómessë",
+            "english": "Guiding travelers through the night"
+          }
+        ]
+      },
+      {
+        "name": "Elements",
+        "start": 70.0,
+        "end": 90.0,
+        "lines": [
+          {
+            "quenya": "Nén sirya ar uru calë,",
+            "english": "Water flows and fire burns,"
+          },
+          {
+            "quenya": "cemë tulca nu talma,",
+            "english": "Earth is strong beneath our feet,"
+          },
+          {
+            "quenya": "súrë orta ar váta,",
+            "english": "Wind will rise and slowly turn,"
+          },
+          {
+            "quenya": "vilya ar menel ar ilya",
+            "english": "Air and sky and all we meet"
+          }
+        ]
+      },
+      {
+        "name": "Life",
+        "start": 90.0,
+        "end": 110.0,
+        "lines": [
+          {
+            "quenya": "Olvar orta ar rávar norta,",
+            "english": "Plants will grow and animals run,"
+          },
+          {
+            "quenya": "fanyar hosta mi luinë,",
+            "english": "Clouds will gather in the blue,"
+          },
+          {
+            "quenya": "lossë lanta ar anar túra,",
+            "english": "Rain will fall, then comes the sun,"
+          },
+          {
+            "quenya": "caitalë ilyë lírë",
+            "english": "Painting life in every hue"
+          }
+        ]
+      },
+      {
+        "name": "Climax",
+        "start": 110.0,
+        "end": 120.0,
+        "lines": [
+          {
+            "quenya": "Raumo tula, hlarë rómë,",
+            "english": "Storm is coming, hear the sound,"
+          },
+          {
+            "quenya": "calma rista menel,",
+            "english": "Lightning cuts across the sky,"
+          },
+          {
+            "quenya": "lossë ar aiwë lanta cemen,",
+            "english": "Snow and hail fall to the ground,"
+          },
+          {
+            "quenya": "valiëa túrë orta",
+            "english": "Nature’s power rising high"
+          }
+        ]
+      },
+      {
+        "name": "Resolution",
+        "start": 120.0,
+        "end": 140.0,
+        "lines": [
+          {
+            "quenya": "Ar lómë enta tula,",
+            "english": "Then the silence comes again,"
+          },
+          {
+            "quenya": "isil or ar eleni cala,",
+            "english": "Moon above and stars so bright,"
+          },
+          {
+            "quenya": "mi i nórë varya ar auta,",
+            "english": "In this world of loss and gain,"
+          },
+          {
+            "quenya": "nárë lindë aurë ar lómë",
+            "english": "Nature sings… through day and night"
+          }
+        ]
+      }
+    ],
+    "timedLinesOneCycle": [
+      {
+        "section": "Opening",
+        "quenya": "Mi lómë cemessë,",
+        "english": "In the silence of the earth,",
+        "start": 0.0,
+        "end": 7.5
+      },
+      {
+        "section": "Opening",
+        "quenya": "yassë súrë yesta,",
+        "english": "where the wind begins to call,",
+        "start": 7.5,
+        "end": 15.0
+      },
+      {
+        "section": "Opening",
+        "quenya": "síressë, ëarissë,",
+        "english": "by the river, by the sea,",
+        "start": 15.0,
+        "end": 22.5
+      },
+      {
+        "section": "Opening",
+        "quenya": "nórë nu lómë esta",
+        "english": "there’s a hidden world for all",
+        "start": 22.5,
+        "end": 30.0
+      },
+      {
+        "section": "Journey",
+        "quenya": "Mi taurë lómëa nu,",
+        "english": "Through the forest, dark and deep,",
+        "start": 30.0,
+        "end": 35.0
+      },
+      {
+        "section": "Journey",
+        "quenya": "oronti or i alta,",
+        "english": "past the mountains standing high,",
+        "start": 35.0,
+        "end": 40.0
+      },
+      {
+        "section": "Journey",
+        "quenya": "síressë yassë lumbor caita,",
+        "english": "by the lake where shadows sleep,",
+        "start": 40.0,
+        "end": 45.0
+      },
+      {
+        "section": "Journey",
+        "quenya": "menel nu pella",
+        "english": "underneath the open sky",
+        "start": 45.0,
+        "end": 50.0
+      },
+      {
+        "section": "Whispers",
+        "quenya": "Aiwi lírir mi súrë,",
+        "english": "Trees are whispering in the air,",
+        "start": 50.0,
+        "end": 55.0
+      },
+      {
+        "section": "Whispers",
+        "quenya": "lótë liltë calaressë,",
+        "english": "Flowers dancing in the light,",
+        "start": 55.0,
+        "end": 60.0
+      },
+      {
+        "section": "Whispers",
+        "quenya": "sarnë caita nárë,",
+        "english": "Rocks are resting everywhere,",
+        "start": 60.0,
+        "end": 65.0
+      },
+      {
+        "section": "Whispers",
+        "quenya": "tulir lindalë lómessë",
+        "english": "Guiding travelers through the night",
+        "start": 65.0,
+        "end": 70.0
+      },
+      {
+        "section": "Elements",
+        "quenya": "Nén sirya ar uru calë,",
+        "english": "Water flows and fire burns,",
+        "start": 70.0,
+        "end": 75.0
+      },
+      {
+        "section": "Elements",
+        "quenya": "cemë tulca nu talma,",
+        "english": "Earth is strong beneath our feet,",
+        "start": 75.0,
+        "end": 80.0
+      },
+      {
+        "section": "Elements",
+        "quenya": "súrë orta ar váta,",
+        "english": "Wind will rise and slowly turn,",
+        "start": 80.0,
+        "end": 85.0
+      },
+      {
+        "section": "Elements",
+        "quenya": "vilya ar menel ar ilya",
+        "english": "Air and sky and all we meet",
+        "start": 85.0,
+        "end": 90.0
+      },
+      {
+        "section": "Life",
+        "quenya": "Olvar orta ar rávar norta,",
+        "english": "Plants will grow and animals run,",
+        "start": 90.0,
+        "end": 95.0
+      },
+      {
+        "section": "Life",
+        "quenya": "fanyar hosta mi luinë,",
+        "english": "Clouds will gather in the blue,",
+        "start": 95.0,
+        "end": 100.0
+      },
+      {
+        "section": "Life",
+        "quenya": "lossë lanta ar anar túra,",
+        "english": "Rain will fall, then comes the sun,",
+        "start": 100.0,
+        "end": 105.0
+      },
+      {
+        "section": "Life",
+        "quenya": "caitalë ilyë lírë",
+        "english": "Painting life in every hue",
+        "start": 105.0,
+        "end": 110.0
+      },
+      {
+        "section": "Climax",
+        "quenya": "Raumo tula, hlarë rómë,",
+        "english": "Storm is coming, hear the sound,",
+        "start": 110.0,
+        "end": 112.5
+      },
+      {
+        "section": "Climax",
+        "quenya": "calma rista menel,",
+        "english": "Lightning cuts across the sky,",
+        "start": 112.5,
+        "end": 115.0
+      },
+      {
+        "section": "Climax",
+        "quenya": "lossë ar aiwë lanta cemen,",
+        "english": "Snow and hail fall to the ground,",
+        "start": 115.0,
+        "end": 117.5
+      },
+      {
+        "section": "Climax",
+        "quenya": "valiëa túrë orta",
+        "english": "Nature’s power rising high",
+        "start": 117.5,
+        "end": 120.0
+      },
+      {
+        "section": "Resolution",
+        "quenya": "Ar lómë enta tula,",
+        "english": "Then the silence comes again,",
+        "start": 120.0,
+        "end": 125.0
+      },
+      {
+        "section": "Resolution",
+        "quenya": "isil or ar eleni cala,",
+        "english": "Moon above and stars so bright,",
+        "start": 125.0,
+        "end": 130.0
+      },
+      {
+        "section": "Resolution",
+        "quenya": "mi i nórë varya ar auta,",
+        "english": "In this world of loss and gain,",
+        "start": 130.0,
+        "end": 135.0
+      },
+      {
+        "section": "Resolution",
+        "quenya": "nárë lindë aurë ar lómë",
+        "english": "Nature sings… through day and night",
+        "start": 135.0,
+        "end": 140.0
+      }
+    ],
+    "timedLinesFullMedia": [
+      {
+        "section": "Opening",
+        "quenya": "Mi lómë cemessë,",
+        "english": "In the silence of the earth,",
+        "start": 0.0,
+        "end": 7.5,
+        "repeat": 1
+      },
+      {
+        "section": "Opening",
+        "quenya": "yassë súrë yesta,",
+        "english": "where the wind begins to call,",
+        "start": 7.5,
+        "end": 15.0,
+        "repeat": 1
+      },
+      {
+        "section": "Opening",
+        "quenya": "síressë, ëarissë,",
+        "english": "by the river, by the sea,",
+        "start": 15.0,
+        "end": 22.5,
+        "repeat": 1
+      },
+      {
+        "section": "Opening",
+        "quenya": "nórë nu lómë esta",
+        "english": "there’s a hidden world for all",
+        "start": 22.5,
+        "end": 30.0,
+        "repeat": 1
+      },
+      {
+        "section": "Journey",
+        "quenya": "Mi taurë lómëa nu,",
+        "english": "Through the forest, dark and deep,",
+        "start": 30.0,
+        "end": 35.0,
+        "repeat": 1
+      },
+      {
+        "section": "Journey",
+        "quenya": "oronti or i alta,",
+        "english": "past the mountains standing high,",
+        "start": 35.0,
+        "end": 40.0,
+        "repeat": 1
+      },
+      {
+        "section": "Journey",
+        "quenya": "síressë yassë lumbor caita,",
+        "english": "by the lake where shadows sleep,",
+        "start": 40.0,
+        "end": 45.0,
+        "repeat": 1
+      },
+      {
+        "section": "Journey",
+        "quenya": "menel nu pella",
+        "english": "underneath the open sky",
+        "start": 45.0,
+        "end": 50.0,
+        "repeat": 1
+      },
+      {
+        "section": "Whispers",
+        "quenya": "Aiwi lírir mi súrë,",
+        "english": "Trees are whispering in the air,",
+        "start": 50.0,
+        "end": 55.0,
+        "repeat": 1
+      },
+      {
+        "section": "Whispers",
+        "quenya": "lótë liltë calaressë,",
+        "english": "Flowers dancing in the light,",
+        "start": 55.0,
+        "end": 60.0,
+        "repeat": 1
+      },
+      {
+        "section": "Whispers",
+        "quenya": "sarnë caita nárë,",
+        "english": "Rocks are resting everywhere,",
+        "start": 60.0,
+        "end": 65.0,
+        "repeat": 1
+      },
+      {
+        "section": "Whispers",
+        "quenya": "tulir lindalë lómessë",
+        "english": "Guiding travelers through the night",
+        "start": 65.0,
+        "end": 70.0,
+        "repeat": 1
+      },
+      {
+        "section": "Elements",
+        "quenya": "Nén sirya ar uru calë,",
+        "english": "Water flows and fire burns,",
+        "start": 70.0,
+        "end": 75.0,
+        "repeat": 1
+      },
+      {
+        "section": "Elements",
+        "quenya": "cemë tulca nu talma,",
+        "english": "Earth is strong beneath our feet,",
+        "start": 75.0,
+        "end": 80.0,
+        "repeat": 1
+      },
+      {
+        "section": "Elements",
+        "quenya": "súrë orta ar váta,",
+        "english": "Wind will rise and slowly turn,",
+        "start": 80.0,
+        "end": 85.0,
+        "repeat": 1
+      },
+      {
+        "section": "Elements",
+        "quenya": "vilya ar menel ar ilya",
+        "english": "Air and sky and all we meet",
+        "start": 85.0,
+        "end": 90.0,
+        "repeat": 1
+      },
+      {
+        "section": "Life",
+        "quenya": "Olvar orta ar rávar norta,",
+        "english": "Plants will grow and animals run,",
+        "start": 90.0,
+        "end": 95.0,
+        "repeat": 1
+      },
+      {
+        "section": "Life",
+        "quenya": "fanyar hosta mi luinë,",
+        "english": "Clouds will gather in the blue,",
+        "start": 95.0,
+        "end": 100.0,
+        "repeat": 1
+      },
+      {
+        "section": "Life",
+        "quenya": "lossë lanta ar anar túra,",
+        "english": "Rain will fall, then comes the sun,",
+        "start": 100.0,
+        "end": 105.0,
+        "repeat": 1
+      },
+      {
+        "section": "Life",
+        "quenya": "caitalë ilyë lírë",
+        "english": "Painting life in every hue",
+        "start": 105.0,
+        "end": 110.0,
+        "repeat": 1
+      },
+      {
+        "section": "Climax",
+        "quenya": "Raumo tula, hlarë rómë,",
+        "english": "Storm is coming, hear the sound,",
+        "start": 110.0,
+        "end": 112.5,
+        "repeat": 1
+      },
+      {
+        "section": "Climax",
+        "quenya": "calma rista menel,",
+        "english": "Lightning cuts across the sky,",
+        "start": 112.5,
+        "end": 115.0,
+        "repeat": 1
+      },
+      {
+        "section": "Climax",
+        "quenya": "lossë ar aiwë lanta cemen,",
+        "english": "Snow and hail fall to the ground,",
+        "start": 115.0,
+        "end": 117.5,
+        "repeat": 1
+      },
+      {
+        "section": "Climax",
+        "quenya": "valiëa túrë orta",
+        "english": "Nature’s power rising high",
+        "start": 117.5,
+        "end": 120.0,
+        "repeat": 1
+      },
+      {
+        "section": "Resolution",
+        "quenya": "Ar lómë enta tula,",
+        "english": "Then the silence comes again,",
+        "start": 120.0,
+        "end": 125.0,
+        "repeat": 1
+      },
+      {
+        "section": "Resolution",
+        "quenya": "isil or ar eleni cala,",
+        "english": "Moon above and stars so bright,",
+        "start": 125.0,
+        "end": 130.0,
+        "repeat": 1
+      },
+      {
+        "section": "Resolution",
+        "quenya": "mi i nórë varya ar auta,",
+        "english": "In this world of loss and gain,",
+        "start": 130.0,
+        "end": 135.0,
+        "repeat": 1
+      },
+      {
+        "section": "Resolution",
+        "quenya": "nárë lindë aurë ar lómë",
+        "english": "Nature sings… through day and night",
+        "start": 135.0,
+        "end": 140.0,
+        "repeat": 1
+      },
+      {
+        "section": "Opening",
+        "quenya": "Mi lómë cemessë,",
+        "english": "In the silence of the earth,",
+        "start": 140.0,
+        "end": 147.5,
+        "repeat": 2
+      },
+      {
+        "section": "Opening",
+        "quenya": "yassë súrë yesta,",
+        "english": "where the wind begins to call,",
+        "start": 147.5,
+        "end": 155.0,
+        "repeat": 2
+      },
+      {
+        "section": "Opening",
+        "quenya": "síressë, ëarissë,",
+        "english": "by the river, by the sea,",
+        "start": 155.0,
+        "end": 162.5,
+        "repeat": 2
+      },
+      {
+        "section": "Opening",
+        "quenya": "nórë nu lómë esta",
+        "english": "there’s a hidden world for all",
+        "start": 162.5,
+        "end": 170.0,
+        "repeat": 2
+      },
+      {
+        "section": "Journey",
+        "quenya": "Mi taurë lómëa nu,",
+        "english": "Through the forest, dark and deep,",
+        "start": 170.0,
+        "end": 175.0,
+        "repeat": 2
+      },
+      {
+        "section": "Journey",
+        "quenya": "oronti or i alta,",
+        "english": "past the mountains standing high,",
+        "start": 175.0,
+        "end": 180.0,
+        "repeat": 2
+      },
+      {
+        "section": "Journey",
+        "quenya": "síressë yassë lumbor caita,",
+        "english": "by the lake where shadows sleep,",
+        "start": 180.0,
+        "end": 185.0,
+        "repeat": 2
+      },
+      {
+        "section": "Journey",
+        "quenya": "menel nu pella",
+        "english": "underneath the open sky",
+        "start": 185.0,
+        "end": 190.0,
+        "repeat": 2
+      },
+      {
+        "section": "Whispers",
+        "quenya": "Aiwi lírir mi súrë,",
+        "english": "Trees are whispering in the air,",
+        "start": 190.0,
+        "end": 195.0,
+        "repeat": 2
+      },
+      {
+        "section": "Whispers",
+        "quenya": "lótë liltë calaressë,",
+        "english": "Flowers dancing in the light,",
+        "start": 195.0,
+        "end": 200.0,
+        "repeat": 2
+      },
+      {
+        "section": "Whispers",
+        "quenya": "sarnë caita nárë,",
+        "english": "Rocks are resting everywhere,",
+        "start": 200.0,
+        "end": 205.0,
+        "repeat": 2
+      },
+      {
+        "section": "Whispers",
+        "quenya": "tulir lindalë lómessë",
+        "english": "Guiding travelers through the night",
+        "start": 205.0,
+        "end": 210.0,
+        "repeat": 2
+      },
+      {
+        "section": "Elements",
+        "quenya": "Nén sirya ar uru calë,",
+        "english": "Water flows and fire burns,",
+        "start": 210.0,
+        "end": 215.0,
+        "repeat": 2
+      },
+      {
+        "section": "Elements",
+        "quenya": "cemë tulca nu talma,",
+        "english": "Earth is strong beneath our feet,",
+        "start": 215.0,
+        "end": 220.0,
+        "repeat": 2
+      },
+      {
+        "section": "Elements",
+        "quenya": "súrë orta ar váta,",
+        "english": "Wind will rise and slowly turn,",
+        "start": 220.0,
+        "end": 225.0,
+        "repeat": 2
+      },
+      {
+        "section": "Elements",
+        "quenya": "vilya ar menel ar ilya",
+        "english": "Air and sky and all we meet",
+        "start": 225.0,
+        "end": 230.0,
+        "repeat": 2
+      },
+      {
+        "section": "Life",
+        "quenya": "Olvar orta ar rávar norta,",
+        "english": "Plants will grow and animals run,",
+        "start": 230.0,
+        "end": 235.0,
+        "repeat": 2
+      },
+      {
+        "section": "Life",
+        "quenya": "fanyar hosta mi luinë,",
+        "english": "Clouds will gather in the blue,",
+        "start": 235.0,
+        "end": 240.0,
+        "repeat": 2
+      },
+      {
+        "section": "Life",
+        "quenya": "lossë lanta ar anar túra,",
+        "english": "Rain will fall, then comes the sun,",
+        "start": 240.0,
+        "end": 245.0,
+        "repeat": 2
+      },
+      {
+        "section": "Life",
+        "quenya": "caitalë ilyë lírë",
+        "english": "Painting life in every hue",
+        "start": 245.0,
+        "end": 250.0,
+        "repeat": 2
+      },
+      {
+        "section": "Climax",
+        "quenya": "Raumo tula, hlarë rómë,",
+        "english": "Storm is coming, hear the sound,",
+        "start": 250.0,
+        "end": 252.5,
+        "repeat": 2
+      },
+      {
+        "section": "Climax",
+        "quenya": "calma rista menel,",
+        "english": "Lightning cuts across the sky,",
+        "start": 252.5,
+        "end": 255.0,
+        "repeat": 2
+      },
+      {
+        "section": "Climax",
+        "quenya": "lossë ar aiwë lanta cemen,",
+        "english": "Snow and hail fall to the ground,",
+        "start": 255.0,
+        "end": 257.5,
+        "repeat": 2
+      },
+      {
+        "section": "Climax",
+        "quenya": "valiëa túrë orta",
+        "english": "Nature’s power rising high",
+        "start": 257.5,
+        "end": 260.0,
+        "repeat": 2
+      },
+      {
+        "section": "Resolution",
+        "quenya": "Ar lómë enta tula,",
+        "english": "Then the silence comes again,",
+        "start": 260.0,
+        "end": 265.0,
+        "repeat": 2
+      },
+      {
+        "section": "Resolution",
+        "quenya": "isil or ar eleni cala,",
+        "english": "Moon above and stars so bright,",
+        "start": 265.0,
+        "end": 270.0,
+        "repeat": 2
+      },
+      {
+        "section": "Resolution",
+        "quenya": "mi i nórë varya ar auta,",
+        "english": "In this world of loss and gain,",
+        "start": 270.0,
+        "end": 275.0,
+        "repeat": 2
+      },
+      {
+        "section": "Resolution",
+        "quenya": "nárë lindë aurë ar lómë",
+        "english": "Nature sings… through day and night",
+        "start": 275.0,
+        "end": 276.416,
+        "repeat": 2
+      }
+    ]
+  },
+  "notes": [
+    "Timings are aligned to the uploaded Suno MP4 by observed section changes in the on-screen lyric video.",
+    "They are best-effort timings, suitable for karaoke/subtitle sync and easy to adjust later if needed."
+  ]
+}

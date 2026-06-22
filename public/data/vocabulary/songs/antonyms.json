@@ -1,0 +1,232 @@
+{
+  "slug": "antonyms",
+  "titles": {
+    "en": "Opposites",
+    "fr": "Opposés",
+    "es": "Opuestos",
+    "it": "Opposti",
+    "pt": "Opostos",
+    "de": "Gegensätze",
+    "nl": "Tegenstellingen"
+  },
+  "category": "Antonyms",
+  "style": "Playful / contrast-based",
+  "comment": "A dynamic song to explore opposite words and contrasting ideas.",
+  "cover": "/data/vocabulary/images/antonyms.jpg",
+  "lyrics": {
+  "en": [
+  { "target": "Up and down, big and small," },
+  { "target": "Fast and slow — we feel it all," },
+  { "target": "Hot or cold, high or low," },
+  { "target": "Opposites — here we go" },
+
+  { "target": "Happy, sad — smile or cry," },
+  { "target": "Big, small — low or high," },
+  { "target": "Hot, cold — feel the air," },
+  { "target": "Fast, slow — everywhere" },
+
+  { "target": "Wet or dry — rain or sun," },
+  { "target": "Nervous, relaxed — breathe in, done," },
+  { "target": "Clean, dirty — look around," },
+  { "target": "Lost or found — up or down" },
+
+  { "target": "Strong or weak — push or fall," },
+  { "target": "Rich or poor — we see it all," },
+  { "target": "Full or empty — wrong or right," },
+  { "target": "Black or white — day or night" },
+
+  { "target": "Up and down, big and small," },
+  { "target": "Fast and slow — we feel it all," },
+  { "target": "Hot or cold, high or low," },
+  { "target": "Opposites — here we go" },
+
+  { "target": "This or that, yes or no," },
+  { "target": "Now you know — opposites grow" }
+]},
+"fr": [
+  { "target": "Haut et bas, grand et petit," },
+  { "target": "Vite ou lent — tout est ici," },
+  { "target": "Chaud ou froid, jour ou nuit," },
+  { "target": "Les contraires — c’est parti" },
+
+  { "target": "Heureux, triste — sourire ou non," },
+  { "target": "Grand, petit — haut ou bas," },
+  { "target": "Chaud, froid — sens le vent," },
+  { "target": "Vite, lent — doucement" },
+
+  { "target": "Mouillé, sec — pluie ou soleil," },
+  { "target": "Nerveux, calme — respire, pareil," },
+  { "target": "Propre, sale — regarde autour," },
+  { "target": "Malade, en forme — chaque jour" },
+
+  { "target": "Fort ou faible — tiens bon," },
+  { "target": "Riche ou pauvre — dans le monde," },
+  { "target": "Plein ou vide — tout change," },
+  { "target": "Noir ou blanc — on mélange" },
+
+  { "target": "Haut et bas, grand et petit," },
+  { "target": "Vite ou lent — tout est ici," },
+  { "target": "Chaud ou froid, jour ou nuit," },
+  { "target": "Les contraires — c’est parti" },
+
+  { "target": "Comme ça, ou comme ça," },
+  { "target": "Oui ou non — choisis là," },
+  { "target": "Tu vois bien — maintenant," },
+  { "target": "Les contraires — c’est marrant" }
+],
+"es": [
+  { "target": "Arriba, abajo — grande, pequeño," },
+  { "target": "Rápido o lento — todo en juego," },
+  { "target": "Frío o calor — día o noche," },
+  { "target": "Opuestos — vamos, corre" },
+
+  { "target": "Feliz o triste — ríe o llora," },
+  { "target": "Grande, pequeño — cambia ahora," },
+  { "target": "Frío, caliente — siente el aire," },
+  { "target": "Rápido, lento — sin parar" },
+
+  { "target": "Mojado o seco — lluvia o sol," },
+  { "target": "Nervioso o tranquilo — respira mejor," },
+  { "target": "Limpio o sucio — mira bien," },
+  { "target": "Enfermo o sano — todo va bien" },
+
+  { "target": "Fuerte o débil — intenta más," },
+  { "target": "Rico o pobre — igual da," },
+  { "target": "Lleno o vacío — sube y baja," },
+  { "target": "Blanco o negro — todo encaja" },
+
+  { "target": "Arriba, abajo — grande, pequeño," },
+  { "target": "Rápido o lento — todo en juego," },
+  { "target": "Frío o calor — día o noche," },
+  { "target": "Opuestos — vamos, corre" },
+
+  { "target": "Esto o eso — sí o no," },
+  { "target": "Dilo fuerte — aquí voy yo," },
+  { "target": "Ya lo sabes — míralo," },
+  { "target": "Los opuestos — ¡vámonos!" }
+],
+"it": [
+  { "target": "Su e giù — grande o piccolo," },
+  { "target": "Veloce o piano — tutto è facile," },
+  { "target": "Caldo o freddo — notte o giorno," },
+  { "target": "Gli opposti — girano intorno" },
+
+  { "target": "Felice o triste — ridi o piangi," },
+  { "target": "Grande, piccolo — cambia subito," },
+  { "target": "Caldo, freddo — senti l’aria," },
+  { "target": "Veloce, lento — vai piano" },
+
+  { "target": "Bagnato o secco — pioggia o sole," },
+  { "target": "Nervoso o calmo — respira bene," },
+  { "target": "Pulito o sporco — guarda qui," },
+  { "target": "Malato o sano — stai così" },
+
+  { "target": "Forte o debole — prova ancora," },
+  { "target": "Ricco o povero — nella vita," },
+  { "target": "Pieno o vuoto — su e giù," },
+  { "target": "Bianco o nero — scegli tu" },
+
+  { "target": "Su e giù — grande o piccolo," },
+  { "target": "Veloce o piano — tutto è facile," },
+  { "target": "Caldo o freddo — notte o giorno," },
+  { "target": "Gli opposti — girano intorno" },
+
+  { "target": "Questo o quello — sì o no," },
+  { "target": "Dillo forte — lo so già," },
+  { "target": "Ora vedi — come va," },
+  { "target": "Gli opposti — eccoli qua" }
+],
+"pt": [
+  { "target": "Alto, baixo — grande, pequeno," },
+  { "target": "Rápido ou lento — entra no jogo," },
+  { "target": "Quente ou frio — noite e dia," },
+  { "target": "Opostos — energia" },
+
+  { "target": "Feliz ou triste — rir ou chorar," },
+  { "target": "Grande, pequeno — mudar já," },
+  { "target": "Quente, frio — sente o ar," },
+  { "target": "Rápido, lento — sem parar" },
+
+  { "target": "Molhado ou seco — chuva ou sol," },
+  { "target": "Nervoso ou calmo — respira melhor," },
+  { "target": "Limpo ou sujo — olha bem," },
+  { "target": "Doente ou saudável — tudo bem" },
+
+  { "target": "Forte ou fraco — tenta mais," },
+  { "target": "Rico ou pobre — tanto faz," },
+  { "target": "Cheio ou vazio — sobe e desce," },
+  { "target": "Preto ou branco — tudo acontece" },
+
+  { "target": "Alto, baixo — grande, pequeno," },
+  { "target": "Rápido ou lento — entra no jogo," },
+  { "target": "Quente ou frio — noite e dia," },
+  { "target": "Opostos — energia" },
+
+  { "target": "Isso ou aquilo — sim ou não," },
+  { "target": "Fala alto — com emoção," },
+  { "target": "Agora já — sabes bem," },
+  { "target": "Os opostos — vêm e vão" }
+],
+"de": [
+  { "target": "Hoch und runter — groß und klein," },
+  { "target": "Schnell oder langsam — steig mit ein," },
+  { "target": "Heiß oder kalt — Tag und Nacht," },
+  { "target": "Gegensätze — gut gemacht" },
+
+  { "target": "Glücklich, traurig — lach oder wein," },
+  { "target": "Groß, klein — so kann’s sein," },
+  { "target": "Heiß, kalt — fühl den Wind," },
+  { "target": "Schnell, langsam — wie wir sind" },
+
+  { "target": "Nass oder trocken — Regen, Sonne," },
+  { "target": "Nervös oder ruhig — ganz ohne Eile," },
+  { "target": "Sauber oder schmutzig — schau dich um," },
+  { "target": "Krank oder gesund — nicht so schlimm" },
+
+  { "target": "Stark oder schwach — mach es klar," },
+  { "target": "Reich oder arm — wunderbar," },
+  { "target": "Voll oder leer — hin und her," },
+  { "target": "Schwarz oder weiß — bitte sehr" },
+
+  { "target": "Hoch und runter — groß und klein," },
+  { "target": "Schnell oder langsam — steig mit ein," },
+  { "target": "Heiß oder kalt — Tag und Nacht," },
+  { "target": "Gegensätze — gut gemacht" },
+
+  { "target": "Das oder das — ja oder nein," },
+  { "target": "Sag es laut — so soll es sein," },
+  { "target": "Jetzt weißt du’s — wunderbar," },
+  { "target": "Gegensätze — sind schon klar" }
+],
+"nl": [
+  { "target": "Hoog en laag — groot en klein," },
+  { "target": "Snel of langzaam — doe maar mee," },
+  { "target": "Warm of koud — dag en nacht," },
+  { "target": "Tegenstellingen — goed bedacht" },
+
+  { "target": "Blij of verdrietig — lach of huil," },
+  { "target": "Groot, klein — kijk en voel," },
+  { "target": "Warm, koud — voel de lucht," },
+  { "target": "Snel, langzaam — in een vlucht" },
+
+  { "target": "Nat of droog — regen of zon," },
+  { "target": "Zenuwachtig of rustig — adem in, kom," },
+  { "target": "Schoon of vies — kijk eens rond," },
+  { "target": "Ziek of gezond — elke dag gezond" },
+
+  { "target": "Sterk of zwak — ga ervoor," },
+  { "target": "Rijk of arm — het gaat door," },
+  { "target": "Vol of leeg — op en neer," },
+  { "target": "Zwart of wit — keer op keer" },
+
+  { "target": "Hoog en laag — groot en klein," },
+  { "target": "Snel of langzaam — doe maar mee," },
+  { "target": "Warm of koud — dag en nacht," },
+  { "target": "Tegenstellingen — goed bedacht" },
+
+  { "target": "Dit of dat — ja of nee," },
+  { "target": "Zeg het hard — doe maar mee," },
+  { "target": "Nu weet jij — hoe het gaat," },
+  { "target": "Tegenstellingen — dat is wat" }
+]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "a0-house",
+  "title": "House Island",
+  "category": "house",
+  "song": "house",
+  "cover": "/images/journeys/a0/house_island.webp",
+  "icon": "🏠",
+  "themeColor": "#EF4444",
+  "wordIds": [
+    1, 2, 3, 4, 5,
+    6, 7, 9, 10, 11,
+    14, 15, 16, 17, 18,
+    19, 20
+  ]
+}

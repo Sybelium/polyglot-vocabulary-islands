@@ -1,0 +1,32 @@
+{
+  "id": 25,
+  "name": "Actions",
+  "icon": "🏃",
+  "description": "Common action verbs and movement commands",
+  "words": [
+    { "id": 1, "en": "clap", "fr": "taper des mains", "es": "aplaudir", "it": "battere le mani", "pt": "bater palmas", "de": "klatschen", "nl": "klappen", "image": "👏" },
+    { "id": 2, "en": "move", "fr": "bouger", "es": "mover", "it": "muovere", "pt": "mover", "de": "bewegen", "nl": "bewegen", "image": "🏃" },
+    { "id": 3, "en": "jump", "fr": "sauter", "es": "saltar", "it": "saltare", "pt": "saltar", "de": "springen", "nl": "springen", "image": "🦘" },
+    { "id": 4, "en": "turn", "fr": "tourner", "es": "girar", "it": "girare", "pt": "girar", "de": "drehen", "nl": "draaien", "image": "🔄" },
+    { "id": 5, "en": "walk", "fr": "marcher", "es": "caminar", "it": "camminare", "pt": "caminhar", "de": "gehen", "nl": "lopen", "image": "🚶" },
+    { "id": 6, "en": "run", "fr": "courir", "es": "correr", "it": "correre", "pt": "correr", "de": "laufen", "nl": "rennen", "image": "🏃" },
+    { "id": 7, "en": "stop", "fr": "arrêter", "es": "parar", "it": "fermarsi", "pt": "parar", "de": "stoppen", "nl": "stoppen", "image": "🛑" },
+    { "id": 8, "en": "go", "fr": "aller", "es": "ir", "it": "andare", "pt": "ir", "de": "gehen", "nl": "gaan", "image": "➡️" },
+    { "id": 9, "en": "stand", "fr": "se lever", "es": "levantarse", "it": "alzarsi", "pt": "levantar-se", "de": "aufstehen", "nl": "opstaan", "image": "🧍" },
+    { "id": 10, "en": "bend", "fr": "se baisser", "es": "agacharse", "it": "abbassarsi", "pt": "abaixar-se", "de": "sich bücken", "nl": "bukken", "image": "🙇" },
+    { "id": 11, "en": "look", "fr": "regarder", "es": "mirar", "it": "guardare", "pt": "olhar", "de": "schauen", "nl": "kijken", "image": "👀" },
+    { "id": 12, "en": "touch", "fr": "toucher", "es": "tocar", "it": "toccare", "pt": "tocar", "de": "berühren", "nl": "aanraken", "image": "✋" },
+    { "id": 13, "en": "say", "fr": "dire", "es": "decir", "it": "dire", "pt": "dizer", "de": "sagen", "nl": "zeggen", "image": "🗣️" },
+    { "id": 14, "en": "open", "fr": "ouvrir", "es": "abrir", "it": "aprire", "pt": "abrir", "de": "öffnen", "nl": "openen", "image": "🚪" },
+    { "id": 15, "en": "close", "fr": "fermer", "es": "cerrar", "it": "chiudere", "pt": "fechar", "de": "schließen", "nl": "sluiten", "image": "🚪" },
+    { "id": 16, "en": "push", "fr": "pousser", "es": "empujar", "it": "spingere", "pt": "empurrar", "de": "drücken", "nl": "duwen", "image": "✋" },
+    { "id": 17, "en": "pull", "fr": "tirer", "es": "tirar", "it": "tirare", "pt": "puxar", "de": "ziehen", "nl": "trekken", "image": "🤲" },
+    { "id": 18, "en": "sit", "fr": "s'asseoir", "es": "sentarse", "it": "sedersi", "pt": "sentar-se", "de": "sitzen", "nl": "zitten", "image": "🪑" },
+    { "id": 19, "en": "wait", "fr": "attendre", "es": "esperar", "it": "aspettare", "pt": "esperar", "de": "warten", "nl": "wachten", "image": "⏳" },
+    { "id": 20, "en": "follow", "fr": "suivre", "es": "seguir", "it": "seguire", "pt": "seguir", "de": "folgen", "nl": "volgen", "image": "👣" },
+    { "id": 21, "en": "shout", "fr": "crier", "es": "gritar", "it": "gridare", "pt": "gritar", "de": "rufen", "nl": "roepen", "image": "📣" },
+    { "id": 22, "en": "feel", "fr": "sentir", "es": "sentir", "it": "sentire", "pt": "sentir", "de": "fühlen", "nl": "voelen", "image": "❤️" },
+    { "id": 23, "en": "come", "fr": "venir", "es": "venir", "it": "venire", "pt": "vir", "de": "kommen", "nl": "komen", "image": "👋" },
+    { "id": 24, "en": "move your body", "fr": "bouger son corps", "es": "mover el cuerpo", "it": "muovere il corpo", "pt": "mexer o corpo", "de": "den Körper bewegen", "nl": "je lichaam bewegen", "image": "💃" }
+  ]
+}

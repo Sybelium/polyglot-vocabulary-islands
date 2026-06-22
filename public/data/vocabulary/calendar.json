@@ -1,0 +1,28 @@
+{
+  "id": 27,
+  "name": "Calendar",
+  "icon": "📅",
+  "description": "Days of the week and months of the year",
+  "words": [
+    { "id": 1, "en": "Monday", "fr": "lundi", "es": "lunes", "it": "lunedì", "pt": "segunda-feira", "de": "Montag", "nl": "maandag", "image": "📅" },
+    { "id": 2, "en": "Tuesday", "fr": "mardi", "es": "martes", "it": "martedì", "pt": "terça-feira", "de": "Dienstag", "nl": "dinsdag", "image": "📅" },
+    { "id": 3, "en": "Wednesday", "fr": "mercredi", "es": "miércoles", "it": "mercoledì", "pt": "quarta-feira", "de": "Mittwoch", "nl": "woensdag", "image": "📅" },
+    { "id": 4, "en": "Thursday", "fr": "jeudi", "es": "jueves", "it": "giovedì", "pt": "quinta-feira", "de": "Donnerstag", "nl": "donderdag", "image": "📅" },
+    { "id": 5, "en": "Friday", "fr": "vendredi", "es": "viernes", "it": "venerdì", "pt": "sexta-feira", "de": "Freitag", "nl": "vrijdag", "image": "📅" },
+    { "id": 6, "en": "Saturday", "fr": "samedi", "es": "sábado", "it": "sabato", "pt": "sábado", "de": "Samstag", "nl": "zaterdag", "image": "📅" },
+    { "id": 7, "en": "Sunday", "fr": "dimanche", "es": "domingo", "it": "domenica", "pt": "domingo", "de": "Sonntag", "nl": "zondag", "image": "📅" },
+
+    { "id": 8, "en": "January", "fr": "janvier", "es": "enero", "it": "gennaio", "pt": "janeiro", "de": "Januar", "nl": "januari", "image": "📆" },
+    { "id": 9, "en": "February", "fr": "février", "es": "febrero", "it": "febbraio", "pt": "fevereiro", "de": "Februar", "nl": "februari", "image": "📆" },
+    { "id": 10, "en": "March", "fr": "mars", "es": "marzo", "it": "marzo", "pt": "março", "de": "März", "nl": "maart", "image": "📆" },
+    { "id": 11, "en": "April", "fr": "avril", "es": "abril", "it": "aprile", "pt": "abril", "de": "April", "nl": "april", "image": "📆" },
+    { "id": 12, "en": "May", "fr": "mai", "es": "mayo", "it": "maggio", "pt": "maio", "de": "Mai", "nl": "mei", "image": "📆" },
+    { "id": 13, "en": "June", "fr": "juin", "es": "junio", "it": "giugno", "pt": "junho", "de": "Juni", "nl": "juni", "image": "📆" },
+    { "id": 14, "en": "July", "fr": "juillet", "es": "julio", "it": "luglio", "pt": "julho", "de": "Juli", "nl": "juli", "image": "📆" },
+    { "id": 15, "en": "August", "fr": "août", "es": "agosto", "it": "agosto", "pt": "agosto", "de": "August", "nl": "augustus", "image": "📆" },
+    { "id": 16, "en": "September", "fr": "septembre", "es": "septiembre", "it": "settembre", "pt": "setembro", "de": "September", "nl": "september", "image": "📆" },
+    { "id": 17, "en": "October", "fr": "octobre", "es": "octubre", "it": "ottobre", "pt": "outubro", "de": "Oktober", "nl": "oktober", "image": "📆" },
+    { "id": 18, "en": "November", "fr": "novembre", "es": "noviembre", "it": "novembre", "pt": "novembro", "de": "November", "nl": "november", "image": "📆" },
+    { "id": 19, "en": "December", "fr": "décembre", "es": "diciembre", "it": "dicembre", "pt": "dezembro", "de": "Dezember", "nl": "december", "image": "📆" }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": 9,
+  "name": "Transportation",
+  "icon": "🚗",
+  "description": "Vehicles and modes of transport",
+  "words": [
+    { "id": 1, "en": "car", "fr": "voiture", "es": "coche", "it": "auto", "pt": "carro", "de": "Auto", "nl": "auto", "image": "🚗" },
+    { "id": 2, "en": "plane", "fr": "avion", "es": "avión", "it": "aereo", "pt": "avião", "de": "Flugzeug", "nl": "vliegtuig", "image": "✈️" },
+    { "id": 3, "en": "boat", "fr": "bateau", "es": "barco", "it": "barca", "pt": "barco", "de": "Boot", "nl": "boot", "image": "⛵" },
+    { "id": 4, "en": "bus", "fr": "bus", "es": "autobús", "it": "autobus", "pt": "autocarro", "de": "Bus", "nl": "bus", "image": "🚌" },
+    { "id": 5, "en": "truck", "fr": "camion", "es": "camión", "it": "camion", "pt": "camião", "de": "LKW", "nl": "vrachtwagen", "image": "🚚" },
+    { "id": 6, "en": "bicycle", "fr": "vélo", "es": "bicicleta", "it": "bicicletta", "pt": "bicicleta", "de": "Fahrrad", "nl": "fiets", "image": "🚲" },
+    { "id": 7, "en": "motorbike", "fr": "moto", "es": "motocicleta", "it": "moto", "pt": "mota", "de": "Motorrad", "nl": "motor", "image": "🏍️" },
+    { "id": 8, "en": "helicopter", "fr": "hélicoptère", "es": "helicóptero", "it": "elicottero", "pt": "helicóptero", "de": "Hubschrauber", "nl": "helikopter", "image": "🚁" },
+    { "id": 9, "en": "skateboard", "fr": "skateboard", "es": "monopatín", "it": "skateboard", "pt": "skate", "de": "Skateboard", "nl": "skateboard", "image": "🛹" },
+    { "id": 10, "en": "roller skate", "fr": "patin à roulettes", "es": "patín", "it": "pattino a rotelle", "pt": "patins", "de": "Rollschuh", "nl": "rolschaats", "image": "🛼" },
+    { "id": 11, "en": "ambulance", "fr": "ambulance", "es": "ambulancia", "it": "ambulanza", "pt": "ambulância", "de": "Krankenwagen", "nl": "ambulance", "image": "🚑" },
+    { "id": 12, "en": "fire truck", "fr": "camion de pompiers", "es": "camión de bomberos", "it": "camion dei pompieri", "pt": "carro de bombeiros", "de": "Feuerwehrwagen", "nl": "brandweerwagen", "image": "🚒" },
+    { "id": 13, "en": "sailboat", "fr": "voilier", "es": "velero", "it": "barca a vela", "pt": "veleiro", "de": "Segelboot", "nl": "zeilboot", "image": "⛵" },
+    { "id": 14, "en": "container ship", "fr": "porte-conteneurs", "es": "buque portacontenedores", "it": "nave portacontainer", "pt": "porta-contentores", "de": "Containerschiff", "nl": "containerschip", "image": "🚢" },
+    { "id": 15, "en": "zeppelin", "fr": "zeppelin", "es": "zepelín", "it": "zeppelin", "pt": "zepelim", "de": "Zeppelin", "nl": "zeppelin", "image": "🎈" },
+    { "id": 16, "en": "rocket", "fr": "fusée", "es": "cohete", "it": "razzo", "pt": "foguetão", "de": "Rakete", "nl": "raket", "image": "🚀" },
+    { "id": 17, "en": "spaceship", "fr": "vaisseau spatial", "es": "nave espacial", "it": "astronave", "pt": "nave espacial", "de": "Raumschiff", "nl": "ruimteschip", "image": "🛸" },
+    { "id": 18, "en": "parasail", "fr": "parachute ascensionnel", "es": "paravelismo", "it": "paracadute ascensionale", "pt": "parasailing", "de": "Parasailing", "nl": "parasailing", "image": "🪂" },
+    { "id": 19, "en": "hang glider", "fr": "deltaplane", "es": "ala delta", "it": "deltaplano", "pt": "asa-delta", "de": "Drachenflieger", "nl": "deltavlieger", "image": "🪂" },
+    { "id": 20, "en": "submarine", "fr": "sous-marin", "es": "submarino", "it": "sottomarino", "pt": "submarino", "de": "U-Boot", "nl": "onderzeeër", "image": "🚤" }
+  ]
+}

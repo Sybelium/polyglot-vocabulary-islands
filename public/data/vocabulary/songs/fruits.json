@@ -1,0 +1,402 @@
+{
+  "slug": "fruits",
+  "titles": {
+    "en": "Fruits",
+    "fr": "Fruits",
+    "es": "Frutas",
+    "it": "Frutta",
+    "pt": "Frutas",
+    "de": "Früchte",
+    "nl": "Fruit"
+  },
+  "category": "Fruits",
+  "style": "Funky / tropical",
+  "comment": "A fun and tropical song to learn fruit vocabulary with rhythm and energy.",
+  "cover": "/data/vocabulary/images/fruits.jpg",
+  "lyrics": {"en": [
+  { "target": "Hey!" },
+  { "target": "Feel the sun — feel the flavor," },
+  { "target": "Come along — taste it now!" },
+
+  { "target": "Apple, banana, lemon, orange," },
+  { "target": "Strawberry, cherry — sweet and fresh," },
+  { "target": "Pineapple, melon — take a bite," },
+  { "target": "Juicy, juicy — feel the vibe!" },
+
+  { "target": "Watermelon in the summer heat," },
+  { "target": "Grapes that pop — so fun to eat," },
+  { "target": "Pear so soft, plum so sweet," },
+  { "target": "Kiwi dancing on your tongue to the beat" },
+
+  { "target": "Mango golden, smooth delight," },
+  { "target": "Passion fruit with a tangy bite," },
+  { "target": "Papaya glowing in the light," },
+  { "target": "Every color shining bright" },
+
+  { "target": "Apple, banana, lemon, orange," },
+  { "target": "Strawberry, cherry — sweet and fresh," },
+  { "target": "Pineapple, melon — take a bite," },
+  { "target": "Juicy, juicy — feel the vibe!" },
+
+  { "target": "Raspberry, blackberry — deep and bold," },
+  { "target": "Black currant stories waiting to be told," },
+  { "target": "Apricot soft like summer air," },
+  { "target": "Figs so rich — beyond compare" },
+
+  { "target": "Durian strong — a crazy surprise," },
+  { "target": "Dates like honey — sweet and wise," },
+  { "target": "Coconut breaks — hear the sound," },
+  { "target": "Tropical rhythm all around" },
+
+  { "target": "Sweet or sour — what do you choose?" },
+  { "target": "Mix it up — you can’t lose!" },
+  { "target": "Slice it, taste it, feel the groove," },
+  { "target": "Every fruit — make you move" },
+
+  { "target": "One for the taste — one for the color," },
+  { "target": "One for the joy — like no other," },
+  { "target": "Bite by bite — feel the beat," },
+  { "target": "Nature’s candy — fresh and sweet!" },
+
+  { "target": "Apple, banana, lemon, orange," },
+  { "target": "Strawberry, cherry — sing it loud!" },
+  { "target": "Pineapple, melon — don’t stop now," },
+  { "target": "Juicy, juicy — feel it now!" },
+
+  { "target": "From the tree to you and me," },
+  { "target": "Fruits of the world — wild and free," },
+  { "target": "Taste the sun in every bite," },
+  { "target": "Feel the flavor — pure delight!" }
+],
+"fr": [
+  { "target": "Hey!" },
+  { "target": "Soleil, saveurs — viens goûter," },
+  { "target": "Bouge un peu — laisse aller!" },
+
+  { "target": "Pomme, banane, citron, orange," },
+  { "target": "Fraise, cerise — frais mélange," },
+  { "target": "Ananas, melon — prends une bouchée," },
+  { "target": "Juteux, juteux — laisse-toi aller!" },
+
+  { "target": "Pastèque sous le soleil chaud," },
+  { "target": "Raisins qui éclatent — c’est trop beau," },
+  { "target": "Poire si douce, prune sucrée," },
+  { "target": "Kiwi danse — sur ta langue, léger" },
+
+  { "target": "Mangue dorée, goût parfait," },
+  { "target": "Fruit de la passion — acidulé," },
+  { "target": "Papaye brille sous la lumière," },
+  { "target": "Couleurs vives — partout sur terre" },
+
+  { "target": "Pomme, banane, citron, orange," },
+  { "target": "Fraise, cerise — frais mélange," },
+  { "target": "Ananas, melon — prends une bouchée," },
+  { "target": "Juteux, juteux — laisse-toi aller!" },
+
+  { "target": "Framboise, mûre — goût intense," },
+  { "target": "Cassis noir — plein de puissance," },
+  { "target": "Abricot doux comme l’été," },
+  { "target": "Figue riche — à savourer" },
+
+  { "target": "Durian fort — quelle surprise," },
+  { "target": "Dattes sucrées — comme une brise," },
+  { "target": "Noix de coco — casse et bois," },
+  { "target": "Ambiance tropicale — autour de toi" },
+
+  { "target": "Sucré ou acide — choisis ton goût," },
+  { "target": "Mélange tout — amuse-toi," },
+  { "target": "Coupe, goûte — sens le groove," },
+  { "target": "Chaque fruit — te fait bouger" },
+
+  { "target": "Une couleur — une saveur," },
+  { "target": "Un plaisir — plein de chaleur," },
+  { "target": "Bouchée par bouchée — sens le rythme," },
+  { "target": "Bonbon nature — sans limite!" },
+
+  { "target": "Pomme, banane, citron, orange," },
+  { "target": "Fraise, cerise — chante et danse!" },
+  { "target": "Ananas, melon — encore une fois," },
+  { "target": "Juteux, juteux — éclate-toi!" },
+
+  { "target": "De l’arbre à toi, c’est cadeau," },
+  { "target": "Fruits du monde — si beaux," },
+  { "target": "Goûte le soleil à chaque instant," },
+  { "target": "Saveur de vie — tout simplement" }
+],
+"es": [
+  { "target": "¡Hey!" },
+  { "target": "Siente el sol — siente el sabor," },
+  { "target": "Ven aquí — ¡lleno de color!" },
+
+  { "target": "Manzana, banana, limón, naranja," },
+  { "target": "Fresa, cereza — dulce mezcla," },
+  { "target": "Piña, melón — dale un bocado," },
+  { "target": "Jugoso, jugoso — ¡ritmo encantado!" },
+
+  { "target": "Sandía fresca bajo el sol," },
+  { "target": "Uvas que explotan — puro sabor," },
+  { "target": "Pera suave, ciruela dulce," },
+  { "target": "Kiwi baila — en tu pulso" },
+
+  { "target": "Mango dorado, pura pasión," },
+  { "target": "Maracuyá con su explosión," },
+  { "target": "Papaya brilla con su color," },
+  { "target": "Todo vibra — alrededor" },
+
+  { "target": "Manzana, banana, limón, naranja," },
+  { "target": "Fresa, cereza — dulce mezcla," },
+  { "target": "Piña, melón — dale un bocado," },
+  { "target": "Jugoso, jugoso — ¡ritmo encantado!" },
+
+  { "target": "Frambuesa, mora — sabor intenso," },
+  { "target": "Grosella negra — misterio denso," },
+  { "target": "Albaricoque suave al probar," },
+  { "target": "Higo dulce — para disfrutar" },
+
+  { "target": "Durian fuerte — sorpresa total," },
+  { "target": "Dátiles dulces — como un cristal," },
+  { "target": "Coco se abre — suena crack," },
+  { "target": "Fiesta tropical — sin parar!" },
+
+  { "target": "¿Dulce o ácido? — tú decides," },
+  { "target": "Mézclalo todo — no te limites," },
+  { "target": "Corta, prueba — siente el flow," },
+  { "target": "Cada fruta — te elevó" },
+
+  { "target": "Un color — una emoción," },
+  { "target": "Un sabor — pura canción," },
+  { "target": "Bocado a bocado — siente el ritmo," },
+  { "target": "Dulce natural — infinito!" },
+
+  { "target": "Manzana, banana, limón, naranja," },
+  { "target": "Fresa, cereza — canta y danza!" },
+  { "target": "Piña, melón — una vez más," },
+  { "target": "Jugoso, jugoso — ¡vamos ya!" },
+
+  { "target": "Del árbol directo a ti," },
+  { "target": "Frutas del mundo — vive así," },
+  { "target": "Prueba el sol en cada sabor," },
+  { "target": "Vida dulce — puro calor" }
+],
+"it": [
+  { "target": "Hey!" },
+  { "target": "Senti il sole — senti il sapore," },
+  { "target": "Vieni qui — pieno di colore!" },
+
+  { "target": "Mela, banana, limone, arancia," },
+  { "target": "Fragola, ciliegia — dolce danza," },
+  { "target": "Ananas, melone — fai un morso," },
+  { "target": "Succoso, succoso — ritmo mosso!" },
+
+  { "target": "Anguria fresca sotto il sole," },
+  { "target": "Uva che scoppia — che sapore!" },
+  { "target": "Pera morbida, prugna dolce," },
+  { "target": "Kiwi danza — sulla voce" },
+
+  { "target": "Mango dorato, pura passione," },
+  { "target": "Frutto della passione — esplosione," },
+  { "target": "Papaya brilla nella luce," },
+  { "target": "Ogni colore seduce" },
+
+  { "target": "Mela, banana, limone, arancia," },
+  { "target": "Fragola, ciliegia — dolce danza," },
+  { "target": "Ananas, melone — fai un morso," },
+  { "target": "Succoso, succoso — ritmo mosso!" },
+
+  { "target": "Lampone, mora — gusto intenso," },
+  { "target": "Ribes nero — profondo e denso," },
+  { "target": "Albicocca dolce d’estate," },
+  { "target": "Fichi ricchi — da gustare" },
+
+  { "target": "Durian forte — sorpresa strana," },
+  { "target": "Datteri dolci — come canna," },
+  { "target": "Cocco si apre — senti il suono," },
+  { "target": "Festa tropicale — tutto è buono!" },
+
+  { "target": "Dolce o acido — scegli tu," },
+  { "target": "Mescola tutto — non fermarti più," },
+  { "target": "Taglia, assaggia — segui il groove," },
+  { "target": "Ogni frutto — ti muove" },
+
+  { "target": "Un colore — un’emozione," },
+  { "target": "Un sapore — una canzone," },
+  { "target": "Morso dopo morso — senti il ritmo," },
+  { "target": "Dolce natura — infinito!" },
+
+  { "target": "Mela, banana, limone, arancia," },
+  { "target": "Fragola, ciliegia — canta e danza!" },
+  { "target": "Ananas, melone — ancora un po’," },
+  { "target": "Succoso, succoso — eccolo!" },
+
+  { "target": "Dall’albero fino a te," },
+  { "target": "Frutti del mondo — come un re," },
+  { "target": "Senti il sole in ogni gusto," },
+  { "target": "Vita dolce — tutto giusto" }
+],
+"pt": [
+  { "target": "Hey!" },
+  { "target": "Sente o sol — sente o sabor," },
+  { "target": "Vem comigo — cheio de cor!" },
+
+  { "target": "Maçã, banana, limão, laranja," },
+  { "target": "Morango, cereja — doce mistura," },
+  { "target": "Ananás, melão — dá uma mordida," },
+  { "target": "Suculento, suculento — sente a vida!" },
+
+  { "target": "Melancia fresca no calor," },
+  { "target": "Uvas que estalam — puro sabor," },
+  { "target": "Pera macia, ameixa doce," },
+  { "target": "Kiwi dança — na tua voz" },
+
+  { "target": "Manga dourada, pura paixão," },
+  { "target": "Maracujá com explosão," },
+  { "target": "Papaia brilha à luz do dia," },
+  { "target": "Cada cor traz alegria" },
+
+  { "target": "Maçã, banana, limão, laranja," },
+  { "target": "Morango, cereja — doce mistura," },
+  { "target": "Ananás, melão — dá uma mordida," },
+  { "target": "Suculento, suculento — sente a vida!" },
+
+  { "target": "Framboesa, amora — sabor intenso," },
+  { "target": "Groselha negra — toque denso," },
+  { "target": "Damasco doce de verão," },
+  { "target": "Figos ricos — pura sensação" },
+
+  { "target": "Durian forte — surpresa total," },
+  { "target": "Tâmaras doces — natural," },
+  { "target": "Coco abre — som no ar," },
+  { "target": "Festa tropical — vamos dançar!" },
+
+  { "target": "Doce ou ácido — escolhe bem," },
+  { "target": "Mistura tudo — vai além," },
+  { "target": "Corta, prova — segue o som," },
+  { "target": "Cada fruta — é tão bom" },
+
+  { "target": "Uma cor — uma emoção," },
+  { "target": "Um sabor — vibração," },
+  { "target": "Mordida a mordida — sente o ritmo," },
+  { "target": "Doce da natureza — infinito!" },
+
+  { "target": "Maçã, banana, limão, laranja," },
+  { "target": "Morango, cereja — canta e dança!" },
+  { "target": "Ananás, melão — mais uma vez," },
+  { "target": "Suculento, suculento — outra vez!" },
+
+  { "target": "Da árvore direto para ti," },
+  { "target": "Frutas do mundo — vive assim," },
+  { "target": "Prova o sol em cada sabor," },
+  { "target": "Vida doce — puro calor" }
+],
+"de": [
+  { "target": "Hey!" },
+  { "target": "Spür die Sonne — fühl den Geschmack," },
+  { "target": "Komm mit — es geht los, zack!" },
+
+  { "target": "Apfel, Banane, Zitrone, Orange," },
+  { "target": "Erdbeere, Kirsche — süße Balance," },
+  { "target": "Ananas, Melone — nimm einen Biss," },
+  { "target": "Saftig, saftig — fühl den Vibe!" },
+
+  { "target": "Wassermelone in der Hitze," },
+  { "target": "Trauben platzen — kleine Blitze," },
+  { "target": "Birne weich, Pflaume süß," },
+  { "target": "Kiwi tanzt — so wie du’s liebst" },
+
+  { "target": "Mango golden, voller Geschmack," },
+  { "target": "Passionsfrucht — ein kleiner Knack," },
+  { "target": "Papaya leuchtet im Licht," },
+  { "target": "Jede Farbe spricht für sich" },
+
+  { "target": "Apfel, Banane, Zitrone, Orange," },
+  { "target": "Erdbeere, Kirsche — süße Balance," },
+  { "target": "Ananas, Melone — nimm einen Biss," },
+  { "target": "Saftig, saftig — fühl den Vibe!" },
+
+  { "target": "Himbeere, Brombeere — stark und fein," },
+  { "target": "Schwarze Johannisbeere — tief und rein," },
+  { "target": "Aprikose weich im Sommerwind," },
+  { "target": "Feigen süß — wie sie sind" },
+
+  { "target": "Durian stark — ein wildes Ding," },
+  { "target": "Datteln süß — wie Honig klingt," },
+  { "target": "Kokosnuss knackt — hör den Ton," },
+  { "target": "Tropen-Feeling — überall schon" },
+
+  { "target": "Süß oder sauer — was willst du?" },
+  { "target": "Misch es zusammen — gib nicht Ruh," },
+  { "target": "Schneid, probier — fühl den Groove," },
+  { "target": "Jede Frucht — bringt dich in Move" },
+
+  { "target": "Eine Farbe — ein Gefühl," },
+  { "target": "Ein Geschmack — so viel Spiel," },
+  { "target": "Biss für Biss — fühl den Beat," },
+  { "target": "Natur ist süß — und macht dich fit!" },
+
+  { "target": "Apfel, Banane, Zitrone, Orange," },
+  { "target": "Erdbeere, Kirsche — sing und tanz!" },
+  { "target": "Ananas, Melone — noch einmal," },
+  { "target": "Saftig, saftig — überall!" },
+
+  { "target": "Vom Baum direkt zu dir gebracht," },
+  { "target": "Früchte der Welt — voller Kraft," },
+  { "target": "Schmeck die Sonne in jedem Stück," },
+  { "target": "Süßes Leben — Stück für Stück" }
+],
+"nl": [
+  { "target": "Hey!" },
+  { "target": "Voel de zon — proef de smaak," },
+  { "target": "Kom erbij — maak het raak!" },
+
+  { "target": "Appel, banaan, citroen, sinaasappel," },
+  { "target": "Aardbei, kers — zo lekker samen," },
+  { "target": "Ananas, meloen — neem een hap," },
+  { "target": "Sappig, sappig — voel de vibe!" },
+
+  { "target": "Watermeloen in de zon zo warm," },
+  { "target": "Druiven die knappen — in je arm," },
+  { "target": "Peer zo zacht, pruim zo zoet," },
+  { "target": "Kiwi danst — op je gevoel" },
+
+  { "target": "Mango goud — tropisch licht," },
+  { "target": "Passievrucht — fris en fris," },
+  { "target": "Papaja straalt in de zon," },
+  { "target": "Elke kleur — leeft gewoon" },
+
+  { "target": "Appel, banaan, citroen, sinaasappel," },
+  { "target": "Aardbei, kers — zo lekker samen," },
+  { "target": "Ananas, meloen — neem een hap," },
+  { "target": "Sappig, sappig — voel de vibe!" },
+
+  { "target": "Framboos, braam — sterk en fijn," },
+  { "target": "Zwarte bes — klein maar krachtig," },
+  { "target": "Abrikoos zacht in de zon," },
+  { "target": "Vijgen zoet — gewoon top!" },
+
+  { "target": "Durian sterk — wat een smaak," },
+  { "target": "Dadels zoet — elke hap raak," },
+  { "target": "Kokos breekt — hoor dat geluid," },
+  { "target": "Tropisch feest — overal luid!" },
+
+  { "target": "Zoet of zuur — wat kies jij?" },
+  { "target": "Mix het samen — voel je vrij," },
+  { "target": "Snijd en proef — volg de beat," },
+  { "target": "Elke vrucht — maakt het compleet" },
+
+  { "target": "Elke kleur — elke smaak," },
+  { "target": "Elke hap — puur vermaak," },
+  { "target": "Bite voor bite — voel het ritme," },
+  { "target": "Natuur is zoet — blijf genieten!" },
+
+  { "target": "Appel, banaan, citroen, sinaasappel," },
+  { "target": "Aardbei, kers — zing en dans!" },
+  { "target": "Ananas, meloen — nog een keer," },
+  { "target": "Sappig, sappig — steeds weer!" },
+
+  { "target": "Van de boom zo op je bord," },
+  { "target": "Vruchten van de wereld — elke soort," },
+  { "target": "Proef de zon in elke beet," },
+  { "target": "Zoet leven — dat vergeet je niet!" }
+]
+}
+}

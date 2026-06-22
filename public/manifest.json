@@ -1,0 +1,32 @@
+{
+  "id": "/",
+  "name": "Polyglot Vocabulary Islands",
+  "short_name": "Polyglot Islands",
+  "description": "Learn vocabulary with interactive language islands.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#e0f2fe",
+  "theme_color": "#0284c7",
+  "categories": ["education", "games", "kids"],
+  "lang": "en",
+  "icons": [
+    {
+      "src": "/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/maskable-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

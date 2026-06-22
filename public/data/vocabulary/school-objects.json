@@ -1,0 +1,28 @@
+{
+  "id": 23,
+  "name": "School Objects",
+  "icon": "📚",
+  "description": "Common school supplies and classroom items",
+  "words": [
+    { "id": 1, "en": "whiteboard", "fr": "tableau blanc", "es": "pizarra blanca", "it": "lavagna bianca", "pt": "quadro branco", "de": "Whiteboard", "nl": "whiteboard", "image": "🖊️" },
+    { "id": 2, "en": "blackboard", "fr": "tableau noir", "es": "pizarra", "it": "lavagna", "pt": "quadro preto", "de": "Tafel", "nl": "schoolbord", "image": "🖊️" },
+    { "id": 3, "en": "marker", "fr": "marqueur", "es": "marcador", "it": "pennarello", "pt": "marcador", "de": "Marker", "nl": "marker", "image": "🖊️" },
+    { "id": 4, "en": "pen", "fr": "stylo", "es": "bolígrafo", "it": "penna", "pt": "caneta", "de": "Stift", "nl": "pen", "image": "🖊️" },
+    { "id": 5, "en": "pencil", "fr": "crayon", "es": "lápiz", "it": "matita", "pt": "lápis", "de": "Bleistift", "nl": "potlood", "image": "✏️" },
+    { "id": 6, "en": "book", "fr": "livre", "es": "libro", "it": "libro", "pt": "livro", "de": "Buch", "nl": "boek", "image": "📖" },
+    { "id": 7, "en": "notebook", "fr": "cahier", "es": "cuaderno", "it": "quaderno", "pt": "caderno", "de": "Heft", "nl": "schrift", "image": "📓" },
+    { "id": 8, "en": "paper", "fr": "papier", "es": "papel", "it": "carta", "pt": "papel", "de": "Papier", "nl": "papier", "image": "📄" },
+    { "id": 9, "en": "poster", "fr": "affiche", "es": "póster", "it": "poster", "pt": "cartaz", "de": "Poster", "nl": "poster", "image": "🖼️" },
+    { "id": 10, "en": "dictionary", "fr": "dictionnaire", "es": "diccionario", "it": "dizionario", "pt": "dicionário", "de": "Wörterbuch", "nl": "woordenboek", "image": "📕" },
+    { "id": 11, "en": "ruler", "fr": "règle", "es": "regla", "it": "righello", "pt": "régua", "de": "Lineal", "nl": "liniaal", "image": "📏" },
+    { "id": 12, "en": "sharpener", "fr": "taille-crayon", "es": "sacapuntas", "it": "temperamatite", "pt": "afiador", "de": "Spitzer", "nl": "puntenslijper", "image": "✏️" },
+    { "id": 13, "en": "eraser", "fr": "gomme", "es": "goma de borrar", "it": "gomma", "pt": "borracha", "de": "Radiergummi", "nl": "gum", "image": "🧹" },
+    { "id": 14, "en": "school bag", "fr": "cartable", "es": "mochila", "it": "zaino", "pt": "mochila", "de": "Schultasche", "nl": "schooltas", "image": "🎒" },
+    { "id": 15, "en": "paperclip", "fr": "trombone", "es": "clip", "it": "graffetta", "pt": "clip", "de": "Büroklammer", "nl": "paperclip", "image": "📎" },
+    { "id": 16, "en": "highlighter", "fr": "surligneur", "es": "resaltador", "it": "evidenziatore", "pt": "marca-texto", "de": "Textmarker", "nl": "markeerstift", "image": "🖍️" },
+    { "id": 17, "en": "glue", "fr": "colle", "es": "pegamento", "it": "colla", "pt": "cola", "de": "Kleber", "nl": "lijm", "image": "🧴" },
+    { "id": 18, "en": "calendar", "fr": "calendrier", "es": "calendario", "it": "calendario", "pt": "calendário", "de": "Kalender", "nl": "kalender", "image": "📅" },
+    { "id": 19, "en": "globe", "fr": "globe", "es": "globo terráqueo", "it": "globo", "pt": "globo", "de": "Globus", "nl": "wereldbol", "image": "🌍" },
+    { "id": 20, "en": "map", "fr": "carte", "es": "mapa", "it": "mappa", "pt": "mapa", "de": "Karte", "nl": "kaart", "image": "🗺️" }
+  ]
+}

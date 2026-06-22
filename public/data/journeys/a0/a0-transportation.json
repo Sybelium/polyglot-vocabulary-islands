@@ -1,0 +1,15 @@
+{
+  "id": "a0-transportation",
+  "title": "Transportation Island",
+  "category": "transportation",
+  "song": "transportation",
+  "cover": "/images/journeys/a0/transportation_island.webp",
+  "icon": "🚗",
+  "themeColor": "#2563EB",
+  "wordIds": [
+    1, 2, 3, 4, 5,
+    6, 7, 8, 9, 10,
+    11, 12, 13, 14, 15,
+    16, 17, 18, 19, 20
+  ]
+}

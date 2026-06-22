@@ -1,0 +1,93 @@
+{
+  "id": "a0",
+  "title": "First Steps Journey",
+  "collections": [
+    {
+      "id": "a0-numbers",
+      "title": "Number Island",
+      "category": "numbers",
+      "path": "/data/journeys/a0/a0-numbers.json",
+      "song": "numbers",
+      "next": "a0-colors"
+    },
+    {
+      "id": "a0-colors",
+      "title": "Color Island",
+      "category": "colors",
+      "path": "/data/journeys/a0/a0-colors.json",
+      "song": "colors",
+      "next": "a0-days"
+    },
+    {
+  "id": "a0-days",
+  "title": "Day Island",
+  "category": "days",
+  "path": "/data/journeys/a0/a0-days.json",
+  "song": "days",
+  "next": "a0-months"
+    },
+    {
+  "id": "a0-months",
+  "title": "Month Island",
+  "category": "months",
+  "path": "/data/journeys/a0/a0-months.json",
+  "song": "months"
+   },
+   {
+  "id": "a0-antonyms",
+  "title": "Antonyms Island",
+  "category": "antonyms",
+  "path": "/data/journeys/a0/a0-antonyms.json",
+  "song": "antonyms"
+   },
+   {
+  "id": "a0-buildings",
+  "title": "Buildings Island",
+  "category": "buildings",
+  "path": "/data/journeys/a0/a0-buildings.json",
+  "song": "buildings"
+   },
+   {
+  "id": "a0-fruits",
+  "title": "Fruits Island",
+  "category": "fruits",
+  "path": "/data/journeys/a0/a0-fruits.json",
+  "song": "fruits"
+   },
+   {
+  "id": "a0-house",
+  "title": "House Island",
+  "category": "house",
+  "path": "/data/journeys/a0/a0-house.json",
+  "song": "house"
+   },
+   {
+  "id": "a0-human-body",
+  "title": "Human Body Island",
+  "category": "human-body",
+  "path": "/data/journeys/a0/a0-human-body.json",
+  "song": "human-body"
+   },
+   {
+  "id": "a0-nature",
+  "title": "Nature Island",
+  "category": "nature",
+  "path": "/data/journeys/a0/a0-nature.json",
+  "song": "nature"
+   },
+   {
+  "id": "a0-transportation",
+  "title": "Transportation Island",
+  "category": "transportation",
+  "path": "/data/journeys/a0/a0-transportation.json",
+  "song": "transportation"
+   },
+   {
+  "id": "a0-actions",
+  "title": "Action Island",
+  "category": "actions",
+  "path": "/data/journeys/a0/a0-actions.json",
+  "song": "action"
+   }
+  ]
+}

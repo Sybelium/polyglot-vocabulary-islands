@@ -1,0 +1,237 @@
+{
+  "slug": "transportation",
+  "titles": {
+    "en": "Transportation",
+    "fr": "Transports",
+    "es": "Transporte",
+    "it": "Trasporti",
+    "pt": "Transportes",
+    "de": "Verkehrsmittel",
+    "nl": "Vervoer"
+  },
+  "category": "Transportation",
+  "style": "Dynamic / adventurous",
+  "comment": "A fast-moving song exploring different ways of traveling across land, sea, air, and space.",
+
+  "cover": "/data/vocabulary/images/transportation.jpg",
+
+  "lyrics": {
+    "en": [
+      { "target": "I jump in a car, then ride a bus," },
+      { "target": "A bicycle rolls right next to us," },
+      { "target": "A motorbike speeds, a truck goes by," },
+      { "target": "A plane takes off in the sky" },
+
+      { "target": "A boat on the sea, a sailboat too," },
+      { "target": "A container ship with a giant crew," },
+      { "target": "A submarine dives deep below," },
+      { "target": "Where quiet ocean currents flow" },
+
+      { "target": "A helicopter spins up high," },
+      { "target": "An ambulance rushes flashing by," },
+      { "target": "A fire truck roars through the street," },
+      { "target": "While a skateboard rolls beneath my feet" },
+
+      { "target": "On roller skates I glide away," },
+      { "target": "Then a zeppelin floats in the sky so grey," },
+      { "target": "A parasail drifts in the breeze," },
+      { "target": "A hang glider sails with ease" },
+
+      { "target": "A rocket blasts into the night," },
+      { "target": "A spaceship glows with distant light," },
+      { "target": "From roads to stars, from sea to sky," },
+      { "target": "We travel far, we travel high" },
+
+      { "target": "So many ways to move and go," },
+      { "target": "Fast or slow, high or low," },
+      { "target": "Take a ride, come along," },
+      { "target": "Every road becomes a song" }
+    ],
+    "fr": [
+  { "target": "Je monte en voiture, puis dans le bus," },
+  { "target": "Un vélo passe tout proche de nous," },
+  { "target": "Une moto file, un camion roule," },
+  { "target": "Un avion décolle… et tout s’envole" },
+
+  { "target": "Un bateau avance sur la mer," },
+  { "target": "Un voilier glisse au gré du vent," },
+  { "target": "Un gros cargo passe au loin," },
+  { "target": "Un sous-marin disparaît soudain" },
+
+  { "target": "Un hélicoptère tourne au-dessus," },
+  { "target": "Une ambulance arrive en vitesse dans la rue," },
+  { "target": "Un camion de pompiers fait du bruit," },
+  { "target": "Un skateboard roule sous mes pieds" },
+
+  { "target": "En rollers je glisse tranquillement," },
+  { "target": "Un zeppelin flotte doucement," },
+  { "target": "Un parachute danse dans le vent," },
+  { "target": "Un deltaplane plane lentement" },
+
+  { "target": "Une fusée part dans la nuit," },
+  { "target": "Un vaisseau brille à l’infini," },
+  { "target": "De la route jusqu’au ciel," },
+  { "target": "On part très loin, c’est irréel" },
+
+  { "target": "On avance, on roule, on s’envole," },
+  { "target": "On traverse le monde sans effort," },
+  { "target": "Viens avec moi, on y va," },
+  { "target": "Chaque trajet nous emmène là" }
+],
+"es": [
+  { "target": "Voy en coche, luego en bus," },
+  { "target": "Una bici pasa junto a mí," },
+  { "target": "Una moto corre, un camión va," },
+  { "target": "Un avión despega… y se va" },
+
+  { "target": "Un barco avanza por el mar," },
+  { "target": "Un velero empieza a flotar," },
+  { "target": "Un gran barco pasa a lo lejos," },
+  { "target": "Un submarino baja en silencio" },
+
+  { "target": "Un helicóptero gira arriba," },
+  { "target": "Una ambulancia pasa deprisa," },
+  { "target": "Un camión de bomberos hace ruido," },
+  { "target": "Un skate rueda conmigo" },
+
+  { "target": "En patines voy sin parar," },
+  { "target": "Un zeppelin empieza a volar," },
+  { "target": "Un paracaídas baja con el viento," },
+  { "target": "Un ala delta va lento" },
+
+  { "target": "Un cohete sube hacia el cielo," },
+  { "target": "Una nave brilla a lo lejos," },
+  { "target": "De la calle hasta las estrellas," },
+  { "target": "Viajamos lejos… sin fronteras" },
+
+  { "target": "Vamos, vamos — sin parar," },
+  { "target": "Por la tierra, el aire y el mar," },
+  { "target": "Ven conmigo, vámonos ya," },
+  { "target": "Cada viaje nos lleva más allá" }
+],
+"it": [
+  { "target": "Vado in macchina, poi in bus," },
+  { "target": "Una bici passa accanto a me," },
+  { "target": "Una moto corre, un camion va," },
+  { "target": "Un aereo parte… e se ne va" },
+
+  { "target": "Una barca scivola sul mare," },
+  { "target": "Una vela inizia a navigare," },
+  { "target": "Una nave passa in lontananza," },
+  { "target": "Un sottomarino scende in silenzio" },
+
+  { "target": "Un elicottero gira su nel cielo," },
+  { "target": "Un’ambulanza passa in un lampo," },
+  { "target": "Un camion dei pompieri fa rumore," },
+  { "target": "Uno skate corre sotto i piedi" },
+
+  { "target": "Sui pattini vado piano piano," },
+  { "target": "Uno zeppelin vola lontano," },
+  { "target": "Un paracadute scende col vento," },
+  { "target": "Un deltaplano va lento" },
+
+  { "target": "Un razzo sale verso il cielo," },
+  { "target": "Un’astronave brilla da lontano," },
+  { "target": "Dalla strada fino alle stelle," },
+  { "target": "Andiamo lontano… senza confini" },
+
+  { "target": "Andiamo, andiamo — senza fermarci," },
+  { "target": "Tra terra, cielo e mare," },
+  { "target": "Vieni con me, andiamo via," },
+  { "target": "Ogni viaggio porta magia" }
+],
+"pt": [
+  { "target": "Vou de carro, depois de ônibus," },
+  { "target": "Uma bicicleta passa por mim," },
+  { "target": "Uma moto corre, um caminhão vai," },
+  { "target": "Um avião decola… e se vai" },
+
+  { "target": "Um barco segue pelo mar," },
+  { "target": "Um veleiro começa a navegar," },
+  { "target": "Um navio passa lá no fundo," },
+  { "target": "Um submarino desce em silêncio" },
+
+  { "target": "Um helicóptero gira lá no alto," },
+  { "target": "Uma ambulância passa bem rápido," },
+  { "target": "Um caminhão de bombeiros faz barulho," },
+  { "target": "Um skate roda junto comigo" },
+
+  { "target": "De patins eu vou devagar," },
+  { "target": "Um zeppelin começa a voar," },
+  { "target": "Um paraquedas desce com o vento," },
+  { "target": "Uma asa-delta vai bem lento" },
+
+  { "target": "Um foguete sobe pro céu," },
+  { "target": "Uma nave brilha lá no espaço," },
+  { "target": "Da rua até as estrelas," },
+  { "target": "A gente vai longe… sem parar" },
+
+  { "target": "Vamos, vamos — sem parar," },
+  { "target": "Pela terra, o céu e o mar," },
+  { "target": "Vem comigo, vamos lá," },
+  { "target": "Cada viagem leva a sonhar" }
+],
+"de": [
+  { "target": "Ich fahr im Auto, dann im Bus," },
+  { "target": "Ein Fahrrad fährt direkt bei mir," },
+  { "target": "Ein Motorrad fährt vorbei, ein LKW auch," },
+  { "target": "Ein Flugzeug hebt ab… und fliegt davon" },
+
+  { "target": "Ein Boot fährt ruhig auf dem Meer," },
+  { "target": "Ein Segelboot gleitet hin und her," },
+  { "target": "Ein großes Schiff ist weit entfernt," },
+  { "target": "Ein U-Boot taucht ganz leise ab" },
+
+  { "target": "Ein Hubschrauber fliegt oben im Himmel," },
+  { "target": "Ein Krankenwagen fährt schnell vorbei," },
+  { "target": "Ein Feuerwehrauto macht viel Lärm," },
+  { "target": "Ein Skateboard rollt unter mir" },
+
+  { "target": "Auf Rollschuhen fahr ich langsam," },
+  { "target": "Ein Zeppelin fliegt ganz weit weg," },
+  { "target": "Ein Fallschirm schwebt im Wind," },
+  { "target": "Ein Drachenflieger fliegt ganz ruhig" },
+
+  { "target": "Eine Rakete fliegt in den Himmel," },
+  { "target": "Ein Raumschiff leuchtet weit entfernt," },
+  { "target": "Von der Straße bis zu den Sternen," },
+  { "target": "Wir reisen weit… immer weiter" },
+
+  { "target": "Komm, wir gehen — immer weiter," },
+  { "target": "Über Land, durch Luft und Meer," },
+  { "target": "Komm mit mir, wir fahren los," },
+  { "target": "Jede Reise bringt uns mehr" }
+],
+"nl": [
+  { "target": "Ik ga met de auto, dan met de bus," },
+  { "target": "Een fiets rijdt langs mij," },
+  { "target": "Een motor gaat snel, een truck rijdt door," },
+  { "target": "Een vliegtuig stijgt op… en vliegt weg" },
+
+  { "target": "Een boot vaart rustig op zee," },
+  { "target": "Een zeilboot glijdt met de wind mee," },
+  { "target": "Een groot schip zie ik in de verte," },
+  { "target": "Een onderzeeër duikt stil naar beneden" },
+
+  { "target": "Een helikopter vliegt hoog in de lucht," },
+  { "target": "Een ambulance rijdt snel voorbij," },
+  { "target": "Een brandweerwagen maakt veel lawaai," },
+  { "target": "Een skateboard rolt onder mij" },
+
+  { "target": "Op rolschaatsen ga ik langzaam," },
+  { "target": "Een zeppelin zweeft ver weg," },
+  { "target": "Een parachute daalt met de wind," },
+  { "target": "Een deltavlieger gaat heel zacht" },
+
+  { "target": "Een raket schiet hoog de lucht in," },
+  { "target": "Een ruimteschip glanst ver weg," },
+  { "target": "Van de straat tot aan de sterren," },
+  { "target": "We reizen ver… steeds verder" },
+
+  { "target": "Kom, we gaan — steeds verder," },
+  { "target": "Over land, door lucht en zee," },
+  { "target": "Kom met mij, we gaan op weg," },
+  { "target": "Elke reis neemt ons mee" }
+]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": 7,
+  "name": "Buildings",
+  "icon": "🏢",
+  "description": "Common buildings and places in the city",
+  "words": [
+    { "id": 1, "en": "house", "fr": "maison", "es": "casa", "it": "casa", "pt": "casa", "de": "Haus", "nl": "huis", "image": "🏠" },
+    { "id": 2, "en": "street", "fr": "rue", "es": "calle", "it": "strada", "pt": "rua", "de": "Straße", "nl": "straat", "image": "🛣️" },
+    { "id": 3, "en": "corner", "fr": "coin", "es": "esquina", "it": "angolo", "pt": "esquina", "de": "Ecke", "nl": "hoek", "image": "↩️" },
+    { "id": 4, "en": "shop", "fr": "magasin", "es": "tienda", "it": "negozio", "pt": "loja", "de": "Geschäft", "nl": "winkel", "image": "🏪" },
+    { "id": 5, "en": "bakery", "fr": "boulangerie", "es": "panadería", "it": "panetteria", "pt": "padaria", "de": "Bäckerei", "nl": "bakkerij", "image": "🥖" },
+    { "id": 6, "en": "supermarket", "fr": "supermarché", "es": "supermercado", "it": "supermercato", "pt": "supermercado", "de": "Supermarkt", "nl": "supermarkt", "image": "🛒" },
+    { "id": 7, "en": "mall", "fr": "centre commercial", "es": "centro comercial", "it": "centro commerciale", "pt": "centro comercial", "de": "Einkaufszentrum", "nl": "winkelcentrum", "image": "🏬" },
+    { "id": 8, "en": "school", "fr": "école", "es": "escuela", "it": "scuola", "pt": "escola", "de": "Schule", "nl": "school", "image": "🏫" },
+    { "id": 9, "en": "university", "fr": "université", "es": "universidad", "it": "università", "pt": "universidade", "de": "Universität", "nl": "universiteit", "image": "🎓" },
+    { "id": 10, "en": "town hall", "fr": "mairie", "es": "ayuntamiento", "it": "municipio", "pt": "câmara municipal", "de": "Rathaus", "nl": "stadhuis", "image": "🏛️" },
+    { "id": 11, "en": "hospital", "fr": "hôpital", "es": "hospital", "it": "ospedale", "pt": "hospital", "de": "Krankenhaus", "nl": "ziekenhuis", "image": "🏥" },
+    { "id": 12, "en": "bank", "fr": "banque", "es": "banco", "it": "banca", "pt": "banco", "de": "Bank", "nl": "bank", "image": "🏦" },
+    { "id": 13, "en": "library", "fr": "bibliothèque", "es": "biblioteca", "it": "biblioteca", "pt": "biblioteca", "de": "Bibliothek", "nl": "bibliotheek", "image": "📚" },
+    { "id": 14, "en": "gas station", "fr": "station-service", "es": "gasolinera", "it": "stazione di servizio", "pt": "posto de gasolina", "de": "Tankstelle", "nl": "tankstation", "image": "⛽" },
+    { "id": 15, "en": "bus station", "fr": "gare routière", "es": "estación de autobuses", "it": "stazione degli autobus", "pt": "estação de autocarros", "de": "Busbahnhof", "nl": "busstation", "image": "🚌" },
+    { "id": 16, "en": "train station", "fr": "gare", "es": "estación de tren", "it": "stazione ferroviaria", "pt": "estação de comboios", "de": "Bahnhof", "nl": "treinstation", "image": "🚉" },
+    { "id": 17, "en": "police station", "fr": "commissariat", "es": "comisaría", "it": "commissariato", "pt": "esquadra", "de": "Polizeistation", "nl": "politiebureau", "image": "🚓" },
+    { "id": 18, "en": "airport", "fr": "aéroport", "es": "aeropuerto", "it": "aeroporto", "pt": "aeroporto", "de": "Flughafen", "nl": "luchthaven", "image": "✈️" },
+    { "id": 19, "en": "harbour", "fr": "port", "es": "puerto", "it": "porto", "pt": "porto", "de": "Hafen", "nl": "haven", "image": "⚓" },
+    { "id": 20, "en": "prison", "fr": "prison", "es": "prisión", "it": "prigione", "pt": "prisão", "de": "Gefängnis", "nl": "gevangenis", "image": "🔒" },
+    { "id": 21, "en": "zoo", "fr": "zoo", "es": "zoológico", "it": "zoo", "pt": "jardim zoológico", "de": "Zoo", "nl": "dierentuin", "image": "🦁" }
+  ]
+}

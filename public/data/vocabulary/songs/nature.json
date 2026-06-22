@@ -1,0 +1,272 @@
+{
+  "slug": "nature",
+  "titles": {
+    "en": "Nature",
+    "fr": "Nature",
+    "es": "Naturaleza",
+    "it": "Natura",
+    "pt": "Natureza",
+    "de": "Natur",
+    "nl": "Natuur"
+  },
+  "category": "Nature",
+  "style": "Atmospheric / immersive",
+  "comment": "A poetic journey through landscapes and elements to explore nature vocabulary in context.",
+
+  "cover": "/data/vocabulary/images/nature.jpg",
+
+  "lyrics": {
+    "en": [
+      { "target": "In the silence of the earth," },
+      { "target": "Where the wind begins to call," },
+      { "target": "By the river, by the sea," },
+      { "target": "There’s a hidden world for all" },
+
+      { "target": "Through the forest, dark and deep," },
+      { "target": "Past the mountains standing high," },
+      { "target": "By the lake where shadows sleep," },
+      { "target": "Underneath the open sky" },
+
+      { "target": "Trees are whispering in the air," },
+      { "target": "Flowers dancing in the light," },
+      { "target": "Rocks are resting everywhere," },
+      { "target": "Guiding travelers through the night" },
+
+      { "target": "Water flows and fire burns," },
+      { "target": "Earth is strong beneath our feet," },
+      { "target": "Wind will rise and slowly turn," },
+      { "target": "Air and sky and all we meet" },
+
+      { "target": "Plants will grow and animals run," },
+      { "target": "Clouds will gather in the blue," },
+      { "target": "Rain will fall, then comes the sun," },
+      { "target": "Painting life in every hue" },
+
+      { "target": "Storm is coming, hear the sound," },
+      { "target": "Lightning cuts across the sky," },
+      { "target": "Snow and hail fall to the ground," },
+      { "target": "Nature’s power rising high" },
+
+      { "target": "Then the silence comes again," },
+      { "target": "Moon above and stars so bright," },
+      { "target": "In this world of loss and gain," },
+      { "target": "Nature sings… through day and night" }
+    ],
+    "fr": [
+  { "target": "Dans le silence de la terre," },
+  { "target": "Quand le vent commence à parler," },
+  { "target": "Près du fleuve, près de la mer," },
+  { "target": "Un monde caché est né" },
+
+  { "target": "Dans la forêt sombre et profonde," },
+  { "target": "Au pied des montagnes si hautes," },
+  { "target": "Près du lac où l’ombre se fond," },
+  { "target": "Sous le ciel qui nous emporte" },
+
+  { "target": "Les arbres murmurent dans l’air," },
+  { "target": "Les fleurs dansent dans la lumière," },
+  { "target": "Les rochers dorment sur la terre," },
+  { "target": "Guidant nos pas dans la nuit claire" },
+
+  { "target": "L’eau s’écoule et le feu s’élève," },
+  { "target": "La terre tremble sous nos pas," },
+  { "target": "Le vent se lève et nous soulève," },
+  { "target": "L’air nous porte là-bas" },
+
+  { "target": "Les plantes grandissent en silence," },
+  { "target": "Les animaux courent sans bruit," },
+  { "target": "Les nuages dansent dans l’immense," },
+  { "target": "Puis la pluie tombe… et la vie suit" },
+
+  { "target": "La tempête gronde au loin," },
+  { "target": "L’éclair fend le ciel en deux," },
+  { "target": "La neige et la grêle tombent enfin," },
+  { "target": "La nature parle en feu" },
+
+  { "target": "Puis le calme revient encore," },
+  { "target": "La lune veille dans la nuit," },
+  { "target": "Entre ombre et lumière d’or," },
+  { "target": "La nature chante… à l’infini" }
+],
+"es": [
+  { "target": "En el silencio de la tierra," },
+  { "target": "Cuando el viento empieza a hablar," },
+  { "target": "Junto al río, junto al mar," },
+  { "target": "Hay un mundo por despertar" },
+
+  { "target": "Por el bosque oscuro y profundo," },
+  { "target": "Entre montañas hacia el cielo," },
+  { "target": "Junto al lago donde duerme el mundo," },
+  { "target": "Bajo el aire libre y lento" },
+
+  { "target": "Los árboles susurran en el viento," },
+  { "target": "Las flores bailan con la luz," },
+  { "target": "Las rocas guardan el tiempo," },
+  { "target": "Guiando pasos en la oscuridad" },
+
+  { "target": "El agua fluye, el fuego arde," },
+  { "target": "La tierra firme bajo los pies," },
+  { "target": "El viento gira y todo invade," },
+  { "target": "El aire vive una y otra vez" },
+
+  { "target": "Las plantas crecen sin hacer ruido," },
+  { "target": "Los animales corren sin parar," },
+  { "target": "Las nubes cruzan el infinito," },
+  { "target": "Y la lluvia empieza a cantar" },
+
+  { "target": "La tormenta rompe el cielo," },
+  { "target": "El relámpago cae sin paz," },
+  { "target": "Nieve y granizo tocan el suelo," },
+  { "target": "La fuerza empieza a despertar" },
+
+  { "target": "Luego el silencio vuelve al lugar," },
+  { "target": "La luna brilla en la noche," },
+  { "target": "Entre sombras y luz sin final," },
+  { "target": "La naturaleza… responde" }
+],
+"it": [
+  { "target": "Nel silenzio della terra," },
+  { "target": "Quando il vento inizia a parlare," },
+  { "target": "Vicino al fiume, vicino al mare," },
+  { "target": "C’è un mondo pronto a svegliarsi" },
+
+  { "target": "Nella foresta scura e profonda," },
+  { "target": "Tra le montagne alte nel cielo," },
+  { "target": "Accanto al lago dove il tempo si nasconde," },
+  { "target": "Sotto l’aria libera e lenta" },
+
+  { "target": "Gli alberi sussurrano nel vento," },
+  { "target": "I fiori danzano nella luce," },
+  { "target": "Le rocce custodiscono il tempo," },
+  { "target": "Guidando passi nella notte" },
+
+  { "target": "L’acqua scorre, il fuoco arde," },
+  { "target": "La terra vive sotto i piedi," },
+  { "target": "Il vento gira e tutto avvolge," },
+  { "target": "L’aria respira e sempre ritorna" },
+
+  { "target": "Le piante crescono in silenzio," },
+  { "target": "Gli animali corrono lontano," },
+  { "target": "Le nuvole attraversano il cielo," },
+  { "target": "E la pioggia cade piano piano" },
+
+  { "target": "La tempesta rompe il silenzio," },
+  { "target": "Il fulmine taglia il cielo in due," },
+  { "target": "Neve e grandine cadono a terra," },
+  { "target": "La natura mostra il suo potere" },
+
+  { "target": "Poi la calma torna ancora," },
+  { "target": "La luna brilla nella notte," },
+  { "target": "Tra ombra e luce senza fine," },
+  { "target": "La natura canta… e vive" }
+],
+"pt": [
+  { "target": "No silêncio da terra," },
+  { "target": "Quando o vento começa a falar," },
+  { "target": "Perto do rio, perto do mar," },
+  { "target": "Há um mundo a despertar" },
+
+  { "target": "Na floresta escura e profunda," },
+  { "target": "Entre montanhas no céu," },
+  { "target": "Ao lado do lago onde o tempo se esconde," },
+  { "target": "Sob o ar leve e fiel" },
+
+  { "target": "As árvores sussurram no vento," },
+  { "target": "As flores dançam na luz," },
+  { "target": "As rochas guardam o tempo," },
+  { "target": "Guiando passos em silêncio" },
+
+  { "target": "A água corre, o fogo arde," },
+  { "target": "A terra vive sob os pés," },
+  { "target": "O vento gira e tudo invade," },
+  { "target": "O ar respira outra vez" },
+
+  { "target": "As plantas crescem devagar," },
+  { "target": "Os animais correm sem parar," },
+  { "target": "As nuvens cruzam o céu," },
+  { "target": "E a chuva começa a cair" },
+
+  { "target": "A tempestade chega forte," },
+  { "target": "O relâmpago corta o céu," },
+  { "target": "Neve e granizo caem na terra," },
+  { "target": "A natureza mostra o seu véu" },
+
+  { "target": "Depois o silêncio volta ao ar," },
+  { "target": "A lua brilha na noite," },
+  { "target": "Entre sombra e luz sem fim," },
+  { "target": "A natureza vive… em mim" }
+],
+"de": [
+  { "target": "In der Stille der Erde," },
+  { "target": "Wenn der Wind zu sprechen beginnt," },
+  { "target": "Am Fluss, am Meer," },
+  { "target": "Erwacht eine verborgene Welt" },
+
+  { "target": "Im dunklen Wald, tief und still," },
+  { "target": "Zwischen Bergen, hoch im Himmel," },
+  { "target": "Am See, wo die Zeit sich verliert," },
+  { "target": "Unter dem weiten offenen Himmel" },
+
+  { "target": "Die Bäume flüstern im Wind," },
+  { "target": "Die Blumen tanzen im Licht," },
+  { "target": "Die Felsen ruhen in der Erde," },
+  { "target": "Und führen uns durch die Nacht" },
+
+  { "target": "Das Wasser fließt, das Feuer brennt," },
+  { "target": "Die Erde lebt unter den Füßen," },
+  { "target": "Der Wind dreht sich, bewegt die Welt," },
+  { "target": "Die Luft trägt alles mit sich" },
+
+  { "target": "Die Pflanzen wachsen ganz leise," },
+  { "target": "Die Tiere laufen durch das Land," },
+  { "target": "Die Wolken ziehen durch den Himmel," },
+  { "target": "Und der Regen fällt sanft herab" },
+
+  { "target": "Der Sturm beginnt zu toben," },
+  { "target": "Der Blitz zerreißt den Himmel," },
+  { "target": "Schnee und Hagel fallen zur Erde," },
+  { "target": "Die Natur zeigt ihre Kraft" },
+
+  { "target": "Dann kehrt die Ruhe zurück," },
+  { "target": "Der Mond scheint in der Nacht," },
+  { "target": "Zwischen Schatten und Licht," },
+  { "target": "Die Natur lebt… immer weiter" }
+],
+"nl": [
+  { "target": "In de stilte van de aarde," },
+  { "target": "Wanneer de wind begint te spreken," },
+  { "target": "Bij de rivier, bij de zee," },
+  { "target": "Ontwaakt een wereld, zacht en vrij" },
+
+  { "target": "In het bos, donker en diep," },
+  { "target": "Tussen bergen, hoog en stil," },
+  { "target": "Bij het meer waar de tijd verdwijnt," },
+  { "target": "Onder de open lucht zo vrij" },
+
+  { "target": "De bomen fluisteren in de wind," },
+  { "target": "De bloemen dansen in het licht," },
+  { "target": "De rotsen rusten op de grond," },
+  { "target": "En leiden ons door de nacht" },
+
+  { "target": "Het water stroomt, het vuur brandt," },
+  { "target": "De aarde leeft onder onze voeten," },
+  { "target": "De wind beweegt en draait rond," },
+  { "target": "De lucht draagt alles mee" },
+
+  { "target": "De planten groeien stil en zacht," },
+  { "target": "De dieren lopen door het land," },
+  { "target": "De wolken drijven door de lucht," },
+  { "target": "En de regen valt heel zacht" },
+
+  { "target": "De storm begint te komen," },
+  { "target": "De bliksem snijdt door de lucht," },
+  { "target": "Sneeuw en hagel vallen neer," },
+  { "target": "De natuur laat haar kracht zien" },
+
+  { "target": "Dan wordt het stil opnieuw," },
+  { "target": "De maan schijnt in de nacht," },
+  { "target": "Tussen donker en licht," },
+  { "target": "De natuur leeft… altijd" }
+]
+  }
+}

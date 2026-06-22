@@ -1,0 +1,366 @@
+{
+  "slug": "action",
+  "titles": {
+    "en": "Actions",
+    "fr": "Actions",
+    "es": "Acciones",
+    "it": "Azioni",
+    "pt": "Ações",
+    "de": "Aktionen",
+    "nl": "Acties"
+  },
+  "category": "Actions",
+  "style": "Energetic / rhythmic",
+  "comment": "An upbeat song to learn everyday action verbs through movement and rhythm.",
+  "cover": "/data/vocabulary/images/action.jpg",
+
+  "lyrics": {
+    "en": [
+  {
+    "target": "Clap your hands — move your feet,",
+    "start": 0.34,
+    "end": 3.78
+  },
+  {
+    "target": "Jump up high — feel the beat,",
+    "start": 3.96,
+    "end": 8.22
+  },
+  {
+    "target": "Turn around — don’t be slow,",
+    "start": 8.48,
+    "end": 12.52
+  },
+  {
+    "target": "Come on now — here we go!",
+    "start": 13.48,
+    "end": 17.46
+  },
+  {
+    "target": "Walk, run — stop, then go,",
+    "start": 18.84,
+    "end": 20.76
+  },
+  {
+    "target": "Stand up straight, then bend down low,",
+    "start": 21.06,
+    "end": 23.0
+  },
+  {
+    "target": "Look around, touch the ground,",
+    "start": 23.0,
+    "end": 25.1
+  },
+  {
+    "target": "Make a sound — louder now!",
+    "start": 25.46,
+    "end": 27.0
+  },
+  {
+    "target": "Say \"go!\" — (GO!)",
+    "start": 27.4,
+    "end": 28.34
+  },
+  {
+    "target": "Say \"stop!\" — (STOP!)",
+    "start": 28.5,
+    "end": 28.98
+  },
+  {
+    "target": "Move fast — don’t drop!",
+    "start": 29.0,
+    "end": 31.16
+  },
+  {
+    "target": "Clap your hands — move your feet,",
+    "start": 31.42,
+    "end": 34.28
+  },
+  {
+    "target": "Jump up high — feel the beat,",
+    "start": 34.5,
+    "end": 38.64
+  },
+  {
+    "target": "Turn around — don’t be slow,",
+    "start": 39.0,
+    "end": 43.48
+  },
+  {
+    "target": "Come on now — here we go!",
+    "start": 43.48,
+    "end": 47.7
+  },
+  {
+    "target": "Open, close — push, pull,",
+    "start": 47.7,
+    "end": 51.38
+  },
+  {
+    "target": "Take it easy, now go full,",
+    "start": 51.38,
+    "end": 53.52
+  },
+  {
+    "target": "Sit down, stand — left, right,",
+    "start": 53.52,
+    "end": 55.66
+  },
+  {
+    "target": "Keep it moving — feel the light!",
+    "start": 55.66,
+    "end": 57.82
+  },
+  {
+    "target": "Faster now — don’t wait,",
+    "start": 57.26,
+    "end": 59.48
+  },
+  {
+    "target": "Move your body — feel great,",
+    "start": 59.64,
+    "end": 61.74
+  },
+  {
+    "target": "Up and down — side to side,",
+    "start": 61.8,
+    "end": 64.6
+  },
+  {
+    "target": "Let the rhythm be your guide",
+    "start": 64.6,
+    "end": 66.62
+  },
+  {
+    "target": "Clap your hands — move your feet,",
+    "start": 66.62,
+    "end": 71.4
+  },
+  {
+    "target": "Jump up high — feel the beat,",
+    "start": 72.26,
+    "end": 75.84
+  },
+  {
+    "target": "Turn around — shout it loud,",
+    "start": 75.9,
+    "end": 80.2
+  },
+  {
+    "target": "You’re alive — feel it now!",
+    "start": 80.2,
+    "end": 84.3
+  }
+],
+    "fr": [
+  { "target": "Tape des mains — bouge les pieds," },
+  { "target": "Saute en l’air — sens le rythme," },
+  { "target": "Tourne sur toi — pas trop lent," },
+  { "target": "Allez viens — maintenant!" },
+
+  { "target": "Marche, cours — stop, vas-y," },
+  { "target": "Lève-toi, baisse-toi aussi," },
+  { "target": "Regarde autour, touche le sol," },
+  { "target": "Fais du bruit — encore plus fort!" },
+
+  { "target": "Dis \"go!\" — (GO!)" },
+  { "target": "Dis \"stop!\" — (STOP!)" },
+  { "target": "Plus vite — hop hop hop!" },
+
+  { "target": "Tape des mains — bouge les pieds," },
+  { "target": "Saute en l’air — sens le rythme," },
+  { "target": "Tourne sur toi — pas trop lent," },
+  { "target": "Allez viens — maintenant!" },
+
+  { "target": "Ouvre, ferme — pousse, tire," },
+  { "target": "Doucement… puis accélère," },
+  { "target": "Assieds-toi, lève-toi bien," },
+  { "target": "Gauche, droite — reviens!" },
+
+  { "target": "Plus rapide — n’attends pas," },
+  { "target": "Bouge ton corps — reste là," },
+  { "target": "Haut en bas — côté côté," },
+  { "target": "Suis le rythme — sans t’arrêter!" },
+
+  { "target": "Tape des mains — bouge les pieds," },
+  { "target": "Saute en l’air — sens le rythme," },
+  { "target": "Tourne sur toi — crie plus fort," },
+  { "target": "Tu es là — encore!" }
+],
+"es": [
+  { "target": "Aplaude ya — mueve los pies," },
+  { "target": "Salta alto — siente el ritmo," },
+  { "target": "Gira, gira — no pares más," },
+  { "target": "Vamos todos — ¡una vez más!" },
+
+  { "target": "Camina, corre — para, va," },
+  { "target": "Levántate, baja ya," },
+  { "target": "Mira a tu alrededor, toca el suelo," },
+  { "target": "Haz ruido — sin miedo!" },
+
+  { "target": "Di \"go!\" — (GO!)" },
+  { "target": "Di \"stop!\" — (STOP!)" },
+  { "target": "Más rápido — ¡no pares, no!" },
+
+  { "target": "Aplaude ya — mueve los pies," },
+  { "target": "Salta alto — siente el ritmo," },
+  { "target": "Gira, gira — no pares más," },
+  { "target": "Vamos todos — ¡una vez más!" },
+
+  { "target": "Abre, cierra — empuja, tira," },
+  { "target": "Despacio… luego sin medida," },
+  { "target": "Siéntate, levántate," },
+  { "target": "Izquierda, derecha — muévete!" },
+
+  { "target": "Más y más — no esperes," },
+  { "target": "Mueve el cuerpo — tú puedes," },
+  { "target": "Arriba, abajo — lado a lado," },
+  { "target": "Sigue el ritmo — sin parar!" },
+
+  { "target": "Aplaude ya — mueve los pies," },
+  { "target": "Salta alto — siente el ritmo," },
+  { "target": "Gira, gira — grita ya," },
+  { "target": "¡Estás vivo — muévete más!" }
+],
+"it": [
+  { "target": "Batti le mani — muovi i piedi," },
+  { "target": "Salta in alto — senti il ritmo," },
+  { "target": "Gira, gira — non fermarti," },
+  { "target": "Dai, vieni — tutti pronti!" },
+
+  { "target": "Cammina, corri — stop, vai," },
+  { "target": "Alzati, abbassati dai," },
+  { "target": "Guarda intorno, tocca terra," },
+  { "target": "Fai rumore — senza paura!" },
+
+  { "target": "Di \"go!\" — (GO!)" },
+  { "target": "Di \"stop!\" — (STOP!)" },
+  { "target": "Più veloce — non ti fermar!" },
+
+  { "target": "Batti le mani — muovi i piedi," },
+  { "target": "Salta in alto — senti il ritmo," },
+  { "target": "Gira, gira — non fermarti," },
+  { "target": "Dai, vieni — tutti pronti!" },
+
+  { "target": "Apri, chiudi — spingi, tira," },
+  { "target": "Piano piano… poi accelera," },
+  { "target": "Siediti, alzati," },
+  { "target": "Sinistra, destra — muoviti!" },
+
+  { "target": "Più veloce — dai così," },
+  { "target": "Muovi il corpo — resta qui," },
+  { "target": "Su e giù — lato a lato," },
+  { "target": "Segui il ritmo — non sei stanco!" },
+
+  { "target": "Batti le mani — muovi i piedi," },
+  { "target": "Salta in alto — senti il ritmo," },
+  { "target": "Gira, gira — grida forte," },
+  { "target": "Sei vivo — ancora più forte!" }
+],
+"pt": [
+  { "target": "Bate palmas — mexe os pés," },
+  { "target": "Salta alto — sente o ritmo," },
+  { "target": "Gira, gira — não pares mais," },
+  { "target": "Vem comigo — vamos já!" },
+
+  { "target": "Caminha, corre — para, vai," },
+  { "target": "Levanta, abaixa — faz mais," },
+  { "target": "Olha ao redor, toca o chão," },
+  { "target": "Faz barulho — sem pressão!" },
+
+  { "target": "Diz \"go!\" — (GO!)" },
+  { "target": "Diz \"stop!\" — (STOP!)" },
+  { "target": "Mais rápido — não pares, não!" },
+
+  { "target": "Bate palmas — mexe os pés," },
+  { "target": "Salta alto — sente o ritmo," },
+  { "target": "Gira, gira — não pares mais," },
+  { "target": "Vem comigo — vamos já!" },
+
+  { "target": "Abre, fecha — empurra, puxa," },
+  { "target": "Devagar… depois acelera," },
+  { "target": "Senta, levanta," },
+  { "target": "Esquerda, direita — anda!" },
+
+  { "target": "Mais e mais — não espera," },
+  { "target": "Move o corpo — sem barreira," },
+  { "target": "Cima, baixo — lado a lado," },
+  { "target": "Segue o ritmo — animado!" },
+
+  { "target": "Bate palmas — mexe os pés," },
+  { "target": "Salta alto — sente o ritmo," },
+  { "target": "Gira, gira — grita já," },
+  { "target": "Estás vivo — vem dançar!" }
+],
+"de": [
+  { "target": "Klatsch in die Hände — beweg die Füße," },
+  { "target": "Spring nach oben — fühl den Beat," },
+  { "target": "Dreh dich um — nicht zu langsam," },
+  { "target": "Komm jetzt — mach mit!" },
+
+  { "target": "Geh, lauf — stopp, dann los," },
+  { "target": "Steh auf, geh runter groß," },
+  { "target": "Schau dich um, berühr den Boden," },
+  { "target": "Mach ein Geräusch — ganz laut!" },
+
+  { "target": "Sag \"go!\" — (GO!)" },
+  { "target": "Sag \"stop!\" — (STOP!)" },
+  { "target": "Schneller jetzt — hör nicht auf!" },
+
+  { "target": "Klatsch in die Hände — beweg die Füße," },
+  { "target": "Spring nach oben — fühl den Beat," },
+  { "target": "Dreh dich um — nicht zu langsam," },
+  { "target": "Komm jetzt — mach mit!" },
+
+  { "target": "Öffne, schließ — drück, zieh," },
+  { "target": "Langsam… dann schnell wie nie," },
+  { "target": "Setz dich, steh auf," },
+  { "target": "Links, rechts — lauf!" },
+
+  { "target": "Schneller jetzt — warte nicht," },
+  { "target": "Beweg den Körper — fühl das Licht," },
+  { "target": "Hoch und runter — Seite an Seite," },
+  { "target": "Folge dem Rhythmus — bleib dabei!" },
+
+  { "target": "Klatsch in die Hände — beweg die Füße," },
+  { "target": "Spring nach oben — fühl den Beat," },
+  { "target": "Dreh dich um — ruf es laut," },
+  { "target": "Du bist hier — fühl den Sound!" }
+],
+"nl": [
+  { "target": "Klap in je handen — beweeg je voeten," },
+  { "target": "Spring omhoog — voel de beat," },
+  { "target": "Draai je rond — niet te langzaam," },
+  { "target": "Kom maar — doe mee!" },
+
+  { "target": "Loop, ren — stop, ga," },
+  { "target": "Sta op, buk — hopla," },
+  { "target": "Kijk om je heen, raak de grond," },
+  { "target": "Maak geluid — lekker luid!" },
+
+  { "target": "Zeg \"go!\" — (GO!)" },
+  { "target": "Zeg \"stop!\" — (STOP!)" },
+  { "target": "Sneller nu — geef niet op!" },
+
+  { "target": "Klap in je handen — beweeg je voeten," },
+  { "target": "Spring omhoog — voel de beat," },
+  { "target": "Draai je rond — niet te langzaam," },
+  { "target": "Kom maar — doe mee!" },
+
+  { "target": "Open, sluit — duw, trek," },
+  { "target": "Langzaam… dan met tempo," },
+  { "target": "Ga zitten, sta weer op," },
+  { "target": "Links, rechts — kom op!" },
+
+  { "target": "Sneller nu — wacht niet," },
+  { "target": "Beweeg je lichaam — voel de beat," },
+  { "target": "Omhoog, omlaag — zij aan zij," },
+  { "target": "Volg het ritme — jij en ik!" },
+
+  { "target": "Klap in je handen — beweeg je voeten," },
+  { "target": "Spring omhoog — voel de beat," },
+  { "target": "Draai je rond — roep het luid," },
+  { "target": "Je leeft — voel het nu!" }
+]
+  }
+}

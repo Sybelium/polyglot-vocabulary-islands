@@ -1,0 +1,10 @@
+{
+  "id": "a0-days",
+  "title": "Day Island",
+  "category": "days",
+  "song": "days",
+  "cover": "/images/journeys/a0/days_island.webp",
+  "icon": "📅",
+  "themeColor": "#10B981",
+  "wordIds": [1, 2, 3, 4, 5, 6, 7]
+}

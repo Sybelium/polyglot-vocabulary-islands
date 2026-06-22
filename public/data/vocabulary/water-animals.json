@@ -1,0 +1,26 @@
+{
+  "id": 21,
+  "name": "Water Animals",
+  "icon": "🐠",
+  "description": "Marine and aquatic animals",
+  "words": [
+    { "id": 1, "en": "dolphin", "fr": "dauphin", "es": "delfín", "it": "delfino", "pt": "golfinho", "de": "Delfin", "nl": "dolfijn", "image": "🐬" },
+    { "id": 2, "en": "whale", "fr": "baleine", "es": "ballena", "it": "balena", "pt": "baleia", "de": "Wal", "nl": "walvis", "image": "🐋" },
+    { "id": 3, "en": "shark", "fr": "requin", "es": "tiburón", "it": "squalo", "pt": "tubarão", "de": "Hai", "nl": "haai", "image": "🦈" },
+    { "id": 4, "en": "turtle", "fr": "tortue", "es": "tortuga", "it": "tartaruga", "pt": "tartaruga", "de": "Schildkröte", "nl": "schildpad", "image": "🐢" },
+    { "id": 5, "en": "fish", "fr": "poisson", "es": "pez", "it": "pesce", "pt": "peixe", "de": "Fisch", "nl": "vis", "image": "🐟" },
+    { "id": 6, "en": "sea lion", "fr": "otarie", "es": "león marino", "it": "leone marino", "pt": "leão-marinho", "de": "Seelöwe", "nl": "zeeleeuw", "image": "🦭" },
+    { "id": 7, "en": "crab", "fr": "crabe", "es": "cangrejo", "it": "granchio", "pt": "caranguejo", "de": "Krabbe", "nl": "krab", "image": "🦀" },
+    { "id": 8, "en": "mussel", "fr": "moule", "es": "mejillón", "it": "cozza", "pt": "mexilhão", "de": "Muschel", "nl": "mossel", "image": "🦪" },
+    { "id": 9, "en": "oyster", "fr": "huître", "es": "ostra", "it": "ostrica", "pt": "ostra", "de": "Auster", "nl": "oester", "image": "🦪" },
+    { "id": 10, "en": "shrimp", "fr": "crevette", "es": "camarón", "it": "gamberetto", "pt": "camarão", "de": "Garnele", "nl": "garnaal", "image": "🦐" },
+    { "id": 11, "en": "prawn", "fr": "gambas", "es": "gamba", "it": "gambero", "pt": "gamba", "de": "Garnele", "nl": "grote garnaal", "image": "🦐" },
+    { "id": 12, "en": "lobster", "fr": "homard", "es": "langosta", "it": "aragosta", "pt": "lagosta", "de": "Hummer", "nl": "kreeft", "image": "🦞" },
+    { "id": 13, "en": "sea urchin", "fr": "oursin", "es": "erizo de mar", "it": "riccio di mare", "pt": "ouriço-do-mar", "de": "Seeigel", "nl": "zee-egel", "image": "🦔" },
+    { "id": 14, "en": "mermaid", "fr": "sirène", "es": "sirena", "it": "sirena", "pt": "sereia", "de": "Meerjungfrau", "nl": "zeemeermin", "image": "🧜" },
+    { "id": 15, "en": "octopus", "fr": "poulpe", "es": "pulpo", "it": "polpo", "pt": "polvo", "de": "Oktopus", "nl": "inktvis", "image": "🐙" },
+    { "id": 16, "en": "squid", "fr": "calmar", "es": "calamar", "it": "calamaro", "pt": "lula", "de": "Kalmar", "nl": "inktvis", "image": "🦑" },
+    { "id": 17, "en": "frog", "fr": "grenouille", "es": "rana", "it": "rana", "pt": "rã", "de": "Frosch", "nl": "kikker", "image": "🐸" },
+    { "id": 18, "en": "penguin", "fr": "manchot", "es": "pingüino", "it": "pinguino", "pt": "pinguim", "de": "Pinguin", "nl": "pinguïn", "image": "🐧" }
+  ]
+}

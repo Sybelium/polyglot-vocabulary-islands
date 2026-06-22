@@ -1,0 +1,32 @@
+{
+  "id": 11,
+  "name": "Nature",
+  "icon": "🌿",
+  "description": "Natural elements and phenomena",
+  "words": [
+    { "id": 1, "en": "sea", "fr": "mer", "es": "mar", "it": "mare", "pt": "mar", "de": "Meer", "nl": "zee", "image": "🌊" },
+    { "id": 2, "en": "river", "fr": "rivière", "es": "río", "it": "fiume", "pt": "rio", "de": "Fluss", "nl": "rivier", "image": "🏞️" },
+    { "id": 3, "en": "lake", "fr": "lac", "es": "lago", "it": "lago", "pt": "lago", "de": "See", "nl": "meer", "image": "🏞️" },
+    { "id": 4, "en": "forest", "fr": "forêt", "es": "bosque", "it": "foresta", "pt": "floresta", "de": "Wald", "nl": "bos", "image": "🌲" },
+    { "id": 5, "en": "mountain", "fr": "montagne", "es": "montaña", "it": "montagna", "pt": "montanha", "de": "Berg", "nl": "berg", "image": "⛰️" },
+    { "id": 6, "en": "tree", "fr": "arbre", "es": "árbol", "it": "albero", "pt": "árvore", "de": "Baum", "nl": "boom", "image": "🌳" },
+    { "id": 7, "en": "flower", "fr": "fleur", "es": "flor", "it": "fiore", "pt": "flor", "de": "Blume", "nl": "bloem", "image": "🌸" },
+    { "id": 8, "en": "rock", "fr": "rocher", "es": "roca", "it": "roccia", "pt": "rocha", "de": "Fels", "nl": "rots", "image": "🪨" },
+    { "id": 9, "en": "water", "fr": "eau", "es": "agua", "it": "acqua", "pt": "água", "de": "Wasser", "nl": "water", "image": "💧" },
+    { "id": 10, "en": "earth", "fr": "terre", "es": "tierra", "it": "terra", "pt": "terra", "de": "Erde", "nl": "aarde", "image": "🌍" },
+    { "id": 11, "en": "fire", "fr": "feu", "es": "fuego", "it": "fuoco", "pt": "fogo", "de": "Feuer", "nl": "vuur", "image": "🔥" },
+    { "id": 12, "en": "wind", "fr": "vent", "es": "viento", "it": "vento", "pt": "vento", "de": "Wind", "nl": "wind", "image": "💨" },
+    { "id": 13, "en": "air", "fr": "air", "es": "aire", "it": "aria", "pt": "ar", "de": "Luft", "nl": "lucht", "image": "🌬️" },
+    { "id": 14, "en": "plants", "fr": "plantes", "es": "plantas", "it": "piante", "pt": "plantas", "de": "Pflanzen", "nl": "planten", "image": "🌱" },
+    { "id": 15, "en": "animals", "fr": "animaux", "es": "animales", "it": "animali", "pt": "animais", "de": "Tiere", "nl": "dieren", "image": "🐾" },
+    { "id": 16, "en": "cloud", "fr": "nuage", "es": "nube", "it": "nuvola", "pt": "nuvem", "de": "Wolke", "nl": "wolk", "image": "☁️" },
+    { "id": 17, "en": "rain", "fr": "pluie", "es": "lluvia", "it": "pioggia", "pt": "chuva", "de": "Regen", "nl": "regen", "image": "🌧️" },
+    { "id": 18, "en": "grass", "fr": "herbe", "es": "hierba", "it": "erba", "pt": "erva", "de": "Gras", "nl": "gras", "image": "🌾" },
+    { "id": 19, "en": "sun", "fr": "soleil", "es": "sol", "it": "sole", "pt": "sol", "de": "Sonne", "nl": "zon", "image": "☀️" },
+    { "id": 20, "en": "moon", "fr": "lune", "es": "luna", "it": "luna", "pt": "lua", "de": "Mond", "nl": "maan", "image": "🌙" },
+    { "id": 21, "en": "snow", "fr": "neige", "es": "nieve", "it": "neve", "pt": "neve", "de": "Schnee", "nl": "sneeuw", "image": "❄️" },
+    { "id": 22, "en": "storm", "fr": "tempête", "es": "tormenta", "it": "tempesta", "pt": "tempestade", "de": "Sturm", "nl": "storm", "image": "⛈️" },
+    { "id": 23, "en": "lightning", "fr": "éclair", "es": "relámpago", "it": "fulmine", "pt": "relâmpago", "de": "Blitz", "nl": "bliksem", "image": "⚡" },
+    { "id": 24, "en": "hail", "fr": "grêle", "es": "granizo", "it": "grandine", "pt": "granizo", "de": "Hagel", "nl": "hagel", "image": "🧊" }
+  ]
+}

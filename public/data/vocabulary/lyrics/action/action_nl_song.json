@@ -1,0 +1,96 @@
+{
+  "id": "action_nl",
+  "title": "Action",
+  "language": "nl",
+  "trackType": "song",
+  "sourceMedia": {
+    "audio": "action_NL.mp3",
+    "durationSeconds": 99.88,
+    "observedStructure": "One full lyric cycle across hook, verses, call and response, bridge, and final hook."
+  },
+  "display": {
+    "showPhonetic": false,
+    "showTranslation": false,
+    "showTengwar": false
+  },
+  "lyrics": {
+    "sections": [
+      {
+        "name": "Hook",
+        "lines": [
+          "Klap in je handen — beweeg je voeten,  ",
+          "Spring omhoog — voel de beat,  ",
+          "Draai je rond — niet te langzaam,  ",
+          "Kom maar — doe mee!  "
+        ],
+        "start": 0.0,
+        "end": 15.366
+      },
+      {
+        "name": "Verse 1",
+        "lines": [
+          "Loop, ren — stop, ga,  ",
+          "Sta op, buk — hopla,  ",
+          "Kijk om je heen, raak de grond,  ",
+          "Maak geluid — lekker luid!  "
+        ],
+        "start": 15.366,
+        "end": 30.732
+      },
+      {
+        "name": "Call & Response",
+        "lines": [
+          "Zeg “go!” — (GO!)  ",
+          "Zeg “stop!” — (STOP!)  ",
+          "Sneller nu — geef niet op!  "
+        ],
+        "start": 30.732,
+        "end": 38.415
+      },
+      {
+        "name": "Hook",
+        "lines": [
+          "Klap in je handen — beweeg je voeten,  ",
+          "Spring omhoog — voel de beat,  ",
+          "Draai je rond — niet te langzaam,  ",
+          "Kom maar — doe mee!  "
+        ],
+        "start": 38.415,
+        "end": 53.782
+      },
+      {
+        "name": "Verse 2",
+        "lines": [
+          "Open, sluit — duw, trek,  ",
+          "Langzaam… dan met tempo,  ",
+          "Ga zitten, sta weer op,  ",
+          "Links, rechts — kom op!  "
+        ],
+        "start": 53.782,
+        "end": 69.148
+      },
+      {
+        "name": "Bridge",
+        "lines": [
+          "Sneller nu — wacht niet,  ",
+          "Beweeg je lichaam — voel de beat,  ",
+          "Omhoog, omlaag — zij aan zij,  ",
+          "Volg het ritme — jij en ik!  "
+        ],
+        "start": 69.148,
+        "end": 84.514
+      },
+      {
+        "name": "Final Hook",
+        "lines": [
+          "Klap in je handen — beweeg je voeten,  ",
+          "Spring omhoog — voel de beat,  ",
+          "Draai je rond — roep het luid,  ",
+          "Je leeft — voel het nu!"
+        ],
+        "start": 84.514,
+        "end": 99.88
+      }
+    ]
+  }
+}

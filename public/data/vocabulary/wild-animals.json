@@ -1,0 +1,28 @@
+{
+  "id": 20,
+  "name": "Wild Animals",
+  "icon": "🦁",
+  "description": "Wild and exotic animals",
+  "words": [
+    { "id": 1, "en": "lion", "fr": "lion", "es": "león", "it": "leone", "pt": "leão", "de": "Löwe", "nl": "leeuw", "image": "🦁" },
+    { "id": 2, "en": "tiger", "fr": "tigre", "es": "tigre", "it": "tigre", "pt": "tigre", "de": "Tiger", "nl": "tijger", "image": "🐯" },
+    { "id": 3, "en": "wolf", "fr": "loup", "es": "lobo", "it": "lupo", "pt": "lobo", "de": "Wolf", "nl": "wolf", "image": "🐺" },
+    { "id": 4, "en": "fox", "fr": "renard", "es": "zorro", "it": "volpe", "pt": "raposa", "de": "Fuchs", "nl": "vos", "image": "🦊" },
+    { "id": 5, "en": "eagle", "fr": "aigle", "es": "águila", "it": "aquila", "pt": "águia", "de": "Adler", "nl": "adelaar", "image": "🦅" },
+    { "id": 6, "en": "bear", "fr": "ours", "es": "oso", "it": "orso", "pt": "urso", "de": "Bär", "nl": "beer", "image": "🐻" },
+    { "id": 7, "en": "crocodile", "fr": "crocodile", "es": "cocodrilo", "it": "coccodrillo", "pt": "crocodilo", "de": "Krokodil", "nl": "krokodil", "image": "🐊" },
+    { "id": 8, "en": "antelope", "fr": "antilope", "es": "antílope", "it": "antilope", "pt": "antílope", "de": "Antilope", "nl": "antilope", "image": "🦌" },
+    { "id": 9, "en": "snake", "fr": "serpent", "es": "serpiente", "it": "serpente", "pt": "serpente", "de": "Schlange", "nl": "slang", "image": "🐍" },
+    { "id": 10, "en": "elephant", "fr": "éléphant", "es": "elefante", "it": "elefante", "pt": "elefante", "de": "Elefant", "nl": "olifant", "image": "🐘" },
+    { "id": 11, "en": "panda", "fr": "panda", "es": "panda", "it": "panda", "pt": "panda", "de": "Panda", "nl": "panda", "image": "🐼" },
+    { "id": 12, "en": "hippo", "fr": "hippopotame", "es": "hipopótamo", "it": "ippopotamo", "pt": "hipopótamo", "de": "Nilpferd", "nl": "nijlpaard", "image": "🦛" },
+    { "id": 13, "en": "zebra", "fr": "zèbre", "es": "cebra", "it": "zebra", "pt": "zebra", "de": "Zebra", "nl": "zebra", "image": "🦓" },
+    { "id": 14, "en": "monkey", "fr": "singe", "es": "mono", "it": "scimmia", "pt": "macaco", "de": "Affe", "nl": "aap", "image": "🐵" },
+    { "id": 15, "en": "kangaroo", "fr": "kangourou", "es": "canguro", "it": "canguro", "pt": "canguru", "de": "Känguru", "nl": "kangoeroe", "image": "🦘" },
+    { "id": 16, "en": "ostrich", "fr": "autruche", "es": "avestruz", "it": "struzzo", "pt": "avestruz", "de": "Strauß", "nl": "struisvogel", "image": "🦤" },
+    { "id": 17, "en": "boar", "fr": "sanglier", "es": "jabalí", "it": "cinghiale", "pt": "javali", "de": "Wildschwein", "nl": "everzwijn", "image": "🐗" },
+    { "id": 18, "en": "deer", "fr": "cerf", "es": "ciervo", "it": "cervo", "pt": "veado", "de": "Hirsch", "nl": "hert", "image": "🦌" },
+    { "id": 19, "en": "bison", "fr": "bison", "es": "bisonte", "it": "bisonte", "pt": "bisão", "de": "Bison", "nl": "bizon", "image": "🦬" },
+    { "id": 20, "en": "sasquatch", "fr": "yéti", "es": "yeti", "it": "yeti", "pt": "yeti", "de": "Yeti", "nl": "yeti", "image": "🦧" }
+  ]
+}

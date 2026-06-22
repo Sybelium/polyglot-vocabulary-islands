@@ -1,0 +1,23 @@
+{
+  "id": 2,
+  "name": "Colors",
+  "icon": "🎨",
+  "description": "Common colors and shades",
+  "words": [
+    { "id": 1, "en": "black", "fr": "noir", "es": "negro", "it": "nero", "pt": "preto", "de": "schwarz", "nl": "zwart", "image": "⚫" },
+    { "id": 2, "en": "white", "fr": "blanc", "es": "blanco", "it": "bianco", "pt": "branco", "de": "weiß", "nl": "wit", "image": "⚪" },
+    { "id": 3, "en": "grey", "fr": "gris", "es": "gris", "it": "grigio", "pt": "cinzento", "de": "grau", "nl": "grijs", "image": "⚪" },
+    { "id": 4, "en": "red", "fr": "rouge", "es": "rojo", "it": "rosso", "pt": "vermelho", "de": "rot", "nl": "rood", "image": "🔴" },
+    { "id": 5, "en": "green", "fr": "vert", "es": "verde", "it": "verde", "pt": "verde", "de": "grün", "nl": "groen", "image": "🟢" },
+    { "id": 6, "en": "blue", "fr": "bleu", "es": "azul", "it": "blu", "pt": "azul", "de": "blau", "nl": "blauw", "image": "🔵" },
+    { "id": 7, "en": "yellow", "fr": "jaune", "es": "amarillo", "it": "giallo", "pt": "amarelo", "de": "gelb", "nl": "geel", "image": "🟡" },
+    { "id": 8, "en": "orange", "fr": "orange", "es": "naranja", "it": "arancione", "pt": "laranja", "de": "orange", "nl": "oranje", "image": "🟠" },
+    { "id": 9, "en": "brown", "fr": "marron", "es": "marrón", "it": "marrone", "pt": "castanho", "de": "braun", "nl": "bruin", "image": "🟤" },
+    { "id": 10, "en": "purple", "fr": "violet", "es": "morado", "it": "viola", "pt": "roxo", "de": "lila", "nl": "paars", "image": "🟣" },
+    { "id": 11, "en": "pink", "fr": "rose", "es": "rosa", "it": "rosa", "pt": "cor-de-rosa", "de": "rosa", "nl": "roze", "image": "🩷" },
+    { "id": 12, "en": "silver", "fr": "argent", "es": "plata", "it": "argento", "pt": "prata", "de": "silber", "nl": "zilver", "image": "🥈" },
+    { "id": 13, "en": "gold", "fr": "or", "es": "oro", "it": "oro", "pt": "ouro", "de": "gold", "nl": "goud", "image": "🥇" },
+    { "id": 14, "en": "infrared", "fr": "infrarouge", "es": "infrarrojo", "it": "infrarosso", "pt": "infravermelho", "de": "infrarot", "nl": "infrarood", "image": "🔴📡" },
+    { "id": 15, "en": "ultraviolet", "fr": "ultraviolet", "es": "ultravioleta", "it": "ultravioletto", "pt": "ultravioleta", "de": "ultraviolett", "nl": "ultraviolet", "image": "🟣📡" }
+  ]
+}

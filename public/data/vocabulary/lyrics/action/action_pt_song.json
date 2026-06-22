@@ -1,0 +1,96 @@
+{
+  "id": "action_pt",
+  "title": "Action",
+  "language": "pt",
+  "trackType": "song",
+  "sourceMedia": {
+    "audio": "action_PT.mp3",
+    "durationSeconds": 89.08,
+    "observedStructure": "One full lyric cycle across hook, verses, call and response, bridge, and final hook."
+  },
+  "display": {
+    "showPhonetic": false,
+    "showTranslation": false,
+    "showTengwar": false
+  },
+  "lyrics": {
+    "sections": [
+      {
+        "name": "Hook",
+        "lines": [
+          "Bate palmas — mexe os pés,  ",
+          "Salta alto — sente o ritmo,  ",
+          "Gira, gira — não pares mais,  ",
+          "Vem comigo — vamos já!  "
+        ],
+        "start": 0.0,
+        "end": 13.705
+      },
+      {
+        "name": "Verse 1",
+        "lines": [
+          "Caminha, corre — para, vai,  ",
+          "Levanta, abaixa — faz mais,  ",
+          "Olha ao redor, toca o chão,  ",
+          "Faz barulho — sem pressão!  "
+        ],
+        "start": 13.705,
+        "end": 27.409
+      },
+      {
+        "name": "Call & Response",
+        "lines": [
+          "Diz “go!” — (GO!)  ",
+          "Diz “stop!” — (STOP!)  ",
+          "Mais rápido — não pares, não!  "
+        ],
+        "start": 27.409,
+        "end": 34.262
+      },
+      {
+        "name": "Hook",
+        "lines": [
+          "Bate palmas — mexe os pés,  ",
+          "Salta alto — sente o ritmo,  ",
+          "Gira, gira — não pares mais,  ",
+          "Vem comigo — vamos já!  "
+        ],
+        "start": 34.262,
+        "end": 47.966
+      },
+      {
+        "name": "Verse 2",
+        "lines": [
+          "Abre, fecha — empurra, puxa,  ",
+          "Devagar… depois acelera,  ",
+          "Senta, levanta,  ",
+          "Esquerda, direita — anda!  "
+        ],
+        "start": 47.966,
+        "end": 61.671
+      },
+      {
+        "name": "Bridge",
+        "lines": [
+          "Mais e mais — não espera,  ",
+          "Move o corpo — sem barreira,  ",
+          "Cima, baixo — lado a lado,  ",
+          "Segue o ritmo — animado!  "
+        ],
+        "start": 61.671,
+        "end": 75.375
+      },
+      {
+        "name": "Final Hook",
+        "lines": [
+          "Bate palmas — mexe os pés,  ",
+          "Salta alto — sente o ritmo,  ",
+          "Gira, gira — grita já,  ",
+          "Estás vivo — vem dançar!"
+        ],
+        "start": 75.375,
+        "end": 89.08
+      }
+    ]
+  }
+}

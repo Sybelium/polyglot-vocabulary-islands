@@ -1,0 +1,59 @@
+{
+  "songId": "action",
+  "lang": "es",
+  "sections": [
+    {
+      "name": "Hook",
+      "lines": [
+        "Aplaude ya — mueve los pies,",
+        "Salta alto — siente el ritmo,",
+        "Gira, gira — no pares más,",
+        "Vamos todos — ¡una vez más!"
+      ]
+    },
+    {
+      "name": "Verse 1",
+      "lines": [
+        "Camina, corre — para, va,",
+        "Levántate, baja ya,",
+        "Mira a tu alrededor, toca el suelo,",
+        "Haz ruido — sin miedo!"
+      ]
+    },
+    {
+      "name": "Call & Response",
+      "lines": [
+        "Di “go!” — (GO!)",
+        "Di “stop!” — (STOP!)",
+        "Más rápido — ¡no pares, no!"
+      ]
+    },
+    {
+      "name": "Verse 2",
+      "lines": [
+        "Abre, cierra — empuja, tira,",
+        "Despacio… luego sin medida,",
+        "Siéntate, levántate,",
+        "Izquierda, derecha — muévete!"
+      ]
+    },
+    {
+      "name": "Bridge",
+      "lines": [
+        "Más y más — no esperes,",
+        "Mueve el cuerpo — tú puedes,",
+        "Arriba, abajo — lado a lado,",
+        "Sigue el ritmo — sin parar!"
+      ]
+    },
+    {
+      "name": "Final Hook",
+      "lines": [
+        "Aplaude ya — mueve los pies,",
+        "Salta alto — siente el ritmo,",
+        "Gira, gira — grita ya,",
+        "¡Estás vivo — muévete más!"
+      ]
+    }
+  ]
+}

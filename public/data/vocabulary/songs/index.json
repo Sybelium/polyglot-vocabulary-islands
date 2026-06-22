@@ -1,0 +1,110 @@
+[
+  {
+    "slug": "action",
+    "title": "Action",
+    "category": "Action",
+    "style": "Energetic / movement",
+    "comment": "A lively song to learn everyday action words.",
+    "cover": "/data/vocabulary/images/action.jpg",
+    "availableLanguages": ["en", "fr", "es", "it", "pt", "de", "nl"]
+  },
+  {
+    "slug": "antonyms",
+    "title": "Antonyms",
+    "category": "Antonyms",
+    "style": "Playful / contrast-based",
+    "comment": "A catchy way to remember opposite words.",
+    "cover": "/data/vocabulary/images/antonyms.jpg",
+    "availableLanguages": ["en", "fr", "es", "it", "pt", "de", "nl"]
+  },
+  {
+    "slug": "buildings",
+    "title": "Buildings",
+    "category": "Buildings",
+    "style": "Urban / descriptive",
+    "comment": "Vocabulary for places and buildings around town.",
+    "cover": "/data/vocabulary/images/buildings.jpg",
+    "availableLanguages": ["en", "fr", "es", "it", "pt", "de", "nl"]
+  },
+  {
+    "slug": "colors",
+    "title": "Colors",
+    "category": "Colors",
+    "style": "Catchy / playful",
+    "comment": "A bright, memorable song for core color vocabulary.",
+    "cover": "/data/vocabulary/images/colors.jpg",
+    "availableLanguages": ["en", "fr", "es", "it", "pt", "de", "nl"]
+  },
+  {
+    "slug": "days",
+    "title": "Days",
+    "category": "Days",
+    "style": "Routine / rhythmic",
+    "comment": "A simple routine song for the days of the week.",
+    "cover": "/data/vocabulary/images/days.jpg",
+    "availableLanguages": ["en", "fr", "es", "it", "pt", "de", "nl"]
+  },
+  {
+    "slug": "fruits",
+    "title": "Fruits",
+    "category": "Fruits",
+    "style": "Funky / tropical",
+    "comment": "A fun fruit vocabulary song with a cheerful groove.",
+    "cover": "/data/vocabulary/images/fruits.jpg",
+    "availableLanguages": ["en", "fr", "es", "it", "pt", "de", "nl"]
+  },
+  {
+    "slug": "house",
+    "title": "House",
+    "category": "House",
+    "style": "Story / adventure",
+    "comment": "A home-themed song with room and object vocabulary.",
+    "cover": "/data/vocabulary/images/house.jpg",
+    "availableLanguages": ["en", "fr", "es", "it", "pt", "de", "nl"]
+  },
+  {
+    "slug": "human-body",
+    "title": "Human Body",
+    "category": "Human Body",
+    "style": "Educational / upbeat",
+    "comment": "A body vocabulary song for beginners.",
+    "cover": "/data/vocabulary/images/human-body.jpg",
+    "availableLanguages": ["en", "fr", "es", "it", "pt", "de", "nl"]
+  },
+  {
+    "slug": "months",
+    "title": "Months",
+    "category": "Months",
+    "style": "Calendar / melodic",
+    "comment": "A memorable song for the months of the year.",
+    "cover": "/data/vocabulary/images/months.jpg",
+    "availableLanguages": ["en", "fr", "es", "it", "pt", "de", "nl"]
+  },
+  {
+    "slug": "nature",
+    "title": "Nature",
+    "category": "Nature",
+    "style": "Cinematic / emotional",
+    "comment": "Nature vocabulary in a wider, more atmospheric song.",
+    "cover": "/data/vocabulary/images/nature.jpg",
+    "availableLanguages": ["en", "fr", "es", "it", "pt", "de", "nl"]
+  },
+  {
+    "slug": "numbers",
+    "title": "Numbers",
+    "category": "Numbers",
+    "style": "Hook / educational",
+    "comment": "A catchy numbers song for fast memorization.",
+    "cover": "/data/vocabulary/images/numbers.jpg",
+    "availableLanguages": ["en", "fr", "es", "it", "pt", "de", "nl"]
+  },
+  {
+    "slug": "transportation",
+    "title": "Transportation",
+    "category": "Transportation",
+    "style": "Travel / movement",
+    "comment": "A song to learn common means of transport.",
+    "cover": "/data/vocabulary/images/transportation.jpg",
+    "availableLanguages": ["en", "fr", "es", "it", "pt", "de", "nl"]
+  }
+]

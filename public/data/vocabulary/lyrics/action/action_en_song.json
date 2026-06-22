@@ -1,0 +1,96 @@
+{
+  "id": "action_en",
+  "title": "Action",
+  "language": "en",
+  "trackType": "song",
+  "sourceMedia": {
+    "video": "action_EN.mp4",
+    "durationSeconds": 86.4,
+    "observedStructure": "One full lyric cycle across hook, verses, call and response, bridge, and final hook."
+  },
+  "display": {
+    "showPhonetic": false,
+    "showTranslation": false,
+    "showTengwar": false
+  },
+  "lyrics": {
+    "sections": [
+      {
+        "name": "Hook",
+        "lines": [
+          "Clap your hands — move your feet,",
+          "Jump up high — feel the beat,",
+          "Turn around — don’t be slow,",
+          "Come on now — here we go!"
+        ],
+        "start": 0.0,
+        "end": 13.292
+      },
+      {
+        "name": "Verse 1",
+        "lines": [
+          "Walk, run — stop, then go,",
+          "Stand up straight, then bend down low,",
+          "Look around, touch the ground,",
+          "Make a sound — louder now!"
+        ],
+        "start": 13.292,
+        "end": 26.584
+      },
+      {
+        "name": "Call & Response",
+        "lines": [
+          "Say “go!” — (GO!)",
+          "Say “stop!” — (STOP!)",
+          "Move fast — don’t drop!"
+        ],
+        "start": 26.584,
+        "end": 33.23
+      },
+      {
+        "name": "Hook",
+        "lines": [
+          "Clap your hands — move your feet,",
+          "Jump up high — feel the beat,",
+          "Turn around — don’t be slow,",
+          "Come on now — here we go!"
+        ],
+        "start": 33.23,
+        "end": 46.522
+      },
+      {
+        "name": "Verse 2",
+        "lines": [
+          "Open, close — push, pull,",
+          "Take it easy, now go full,",
+          "Sit down, stand — left, right,",
+          "Keep it moving — feel the light!"
+        ],
+        "start": 46.522,
+        "end": 59.814
+      },
+      {
+        "name": "Bridge",
+        "lines": [
+          "Faster now — don’t wait,",
+          "Move your body — feel great,",
+          "Up and down — side to side,",
+          "Let the rhythm be your guide"
+        ],
+        "start": 59.814,
+        "end": 73.106
+      },
+      {
+        "name": "Final Hook",
+        "lines": [
+          "Clap your hands — move your feet,",
+          "Jump up high — feel the beat,",
+          "Turn around — shout it loud,",
+          "You’re alive — feel it now!"
+        ],
+        "start": 73.106,
+        "end": 86.4
+      }
+    ]
+  }
+}

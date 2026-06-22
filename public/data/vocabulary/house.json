@@ -1,0 +1,28 @@
+{
+  "id": 14,
+  "name": "House",
+  "icon": "🏠",
+  "description": "Parts of a house and home features",
+  "words": [
+    { "id": 1, "en": "wall", "fr": "mur", "es": "pared", "it": "muro", "pt": "parede", "de": "Wand", "nl": "muur", "image": "🧱" },
+    { "id": 2, "en": "door", "fr": "porte", "es": "puerta", "it": "porta", "pt": "porta", "de": "Tür", "nl": "deur", "image": "🚪" },
+    { "id": 3, "en": "window", "fr": "fenêtre", "es": "ventana", "it": "finestra", "pt": "janela", "de": "Fenster", "nl": "raam", "image": "🪟" },
+    { "id": 4, "en": "roof", "fr": "toit", "es": "tejado", "it": "tetto", "pt": "telhado", "de": "Dach", "nl": "dak", "image": "🏠" },
+    { "id": 5, "en": "floor", "fr": "sol", "es": "suelo", "it": "pavimento", "pt": "chão", "de": "Boden", "nl": "vloer", "image": "🟫" },
+    { "id": 6, "en": "garden", "fr": "jardin", "es": "jardín", "it": "giardino", "pt": "jardim", "de": "Garten", "nl": "tuin", "image": "🌻" },
+    { "id": 7, "en": "fence", "fr": "clôture", "es": "valla", "it": "recinzione", "pt": "cerca", "de": "Zaun", "nl": "hek", "image": "🚧" },
+    { "id": 8, "en": "garage", "fr": "garage", "es": "garaje", "it": "garage", "pt": "garagem", "de": "Garage", "nl": "garage", "image": "🚗" },
+    { "id": 9, "en": "basement", "fr": "sous-sol", "es": "sótano", "it": "cantina", "pt": "cave", "de": "Keller", "nl": "kelder", "image": "⬇️" },
+    { "id": 10, "en": "kitchen", "fr": "cuisine", "es": "cocina", "it": "cucina", "pt": "cozinha", "de": "Küche", "nl": "keuken", "image": "🍳" },
+    { "id": 11, "en": "bedroom", "fr": "chambre", "es": "dormitorio", "it": "camera da letto", "pt": "quarto", "de": "Schlafzimmer", "nl": "slaapkamer", "image": "🛏️" },
+    { "id": 12, "en": "bathroom", "fr": "salle de bain", "es": "baño", "it": "bagno", "pt": "casa de banho", "de": "Badezimmer", "nl": "badkamer", "image": "🛁" },
+    { "id": 13, "en": "toilet", "fr": "toilettes", "es": "inodoro", "it": "toilette", "pt": "sanita", "de": "Toilette", "nl": "toilet", "image": "🚽" },
+    { "id": 14, "en": "living room", "fr": "salon", "es": "sala de estar", "it": "soggiorno", "pt": "sala", "de": "Wohnzimmer", "nl": "woonkamer", "image": "🛋️" },
+    { "id": 15, "en": "stairs", "fr": "escalier", "es": "escaleras", "it": "scale", "pt": "escadas", "de": "Treppe", "nl": "trap", "image": "🪜" },
+    { "id": 16, "en": "ceiling", "fr": "plafond", "es": "techo", "it": "soffitto", "pt": "teto", "de": "Decke", "nl": "plafond", "image": "⬆️" },
+    { "id": 17, "en": "attic", "fr": "grenier", "es": "ático", "it": "soffitta", "pt": "sótão", "de": "Dachboden", "nl": "zolder", "image": "🏚️" },
+    { "id": 18, "en": "doorbell", "fr": "sonnette", "es": "timbre", "it": "campanello", "pt": "campainha", "de": "Türklingel", "nl": "deurbel", "image": "🔔" },
+    { "id": 19, "en": "key", "fr": "clé", "es": "llave", "it": "chiave", "pt": "chave", "de": "Schlüssel", "nl": "sleutel", "image": "🔑" },
+    { "id": 20, "en": "door lock", "fr": "serrure", "es": "cerradura", "it": "serratura", "pt": "fechadura", "de": "Schloss", "nl": "slot", "image": "🔒" }
+  ]
+}

@@ -1,0 +1,234 @@
+{
+  "slug": "buildings",
+  "titles": {
+    "en": "Buildings",
+    "fr": "Bâtiments",
+    "es": "Edificios",
+    "it": "Edifici",
+    "pt": "Edifícios",
+    "de": "Gebäude",
+    "nl": "Gebouwen"
+  },
+  "category": "Buildings",
+  "style": "Urban / descriptive",
+  "comment": "A descriptive song to learn vocabulary about places and buildings in a city.",
+  "cover": "/data/vocabulary/images/buildings.jpg",
+  "lyrics": {"en": [
+  { "target": "Come with me — down the street" },
+  { "target": "Every corner — something to see" },
+  { "target": "Step by step — don’t stop now" },
+  { "target": "Let’s explore the town" },
+
+  { "target": "A house on the street, right on the corner," },
+  { "target": "A little shop and a warm bakery," },
+  { "target": "A supermarket down the road," },
+  { "target": "A busy mall where people go" },
+
+  { "target": "A school nearby, a university," },
+  { "target": "A town hall standing in the city," },
+  { "target": "A hospital open day and night," },
+  { "target": "A bank and a library side by side" },
+
+  { "target": "A gas station, a bus station too," },
+  { "target": "A train station with a moving view," },
+  { "target": "A police station, an airport far," },
+  { "target": "A harbour full of ships and stars" },
+
+  { "target": "Come with me — down the street" },
+  { "target": "Every corner — something to see" },
+  { "target": "Step by step — don’t stop now" },
+  { "target": "Let’s explore the town" },
+
+  { "target": "From place to place, we find our way," },
+  { "target": "In every street, there’s more to say" },
+  { "target": "Look around — it’s all here," },
+  { "target": "A whole world, very near" }
+],
+"fr": [
+  { "target": "Viens avec moi — dans la rue" },
+  { "target": "À chaque coin — y’a un truc" },
+  { "target": "Pas à pas — on continue" },
+  { "target": "On découvre la ville" },
+
+  { "target": "Une maison au coin de la rue," },
+  { "target": "Une petite boutique, une boulangerie," },
+  { "target": "Un supermarché un peu plus loin," },
+  { "target": "Un grand centre commercial plein de monde" },
+
+  { "target": "Une école juste à côté," },
+  { "target": "Une université pas loin," },
+  { "target": "La mairie au centre de la ville," },
+  { "target": "Un hôpital ouvert jour et nuit" },
+
+  { "target": "Une banque, une bibliothèque," },
+  { "target": "Une station-service sur la route," },
+  { "target": "Une gare de bus, une gare de train," },
+  { "target": "Un commissariat, tout va bien" },
+
+  { "target": "Viens avec moi — dans la rue" },
+  { "target": "À chaque coin — y’a un truc" },
+  { "target": "Pas à pas — on continue" },
+  { "target": "On découvre la ville" },
+
+  { "target": "On marche encore, on regarde autour," },
+  { "target": "Partout y’a des lieux à découvrir," },
+  { "target": "Juste ici, tout près de nous," },
+  { "target": "La ville vit… tout autour" }
+],
+"es": [
+  { "target": "Ven conmigo — por la calle" },
+  { "target": "En cada esquina — algo hay" },
+  { "target": "Paso a paso — sin parar" },
+  { "target": "Vamos por la ciudad" },
+
+  { "target": "Una casa en la esquina," },
+  { "target": "Una tienda y una panadería," },
+  { "target": "Un supermercado un poco más allá," },
+  { "target": "Un centro comercial lleno de gente" },
+
+  { "target": "Una escuela cerca de aquí," },
+  { "target": "Una universidad no muy lejos," },
+  { "target": "El ayuntamiento en el centro," },
+  { "target": "Un hospital abierto siempre" },
+
+  { "target": "Un banco y una biblioteca," },
+  { "target": "Una gasolinera en la carretera," },
+  { "target": "Una estación de buses, una de tren," },
+  { "target": "Una comisaría — todo va bien" },
+
+  { "target": "Ven conmigo — por la calle" },
+  { "target": "En cada esquina — algo hay" },
+  { "target": "Paso a paso — sin parar" },
+  { "target": "Vamos por la ciudad" },
+
+  { "target": "Seguimos andando, mirando alrededor," },
+  { "target": "Hay lugares por descubrir," },
+  { "target": "Todo está aquí, tan cerca," },
+  { "target": "La ciudad vive… para ti" }
+],
+"it": [
+  { "target": "Vieni con me — per la strada" },
+  { "target": "Ad ogni angolo — c’è qualcosa" },
+  { "target": "Passo dopo passo — andiamo piano" },
+  { "target": "Scopriamo la città" },
+
+  { "target": "Una casa all’angolo della via," },
+  { "target": "Un negozio, una panetteria," },
+  { "target": "Un supermercato un po’ più in là," },
+  { "target": "Un centro commerciale pieno di gente" },
+
+  { "target": "Una scuola qui vicino," },
+  { "target": "Un’università non lontano," },
+  { "target": "Il municipio nel centro città," },
+  { "target": "Un ospedale aperto sempre" },
+
+  { "target": "Una banca e una biblioteca," },
+  { "target": "Un distributore sulla strada," },
+  { "target": "Una stazione dei bus, una dei treni," },
+  { "target": "Una stazione di polizia — tutto va bene" },
+
+  { "target": "Vieni con me — per la strada" },
+  { "target": "Ad ogni angolo — c’è qualcosa" },
+  { "target": "Passo dopo passo — andiamo piano" },
+  { "target": "Scopriamo la città" },
+
+  { "target": "Camminiamo, guardiamo intorno," },
+  { "target": "Ci sono posti da vedere," },
+  { "target": "Tutto è qui, così vicino," },
+  { "target": "La città vive… piano piano" }
+],
+"pt": [
+  { "target": "Vem comigo — pela rua" },
+  { "target": "Em cada esquina — tem algo" },
+  { "target": "Passo a passo — sem pressa" },
+  { "target": "Vamos pela cidade" },
+
+  { "target": "Uma casa na esquina da rua," },
+  { "target": "Uma loja, uma padaria," },
+  { "target": "Um supermercado mais à frente," },
+  { "target": "Um shopping cheio de gente" },
+
+  { "target": "Uma escola aqui por perto," },
+  { "target": "Uma universidade não tão longe," },
+  { "target": "A prefeitura no centro da cidade," },
+  { "target": "Um hospital aberto sempre" },
+
+  { "target": "Um banco e uma biblioteca," },
+  { "target": "Um posto de gasolina na estrada," },
+  { "target": "Uma rodoviária, uma estação de trem," },
+  { "target": "Uma delegacia — tudo bem" },
+
+  { "target": "Vem comigo — pela rua" },
+  { "target": "Em cada esquina — tem algo" },
+  { "target": "Passo a passo — sem pressa" },
+  { "target": "Vamos pela cidade" },
+
+  { "target": "A gente anda, olha em volta," },
+  { "target": "Tem lugares pra descobrir," },
+  { "target": "Tudo está aqui, tão perto," },
+  { "target": "A cidade vive… bem aqui" }
+],
+"de": [
+  { "target": "Komm mit mir — durch die Straße" },
+  { "target": "An jeder Ecke — gibt’s was" },
+  { "target": "Schritt für Schritt — ganz entspannt" },
+  { "target": "Wir gehen durch die Stadt" },
+
+  { "target": "Ein Haus an der Ecke der Straße," },
+  { "target": "Ein Laden, eine Bäckerei," },
+  { "target": "Ein Supermarkt ein Stück weiter," },
+  { "target": "Ein Einkaufszentrum voller Leute" },
+
+  { "target": "Eine Schule hier in der Nähe," },
+  { "target": "Eine Universität nicht weit weg," },
+  { "target": "Das Rathaus mitten in der Stadt," },
+  { "target": "Ein Krankenhaus, Tag und Nacht" },
+
+  { "target": "Eine Bank und eine Bibliothek," },
+  { "target": "Eine Tankstelle an der Straße," },
+  { "target": "Ein Busbahnhof, ein Bahnhof," },
+  { "target": "Eine Polizeistation — alles gut" },
+
+  { "target": "Komm mit mir — durch die Straße" },
+  { "target": "An jeder Ecke — gibt’s was" },
+  { "target": "Schritt für Schritt — ganz entspannt" },
+  { "target": "Wir gehen durch die Stadt" },
+
+  { "target": "Wir gehen weiter, schauen uns um," },
+  { "target": "So viele Orte gibt es hier," },
+  { "target": "Alles ist nah, direkt bei uns," },
+  { "target": "Die Stadt lebt… genau hier" }
+],
+"nl": [
+  { "target": "Kom met me mee — door de straat" },
+  { "target": "Op elke hoek — is er iets" },
+  { "target": "Stap voor stap — rustig aan" },
+  { "target": "We lopen door de stad" },
+
+  { "target": "Een huis op de hoek van de straat," },
+  { "target": "Een winkel, een bakkerij," },
+  { "target": "Een supermarkt iets verderop," },
+  { "target": "Een winkelcentrum vol met mensen" },
+
+  { "target": "Een school hier vlakbij," },
+  { "target": "Een universiteit niet ver weg," },
+  { "target": "Het stadhuis in het centrum," },
+  { "target": "Een ziekenhuis dag en nacht" },
+
+  { "target": "Een bank en een bibliotheek," },
+  { "target": "Een tankstation langs de weg," },
+  { "target": "Een busstation, een treinstation," },
+  { "target": "Een politiebureau — alles goed" },
+
+  { "target": "Kom met me mee — door de straat" },
+  { "target": "Op elke hoek — is er iets" },
+  { "target": "Stap voor stap — rustig aan" },
+  { "target": "We lopen door de stad" },
+
+  { "target": "We lopen verder, kijken rond," },
+  { "target": "Zoveel plekken om te zien," },
+  { "target": "Alles is hier, zo dichtbij," },
+  { "target": "De stad leeft… om ons heen" }
+]
+}
+}

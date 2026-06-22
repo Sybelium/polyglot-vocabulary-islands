@@ -1,0 +1,415 @@
+{
+  "slug": "human-body",
+  "titles": {
+    "en": "Human Body",
+    "fr": "Corps humain",
+    "es": "Cuerpo humano",
+    "it": "Corpo umano",
+    "pt": "Corpo humano",
+    "de": "Menschlicher Körper",
+    "nl": "Menselijk lichaam"
+  },
+  "category": "Human Body",
+  "style": "Educational / upbeat",
+  "comment": "An upbeat song to learn parts of the body in a fun and engaging way.",
+  "cover": "/data/vocabulary/images/human-body.jpg",
+  "lyrics": {
+"en": [
+  { "target": "I stand still… and I look at myself," },
+  { "target": "In the mirror, quiet and calm," },
+  { "target": "My hair, my head… my face looking back," },
+  { "target": "Breathing slowly, where I am" },
+
+  { "target": "My ears hear the silence," },
+  { "target": "My eyes gently see," },
+  { "target": "My nose, my nostrils… the air flowing in me," },
+  { "target": "My mouth, my lips, my tongue, my teeth," },
+  { "target": "My cheeks and my chin… soft beneath" },
+
+  { "target": "A beard, a mustache, the shape of my face," },
+  { "target": "My throat and my neck… holding this space" },
+
+  { "target": "My shoulders release," },
+  { "target": "My arms feel light," },
+  { "target": "My elbows, my wrists… moving with ease," },
+  { "target": "My hands, my fingers, each nail I see," },
+  { "target": "A fist that opens… quietly" },
+
+  { "target": "My back, my spine… strong and long," },
+  { "target": "My chest rising… with each breath drawn" },
+
+  { "target": "My stomach, my abdomen… soft and deep," },
+  { "target": "My hips, my groin… where I keep" },
+  { "target": "My balance, my center, my inner ground," },
+  { "target": "My buttocks resting… stable and sound" },
+
+  { "target": "My legs support me," },
+  { "target": "My knees gently bend," },
+  { "target": "My ankles, my feet… connect to the ground," },
+  { "target": "My toes relax… at the end" },
+
+  { "target": "Inside, I feel what I cannot see," },
+  { "target": "My brain awake… quietly" },
+  { "target": "My heart beats slow… steady and true," },
+  { "target": "My lungs expand… bringing life through" },
+
+  { "target": "My liver, my kidneys… working inside," },
+  { "target": "My bowels moving… nothing to hide" },
+
+  { "target": "My bones hold me," },
+  { "target": "My muscles respond," },
+  { "target": "My nerves carry signals… all along" },
+
+  { "target": "My blood flows softly," },
+  { "target": "Through arteries and veins," },
+  { "target": "A silent river… within my frame" },
+
+  { "target": "I stand here… whole and aware," },
+  { "target": "From head to toe… I am there" },
+  { "target": "Breathing slowly… calm and free," },
+  { "target": "At home… inside of me" }
+],
+"fr": [
+  { "target": "Je suis là… immobile," },
+  { "target": "Devant le miroir, en silence," },
+  { "target": "Mes cheveux, ma tête… mon visage," },
+  { "target": "Respirer doucement… simplement" },
+
+  { "target": "Mes oreilles entendent le calme," },
+  { "target": "Mes yeux regardent sans effort," },
+  { "target": "Mon nez, mes narines… l’air qui entre," },
+  { "target": "Ma bouche, mes lèvres… au repos" },
+
+  { "target": "Ma langue, mes dents," },
+  { "target": "Mes joues, mon menton… relâchés," },
+  { "target": "Ma barbe, ma moustache…" },
+  { "target": "Ma gorge, mon cou… présents" },
+
+  { "target": "Mes épaules se déposent," },
+  { "target": "Mes bras deviennent légers," },
+  { "target": "Mes coudes, mes poignets… libres," },
+  { "target": "Mes mains s’ouvrent doucement" },
+
+  { "target": "Mes doigts, chaque ongle," },
+  { "target": "Un poing qui se ferme… puis s’ouvre," },
+  { "target": "Mon dos, ma colonne… alignés," },
+  { "target": "Ma poitrine… qui respire" },
+
+  { "target": "Mon ventre, mon abdomen… souples," },
+  { "target": "Mes hanches… stables," },
+  { "target": "Mon bassin, mon aine… ancrés," },
+  { "target": "Mes fesses… en équilibre" },
+
+  { "target": "Mes jambes me portent," },
+  { "target": "Mes genoux se plient doucement," },
+  { "target": "Mes chevilles, mes pieds… au sol," },
+  { "target": "Mes orteils… relâchés" },
+
+  { "target": "À l’intérieur… je ressens," },
+  { "target": "Mon cerveau… éveillé," },
+  { "target": "Mon cœur bat… lentement," },
+  { "target": "Mes poumons s’ouvrent… pleinement" },
+
+  { "target": "Mon foie, mes reins… travaillent," },
+  { "target": "Mes intestins… en mouvement," },
+
+  { "target": "Mes os me soutiennent," },
+  { "target": "Mes muscles répondent," },
+  { "target": "Mes nerfs transmettent… en silence" },
+
+  { "target": "Mon sang circule doucement," },
+  { "target": "Dans mes artères et mes veines," },
+  { "target": "Comme une rivière… en moi" },
+
+  { "target": "Je suis là… entier," },
+  { "target": "Du sommet à la base," },
+  { "target": "Respirer… encore," },
+  { "target": "Je suis chez moi… en moi" }
+],
+"es": [
+  { "target": "Estoy aquí… en silencio," },
+  { "target": "Frente al espejo, tranquilo," },
+  { "target": "Mi pelo, mi cabeza… mi rostro," },
+  { "target": "Respirando lento… sin prisa" },
+
+  { "target": "Mis oídos escuchan el silencio," },
+  { "target": "Mis ojos miran sin esfuerzo," },
+  { "target": "Mi nariz, mis fosas… el aire entra," },
+  { "target": "Mi boca, mis labios… descansan" },
+
+  { "target": "Mi lengua, mis dientes," },
+  { "target": "Mis mejillas, mi barbilla… suaves," },
+  { "target": "Mi barba, mi bigote…" },
+  { "target": "Mi garganta, mi cuello… presentes" },
+
+  { "target": "Mis hombros se relajan," },
+  { "target": "Mis brazos se vuelven ligeros," },
+  { "target": "Mis codos, mis muñecas… libres," },
+  { "target": "Mis manos se abren despacio" },
+
+  { "target": "Mis dedos, cada uña," },
+  { "target": "Un puño que se cierra… y se abre," },
+  { "target": "Mi espalda, mi columna… alineadas," },
+  { "target": "Mi pecho… respirando" },
+
+  { "target": "Mi estómago, mi abdomen… suaves," },
+  { "target": "Mis caderas… estables," },
+  { "target": "Mi pelvis, mi ingle… en calma," },
+  { "target": "Mis glúteos… en equilibrio" },
+
+  { "target": "Mis piernas me sostienen," },
+  { "target": "Mis rodillas se doblan suavemente," },
+  { "target": "Mis tobillos, mis pies… en la tierra," },
+  { "target": "Mis dedos… relajados" },
+
+  { "target": "Por dentro… siento," },
+  { "target": "Mi cerebro… despierto," },
+  { "target": "Mi corazón late… tranquilo," },
+  { "target": "Mis pulmones se abren… despacio" },
+
+  { "target": "Mi hígado, mis riñones… trabajan," },
+  { "target": "Mis intestinos… en movimiento" },
+
+  { "target": "Mis huesos me sostienen," },
+  { "target": "Mis músculos responden," },
+  { "target": "Mis nervios llevan señales… suaves" },
+
+  { "target": "Mi sangre fluye lentamente," },
+  { "target": "Por arterias y venas," },
+  { "target": "Como un río… dentro de mí" },
+
+  { "target": "Estoy aquí… completo," },
+  { "target": "De la cabeza a los pies," },
+  { "target": "Respiro… una vez más," },
+  { "target": "Estoy en casa… dentro de mí" }
+],
+"it": [
+  { "target": "Sono qui… in silenzio," },
+  { "target": "Davanti allo specchio, tranquillo," },
+  { "target": "I miei capelli, la mia testa… il mio viso," },
+  { "target": "Respiro piano… senza fretta" },
+
+  { "target": "Le mie orecchie ascoltano il silenzio," },
+  { "target": "I miei occhi guardano senza sforzo," },
+  { "target": "Il mio naso, le narici… l’aria entra," },
+  { "target": "La mia bocca, le labbra… riposano" },
+
+  { "target": "La mia lingua, i miei denti," },
+  { "target": "Le guance, il mento… rilassati," },
+  { "target": "La barba, i baffi…" },
+  { "target": "La gola, il collo… presenti" },
+
+  { "target": "Le mie spalle si rilassano," },
+  { "target": "Le braccia diventano leggere," },
+  { "target": "I gomiti, i polsi… liberi," },
+  { "target": "Le mani si aprono piano" },
+
+  { "target": "Le dita, ogni unghia," },
+  { "target": "Un pugno che si chiude… poi si apre," },
+  { "target": "La schiena, la colonna… allineate," },
+  { "target": "Il petto… che respira" },
+
+  { "target": "Lo stomaco, l’addome… morbidi," },
+  { "target": "Le anche… stabili," },
+  { "target": "Il bacino, l’inguine… in calma," },
+  { "target": "I glutei… in equilibrio" },
+
+  { "target": "Le gambe mi sostengono," },
+  { "target": "Le ginocchia si piegano piano," },
+  { "target": "Le caviglie, i piedi… a terra," },
+  { "target": "Le dita… rilassate" },
+
+  { "target": "Dentro… sento," },
+  { "target": "Il cervello… sveglio," },
+  { "target": "Il cuore batte… piano," },
+  { "target": "I polmoni si aprono… lentamente" },
+
+  { "target": "Il fegato, i reni… lavorano," },
+  { "target": "L’intestino… si muove" },
+
+  { "target": "Le ossa mi sostengono," },
+  { "target": "I muscoli rispondono," },
+  { "target": "I nervi portano segnali… leggeri" },
+
+  { "target": "Il sangue scorre piano," },
+  { "target": "Nelle arterie e nelle vene," },
+  { "target": "Come un fiume… dentro di me" },
+
+  { "target": "Sono qui… intero," },
+  { "target": "Dalla testa ai piedi," },
+  { "target": "Respiro… ancora," },
+  { "target": "Sono a casa… dentro di me" }
+],
+"pt": [
+  { "target": "Estou aqui… em silêncio," },
+  { "target": "Diante do espelho, tranquilo," },
+  { "target": "Meu cabelo, minha cabeça… meu rosto," },
+  { "target": "Respiro devagar… sem pressa" },
+
+  { "target": "Meus ouvidos escutam o silêncio," },
+  { "target": "Meus olhos observam sem esforço," },
+  { "target": "Meu nariz, minhas narinas… o ar entra," },
+  { "target": "Minha boca, meus lábios… descansam" },
+
+  { "target": "Minha língua, meus dentes," },
+  { "target": "Minhas bochechas, meu queixo… relaxados," },
+  { "target": "Minha barba, meu bigode…" },
+  { "target": "Minha garganta, meu pescoço… presentes" },
+
+  { "target": "Meus ombros se soltam," },
+  { "target": "Meus braços ficam leves," },
+  { "target": "Meus cotovelos, meus pulsos… livres," },
+  { "target": "Minhas mãos se abrem devagar" },
+
+  { "target": "Meus dedos, cada unha," },
+  { "target": "Um punho que se fecha… e se abre," },
+  { "target": "Minhas costas, minha coluna… alinhadas," },
+  { "target": "Meu peito… respirando" },
+
+  { "target": "Meu estômago, meu abdômen… suaves," },
+  { "target": "Meus quadris… estáveis," },
+  { "target": "Minha pelve, minha virilha… em calma," },
+  { "target": "Meus glúteos… em equilíbrio" },
+
+  { "target": "Minhas pernas me sustentam," },
+  { "target": "Meus joelhos se dobram devagar," },
+  { "target": "Meus tornozelos, meus pés… no chão," },
+  { "target": "Meus dedos… relaxados" },
+
+  { "target": "Por dentro… eu sinto," },
+  { "target": "Meu cérebro… desperto," },
+  { "target": "Meu coração bate… calmo," },
+  { "target": "Meus pulmões se abrem… lentamente" },
+
+  { "target": "Meu fígado, meus rins… trabalham," },
+  { "target": "Meus intestinos… em movimento" },
+
+  { "target": "Meus ossos me sustentam," },
+  { "target": "Meus músculos respondem," },
+  { "target": "Meus nervos levam sinais… suaves" },
+
+  { "target": "Meu sangue flui devagar," },
+  { "target": "Por artérias e veias," },
+  { "target": "Como um rio… dentro de mim" },
+
+  { "target": "Estou aqui… inteiro," },
+  { "target": "Da cabeça aos pés," },
+  { "target": "Respiro… mais uma vez," },
+  { "target": "Estou em casa… dentro de mim" }
+],
+"de": [
+  { "target": "Ich bin hier… ganz still," },
+  { "target": "Vor dem Spiegel, ruhig," },
+  { "target": "Meine Haare, mein Kopf… mein Gesicht," },
+  { "target": "Ich atme langsam… ohne Eile" },
+
+  { "target": "Meine Ohren hören die Stille," },
+  { "target": "Meine Augen sehen ganz ruhig," },
+  { "target": "Meine Nase, meine Nasenlöcher… Luft strömt ein," },
+  { "target": "Mein Mund, meine Lippen… entspannt" },
+
+  { "target": "Meine Zunge, meine Zähne," },
+  { "target": "Meine Wangen, mein Kinn… locker," },
+  { "target": "Mein Bart, mein Schnurrbart…" },
+  { "target": "Mein Hals, mein Nacken… präsent" },
+
+  { "target": "Meine Schultern lassen los," },
+  { "target": "Meine Arme werden leicht," },
+  { "target": "Meine Ellbogen, meine Handgelenke… frei," },
+  { "target": "Meine Hände öffnen sich langsam" },
+
+  { "target": "Meine Finger, jeder Nagel," },
+  { "target": "Eine Faust, die sich schließt… und öffnet," },
+  { "target": "Mein Rücken, meine Wirbelsäule… gerade," },
+  { "target": "Meine Brust… hebt und senkt sich" },
+
+  { "target": "Mein Bauch, mein Abdomen… weich," },
+  { "target": "Meine Hüften… stabil," },
+  { "target": "Mein Becken, meine Leiste… ruhig," },
+  { "target": "Mein Gesäß… im Gleichgewicht" },
+
+  { "target": "Meine Beine tragen mich," },
+  { "target": "Meine Knie beugen sich leicht," },
+  { "target": "Meine Knöchel, meine Füße… am Boden," },
+  { "target": "Meine Zehen… entspannt" },
+
+  { "target": "In mir… spüre ich," },
+  { "target": "Mein Gehirn… wach," },
+  { "target": "Mein Herz schlägt… ruhig," },
+  { "target": "Meine Lungen öffnen sich… langsam" },
+
+  { "target": "Meine Leber, meine Nieren… arbeiten," },
+  { "target": "Mein Darm… in Bewegung" },
+
+  { "target": "Meine Knochen tragen mich," },
+  { "target": "Meine Muskeln reagieren," },
+  { "target": "Meine Nerven senden Signale… leise" },
+
+  { "target": "Mein Blut fließt ruhig," },
+  { "target": "Durch Arterien und Venen," },
+  { "target": "Wie ein Fluss… in mir" },
+
+  { "target": "Ich bin hier… ganz," },
+  { "target": "Vom Kopf bis zu den Füßen," },
+  { "target": "Ich atme… noch einmal," },
+  { "target": "Ich bin zu Hause… in mir" }
+],
+"nl": [
+  { "target": "Ik ben hier… stil," },
+  { "target": "Voor de spiegel, rustig," },
+  { "target": "Mijn haar, mijn hoofd… mijn gezicht," },
+  { "target": "Ik adem langzaam… zonder haast" },
+
+  { "target": "Mijn oren horen de stilte," },
+  { "target": "Mijn ogen kijken rustig," },
+  { "target": "Mijn neus, mijn neusgaten… lucht komt binnen," },
+  { "target": "Mijn mond, mijn lippen… ontspannen" },
+
+  { "target": "Mijn tong, mijn tanden," },
+  { "target": "Mijn wangen, mijn kin… zacht," },
+  { "target": "Mijn baard, mijn snor…" },
+  { "target": "Mijn keel, mijn nek… aanwezig" },
+
+  { "target": "Mijn schouders laten los," },
+  { "target": "Mijn armen worden licht," },
+  { "target": "Mijn ellebogen, mijn polsen… vrij," },
+  { "target": "Mijn handen openen langzaam" },
+
+  { "target": "Mijn vingers, elke nagel," },
+  { "target": "Een vuist die sluit… en opent," },
+  { "target": "Mijn rug, mijn wervelkolom… recht," },
+  { "target": "Mijn borst… die ademt" },
+
+  { "target": "Mijn buik, mijn abdomen… zacht," },
+  { "target": "Mijn heupen… stabiel," },
+  { "target": "Mijn bekken, mijn lies… rustig," },
+  { "target": "Mijn billen… in balans" },
+
+  { "target": "Mijn benen dragen mij," },
+  { "target": "Mijn knieën buigen zacht," },
+  { "target": "Mijn enkels, mijn voeten… op de grond," },
+  { "target": "Mijn tenen… ontspannen" },
+
+  { "target": "Vanbinnen… voel ik," },
+  { "target": "Mijn hersenen… wakker," },
+  { "target": "Mijn hart klopt… rustig," },
+  { "target": "Mijn longen openen… langzaam" },
+
+  { "target": "Mijn lever, mijn nieren… werken," },
+  { "target": "Mijn darmen… bewegen" },
+
+  { "target": "Mijn botten dragen mij," },
+  { "target": "Mijn spieren reageren," },
+  { "target": "Mijn zenuwen sturen signalen… stil" },
+
+  { "target": "Mijn bloed stroomt rustig," },
+  { "target": "Door slagaders en aders," },
+  { "target": "Als een rivier… in mij" },
+
+  { "target": "Ik ben hier… helemaal," },
+  { "target": "Van hoofd tot teen," },
+  { "target": "Ik adem… nog een keer," },
+  { "target": "Ik ben thuis… in mij" }
+]
+  }
+}

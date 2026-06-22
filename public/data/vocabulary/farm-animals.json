@@ -1,0 +1,24 @@
+{
+  "id": 19,
+  "name": "Farm Animals",
+  "icon": "🐄",
+  "description": "Common farm and domestic animals",
+  "words": [
+    { "id": 1, "en": "bull", "fr": "taureau", "es": "toro", "it": "toro", "pt": "touro", "de": "Stier", "nl": "stier", "image": "🐂" },
+    { "id": 2, "en": "cow", "fr": "vache", "es": "vaca", "it": "mucca", "pt": "vaca", "de": "Kuh", "nl": "koe", "image": "🐄" },
+    { "id": 3, "en": "deer", "fr": "cerf", "es": "ciervo", "it": "cervo", "pt": "veado", "de": "Hirsch", "nl": "hert", "image": "🦌" },
+    { "id": 4, "en": "dog", "fr": "chien", "es": "perro", "it": "cane", "pt": "cão", "de": "Hund", "nl": "hond", "image": "🐕" },
+    { "id": 5, "en": "donkey", "fr": "âne", "es": "burro", "it": "asino", "pt": "burro", "de": "Esel", "nl": "ezel", "image": "🫏" },
+    { "id": 6, "en": "duck", "fr": "canard", "es": "pato", "it": "anatra", "pt": "pato", "de": "Ente", "nl": "eend", "image": "🦆" },
+    { "id": 7, "en": "goat", "fr": "chèvre", "es": "cabra", "it": "capra", "pt": "cabra", "de": "Ziege", "nl": "geit", "image": "🐐" },
+    { "id": 8, "en": "goose", "fr": "oie", "es": "ganso", "it": "oca", "pt": "ganso", "de": "Gans", "nl": "gans", "image": "🪿" },
+    { "id": 9, "en": "hen", "fr": "poule", "es": "gallina", "it": "gallina", "pt": "galinha", "de": "Henne", "nl": "hen", "image": "🐔" },
+    { "id": 10, "en": "horse", "fr": "cheval", "es": "caballo", "it": "cavallo", "pt": "cavalo", "de": "Pferd", "nl": "paard", "image": "🐴" },
+    { "id": 11, "en": "mouse", "fr": "souris", "es": "ratón", "it": "topo", "pt": "rato", "de": "Maus", "nl": "muis", "image": "🐭" },
+    { "id": 12, "en": "pig", "fr": "cochon", "es": "cerdo", "it": "maiale", "pt": "porco", "de": "Schwein", "nl": "varken", "image": "🐷" },
+    { "id": 13, "en": "rabbit", "fr": "lapin", "es": "conejo", "it": "coniglio", "pt": "coelho", "de": "Kaninchen", "nl": "konijn", "image": "🐰" },
+    { "id": 14, "en": "rooster", "fr": "coq", "es": "gallo", "it": "gallo", "pt": "galo", "de": "Hahn", "nl": "haan", "image": "🐓" },
+    { "id": 15, "en": "sheep", "fr": "mouton", "es": "oveja", "it": "pecora", "pt": "ovelha", "de": "Schaf", "nl": "schaap", "image": "🐑" },
+    { "id": 16, "en": "turkey", "fr": "dinde", "es": "pavo", "it": "tacchino", "pt": "peru", "de": "Truthahn", "nl": "kalkoen", "image": "🦃" }
+  ]
+}

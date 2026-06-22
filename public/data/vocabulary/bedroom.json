@@ -1,0 +1,24 @@
+{
+  "id": 17,
+  "name": "Bedroom",
+  "icon": "🛏️",
+  "description": "Bedroom furniture and items",
+  "words": [
+    { "id": 1, "en": "bed", "fr": "lit", "es": "cama", "it": "letto", "pt": "cama", "de": "Bett", "nl": "bed", "image": "🛏️" },
+    { "id": 2, "en": "bedside table", "fr": "table de chevet", "es": "mesita de noche", "it": "comodino", "pt": "mesa de cabeceira", "de": "Nachttisch", "nl": "nachtkastje", "image": "🪑" },
+    { "id": 3, "en": "pillow", "fr": "oreiller", "es": "almohada", "it": "cuscino", "pt": "almofada", "de": "Kissen", "nl": "kussen", "image": "🛌" },
+    { "id": 4, "en": "bed sheets", "fr": "draps", "es": "sábanas", "it": "lenzuola", "pt": "lençóis", "de": "Bettwäsche", "nl": "lakens", "image": "🛏️" },
+    { "id": 5, "en": "blanket", "fr": "couverture", "es": "manta", "it": "coperta", "pt": "cobertor", "de": "Decke", "nl": "deken", "image": "🧣" },
+    { "id": 6, "en": "fan", "fr": "ventilateur", "es": "ventilador", "it": "ventilatore", "pt": "ventoinha", "de": "Ventilator", "nl": "ventilator", "image": "🌀" },
+    { "id": 7, "en": "alarm clock", "fr": "réveil", "es": "despertador", "it": "sveglia", "pt": "despertador", "de": "Wecker", "nl": "wekker", "image": "⏰" },
+    { "id": 8, "en": "air conditioner", "fr": "climatiseur", "es": "aire acondicionado", "it": "condizionatore", "pt": "ar condicionado", "de": "Klimaanlage", "nl": "airconditioner", "image": "❄️" },
+    { "id": 9, "en": "wardrobe", "fr": "armoire", "es": "armario", "it": "armadio", "pt": "guarda-roupa", "de": "Kleiderschrank", "nl": "kledingkast", "image": "🚪" },
+    { "id": 10, "en": "hanger", "fr": "cintre", "es": "percha", "it": "gruccia", "pt": "cabide", "de": "Kleiderbügel", "nl": "kleerhanger", "image": "🧥" },
+    { "id": 11, "en": "dressing table", "fr": "coiffeuse", "es": "tocador", "it": "toeletta", "pt": "toucador", "de": "Frisiertisch", "nl": "kaptafel", "image": "💄" },
+    { "id": 12, "en": "table lamp", "fr": "lampe de table", "es": "lámpara de mesa", "it": "lampada da tavolo", "pt": "candeeiro de mesa", "de": "Tischlampe", "nl": "tafellamp", "image": "💡" },
+    { "id": 13, "en": "reading lamp", "fr": "lampe de lecture", "es": "lámpara de lectura", "it": "lampada da lettura", "pt": "candeeiro de leitura", "de": "Leselampe", "nl": "leeslamp", "image": "📖" },
+    { "id": 14, "en": "mirror", "fr": "miroir", "es": "espejo", "it": "specchio", "pt": "espelho", "de": "Spiegel", "nl": "spiegel", "image": "🪞" },
+    { "id": 15, "en": "shelves", "fr": "étagères", "es": "estanterías", "it": "scaffali", "pt": "prateleiras", "de": "Regale", "nl": "planken", "image": "📚" },
+    { "id": 16, "en": "rug", "fr": "tapis", "es": "alfombra", "it": "tappeto", "pt": "tapete", "de": "Teppich", "nl": "vloerkleed", "image": "🟫" }
+  ]
+}

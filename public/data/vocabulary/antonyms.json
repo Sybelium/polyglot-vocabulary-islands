@@ -1,0 +1,32 @@
+{
+  "id": 8,
+  "name": "Antonyms",
+  "icon": "⚖️",
+  "description": "Opposite words to expand your vocabulary",
+  "words": [
+    { "id": 1, "en": "happy", "fr": "heureux", "es": "feliz", "it": "felice", "pt": "feliz", "de": "glücklich", "nl": "blij", "image": "😊" },
+    { "id": 2, "en": "sad", "fr": "triste", "es": "triste", "it": "triste", "pt": "triste", "de": "traurig", "nl": "verdrietig", "image": "😢" },
+    { "id": 3, "en": "big", "fr": "grand", "es": "grande", "it": "grande", "pt": "grande", "de": "groß", "nl": "groot", "image": "🔵" },
+    { "id": 4, "en": "small", "fr": "petit", "es": "pequeño", "it": "piccolo", "pt": "pequeno", "de": "klein", "nl": "klein", "image": "⚫" },
+    { "id": 5, "en": "hot", "fr": "chaud", "es": "caliente", "it": "caldo", "pt": "quente", "de": "heiß", "nl": "heet", "image": "🔥" },
+    { "id": 6, "en": "cold", "fr": "froid", "es": "frío", "it": "freddo", "pt": "frio", "de": "kalt", "nl": "koud", "image": "❄️" },
+    { "id": 7, "en": "fast", "fr": "rapide", "es": "rápido", "it": "veloce", "pt": "rápido", "de": "schnell", "nl": "snel", "image": "⚡" },
+    { "id": 8, "en": "slow", "fr": "lent", "es": "lento", "it": "lento", "pt": "lento", "de": "langsam", "nl": "langzaam", "image": "🐌" },
+    { "id": 9, "en": "wet", "fr": "mouillé", "es": "mojado", "it": "bagnato", "pt": "molhado", "de": "nass", "nl": "nat", "image": "💧" },
+    { "id": 10, "en": "dry", "fr": "sec", "es": "seco", "it": "secco", "pt": "seco", "de": "trocken", "nl": "droog", "image": "🏜️" },
+    { "id": 11, "en": "black", "fr": "noir", "es": "negro", "it": "nero", "pt": "preto", "de": "schwarz", "nl": "zwart", "image": "⚫" },
+    { "id": 12, "en": "white", "fr": "blanc", "es": "blanco", "it": "bianco", "pt": "branco", "de": "weiß", "nl": "wit", "image": "⚪" },
+    { "id": 13, "en": "nervous", "fr": "nerveux", "es": "nervioso", "it": "nervoso", "pt": "nervoso", "de": "nervös", "nl": "nerveus", "image": "😰" },
+    { "id": 14, "en": "relaxed", "fr": "détendu", "es": "relajado", "it": "rilassato", "pt": "relaxado", "de": "entspannt", "nl": "ontspannen", "image": "😌" },
+    { "id": 15, "en": "clean", "fr": "propre", "es": "limpio", "it": "pulito", "pt": "limpo", "de": "sauber", "nl": "schoon", "image": "✨" },
+    { "id": 16, "en": "dirty", "fr": "sale", "es": "sucio", "it": "sporco", "pt": "sujo", "de": "schmutzig", "nl": "vies", "image": "🧹" },
+    { "id": 17, "en": "sick", "fr": "malade", "es": "enfermo", "it": "malato", "pt": "doente", "de": "krank", "nl": "ziek", "image": "🤒" },
+    { "id": 18, "en": "healthy", "fr": "en bonne santé", "es": "sano", "it": "sano", "pt": "saudável", "de": "gesund", "nl": "gezond", "image": "💪" },
+    { "id": 19, "en": "poor", "fr": "pauvre", "es": "pobre", "it": "povero", "pt": "pobre", "de": "arm", "nl": "arm", "image": "💸" },
+    { "id": 20, "en": "rich", "fr": "riche", "es": "rico", "it": "ricco", "pt": "rico", "de": "reich", "nl": "rijk", "image": "💰" },
+    { "id": 21, "en": "full", "fr": "plein", "es": "lleno", "it": "pieno", "pt": "cheio", "de": "voll", "nl": "vol", "image": "🥤" },
+    { "id": 22, "en": "empty", "fr": "vide", "es": "vacío", "it": "vuoto", "pt": "vazio", "de": "leer", "nl": "leeg", "image": "⬜" },
+    { "id": 23, "en": "strong", "fr": "fort", "es": "fuerte", "it": "forte", "pt": "forte", "de": "stark", "nl": "sterk", "image": "💪" },
+    { "id": 24, "en": "weak", "fr": "faible", "es": "débil", "it": "debole", "pt": "fraco", "de": "schwach", "nl": "zwak", "image": "🤕" }
+  ]
+}

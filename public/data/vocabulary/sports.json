@@ -1,0 +1,32 @@
+{
+  "id": 25,
+  "name": "Sports",
+  "icon": "⚽",
+  "description": "Physical activities and sports",
+  "words": [
+    { "id": 1, "en": "walking", "fr": "marche", "es": "caminar", "it": "camminata", "pt": "caminhada", "de": "Gehen", "nl": "wandelen", "image": "🚶" },
+    { "id": 2, "en": "running", "fr": "course", "es": "correr", "it": "corsa", "pt": "corrida", "de": "Laufen", "nl": "rennen", "image": "🏃" },
+    { "id": 3, "en": "swimming", "fr": "natation", "es": "natación", "it": "nuoto", "pt": "natação", "de": "Schwimmen", "nl": "zwemmen", "image": "🏊" },
+    { "id": 4, "en": "climbing", "fr": "escalade", "es": "escalada", "it": "arrampicata", "pt": "escalada", "de": "Klettern", "nl": "klimmen", "image": "🧗" },
+    { "id": 5, "en": "jumping", "fr": "saut", "es": "salto", "it": "salto", "pt": "salto", "de": "Springen", "nl": "springen", "image": "🤸" },
+    { "id": 6, "en": "horse riding", "fr": "équitation", "es": "equitación", "it": "equitazione", "pt": "equitação", "de": "Reiten", "nl": "paardrijden", "image": "🏇" },
+    { "id": 7, "en": "cycling", "fr": "cyclisme", "es": "ciclismo", "it": "ciclismo", "pt": "ciclismo", "de": "Radfahren", "nl": "wielrennen", "image": "🚴" },
+    { "id": 8, "en": "tennis", "fr": "tennis", "es": "tenis", "it": "tennis", "pt": "ténis", "de": "Tennis", "nl": "tennis", "image": "🎾" },
+    { "id": 9, "en": "judo", "fr": "judo", "es": "judo", "it": "judo", "pt": "judo", "de": "Judo", "nl": "judo", "image": "🥋" },
+    { "id": 10, "en": "trampoline", "fr": "trampoline", "es": "trampolín", "it": "trampolino", "pt": "trampolim", "de": "Trampolin", "nl": "trampoline", "image": "🤸" },
+    { "id": 11, "en": "volleyball", "fr": "volleyball", "es": "voleibol", "it": "pallavolo", "pt": "voleibol", "de": "Volleyball", "nl": "volleybal", "image": "🏐" },
+    { "id": 12, "en": "baseball", "fr": "baseball", "es": "béisbol", "it": "baseball", "pt": "basebol", "de": "Baseball", "nl": "honkbal", "image": "⚾" },
+    { "id": 13, "en": "wrestling", "fr": "lutte", "es": "lucha", "it": "lotta", "pt": "luta", "de": "Ringen", "nl": "worstelen", "image": "🤼" },
+    { "id": 14, "en": "boxing", "fr": "boxe", "es": "boxeo", "it": "pugilato", "pt": "boxe", "de": "Boxen", "nl": "boksen", "image": "🥊" },
+    { "id": 15, "en": "karate", "fr": "karaté", "es": "kárate", "it": "karate", "pt": "karaté", "de": "Karate", "nl": "karate", "image": "🥋" },
+    { "id": 16, "en": "gymnastics", "fr": "gymnastique", "es": "gimnasia", "it": "ginnastica", "pt": "ginástica", "de": "Turnen", "nl": "gymnastiek", "image": "🤸" },
+    { "id": 17, "en": "diving", "fr": "plongeon", "es": "buceo", "it": "tuffi", "pt": "mergulho", "de": "Tauchen", "nl": "duiken", "image": "🤿" },
+    { "id": 18, "en": "acrobatics", "fr": "acrobatie", "es": "acrobacia", "it": "acrobazia", "pt": "acrobacia", "de": "Akrobatik", "nl": "acrobatiek", "image": "🤸" },
+    { "id": 19, "en": "badminton", "fr": "badminton", "es": "bádminton", "it": "badminton", "pt": "badminton", "de": "Badminton", "nl": "badminton", "image": "🏸" },
+    { "id": 20, "en": "basketball", "fr": "basketball", "es": "baloncesto", "it": "pallacanestro", "pt": "basquetebol", "de": "Basketball", "nl": "basketbal", "image": "🏀" },
+    { "id": 21, "en": "football", "fr": "football", "es": "fútbol", "it": "calcio", "pt": "futebol", "de": "Fußball", "nl": "voetbal", "image": "⚽" },
+    { "id": 22, "en": "fencing", "fr": "escrime", "es": "esgrima", "it": "scherma", "pt": "esgrima", "de": "Fechten", "nl": "schermen", "image": "🤺" },
+    { "id": 23, "en": "water polo", "fr": "water-polo", "es": "waterpolo", "it": "pallanuoto", "pt": "polo aquático", "de": "Wasserball", "nl": "waterpolo", "image": "🤽" },
+    { "id": 24, "en": "table tennis", "fr": "tennis de table", "es": "tenis de mesa", "it": "tennis tavolo", "pt": "ténis de mesa", "de": "Tischtennis", "nl": "tafeltennis", "image": "🏓" }
+  ]
+}

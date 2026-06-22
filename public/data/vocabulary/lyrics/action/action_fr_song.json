@@ -1,0 +1,96 @@
+{
+  "id": "action_fr",
+  "title": "Action",
+  "language": "fr",
+  "trackType": "song",
+  "sourceMedia": {
+    "audio": "action_FR.mp3",
+    "durationSeconds": 61.824,
+    "observedStructure": "One full lyric cycle across hook, verses, call and response, bridge, and final hook."
+  },
+  "display": {
+    "showPhonetic": false,
+    "showTranslation": false,
+    "showTengwar": false
+  },
+  "lyrics": {
+    "sections": [
+      {
+        "name": "Hook",
+        "lines": [
+          "Tape des mains — bouge les pieds,",
+          "Saute en l’air — sens le rythme,",
+          "Tourne sur toi — pas trop lent,",
+          "Allez viens — maintenant!"
+        ],
+        "start": 0.0,
+        "end": 9.511
+      },
+      {
+        "name": "Verse 1",
+        "lines": [
+          "Marche, cours — stop, vas-y,",
+          "Lève-toi, baisse-toi aussi,",
+          "Regarde autour, touche le sol,",
+          "Fais du bruit — encore plus fort!"
+        ],
+        "start": 9.511,
+        "end": 19.022
+      },
+      {
+        "name": "Call & Response",
+        "lines": [
+          "Dis “go!” — (GO!)",
+          "Dis “stop!” — (STOP!)",
+          "Plus vite — hop hop hop!"
+        ],
+        "start": 19.022,
+        "end": 23.778
+      },
+      {
+        "name": "Hook",
+        "lines": [
+          "Tape des mains — bouge les pieds,",
+          "Saute en l’air — sens le rythme,",
+          "Tourne sur toi — pas trop lent,",
+          "Allez viens — maintenant!"
+        ],
+        "start": 23.778,
+        "end": 33.289
+      },
+      {
+        "name": "Verse 2",
+        "lines": [
+          "Ouvre, ferme — pousse, tire,",
+          "Doucement… puis accélère,",
+          "Assieds-toi, lève-toi bien,",
+          "Gauche, droite — reviens!"
+        ],
+        "start": 33.289,
+        "end": 42.8
+      },
+      {
+        "name": "Bridge",
+        "lines": [
+          "Plus rapide — n’attends pas,",
+          "Bouge ton corps — reste là,",
+          "Haut en bas — côté côté,",
+          "Suis le rythme — sans t’arrêter!"
+        ],
+        "start": 42.8,
+        "end": 52.311
+      },
+      {
+        "name": "Final Hook",
+        "lines": [
+          "Tape des mains — bouge les pieds,",
+          "Saute en l’air — sens le rythme,",
+          "Tourne sur toi — crie plus fort,",
+          "Tu es là — encore!"
+        ],
+        "start": 52.311,
+        "end": 61.824
+      }
+    ]
+  }
+}

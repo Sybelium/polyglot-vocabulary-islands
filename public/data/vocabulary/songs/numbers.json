@@ -1,0 +1,209 @@
+{
+  "slug": "numbers",
+  "titles": {
+    "en": "Numbers",
+    "fr": "Nombres",
+    "es": "Números",
+    "it": "Numeri",
+    "pt": "Números",
+    "de": "Zahlen",
+    "nl": "Getallen"
+  },
+  "category": "Numbers",
+  "style": "Rhythmic / structured",
+  "comment": "A playful song to learn numbers and counting patterns through rhythm and repetition.",
+
+  "cover": "/data/vocabulary/images/numbers.jpg",
+
+  "lyrics": {
+    "en": [
+      { "target": "One, two, three — look at me" },
+      { "target": "Four, five, six — little tricks" },
+      { "target": "Seven, eight, nine — feeling fine" },
+      { "target": "Ten — start again" },
+
+      { "target": "One, two, three — look at me" },
+      { "target": "Four, five, six — little tricks" },
+      { "target": "Seven, eight, nine — feeling fine" },
+      { "target": "Ten — start again" },
+
+      { "target": "Eleven, twelve — count it well" },
+      { "target": "Thirteen, fourteen — in between" },
+      { "target": "Fifteen, sixteen — getting keen" },
+      { "target": "Seventeen, eighteen — almost seen" },
+      { "target": "Nineteen, twenty — that’s plenty" },
+
+      { "target": "Now… listen to the pattern" },
+
+      { "target": "Twenty-one, twenty-two" },
+      { "target": "Add a number, that’s the rule" },
+      { "target": "Thirty-one, forty-five" },
+      { "target": "Mix and match — you’re alive" },
+
+      { "target": "Numbers, numbers — say them slow" },
+      { "target": "Learn the pattern, feel the flow" }
+    ],
+    "fr": [
+  { "target": "Un, deux, trois — avec moi" },
+  { "target": "Quatre, cinq, six — ça glisse" },
+  { "target": "Sept, huit, neuf — tout neuf" },
+  { "target": "Dix — on recommence" },
+
+  { "target": "Un, deux, trois — avec moi" },
+  { "target": "Quatre, cinq, six — ça glisse" },
+  { "target": "Sept, huit, neuf — tout neuf" },
+  { "target": "Dix — on recommence" },
+
+  { "target": "Onze, douze — ça bouge" },
+  { "target": "Treize, quatorze — on avance" },
+  { "target": "Quinze, seize — à l’aise" },
+  { "target": "Dix-sept, dix-huit — ça suit" },
+  { "target": "Dix-neuf, vingt — c’est parti" },
+
+  { "target": "Écoute bien…" },
+
+  { "target": "Vingt-et-un, vingt-deux" },
+  { "target": "Tu ajoutes — c’est le jeu" },
+  { "target": "Trente-et-un, quarante-cinq" },
+  { "target": "Tu mélanges — tranquille" },
+
+  { "target": "Un, deux, trois — avec moi" },
+  { "target": "Encore une fois — et voilà" }
+],
+"es": [
+  { "target": "Uno, dos, tres — ven conmigo" },
+  { "target": "Cuatro, cinco, seis — así lo digo" },
+  { "target": "Siete, ocho, nueve — todo leve" },
+  { "target": "Diez — otra vez" },
+
+  { "target": "Uno, dos, tres — ven conmigo" },
+  { "target": "Cuatro, cinco, seis — así lo digo" },
+  { "target": "Siete, ocho, nueve — todo leve" },
+  { "target": "Diez — otra vez" },
+
+  { "target": "Once, doce — muévete" },
+  { "target": "Trece, catorce — sin corte" },
+  { "target": "Quince, dieciséis — otra vez" },
+  { "target": "Diecisiete, dieciocho — ya lo ves" },
+  { "target": "Diecinueve, veinte — de repente" },
+
+  { "target": "Escucha bien…" },
+
+  { "target": "Veintiuno, veintidós" },
+  { "target": "Suma uno — como ves" },
+  { "target": "Treinta y uno, cuarenta y cinco" },
+  { "target": "Todo junto — muy sencillo" },
+
+  { "target": "Uno, dos, tres — ven conmigo" },
+  { "target": "Otra vez — y ya lo digo" }
+],
+"it": [
+  { "target": "Uno, due, tre — vieni con me" },
+  { "target": "Quattro, cinque, sei — come vuoi" },
+  { "target": "Sette, otto, nove — tutto muove" },
+  { "target": "Dieci — si ripete" },
+
+  { "target": "Uno, due, tre — vieni con me" },
+  { "target": "Quattro, cinque, sei — come vuoi" },
+  { "target": "Sette, otto, nove — tutto muove" },
+  { "target": "Dieci — si ripete" },
+
+  { "target": "Undici, dodici — facile" },
+  { "target": "Tredici, quattordici — semplice" },
+  { "target": "Quindici, sedici — così" },
+  { "target": "Diciassette, diciotto — vai così" },
+  { "target": "Diciannove, venti — avanti" },
+
+  { "target": "Ascolta bene…" },
+
+  { "target": "Ventuno, ventidue" },
+  { "target": "Aggiungi uno — fai tu" },
+  { "target": "Trentuno, quarantacinque" },
+  { "target": "Tutto insieme — è semplice" },
+
+  { "target": "Uno, due, tre — vieni con me" },
+  { "target": "Ancora un po’ — e vai così" }
+],
+"pt": [
+  { "target": "Um, dois, três — vem com a gente" },
+  { "target": "Quatro, cinco, seis — segue em frente" },
+  { "target": "Sete, oito, nove — tudo move" },
+  { "target": "Dez — outra vez" },
+
+  { "target": "Um, dois, três — vem com a gente" },
+  { "target": "Quatro, cinco, seis — segue em frente" },
+  { "target": "Sete, oito, nove — tudo move" },
+  { "target": "Dez — outra vez" },
+
+  { "target": "Onze, doze — vem você" },
+  { "target": "Treze, catorze — pode crer" },
+  { "target": "Quinze, dezesseis — outra vez" },
+  { "target": "Dezessete, dezoito — já se fez" },
+  { "target": "Dezenove, vinte — segue em frente" },
+
+  { "target": "Escuta bem…" },
+
+  { "target": "Vinte e um, vinte e dois" },
+  { "target": "Soma um número — depois" },
+  { "target": "Trinta e um, quarenta e cinco" },
+  { "target": "Tudo junto — bem simples" },
+
+  { "target": "Um, dois, três — vem com a gente" },
+  { "target": "Mais uma vez — segue em frente" }
+],
+"de": [
+  { "target": "Eins, zwei, drei — komm vorbei" },
+  { "target": "Vier, fünf, sechs — keine Hex’" },
+  { "target": "Sieben, acht, neun — das ist fein" },
+  { "target": "Zehn — noch mal rein" },
+
+  { "target": "Eins, zwei, drei — komm vorbei" },
+  { "target": "Vier, fünf, sechs — keine Hex’" },
+  { "target": "Sieben, acht, neun — das ist fein" },
+  { "target": "Zehn — noch mal rein" },
+
+  { "target": "Elf, zwölf — zähl es selbst" },
+  { "target": "Dreizehn, vierzehn — weiter gehen" },
+  { "target": "Fünfzehn, sechzehn — das ist schön" },
+  { "target": "Siebzehn, achtzehn — weiter zählen" },
+  { "target": "Neunzehn, zwanzig — ganz entspannt" },
+
+  { "target": "Hör gut zu…" },
+
+  { "target": "Einundzwanzig, zweiundzwanzig" },
+  { "target": "Eins dazu — ganz einfach" },
+  { "target": "Einunddreißig, fünfundvierzig" },
+  { "target": "Alles klar — ganz einfach" },
+
+  { "target": "Eins, zwei, drei — komm vorbei" },
+  { "target": "Noch einmal — eins, zwei, drei" }
+],
+"nl": [
+  { "target": "Eén, twee, drie — doe met me mee" },
+  { "target": "Vier, vijf, zes — zeg het best" },
+  { "target": "Zeven, acht, negen — blijf bewegen" },
+  { "target": "Tien — nog een keer" },
+
+  { "target": "Eén, twee, drie — doe met me mee" },
+  { "target": "Vier, vijf, zes — zeg het best" },
+  { "target": "Zeven, acht, negen — blijf bewegen" },
+  { "target": "Tien — nog een keer" },
+
+  { "target": "Elf, twaalf — tel maar zelf" },
+  { "target": "Dertien, veertien — ga maar door" },
+  { "target": "Vijftien, zestien — zeg het weer" },
+  { "target": "Zeventien, achttien — leer het goed" },
+  { "target": "Negentien, twintig — gaat al goed" },
+
+  { "target": "Luister goed…" },
+
+  { "target": "Eenentwintig, tweeëntwintig" },
+  { "target": "Tel erbij — heel eenvoudig" },
+  { "target": "Eenendertig, vijfenveertig" },
+  { "target": "Alles samen — super logisch" },
+
+  { "target": "Eén, twee, drie — doe met me mee" },
+  { "target": "Nog een keer — één, twee, drie" }
+]
+  }
+}

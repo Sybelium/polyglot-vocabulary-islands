@@ -1,0 +1,96 @@
+{
+  "id": "action_de",
+  "title": "Action",
+  "language": "de",
+  "trackType": "song",
+  "sourceMedia": {
+    "audio": "action_DE.mp3",
+    "durationSeconds": 99.12,
+    "observedStructure": "One full lyric cycle across hook, verses, call and response, bridge, and final hook."
+  },
+  "display": {
+    "showPhonetic": false,
+    "showTranslation": false,
+    "showTengwar": false
+  },
+  "lyrics": {
+    "sections": [
+      {
+        "name": "Hook",
+        "lines": [
+          "Klatsch in die Hände — beweg die Füße,  ",
+          "Spring nach oben — fühl den Beat,  ",
+          "Dreh dich um — nicht zu langsam,  ",
+          "Komm jetzt — mach mit!  "
+        ],
+        "start": 0.0,
+        "end": 15.249
+      },
+      {
+        "name": "Verse 1",
+        "lines": [
+          "Geh, lauf — stopp, dann los,  ",
+          "Steh auf, geh runter groß,  ",
+          "Schau dich um, berühr den Boden,  ",
+          "Mach ein Geräusch — ganz laut!  "
+        ],
+        "start": 15.249,
+        "end": 30.498
+      },
+      {
+        "name": "Call & Response",
+        "lines": [
+          "Sag “go!” — (GO!)  ",
+          "Sag “stop!” — (STOP!)  ",
+          "Schneller jetzt — hör nicht auf!  "
+        ],
+        "start": 30.498,
+        "end": 38.123
+      },
+      {
+        "name": "Hook",
+        "lines": [
+          "Klatsch in die Hände — beweg die Füße,  ",
+          "Spring nach oben — fühl den Beat,  ",
+          "Dreh dich um — nicht zu langsam,  ",
+          "Komm jetzt — mach mit!  "
+        ],
+        "start": 38.123,
+        "end": 53.372
+      },
+      {
+        "name": "Verse 2",
+        "lines": [
+          "Öffne, schließ — drück, zieh,  ",
+          "Langsam… dann schnell wie nie,  ",
+          "Setz dich, steh auf,  ",
+          "Links, rechts — lauf!  "
+        ],
+        "start": 53.372,
+        "end": 68.622
+      },
+      {
+        "name": "Bridge",
+        "lines": [
+          "Schneller jetzt — warte nicht,  ",
+          "Beweg den Körper — fühl das Licht,  ",
+          "Hoch und runter — Seite an Seite,  ",
+          "Folge dem Rhythmus — bleib dabei!  "
+        ],
+        "start": 68.622,
+        "end": 83.871
+      },
+      {
+        "name": "Final Hook",
+        "lines": [
+          "Klatsch in die Hände — beweg die Füße,  ",
+          "Spring nach oben — fühl den Beat,  ",
+          "Dreh dich um — ruf es laut,  ",
+          "Du bist hier — fühl den Sound!"
+        ],
+        "start": 83.871,
+        "end": 99.12
+      }
+    ]
+  }
+}

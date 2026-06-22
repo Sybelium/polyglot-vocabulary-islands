@@ -1,0 +1,33 @@
+{
+  "id": 22,
+  "name": "Flying Animals",
+  "icon": "🦅",
+  "description": "Birds and flying insects",
+  "words": [
+    { "id": 1, "en": "sparrow", "fr": "moineau", "es": "gorrión", "it": "passero", "pt": "pardal", "de": "Spatz", "nl": "mus", "image": "🐦" },
+    { "id": 2, "en": "eagle", "fr": "aigle", "es": "águila", "it": "aquila", "pt": "águia", "de": "Adler", "nl": "adelaar", "image": "🦅" },
+    { "id": 3, "en": "falcon", "fr": "faucon", "es": "halcón", "it": "falco", "pt": "falcão", "de": "Falke", "nl": "valk", "image": "🦅" },
+    { "id": 4, "en": "owl", "fr": "hibou", "es": "búho", "it": "gufo", "pt": "coruja", "de": "Eule", "nl": "uil", "image": "🦉" },
+    { "id": 5, "en": "pigeon", "fr": "pigeon", "es": "paloma", "it": "piccione", "pt": "pombo", "de": "Taube", "nl": "duif", "image": "🕊️" },
+    { "id": 6, "en": "pelican", "fr": "pélican", "es": "pelícano", "it": "pellicano", "pt": "pelicano", "de": "Pelikan", "nl": "pelikaan", "image": "🦤" },
+    { "id": 7, "en": "duck", "fr": "canard", "es": "pato", "it": "anatra", "pt": "pato", "de": "Ente", "nl": "eend", "image": "🦆" },
+    { "id": 8, "en": "chicken", "fr": "poulet", "es": "pollo", "it": "pollo", "pt": "frango", "de": "Huhn", "nl": "kip", "image": "🐔" },
+    { "id": 9, "en": "parrot", "fr": "perroquet", "es": "loro", "it": "pappagallo", "pt": "papagaio", "de": "Papagei", "nl": "papegaai", "image": "🦜" },
+    { "id": 10, "en": "magpie", "fr": "pie", "es": "urraca", "it": "gazza", "pt": "pega", "de": "Elster", "nl": "ekster", "image": "🐦‍⬛" },
+    { "id": 11, "en": "crow", "fr": "corbeau", "es": "cuervo", "it": "corvo", "pt": "corvo", "de": "Krähe", "nl": "kraai", "image": "🐦‍⬛" },
+    { "id": 12, "en": "seagull", "fr": "mouette", "es": "gaviota", "it": "gabbiano", "pt": "gaivota", "de": "Möwe", "nl": "meeuw", "image": "🕊️" },
+    { "id": 13, "en": "albatross", "fr": "albatros", "es": "albatros", "it": "albatro", "pt": "albatroz", "de": "Albatros", "nl": "albatros", "image": "🕊️" },
+    { "id": 14, "en": "vulture", "fr": "vautour", "es": "buitre", "it": "avvoltoio", "pt": "abutre", "de": "Geier", "nl": "gier", "image": "🦅" },
+    { "id": 15, "en": "bat", "fr": "chauve-souris", "es": "murciélago", "it": "pipistrello", "pt": "morcego", "de": "Fledermaus", "nl": "vleermuis", "image": "🦇" },
+    { "id": 16, "en": "hummingbird", "fr": "colibri", "es": "colibrí", "it": "colibrì", "pt": "beija-flor", "de": "Kolibri", "nl": "kolibrie", "image": "🐦" },
+    { "id": 17, "en": "fly", "fr": "mouche", "es": "mosca", "it": "mosca", "pt": "mosca", "de": "Fliege", "nl": "vlieg", "image": "🪰" },
+    { "id": 18, "en": "butterfly", "fr": "papillon", "es": "mariposa", "it": "farfalla", "pt": "borboleta", "de": "Schmetterling", "nl": "vlinder", "image": "🦋" },
+    { "id": 19, "en": "dragonfly", "fr": "libellule", "es": "libélula", "it": "libellula", "pt": "libélula", "de": "Libelle", "nl": "libel", "image": "🦟" },
+    { "id": 20, "en": "mosquito", "fr": "moustique", "es": "mosquito", "it": "zanzara", "pt": "mosquito", "de": "Mücke", "nl": "mug", "image": "🦟" },
+    { "id": 21, "en": "ladybug", "fr": "coccinelle", "es": "mariquita", "it": "coccinella", "pt": "joaninha", "de": "Marienkäfer", "nl": "lieveheersbeestje", "image": "🐞" },
+    { "id": 22, "en": "bee", "fr": "abeille", "es": "abeja", "it": "ape", "pt": "abelha", "de": "Biene", "nl": "bij", "image": "🐝" },
+    { "id": 23, "en": "wasp", "fr": "guêpe", "es": "avispa", "it": "vespa", "pt": "vespa", "de": "Wespe", "nl": "wesp", "image": "🐝" },
+    { "id": 24, "en": "hornet", "fr": "frelon", "es": "avispón", "it": "calabrone", "pt": "vespão", "de": "Hornisse", "nl": "hoornaar", "image": "🐝" },
+    { "id": 25, "en": "bumblebee", "fr": "bourdon", "es": "abejorro", "it": "calabrone", "pt": "abelhão", "de": "Hummel", "nl": "hommel", "image": "🐝" }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": 24,
+  "name": "School Subjects",
+  "icon": "📐",
+  "description": "Academic subjects and fields of study",
+  "words": [
+    { "id": 1, "en": "mathematics", "fr": "mathématiques", "es": "matemáticas", "it": "matematica", "pt": "matemática", "de": "Mathematik", "nl": "wiskunde", "image": "🔢" },
+    { "id": 2, "en": "geography", "fr": "géographie", "es": "geografía", "it": "geografia", "pt": "geografia", "de": "Geografie", "nl": "aardrijkskunde", "image": "🗺️" },
+    { "id": 3, "en": "history", "fr": "histoire", "es": "historia", "it": "storia", "pt": "história", "de": "Geschichte", "nl": "geschiedenis", "image": "📜" },
+    { "id": 4, "en": "physical education", "fr": "éducation physique", "es": "educación física", "it": "educazione fisica", "pt": "educação física", "de": "Sportunterricht", "nl": "lichamelijke opvoeding", "image": "⚽" },
+    { "id": 5, "en": "art", "fr": "art", "es": "arte", "it": "arte", "pt": "arte", "de": "Kunst", "nl": "kunst", "image": "🎨" },
+    { "id": 6, "en": "science", "fr": "science", "es": "ciencia", "it": "scienze", "pt": "ciências", "de": "Naturwissenschaften", "nl": "wetenschap", "image": "🔬" },
+    { "id": 7, "en": "physics", "fr": "physique", "es": "física", "it": "fisica", "pt": "física", "de": "Physik", "nl": "natuurkunde", "image": "⚛️" },
+    { "id": 8, "en": "biology", "fr": "biologie", "es": "biología", "it": "biologia", "pt": "biologia", "de": "Biologie", "nl": "biologie", "image": "🧬" },
+    { "id": 9, "en": "chemistry", "fr": "chimie", "es": "química", "it": "chimica", "pt": "química", "de": "Chemie", "nl": "scheikunde", "image": "🧪" },
+    { "id": 10, "en": "architecture", "fr": "architecture", "es": "arquitectura", "it": "architettura", "pt": "arquitetura", "de": "Architektur", "nl": "architectuur", "image": "🏛️" },
+    { "id": 11, "en": "geology", "fr": "géologie", "es": "geología", "it": "geologia", "pt": "geologia", "de": "Geologie", "nl": "geologie", "image": "🪨" },
+    { "id": 12, "en": "sociology", "fr": "sociologie", "es": "sociología", "it": "sociologia", "pt": "sociologia", "de": "Soziologie", "nl": "sociologie", "image": "👥" },
+    { "id": 13, "en": "geometry", "fr": "géométrie", "es": "geometría", "it": "geometria", "pt": "geometria", "de": "Geometrie", "nl": "meetkunde", "image": "📐" },
+    { "id": 14, "en": "trigonometry", "fr": "trigonométrie", "es": "trigonometría", "it": "trigonometria", "pt": "trigonometria", "de": "Trigonometrie", "nl": "trigonometrie", "image": "📊" },
+    { "id": 15, "en": "algebra", "fr": "algèbre", "es": "álgebra", "it": "algebra", "pt": "álgebra", "de": "Algebra", "nl": "algebra", "image": "🔢" },
+    { "id": 16, "en": "religion", "fr": "religion", "es": "religión", "it": "religione", "pt": "religião", "de": "Religion", "nl": "godsdienst", "image": "⛪" },
+    { "id": 17, "en": "foreign languages", "fr": "langues étrangères", "es": "idiomas extranjeros", "it": "lingue straniere", "pt": "línguas estrangeiras", "de": "Fremdsprachen", "nl": "vreemde talen", "image": "🗣️" },
+    { "id": 18, "en": "computer science", "fr": "informatique", "es": "informática", "it": "informatica", "pt": "informática", "de": "Informatik", "nl": "informatica", "image": "💻" },
+    { "id": 19, "en": "technical studies", "fr": "études techniques", "es": "estudios técnicos", "it": "studi tecnici", "pt": "estudos técnicos", "de": "Technikunterricht", "nl": "techniek", "image": "🔧" }
+  ]
+}

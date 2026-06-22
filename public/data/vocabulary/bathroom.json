@@ -1,0 +1,28 @@
+{
+  "id": 15,
+  "name": "Bathroom",
+  "icon": "🛁",
+  "description": "Bathroom items and personal hygiene products",
+  "words": [
+    { "id": 1, "en": "bathtub", "fr": "baignoire", "es": "bañera", "it": "vasca da bagno", "pt": "banheira", "de": "Badewanne", "nl": "badkuip", "image": "🛁" },
+    { "id": 2, "en": "shower", "fr": "douche", "es": "ducha", "it": "doccia", "pt": "chuveiro", "de": "Dusche", "nl": "douche", "image": "🚿" },
+    { "id": 3, "en": "soap", "fr": "savon", "es": "jabón", "it": "sapone", "pt": "sabão", "de": "Seife", "nl": "zeep", "image": "🧼" },
+    { "id": 4, "en": "shampoo", "fr": "shampooing", "es": "champú", "it": "shampoo", "pt": "champô", "de": "Shampoo", "nl": "shampoo", "image": "🧴" },
+    { "id": 5, "en": "sponge", "fr": "éponge", "es": "esponja", "it": "spugna", "pt": "esponja", "de": "Schwamm", "nl": "spons", "image": "🧽" },
+    { "id": 6, "en": "towel", "fr": "serviette", "es": "toalla", "it": "asciugamano", "pt": "toalha", "de": "Handtuch", "nl": "handdoek", "image": "🧻" },
+    { "id": 7, "en": "tap", "fr": "robinet", "es": "grifo", "it": "rubinetto", "pt": "torneira", "de": "Wasserhahn", "nl": "kraan", "image": "🚰" },
+    { "id": 8, "en": "hair brush", "fr": "brosse à cheveux", "es": "cepillo de pelo", "it": "spazzola per capelli", "pt": "escova de cabelo", "de": "Haarbürste", "nl": "haarborstel", "image": "💇" },
+    { "id": 9, "en": "hair drier", "fr": "sèche-cheveux", "es": "secador de pelo", "it": "asciugacapelli", "pt": "secador de cabelo", "de": "Föhn", "nl": "haardroger", "image": "💨" },
+    { "id": 10, "en": "comb", "fr": "peigne", "es": "peine", "it": "pettine", "pt": "pente", "de": "Kamm", "nl": "kam", "image": "💇" },
+    { "id": 11, "en": "scissors", "fr": "ciseaux", "es": "tijeras", "it": "forbici", "pt": "tesoura", "de": "Schere", "nl": "schaar", "image": "✂️" },
+    { "id": 12, "en": "scale", "fr": "balance", "es": "báscula", "it": "bilancia", "pt": "balança", "de": "Waage", "nl": "weegschaal", "image": "⚖️" },
+    { "id": 13, "en": "mat", "fr": "tapis", "es": "alfombrilla", "it": "tappetino", "pt": "tapete", "de": "Badematte", "nl": "badmat", "image": "🟫" },
+    { "id": 14, "en": "shaver", "fr": "rasoir", "es": "afeitadora", "it": "rasoio", "pt": "lâmina de barbear", "de": "Rasierer", "nl": "scheerapparaat", "image": "🪒" },
+    { "id": 15, "en": "toothbrush", "fr": "brosse à dents", "es": "cepillo de dientes", "it": "spazzolino da denti", "pt": "escova de dentes", "de": "Zahnbürste", "nl": "tandenborstel", "image": "🪥" },
+    { "id": 16, "en": "toothpaste", "fr": "dentifrice", "es": "pasta de dientes", "it": "dentifricio", "pt": "pasta de dentes", "de": "Zahnpasta", "nl": "tandpasta", "image": "🦷" },
+    { "id": 17, "en": "washing basin", "fr": "lavabo", "es": "lavabo", "it": "lavandino", "pt": "lavatório", "de": "Waschbecken", "nl": "wastafel", "image": "🚰" },
+    { "id": 18, "en": "water closet", "fr": "toilettes", "es": "inodoro", "it": "WC", "pt": "sanita", "de": "Toilette", "nl": "toilet", "image": "🚽" },
+    { "id": 19, "en": "toilet paper", "fr": "papier toilette", "es": "papel higiénico", "it": "carta igienica", "pt": "papel higiénico", "de": "Toilettenpapier", "nl": "toiletpapier", "image": "🧻" },
+    { "id": 20, "en": "nail clippers", "fr": "coupe-ongles", "es": "cortaúñas", "it": "tagliaunghie", "pt": "corta-unhas", "de": "Nagelknipser", "nl": "nagelknipper", "image": "💅" }
+  ]
+}
