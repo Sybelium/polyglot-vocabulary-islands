@@ -9,7 +9,7 @@
   "scripts": {
     "dev": "next dev --turbopack",
     "build": "next build",
-    "start": "next start -H 0.0.0.0 -p $PORT"
+    "start": "node server.js"
   },
   "keywords": [],
   "author": "",
