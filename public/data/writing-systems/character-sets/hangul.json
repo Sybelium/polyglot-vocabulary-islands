@@ -1,0 +1,37 @@
+{
+  "id": "hangul",
+  "name": {
+    "en": "Hangul"
+  },
+  "voiceLang": "ko-KR",
+  "columns": 7,
+  "letters": [
+    { "symbol": "ㄱ", "name": "기역" },
+    { "symbol": "ㄴ", "name": "니은" },
+    { "symbol": "ㄷ", "name": "디귿" },
+    { "symbol": "ㄹ", "name": "리을" },
+    { "symbol": "ㅁ", "name": "미음" },
+    { "symbol": "ㅂ", "name": "비읍" },
+    { "symbol": "ㅅ", "name": "시옷" },
+
+    { "symbol": "ㅇ", "name": "이응" },
+    { "symbol": "ㅈ", "name": "지읒" },
+    { "symbol": "ㅊ", "name": "치읓" },
+    { "symbol": "ㅋ", "name": "키읔" },
+    { "symbol": "ㅌ", "name": "티읕" },
+    { "symbol": "ㅍ", "name": "피읖" },
+    { "symbol": "ㅎ", "name": "히읗" },
+
+    { "symbol": "ㅏ", "name": "아" },
+    { "symbol": "ㅑ", "name": "야" },
+    { "symbol": "ㅓ", "name": "어" },
+    { "symbol": "ㅕ", "name": "여" },
+    { "symbol": "ㅗ", "name": "오" },
+    { "symbol": "ㅛ", "name": "요" },
+    { "symbol": "ㅜ", "name": "우" },
+
+    { "symbol": "ㅠ", "name": "유" },
+    { "symbol": "ㅡ", "name": "으" },
+    { "symbol": "ㅣ", "name": "이" }
+  ]
+}

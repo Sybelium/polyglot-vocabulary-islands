@@ -1,0 +1,65 @@
+{
+  "id": "katakana",
+  "name": {
+    "en": "Katakana"
+  },
+  "voiceLang": "ja-JP",
+  "columns": 5,
+  "letters": [
+    { "symbol": "ア", "name": "ア" },
+    { "symbol": "イ", "name": "イ" },
+    { "symbol": "ウ", "name": "ウ" },
+    { "symbol": "エ", "name": "エ" },
+    { "symbol": "オ", "name": "オ" },
+
+    { "symbol": "カ", "name": "カ" },
+    { "symbol": "キ", "name": "キ" },
+    { "symbol": "ク", "name": "ク" },
+    { "symbol": "ケ", "name": "ケ" },
+    { "symbol": "コ", "name": "コ" },
+
+    { "symbol": "サ", "name": "サ" },
+    { "symbol": "シ", "name": "シ" },
+    { "symbol": "ス", "name": "ス" },
+    { "symbol": "セ", "name": "セ" },
+    { "symbol": "ソ", "name": "ソ" },
+
+    { "symbol": "タ", "name": "タ" },
+    { "symbol": "チ", "name": "チ" },
+    { "symbol": "ツ", "name": "ツ" },
+    { "symbol": "テ", "name": "テ" },
+    { "symbol": "ト", "name": "ト" },
+
+    { "symbol": "ナ", "name": "ナ" },
+    { "symbol": "ニ", "name": "ニ" },
+    { "symbol": "ヌ", "name": "ヌ" },
+    { "symbol": "ネ", "name": "ネ" },
+    { "symbol": "ノ", "name": "ノ" },
+
+    { "symbol": "ハ", "name": "ハ" },
+    { "symbol": "ヒ", "name": "ヒ" },
+    { "symbol": "フ", "name": "フ" },
+    { "symbol": "ヘ", "name": "ヘ" },
+    { "symbol": "ホ", "name": "ホ" },
+
+    { "symbol": "マ", "name": "マ" },
+    { "symbol": "ミ", "name": "ミ" },
+    { "symbol": "ム", "name": "ム" },
+    { "symbol": "メ", "name": "メ" },
+    { "symbol": "モ", "name": "モ" },
+
+    { "symbol": "ヤ", "name": "ヤ" },
+    { "symbol": "ユ", "name": "ユ" },
+    { "symbol": "ヨ", "name": "ヨ" },
+
+    { "symbol": "ラ", "name": "ラ" },
+    { "symbol": "リ", "name": "リ" },
+    { "symbol": "ル", "name": "ル" },
+    { "symbol": "レ", "name": "レ" },
+    { "symbol": "ロ", "name": "ロ" },
+
+    { "symbol": "ワ", "name": "ワ" },
+    { "symbol": "ヲ", "name": "ヲ" },
+    { "symbol": "ン", "name": "ン" }
+  ]
+}

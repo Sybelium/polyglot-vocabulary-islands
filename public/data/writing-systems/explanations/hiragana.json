@@ -1,0 +1,62 @@
+{
+  "id": "hiragana",
+  "title": {
+    "en": "Hiragana"
+  },
+  "intro": {
+    "en": [
+      "Hiragana is one of the two kana syllabaries used in Japanese.",
+      "It is often used for grammar endings, native Japanese words, and words written without kanji."
+    ]
+  },
+  "sections": [
+    {
+      "id": "overview",
+      "title": {
+        "en": "Overview"
+      },
+      "content": {
+        "en": [
+          "Hiragana has 46 basic symbols.",
+          "Each symbol usually represents one mora, a rhythmic unit of Japanese."
+        ]
+      }
+    },
+    {
+      "id": "history",
+      "title": {
+        "en": "History"
+      },
+      "content": {
+        "en": [
+          "Hiragana developed from simplified cursive forms of Chinese characters.",
+          "It became one of the core writing systems of Japanese."
+        ]
+      }
+    },
+    {
+      "id": "where-used",
+      "title": {
+        "en": "Where it is used"
+      },
+      "content": {
+        "en": [
+          "Modern Japanese uses hiragana together with katakana and kanji.",
+          "Hiragana is especially common for grammatical endings and many everyday words."
+        ]
+      }
+    },
+    {
+      "id": "watch-out",
+      "title": {
+        "en": "Watch out"
+      },
+      "content": {
+        "en": [
+          "Some hiragana characters look similar at first, especially さ, き, ち, ぬ, め and わ for beginners.",
+          "It helps to learn them by row: a-row, ka-row, sa-row, and so on."
+        ]
+      }
+    }
+  ]
+}

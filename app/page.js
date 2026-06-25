@@ -34,7 +34,7 @@ const apps = [
     href: "/writing-systems",
     emoji: "✍️",
     status: "Coming soon",
-    active: false,
+    active: true,
     gradient: "from-slate-300 to-slate-400",
   },
 ];

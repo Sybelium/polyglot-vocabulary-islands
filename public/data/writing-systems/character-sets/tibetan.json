@@ -1,0 +1,46 @@
+{
+  "id": "tibetan",
+  "name": {
+    "en": "Tibetan Script"
+  },
+  "voiceLang": "bo-CN",
+  "columns": 7,
+  "letters": [
+    { "symbol": "ཀ", "name": "ka" },
+    { "symbol": "ཁ", "name": "kha" },
+    { "symbol": "ག", "name": "ga" },
+    { "symbol": "ང", "name": "nga" },
+
+    { "symbol": "ཅ", "name": "ca" },
+    { "symbol": "ཆ", "name": "cha" },
+    { "symbol": "ཇ", "name": "ja" },
+    { "symbol": "ཉ", "name": "nya" },
+
+    { "symbol": "ཏ", "name": "ta" },
+    { "symbol": "ཐ", "name": "tha" },
+    { "symbol": "ད", "name": "da" },
+    { "symbol": "ན", "name": "na" },
+
+    { "symbol": "པ", "name": "pa" },
+    { "symbol": "ཕ", "name": "pha" },
+    { "symbol": "བ", "name": "ba" },
+    { "symbol": "མ", "name": "ma" },
+
+    { "symbol": "ཙ", "name": "tsa" },
+    { "symbol": "ཚ", "name": "tsha" },
+    { "symbol": "ཛ", "name": "dza" },
+    { "symbol": "ཝ", "name": "wa" },
+
+    { "symbol": "ཞ", "name": "zha" },
+    { "symbol": "ཟ", "name": "za" },
+    { "symbol": "འ", "name": "a" },
+
+    { "symbol": "ཡ", "name": "ya" },
+    { "symbol": "ར", "name": "ra" },
+    { "symbol": "ལ", "name": "la" },
+    { "symbol": "ཤ", "name": "sha" },
+    { "symbol": "ས", "name": "sa" },
+    { "symbol": "ཧ", "name": "ha" },
+    { "symbol": "ཨ", "name": "a" }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "id": "devanagari",
+  "title": {
+    "en": "Devanagari Script"
+  },
+  "intro": {
+    "en": [
+      "Devanagari is one of the most widely used writing systems in the world.",
+      "It is used for languages such as Hindi, Sanskrit, Marathi and Nepali."
+    ]
+  },
+  "sections": [
+    {
+      "id": "overview",
+      "title": {
+        "en": "Overview"
+      },
+      "content": {
+        "en": [
+          "Devanagari is an abugida, meaning consonants normally contain an inherent vowel sound.",
+          "Additional marks modify or remove this vowel."
+        ]
+      }
+    },
+    {
+      "id": "headline",
+      "title": {
+        "en": "The headline"
+      },
+      "content": {
+        "en": [
+          "A distinctive feature of Devanagari is the horizontal line at the top of letters.",
+          "In printed text these lines connect across a word."
+        ]
+      }
+    },
+    {
+      "id": "vowels",
+      "title": {
+        "en": "Vowels and consonants"
+      },
+      "content": {
+        "en": [
+          "Vowels can appear as independent letters or as marks attached to consonants.",
+          "This system allows compact writing while still representing vowel sounds clearly."
+        ]
+      }
+    },
+    {
+      "id": "watch-out",
+      "title": {
+        "en": "Watch out"
+      },
+      "content": {
+        "en": [
+          "Beginners often focus on individual letters, but real Devanagari reading requires learning how consonants combine with vowel marks."
+        ]
+      }
+    }
+  ]
+}

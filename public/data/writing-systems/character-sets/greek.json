@@ -1,0 +1,34 @@
+{
+  "id": "greek",
+  "name": {
+    "en": "Greek Alphabet"
+  },
+  "voiceLang": "el-GR",
+  "columns": 6,
+  "letters": [
+    { "symbol": "Α", "name": "άλφα" },
+    { "symbol": "Β", "name": "βήτα" },
+    { "symbol": "Γ", "name": "γάμμα" },
+    { "symbol": "Δ", "name": "δέλτα" },
+    { "symbol": "Ε", "name": "έψιλον" },
+    { "symbol": "Ζ", "name": "ζήτα" },
+    { "symbol": "Η", "name": "ήτα" },
+    { "symbol": "Θ", "name": "θήτα" },
+    { "symbol": "Ι", "name": "γιώτα" },
+    { "symbol": "Κ", "name": "κάππα" },
+    { "symbol": "Λ", "name": "λάμδα" },
+    { "symbol": "Μ", "name": "μι" },
+    { "symbol": "Ν", "name": "νι" },
+    { "symbol": "Ξ", "name": "ξι" },
+    { "symbol": "Ο", "name": "όμικρον" },
+    { "symbol": "Π", "name": "πι" },
+    { "symbol": "Ρ", "name": "ρο" },
+    { "symbol": "Σ", "name": "σίγμα" },
+    { "symbol": "Τ", "name": "ταυ" },
+    { "symbol": "Υ", "name": "ύψιλον" },
+    { "symbol": "Φ", "name": "φι" },
+    { "symbol": "Χ", "name": "χι" },
+    { "symbol": "Ψ", "name": "ψι" },
+    { "symbol": "Ω", "name": "ωμέγα" }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "hebrew",
+  "pageTitle": {
+    "en": "Hebrew Alphabet Songs"
+  },
+  "intro": {
+    "en": [
+      "Songs are a fun way to remember the order and names of the Hebrew letters."
+    ]
+  },
+  "songs": [
+    {
+      "title": {
+        "en": "Aleph-Bet Song"
+      },
+      "description": {
+        "en": "A popular children's song to learn the Hebrew alphabet."
+      },
+      "embedUrl": "https://www.youtube.com/embed/WBqqR-nqQsc"
+    }
+  ]
+}

@@ -1,0 +1,152 @@
+[
+  {
+    "id": "cyrillic",
+    "glyph": "Ж",
+    "title": {
+      "en": "Cyrillic"
+    },
+    "subtitle": {
+      "en": "Russian, Ukrainian, Bulgarian, Serbian and more"
+    },
+    "links": {
+      "explanation": "/writing-systems/cyrillic",
+      "songs": "/writing-systems/cyrillic/songs",
+      "game": "/writing-systems/cyrillic/game"
+    }
+  },
+  {
+  "id": "greek",
+  "glyph": "Ω",
+  "title": {
+    "en": "Greek"
+  },
+  "subtitle": {
+    "en": "Used for Greek and famous in science, maths, and history"
+  },
+  "links": {
+    "explanation": "/writing-systems/greek",
+    "songs": "/writing-systems/greek/songs",
+    "game": "/writing-systems/greek/game"
+  }
+},
+{
+  "id": "arabic",
+  "glyph": "ا",
+  "title": {
+    "en": "Arabic Script"
+  },
+  "subtitle": {
+    "en": "Arabic, Persian, Urdu and other languages"
+  },
+  "links": {
+    "explanation": "/writing-systems/arabic",
+    "songs": "/writing-systems/arabic/songs",
+    "game": "/writing-systems/arabic/game"
+  }
+},
+{
+  "id": "hangul",
+  "glyph": "한",
+  "title": {
+    "en": "Hangul"
+  },
+  "subtitle": {
+    "en": "The Korean writing system, built from letters into syllable blocks"
+  },
+  "links": {
+    "explanation": "/writing-systems/hangul",
+    "songs": "/writing-systems/hangul/songs",
+    "game": "/writing-systems/hangul/game"
+  }
+},
+{
+  "id": "hebrew",
+  "glyph": "א",
+  "title": {
+    "en": "Hebrew"
+  },
+  "subtitle": {
+    "en": "A right-to-left script with 22 letters"
+  },
+  "links": {
+    "explanation": "/writing-systems/hebrew",
+    "songs": "/writing-systems/hebrew/songs",
+    "game": "/writing-systems/hebrew/game"
+  }
+},
+{
+  "id": "devanagari",
+  "glyph": "क",
+  "title": {
+    "en": "Devanagari"
+  },
+  "subtitle": {
+    "en": "Used for Hindi, Sanskrit, Marathi, Nepali and more"
+  },
+  "links": {
+    "explanation": "/writing-systems/devanagari",
+    "songs": "/writing-systems/devanagari/songs",
+    "game": "/writing-systems/devanagari/game"
+  }
+},
+{
+  "id": "hiragana",
+  "glyph": "あ",
+  "title": {
+    "en": "Hiragana"
+  },
+  "subtitle": {
+    "en": "One of the two Japanese kana syllabaries"
+  },
+  "links": {
+    "explanation": "/writing-systems/hiragana",
+    "songs": "/writing-systems/hiragana/songs",
+    "game": "/writing-systems/hiragana/game"
+  }
+},
+{
+  "id": "katakana",
+  "glyph": "ア",
+  "title": {
+    "en": "Katakana"
+  },
+  "subtitle": {
+    "en": "The Japanese syllabary often used for foreign words"
+  },
+  "links": {
+    "explanation": "/writing-systems/katakana",
+    "songs": "/writing-systems/katakana/songs",
+    "game": "/writing-systems/katakana/game"
+  }
+},
+{
+  "id": "thai-consonants",
+  "glyph": "ก",
+  "title": {
+    "en": "Thai Consonants"
+  },
+  "subtitle": {
+    "en": "The 44 consonants of the Thai alphabet"
+  },
+  "links": {
+    "explanation": "/writing-systems/thai-consonants",
+    "songs": "/writing-systems/thai-consonants/songs",
+    "game": "/writing-systems/thai-consonants/game"
+  }
+},
+{
+  "id": "thai-vowels",
+  "glyph": "า",
+  "title": {
+    "en": "Thai Vowels"
+  },
+  "subtitle": {
+    "en": "Thai vowel signs and vowel patterns"
+  },
+  "links": {
+    "explanation": "/writing-systems/thai-vowels",
+    "songs": "/writing-systems/thai-vowels/songs",
+    "game": "/writing-systems/thai-vowels/game"
+  }
+}
+]

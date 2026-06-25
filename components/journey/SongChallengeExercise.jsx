@@ -324,14 +324,14 @@ export default function SongChallengeExercise({
         {finished && (
           <div className="mt-6 flex flex-wrap justify-between gap-3">
             <Link
-              href={`/${lang}/journey/a0/${island.id}/song`}
+              href={`/vocabulary/${lang}/journey/a0/${island.id}/song`}
               className="rounded-full bg-white px-5 py-3 font-black text-blue-900 shadow hover:bg-blue-50"
             >
               ← Back to Song
             </Link>
 
             <Link
-              href={`/${lang}/journey/a0`}
+              href={`/vocabulary/${lang}/journey/a0`}
               className="rounded-full bg-green-600 px-5 py-3 font-black text-white shadow hover:bg-green-700"
             >
               Continue to A0 Map →

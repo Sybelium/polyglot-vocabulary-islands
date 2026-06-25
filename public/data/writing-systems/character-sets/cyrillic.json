@@ -1,0 +1,43 @@
+{
+  "id": "cyrillic",
+  "name": {
+    "en": "Cyrillic Alphabet"
+  },
+  "voiceLang": "ru-RU",
+  "columns": 7,
+  "letters": [
+    { "symbol": "А", "name": "А" },
+    { "symbol": "Б", "name": "Бэ" },
+    { "symbol": "В", "name": "Вэ" },
+    { "symbol": "Г", "name": "Гэ" },
+    { "symbol": "Д", "name": "Дэ" },
+    { "symbol": "Е", "name": "Е" },
+    { "symbol": "Ё", "name": "Ё" },
+    { "symbol": "Ж", "name": "Жэ" },
+    { "symbol": "З", "name": "Зэ" },
+    { "symbol": "И", "name": "И" },
+    { "symbol": "Й", "name": "И краткое" },
+    { "symbol": "К", "name": "Ка" },
+    { "symbol": "Л", "name": "Эл" },
+    { "symbol": "М", "name": "Эм" },
+    { "symbol": "Н", "name": "Эн" },
+    { "symbol": "О", "name": "О" },
+    { "symbol": "П", "name": "Пэ" },
+    { "symbol": "Р", "name": "Эр" },
+    { "symbol": "С", "name": "Эс" },
+    { "symbol": "Т", "name": "Тэ" },
+    { "symbol": "У", "name": "У" },
+    { "symbol": "Ф", "name": "Эф" },
+    { "symbol": "Х", "name": "Ха" },
+    { "symbol": "Ц", "name": "Це" },
+    { "symbol": "Ч", "name": "Че" },
+    { "symbol": "Ш", "name": "Ша" },
+    { "symbol": "Щ", "name": "Ща" },
+    { "symbol": "Ъ", "name": "Твёрдый знак" },
+    { "symbol": "Ы", "name": "Ы" },
+    { "symbol": "Ь", "name": "Мягкий знак" },
+    { "symbol": "Э", "name": "Э" },
+    { "symbol": "Ю", "name": "Ю" },
+    { "symbol": "Я", "name": "Я" }
+  ]
+}

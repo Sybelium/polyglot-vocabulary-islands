@@ -1,0 +1,40 @@
+{
+  "id": "klingon-latin",
+  "name": {
+    "en": "Klingon Transliteration"
+  },
+  "voiceLang": "en-US",
+  "columns": 6,
+  "letters": [
+    { "symbol": "a", "name": "a" },
+    { "symbol": "b", "name": "b" },
+    { "symbol": "ch", "name": "ch" },
+    { "symbol": "D", "name": "D" },
+    { "symbol": "e", "name": "e" },
+    { "symbol": "gh", "name": "gh" },
+
+    { "symbol": "H", "name": "H" },
+    { "symbol": "I", "name": "I" },
+    { "symbol": "j", "name": "j" },
+    { "symbol": "l", "name": "l" },
+    { "symbol": "m", "name": "m" },
+    { "symbol": "n", "name": "n" },
+
+    { "symbol": "ng", "name": "ng" },
+    { "symbol": "o", "name": "o" },
+    { "symbol": "p", "name": "p" },
+    { "symbol": "q", "name": "q" },
+    { "symbol": "Q", "name": "Q" },
+    { "symbol": "r", "name": "r" },
+
+    { "symbol": "S", "name": "S" },
+    { "symbol": "t", "name": "t" },
+    { "symbol": "tlh", "name": "tlh" },
+    { "symbol": "u", "name": "u" },
+    { "symbol": "v", "name": "v" },
+    { "symbol": "w", "name": "w" },
+
+    { "symbol": "y", "name": "y" },
+    { "symbol": "'", "name": "glottal stop" }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "id": "khmer",
+  "name": {
+    "en": "Khmer Script"
+  },
+  "voiceLang": "km-KH",
+  "columns": 7,
+  "letters": [
+    { "symbol": "ក", "name": "ក" },
+    { "symbol": "ខ", "name": "ខ" },
+    { "symbol": "គ", "name": "គ" },
+    { "symbol": "ឃ", "name": "ឃ" },
+    { "symbol": "ង", "name": "ង" },
+
+    { "symbol": "ច", "name": "ច" },
+    { "symbol": "ឆ", "name": "ឆ" },
+    { "symbol": "ជ", "name": "ជ" },
+    { "symbol": "ឈ", "name": "ឈ" },
+    { "symbol": "ញ", "name": "ញ" },
+
+    { "symbol": "ដ", "name": "ដ" },
+    { "symbol": "ឋ", "name": "ឋ" },
+    { "symbol": "ឌ", "name": "ឌ" },
+    { "symbol": "ឍ", "name": "ឍ" },
+    { "symbol": "ណ", "name": "ណ" },
+
+    { "symbol": "ត", "name": "ត" },
+    { "symbol": "ថ", "name": "ថ" },
+    { "symbol": "ទ", "name": "ទ" },
+    { "symbol": "ធ", "name": "ធ" },
+    { "symbol": "ន", "name": "ន" },
+
+    { "symbol": "ប", "name": "ប" },
+    { "symbol": "ផ", "name": "ផ" },
+    { "symbol": "ព", "name": "ព" },
+    { "symbol": "ភ", "name": "ភ" },
+    { "symbol": "ម", "name": "ម" },
+
+    { "symbol": "យ", "name": "យ" },
+    { "symbol": "រ", "name": "រ" },
+    { "symbol": "ល", "name": "ល" },
+    { "symbol": "វ", "name": "វ" },
+
+    { "symbol": "ស", "name": "ស" },
+    { "symbol": "ហ", "name": "ហ" },
+    { "symbol": "ឡ", "name": "ឡ" },
+    { "symbol": "អ", "name": "អ" }
+  ]
+}

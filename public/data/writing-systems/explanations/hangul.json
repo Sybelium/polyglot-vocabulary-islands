@@ -1,0 +1,62 @@
+{
+  "id": "hangul",
+  "title": {
+    "en": "Hangul"
+  },
+  "intro": {
+    "en": [
+      "Hangul is the writing system of Korean.",
+      "It was created in the 15th century and is famous for its logical design."
+    ]
+  },
+  "sections": [
+    {
+      "id": "overview",
+      "title": {
+        "en": "Overview"
+      },
+      "content": {
+        "en": [
+          "Modern Hangul is usually described as having 24 basic letters: 14 consonants and 10 vowels.",
+          "Instead of being written one after another like Latin letters, Hangul letters are grouped into square syllable blocks."
+        ]
+      }
+    },
+    {
+      "id": "history",
+      "title": {
+        "en": "History"
+      },
+      "content": {
+        "en": [
+          "Hangul was developed under King Sejong in 1443 and published in 1446.",
+          "It was designed to make literacy more accessible."
+        ]
+      }
+    },
+    {
+      "id": "special-design",
+      "title": {
+        "en": "What makes Hangul special"
+      },
+      "content": {
+        "en": [
+          "The shapes of Hangul consonants are connected to how sounds are formed in the mouth.",
+          "This makes Hangul one of the most systematic writing systems in the world."
+        ]
+      }
+    },
+    {
+      "id": "watch-out",
+      "title": {
+        "en": "Watch out"
+      },
+      "content": {
+        "en": [
+          "Beginners often learn individual letters first, but real Korean writing is read as syllable blocks such as 한, 글, 가, 나.",
+          "So the next step after learning letters is learning how they combine."
+        ]
+      }
+    }
+  ]
+}

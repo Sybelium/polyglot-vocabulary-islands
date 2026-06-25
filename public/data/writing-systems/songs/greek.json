@@ -1,0 +1,22 @@
+{
+  "id": "greek",
+  "pageTitle": {
+    "en": "Greek Alphabet Songs"
+  },
+  "intro": {
+    "en": [
+      "Songs can help you remember the order and sound of the Greek letters."
+    ]
+  },
+  "songs": [
+    {
+      "title": {
+        "en": "Greek Alphabet Song"
+      },
+      "description": {
+        "en": "A beginner-friendly video to hear the Greek alphabet in order."
+      },
+      "embedUrl": "https://www.youtube.com/embed/TxC7ripS-NI"
+    }
+  ]
+}

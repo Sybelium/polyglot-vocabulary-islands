@@ -1,0 +1,38 @@
+{
+  "id": "mongolian",
+  "name": {
+    "en": "Traditional Mongolian Script"
+  },
+  "voiceLang": "mn-MN",
+  "columns": 6,
+  "letters": [
+    { "symbol": "ᠠ", "name": "a" },
+    { "symbol": "ᠡ", "name": "e" },
+    { "symbol": "ᠢ", "name": "i" },
+    { "symbol": "ᠣ", "name": "o" },
+    { "symbol": "ᠤ", "name": "u" },
+
+    { "symbol": "ᠨ", "name": "n" },
+    { "symbol": "ᠩ", "name": "ng" },
+    { "symbol": "ᠪ", "name": "b" },
+    { "symbol": "ᠫ", "name": "p" },
+    { "symbol": "ᠬ", "name": "kh" },
+
+    { "symbol": "ᠭ", "name": "g" },
+    { "symbol": "ᠮ", "name": "m" },
+    { "symbol": "ᠯ", "name": "l" },
+    { "symbol": "ᠰ", "name": "s" },
+    { "symbol": "ᠱ", "name": "sh" },
+
+    { "symbol": "ᠲ", "name": "t" },
+    { "symbol": "ᠳ", "name": "d" },
+    { "symbol": "ᠴ", "name": "ch" },
+    { "symbol": "ᠵ", "name": "j" },
+
+    { "symbol": "ᠶ", "name": "y" },
+    { "symbol": "ᠷ", "name": "r" },
+    { "symbol": "ᠸ", "name": "w" },
+    { "symbol": "ᠹ", "name": "f" },
+    { "symbol": "ᠺ", "name": "k" }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "katakana",
+  "pageTitle": {
+    "en": "Katakana Songs"
+  },
+  "intro": {
+    "en": [
+      "Songs are a fun way to remember the order and sound of katakana."
+    ]
+  },
+  "songs": [
+    {
+      "title": {
+        "en": "Katakana Song – AIUEO"
+      },
+      "description": {
+        "en": "A beginner-friendly katakana song to practise the Japanese syllabary."
+      },
+      "embedUrl": "https://www.youtube.com/embed/jiPCcY050AI"
+    }
+  ]
+}

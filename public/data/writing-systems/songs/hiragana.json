@@ -1,0 +1,22 @@
+{
+  "id": "hiragana",
+  "pageTitle": {
+    "en": "Hiragana Songs"
+  },
+  "intro": {
+    "en": [
+      "Songs are a fun way to remember the order and sound of hiragana."
+    ]
+  },
+  "songs": [
+    {
+      "title": {
+        "en": "Hiragana Song – AIUEO"
+      },
+      "description": {
+        "en": "A beginner-friendly hiragana song to practice the Japanese syllabary."
+      },
+      "embedUrl": "https://www.youtube.com/embed/K-nw5EUxDz0"
+    }
+  ]
+}

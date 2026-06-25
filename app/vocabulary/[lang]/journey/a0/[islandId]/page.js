@@ -32,7 +32,7 @@ export default async function A0IslandPage({ params }) {
     <main className="min-h-screen bg-gradient-to-b from-sky-200 via-cyan-100 to-blue-200 px-4 py-8">
       <section className="mx-auto max-w-6xl">
         <Link
-          href={`/${lang}/journey/a0`}
+          href={`/vocabulary/${lang}/journey/a0`}
           className="rounded-full bg-white/85 px-4 py-2 text-sm font-bold text-blue-900 shadow hover:bg-white"
         >
           ← Back to A0 Map

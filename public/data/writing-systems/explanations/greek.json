@@ -1,0 +1,62 @@
+{
+  "id": "greek",
+  "title": {
+    "en": "Greek Alphabet"
+  },
+  "intro": {
+    "en": [
+      "The Greek alphabet is one of the oldest alphabets still in use today.",
+      "It is used to write Greek and is also very famous in science, mathematics, and philosophy."
+    ]
+  },
+  "sections": [
+    {
+      "id": "overview",
+      "title": {
+        "en": "Overview"
+      },
+      "content": {
+        "en": [
+          "The modern Greek alphabet has 24 letters.",
+          "It is written from left to right, like the Latin and Cyrillic alphabets."
+        ]
+      }
+    },
+    {
+      "id": "familiar-letters",
+      "title": {
+        "en": "Letters that look familiar"
+      },
+      "content": {
+        "en": [
+          "Some Greek letters look similar to Latin letters, such as Α, Β, Ε, Ζ, Κ, Μ, Ν, Ο, Ρ, Τ, Χ and Υ.",
+          "But their pronunciation is not always the same, so learners should be careful."
+        ]
+      }
+    },
+    {
+      "id": "special-role",
+      "title": {
+        "en": "A special role in science and culture"
+      },
+      "content": {
+        "en": [
+          "Greek letters are often used in mathematics, physics, astronomy, and academic notation.",
+          "Even people who do not study Greek often recognize letters such as π, Ω, Δ, λ, and σ."
+        ]
+      }
+    },
+    {
+      "id": "watch-out",
+      "title": {
+        "en": "Watch out"
+      },
+      "content": {
+        "en": [
+          "Some letters may look easy at first but sound different from what English speakers expect.",
+          "For example, Β is pronounced like V in modern Greek, not like B."
+        ]
+      }
+    }
+  ]
+}

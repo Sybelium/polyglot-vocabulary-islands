@@ -202,7 +202,7 @@ export default function JourneyLearnWords({ lang, island, words }) {
 
             {completed && (
               <Link
-                href={`/${lang}/journey/a0/${island.id}/recognize`}
+                href={`/vocabulary/${lang}/journey/a0/${island.id}/recognize`}
                 className="rounded-full bg-green-600 px-4 py-2 text-sm font-black text-white shadow hover:bg-green-700 md:px-5 md:py-3 md:text-base"
               >
                 Continue →

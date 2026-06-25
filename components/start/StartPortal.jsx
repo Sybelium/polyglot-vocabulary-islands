@@ -46,7 +46,7 @@ export default function StartPortal() {
               {languages.map((language) => (
                 <Link
                   key={language.lang}
-                  href={`/${language.lang}/journey/a0`}
+                  href={`/vocabulary/${language.lang}/journey/a0`}
                   className="flex items-center justify-between rounded-[1.5rem] border border-blue-100 bg-sky-50 px-4 py-4 shadow-sm transition active:scale-[0.98]"
                   aria-label={`Start learning ${language.name}`}
                 >
@@ -93,7 +93,7 @@ export default function StartPortal() {
         {languageZones.map((zone) => (
           <Link
             key={zone.lang}
-            href={`/${zone.lang}/journey/a0`}
+            href={`/vocabulary/${zone.lang}/journey/a0`}
             className="group absolute z-20"
             style={{
               left: zone.left,

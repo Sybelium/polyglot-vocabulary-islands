@@ -221,14 +221,14 @@ export default function JourneyWritePractice({ lang, island, words }) {
         <div className="mt-8 flex flex-wrap items-center justify-between gap-3">
           <div className="flex flex-wrap gap-3">
             <Link
-              href={`/${lang}/journey/a0/${island.id}`}
+              href={`/vocabulary/${lang}/journey/a0/${island.id}`}
               className="rounded-full bg-white px-5 py-3 font-black text-blue-900 shadow hover:bg-blue-50"
             >
               ← Back to island
             </Link>
 
             <Link
-              href={`/${lang}/journey/a0/${island.id}/write`}
+              href={`/vocabulary/${lang}/journey/a0/${island.id}/write`}
               className="rounded-full bg-yellow-300 px-5 py-3 font-black text-amber-950 shadow hover:bg-yellow-400"
             >
               Try again
@@ -236,7 +236,7 @@ export default function JourneyWritePractice({ lang, island, words }) {
           </div>
 
           <Link
-            href={`/${lang}/journey/a0/${island.id}/song`}
+            href={`/vocabulary/${lang}/journey/a0/${island.id}/song`}
             className="rounded-full bg-blue-600 px-5 py-3 font-black text-white shadow hover:bg-blue-700"
           >
             Continue to Song →

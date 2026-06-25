@@ -1,0 +1,36 @@
+{
+  "id": "latin",
+  "name": {
+    "en": "Latin Alphabet"
+  },
+  "voiceLang": "en-US",
+  "columns": 7,
+  "letters": [
+    { "symbol": "A", "name": "A" },
+    { "symbol": "B", "name": "B" },
+    { "symbol": "C", "name": "C" },
+    { "symbol": "D", "name": "D" },
+    { "symbol": "E", "name": "E" },
+    { "symbol": "F", "name": "F" },
+    { "symbol": "G", "name": "G" },
+    { "symbol": "H", "name": "H" },
+    { "symbol": "I", "name": "I" },
+    { "symbol": "J", "name": "J" },
+    { "symbol": "K", "name": "K" },
+    { "symbol": "L", "name": "L" },
+    { "symbol": "M", "name": "M" },
+    { "symbol": "N", "name": "N" },
+    { "symbol": "O", "name": "O" },
+    { "symbol": "P", "name": "P" },
+    { "symbol": "Q", "name": "Q" },
+    { "symbol": "R", "name": "R" },
+    { "symbol": "S", "name": "S" },
+    { "symbol": "T", "name": "T" },
+    { "symbol": "U", "name": "U" },
+    { "symbol": "V", "name": "V" },
+    { "symbol": "W", "name": "W" },
+    { "symbol": "X", "name": "X" },
+    { "symbol": "Y", "name": "Y" },
+    { "symbol": "Z", "name": "Z" }
+  ]
+}

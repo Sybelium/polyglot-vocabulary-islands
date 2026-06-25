@@ -171,14 +171,14 @@ useEffect(() => {
 
         <div className="mt-8 flex flex-wrap justify-center gap-3">
           <Link
-            href={`/${lang}/journey/a0/${island.id}/write`}
+            href={`/vocabulary/${lang}/journey/a0/${island.id}/write`}
             className="rounded-full bg-blue-600 px-5 py-3 font-black text-white shadow hover:bg-blue-700"
           >
             Next: Write →
           </Link>
 
           <Link
-            href={`/${lang}/journey/a0`}
+            href={`/vocabulary/${lang}/journey/a0`}
             className="rounded-full bg-white px-5 py-3 font-black text-blue-900 shadow hover:bg-blue-50"
           >
             Back to island

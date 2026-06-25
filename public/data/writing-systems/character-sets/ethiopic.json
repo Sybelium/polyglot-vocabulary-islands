@@ -1,0 +1,47 @@
+{
+  "id": "ethiopic",
+  "name": {
+    "en": "Ethiopic (Ge'ez) Script"
+  },
+  "voiceLang": "am-ET",
+  "columns": 7,
+  "letters": [
+    { "symbol": "ሀ", "name": "ha" },
+    { "symbol": "ለ", "name": "le" },
+    { "symbol": "ሐ", "name": "ḥa" },
+    { "symbol": "መ", "name": "me" },
+    { "symbol": "ሠ", "name": "śa" },
+    { "symbol": "ረ", "name": "re" },
+    { "symbol": "ሰ", "name": "se" },
+
+    { "symbol": "ሸ", "name": "she" },
+    { "symbol": "ቀ", "name": "qe" },
+    { "symbol": "በ", "name": "be" },
+    { "symbol": "ተ", "name": "te" },
+    { "symbol": "ቸ", "name": "che" },
+    { "symbol": "ኀ", "name": "xa" },
+    { "symbol": "ነ", "name": "ne" },
+
+    { "symbol": "ኘ", "name": "ñe" },
+    { "symbol": "አ", "name": "a" },
+    { "symbol": "ከ", "name": "ke" },
+    { "symbol": "ኸ", "name": "khe" },
+    { "symbol": "ወ", "name": "we" },
+    { "symbol": "ዐ", "name": "ʿa" },
+    { "symbol": "ዘ", "name": "ze" },
+
+    { "symbol": "ዠ", "name": "zhe" },
+    { "symbol": "የ", "name": "ye" },
+    { "symbol": "ደ", "name": "de" },
+    { "symbol": "ጀ", "name": "je" },
+    { "symbol": "ገ", "name": "ge" },
+    { "symbol": "ጠ", "name": "ṭe" },
+    { "symbol": "ጨ", "name": "che" },
+
+    { "symbol": "ጰ", "name": "phe" },
+    { "symbol": "ጸ", "name": "ṣe" },
+    { "symbol": "ፀ", "name": "ṣe" },
+    { "symbol": "ፈ", "name": "fe" },
+    { "symbol": "ፐ", "name": "pe" }
+  ]
+}

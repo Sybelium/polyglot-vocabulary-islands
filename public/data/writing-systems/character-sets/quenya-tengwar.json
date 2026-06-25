@@ -1,0 +1,54 @@
+{
+  "id": "quenya-tengwar",
+  "name": {
+    "en": "Tengwar (Quenya Mode)"
+  },
+  "voiceLang": "en-US",
+  "columns": 6,
+  "letters": [
+    { "symbol": "", "name": "tinco" },
+    { "symbol": "", "name": "parma" },
+    { "symbol": "", "name": "calma" },
+    { "symbol": "", "name": "quesse" },
+
+    { "symbol": "", "name": "ando" },
+    { "symbol": "", "name": "umbar" },
+    { "symbol": "", "name": "anga" },
+    { "symbol": "", "name": "ungwe" },
+
+    { "symbol": "", "name": "thule" },
+    { "symbol": "", "name": "formen" },
+    { "symbol": "", "name": "harma" },
+    { "symbol": "", "name": "hwesta" },
+
+    { "symbol": "", "name": "anto" },
+    { "symbol": "", "name": "ampa" },
+    { "symbol": "", "name": "anca" },
+    { "symbol": "", "name": "unque" },
+
+    { "symbol": "", "name": "numen" },
+    { "symbol": "", "name": "malta" },
+    { "symbol": "", "name": "ngoldo" },
+    { "symbol": "", "name": "nwalme" },
+
+    { "symbol": "", "name": "ore" },
+    { "symbol": "", "name": "vala" },
+    { "symbol": "", "name": "anna" },
+    { "symbol": "", "name": "vilya" },
+
+    { "symbol": "", "name": "romen" },
+    { "symbol": "", "name": "arda" },
+    { "symbol": "", "name": "lambe" },
+    { "symbol": "", "name": "alda" },
+
+    { "symbol": "", "name": "silme" },
+    { "symbol": "", "name": "silme nuquerna" },
+    { "symbol": "", "name": "esse" },
+    { "symbol": "", "name": "esse nuquerna" },
+
+    { "symbol": "", "name": "hyarmen" },
+    { "symbol": "", "name": "hwesta sindarinwa" },
+    { "symbol": "", "name": "yanta" },
+    { "symbol": "", "name": "ure" }
+  ]
+}

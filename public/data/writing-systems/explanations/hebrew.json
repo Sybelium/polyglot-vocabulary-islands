@@ -1,0 +1,74 @@
+{
+  "id": "hebrew",
+  "title": {
+    "en": "Hebrew Alphabet"
+  },
+  "intro": {
+    "en": [
+      "The Hebrew alphabet is used to write Hebrew and some other Jewish languages.",
+      "It is written from right to left and has 22 letters."
+    ]
+  },
+  "sections": [
+    {
+      "id": "overview",
+      "title": {
+        "en": "Overview"
+      },
+      "content": {
+        "en": [
+          "The Hebrew alphabet is traditionally an abjad, which means consonants are central in the writing system.",
+          "In later tradition, vowel marks were added to help with pronunciation."
+        ]
+      }
+    },
+    {
+      "id": "direction",
+      "title": {
+        "en": "Writing direction"
+      },
+      "content": {
+        "en": [
+          "Hebrew is written from right to left.",
+          "This changes the reading habit for learners used to Latin or Cyrillic scripts."
+        ]
+      }
+    },
+    {
+      "id": "final-forms",
+      "title": {
+        "en": "Final forms"
+      },
+      "content": {
+        "en": [
+          "Five Hebrew letters have special final forms when they appear at the end of a word.",
+          "This is one of the first special features learners usually notice."
+        ]
+      }
+    },
+    {
+      "id": "where-used",
+      "title": {
+        "en": "Where it is used"
+      },
+      "content": {
+        "en": [
+          "Hebrew script is used for Hebrew and has also been used for other Jewish languages.",
+          "It is one of the major historic writing systems of the world."
+        ]
+      }
+    },
+    {
+      "id": "watch-out",
+      "title": {
+        "en": "Watch out"
+      },
+      "content": {
+        "en": [
+          "Some letters can look similar at first, especially for beginners.",
+          "It helps to learn them in small groups and pay attention to shape details."
+        ]
+      }
+    }
+  ]
+}

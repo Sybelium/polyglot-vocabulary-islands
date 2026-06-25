@@ -1,0 +1,62 @@
+{
+  "id": "thai-consonants",
+  "title": {
+    "en": "Thai Consonants"
+  },
+  "intro": {
+    "en": [
+      "The Thai writing system includes 44 consonant letters.",
+      "These consonants are essential for reading Thai words and determining tone classes."
+    ]
+  },
+  "sections": [
+    {
+      "id": "overview",
+      "title": {
+        "en": "Overview"
+      },
+      "content": {
+        "en": [
+          "The Thai alphabet contains 44 consonant letters.",
+          "Each consonant traditionally has a name associated with a word."
+        ]
+      }
+    },
+    {
+      "id": "tone-classes",
+      "title": {
+        "en": "Tone classes"
+      },
+      "content": {
+        "en": [
+          "Thai consonants belong to three tone classes: high, middle, and low.",
+          "These classes help determine the tone of a syllable."
+        ]
+      }
+    },
+    {
+      "id": "where-used",
+      "title": {
+        "en": "Usage"
+      },
+      "content": {
+        "en": [
+          "Thai consonants appear at the beginning and end of syllables.",
+          "Learning them is the first step to reading Thai."
+        ]
+      }
+    },
+    {
+      "id": "watch-out",
+      "title": {
+        "en": "Watch out"
+      },
+      "content": {
+        "en": [
+          "Some Thai consonants look very similar, especially for beginners.",
+          "Practising recognition regularly helps avoid confusion."
+        ]
+      }
+    }
+  ]
+}

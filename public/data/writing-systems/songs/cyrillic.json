@@ -1,0 +1,22 @@
+{
+  "id": "cyrillic",
+  "pageTitle": {
+    "en": "Songs"
+  },
+  "intro": {
+    "en": [
+      "A song is a great way to remember the order and names of the Cyrillic letters."
+    ]
+  },
+  "songs": [
+    {
+      "title": {
+        "en": "Masha and the Bear – Cyrillic Alphabet Song"
+      },
+      "description": {
+        "en": "A fun children's alphabet song from a popular Russian animated series."
+      },
+      "embedUrl": "https://www.youtube.com/embed/4BkYp_E_ES4"
+    }
+  ]
+}

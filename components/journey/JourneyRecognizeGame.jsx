@@ -207,7 +207,7 @@ export default function JourneyRecognizeGame({ lang, island, words }) {
         </h2>
 
         <Link
-          href={`/${lang}/journey/a0/${island.id}`}
+          href={`/vocabulary/${lang}/journey/a0/${island.id}`}
           className="mt-6 inline-block rounded-full bg-blue-600 px-5 py-3 font-black text-white shadow hover:bg-blue-700"
         >
           ← Back to island
@@ -271,14 +271,14 @@ export default function JourneyRecognizeGame({ lang, island, words }) {
 
         <div className="mt-8 flex flex-wrap justify-between gap-3">
           <Link
-            href={`/${lang}/journey/a0/${island.id}`}
+            href={`/vocabulary/${lang}/journey/a0/${island.id}`}
             className="rounded-full bg-white px-5 py-3 font-black text-blue-900 shadow hover:bg-blue-50"
           >
             ← Back to island
           </Link>
 
           <Link
-            href={`/${lang}/journey/a0/${island.id}/write`}
+            href={`/vocabulary/${lang}/journey/a0/${island.id}/write`}
             className="rounded-full bg-blue-600 px-5 py-3 font-black text-white shadow hover:bg-blue-700"
           >
             Continue to Write →

@@ -1,0 +1,62 @@
+{
+  "id": "katakana",
+  "title": {
+    "en": "Katakana"
+  },
+  "intro": {
+    "en": [
+      "Katakana is one of the two kana syllabaries used in Japanese.",
+      "It is especially common for foreign words, sound effects, and visual emphasis."
+    ]
+  },
+  "sections": [
+    {
+      "id": "overview",
+      "title": {
+        "en": "Overview"
+      },
+      "content": {
+        "en": [
+          "Katakana has 46 basic symbols.",
+          "Like hiragana, each symbol usually represents one mora, a rhythmic unit of Japanese."
+        ]
+      }
+    },
+    {
+      "id": "style",
+      "title": {
+        "en": "Visual style"
+      },
+      "content": {
+        "en": [
+          "Katakana characters are more angular and sharp-looking than hiragana.",
+          "This gives them a bold and modern visual impression."
+        ]
+      }
+    },
+    {
+      "id": "where-used",
+      "title": {
+        "en": "Where it is used"
+      },
+      "content": {
+        "en": [
+          "Katakana is commonly used for foreign words, brand names, scientific terms, and sound effects.",
+          "It is also used for emphasis in Japanese, a bit like italics or capital letters in Latin writing."
+        ]
+      }
+    },
+    {
+      "id": "watch-out",
+      "title": {
+        "en": "Watch out"
+      },
+      "content": {
+        "en": [
+          "Some katakana characters are easy to confuse at first, such as シ and ツ or ソ and ン.",
+          "Practising them in pairs helps a lot."
+        ]
+      }
+    }
+  ]
+}

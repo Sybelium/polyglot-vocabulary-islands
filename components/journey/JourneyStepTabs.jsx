@@ -39,7 +39,7 @@ function getIslandId(island) {
 
 function getStepHref(lang, island, stepId) {
   const islandId = getIslandId(island);
-  return `/${lang}/journey/a0/${islandId}/${stepId}`;
+  return `/vocabulary/${lang}/journey/a0/${islandId}/${stepId}`;
 }
 
 export default function JourneyStepTabs({ lang, island, activeStep }) {

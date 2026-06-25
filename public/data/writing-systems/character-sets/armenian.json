@@ -1,0 +1,53 @@
+{
+  "id": "armenian",
+  "name": {
+    "en": "Armenian Alphabet"
+  },
+  "voiceLang": "hy-AM",
+  "columns": 7,
+  "letters": [
+    { "symbol": "Ա", "name": "Այբ" },
+    { "symbol": "Բ", "name": "Բեն" },
+    { "symbol": "Գ", "name": "Գիմ" },
+    { "symbol": "Դ", "name": "Դա" },
+    { "symbol": "Ե", "name": "Եչ" },
+    { "symbol": "Զ", "name": "Զա" },
+    { "symbol": "Է", "name": "Է" },
+
+    { "symbol": "Ը", "name": "Ըթ" },
+    { "symbol": "Թ", "name": "Թո" },
+    { "symbol": "Ժ", "name": "Ժե" },
+    { "symbol": "Ի", "name": "Ինի" },
+    { "symbol": "Լ", "name": "Լյուն" },
+    { "symbol": "Խ", "name": "Խե" },
+    { "symbol": "Ծ", "name": "Ծա" },
+
+    { "symbol": "Կ", "name": "Կեն" },
+    { "symbol": "Հ", "name": "Հո" },
+    { "symbol": "Ձ", "name": "Ձա" },
+    { "symbol": "Ղ", "name": "Ղատ" },
+    { "symbol": "Ճ", "name": "Ճե" },
+    { "symbol": "Մ", "name": "Մեն" },
+    { "symbol": "Յ", "name": "Յի" },
+
+    { "symbol": "Ն", "name": "Նու" },
+    { "symbol": "Շ", "name": "Շա" },
+    { "symbol": "Ո", "name": "Ո" },
+    { "symbol": "Չ", "name": "Չա" },
+    { "symbol": "Պ", "name": "Պե" },
+    { "symbol": "Ջ", "name": "Ջե" },
+    { "symbol": "Ռ", "name": "Ռա" },
+
+    { "symbol": "Ս", "name": "Սե" },
+    { "symbol": "Վ", "name": "Վեվ" },
+    { "symbol": "Տ", "name": "Տյուն" },
+    { "symbol": "Ր", "name": "Րե" },
+    { "symbol": "Ց", "name": "Ցո" },
+    { "symbol": "Ւ", "name": "Ւյուն" },
+    { "symbol": "Փ", "name": "Փյուր" },
+
+    { "symbol": "Ք", "name": "Քե" },
+    { "symbol": "Օ", "name": "Օ" },
+    { "symbol": "Ֆ", "name": "Ֆե" }
+  ]
+}

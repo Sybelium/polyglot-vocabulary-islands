@@ -190,7 +190,7 @@ export default async function A0JourneyStepPage({ params }) {
     return (
       <main className="min-h-screen p-8">
         <h1 className="text-3xl font-black">Invalid journey step</h1>
-        <Link href={`/${lang}/journey/a0/${islandId}`}>Back to island</Link>
+        <Link href={`/vocabulary/${lang}/journey/a0/${islandId}`}>Back to island</Link>
       </main>
     );
   }
@@ -200,14 +200,14 @@ export default async function A0JourneyStepPage({ params }) {
       <section className="mx-auto max-w-6xl">
         <div className="mb-6 flex flex-wrap gap-3">
           <Link
-            href={`/${lang}/journey/a0/${island.id}`}
+            href={`/vocabulary/${lang}/journey/a0/${island.id}`}
             className="rounded-full bg-white/85 px-4 py-2 text-sm font-bold text-blue-900 shadow hover:bg-white"
           >
             ← Back to {island.title}
           </Link>
 
           <Link
-            href={`/${lang}/journey/a0`}
+            href={`/vocabulary/${lang}/journey/a0`}
             className="rounded-full bg-white/85 px-4 py-2 text-sm font-bold text-blue-900 shadow hover:bg-white"
           >
             Back to A0 Map

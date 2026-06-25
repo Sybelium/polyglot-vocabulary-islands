@@ -1,0 +1,74 @@
+{
+  "id": "arabic",
+  "title": {
+    "en": "Arabic Script"
+  },
+  "intro": {
+    "en": [
+      "The Arabic script is used for Arabic and several other languages, including Persian and Urdu.",
+      "It is written from right to left and most letters change shape depending on their position in the word."
+    ]
+  },
+  "sections": [
+    {
+      "id": "overview",
+      "title": {
+        "en": "Overview"
+      },
+      "content": {
+        "en": [
+          "The Arabic alphabet is usually presented with 28 basic letters.",
+          "It is an abjad, which means that consonants are central and short vowels are often not written in everyday text."
+        ]
+      }
+    },
+    {
+      "id": "direction",
+      "title": {
+        "en": "Writing direction"
+      },
+      "content": {
+        "en": [
+          "Arabic is written from right to left.",
+          "This is one of the first things learners notice when they start reading the script."
+        ]
+      }
+    },
+    {
+      "id": "letter-shapes",
+      "title": {
+        "en": "Changing letter shapes"
+      },
+      "content": {
+        "en": [
+          "Many Arabic letters have different forms depending on whether they appear at the beginning, middle, or end of a word.",
+          "This means learners do not just memorize one isolated shape for each letter."
+        ]
+      }
+    },
+    {
+      "id": "where-used",
+      "title": {
+        "en": "Where it is used"
+      },
+      "content": {
+        "en": [
+          "Arabic script is used not only for Arabic, but also for languages such as Persian and Urdu, with some additional letters.",
+          "That makes it one of the most influential writing systems in the world."
+        ]
+      }
+    },
+    {
+      "id": "watch-out",
+      "title": {
+        "en": "Watch out"
+      },
+      "content": {
+        "en": [
+          "Some letters look very similar and differ only by the number or position of dots.",
+          "Beginners should pay close attention to dot patterns."
+        ]
+      }
+    }
+  ]
+}

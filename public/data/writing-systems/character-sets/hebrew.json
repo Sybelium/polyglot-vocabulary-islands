@@ -1,0 +1,32 @@
+{
+  "id": "hebrew",
+  "name": {
+    "en": "Hebrew Alphabet"
+  },
+  "voiceLang": "he-IL",
+  "columns": 6,
+  "letters": [
+    { "symbol": "א", "name": "אָלֶף" },
+    { "symbol": "ב", "name": "בֵּית" },
+    { "symbol": "ג", "name": "גִּימֶל" },
+    { "symbol": "ד", "name": "דָּלֶת" },
+    { "symbol": "ה", "name": "הֵא" },
+    { "symbol": "ו", "name": "וָו" },
+    { "symbol": "ז", "name": "זַיִן" },
+    { "symbol": "ח", "name": "חֵית" },
+    { "symbol": "ט", "name": "טֵית" },
+    { "symbol": "י", "name": "יוֹד" },
+    { "symbol": "כ", "name": "כַּף" },
+    { "symbol": "ל", "name": "לָמֶד" },
+    { "symbol": "מ", "name": "מֵם" },
+    { "symbol": "נ", "name": "נוּן" },
+    { "symbol": "ס", "name": "סָמֶךְ" },
+    { "symbol": "ע", "name": "עַיִן" },
+    { "symbol": "פ", "name": "פֵּא" },
+    { "symbol": "צ", "name": "צָדִי" },
+    { "symbol": "ק", "name": "קוֹף" },
+    { "symbol": "ר", "name": "רֵישׁ" },
+    { "symbol": "ש", "name": "שִׁין" },
+    { "symbol": "ת", "name": "תָּו" }
+  ]
+}

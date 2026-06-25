@@ -1,0 +1,50 @@
+{
+  "id": "cyrillic",
+  "title": {
+    "en": "Cyrillic"
+  },
+  "intro": {
+    "en": [
+      "The Cyrillic alphabet is used by Russian and several other languages.",
+      "Different languages use slightly different versions of the script."
+    ]
+  },
+  "sections": [
+    {
+      "id": "overview",
+      "title": {
+        "en": "Overview"
+      },
+      "content": {
+        "en": [
+          "The Russian Cyrillic alphabet has 33 letters.",
+          "It includes vowels, consonants, and two special signs."
+        ]
+      }
+    },
+    {
+      "id": "latin-comparison",
+      "title": {
+        "en": "Letters that look familiar"
+      },
+      "content": {
+        "en": [
+          "Some Cyrillic letters look like Latin letters, such as А, К, М, О and Т.",
+          "But some letters look familiar while sounding different, such as В, Н, Р, С and У."
+        ]
+      }
+    },
+    {
+      "id": "language-differences",
+      "title": {
+        "en": "Differences between languages"
+      },
+      "content": {
+        "en": [
+          "Russian, Ukrainian, Bulgarian and Serbian all use Cyrillic, but not exactly the same alphabet.",
+          "Some letters are shared by all, while others are specific to certain languages."
+        ]
+      }
+    }
+  ]
+}

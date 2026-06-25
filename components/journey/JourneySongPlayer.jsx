@@ -97,14 +97,14 @@ export default function JourneySongPlayer({
 
           <div className="mt-8 flex flex-wrap justify-between gap-3">
             <Link
-              href={`/${lang}/journey/a0/${island.id}/write`}
+              href={`/vocabulary/${lang}/journey/a0/${island.id}/write`}
               className="rounded-full bg-white px-5 py-3 font-black text-blue-900 shadow hover:bg-blue-50"
             >
               ← Back to Write
             </Link>
 
             <Link
-              href={`/${lang}/journey/a0/${island.id}/song-challenge`}
+              href={`/vocabulary/${lang}/journey/a0/${island.id}/song-challenge`}
               onClick={saveSongProgress}
               className="rounded-full bg-blue-600 px-5 py-3 font-black text-white shadow hover:bg-blue-700"
             >

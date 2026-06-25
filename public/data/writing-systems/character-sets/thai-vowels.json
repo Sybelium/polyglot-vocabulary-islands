@@ -1,0 +1,48 @@
+{
+  "id": "thai-vowels",
+  "name": {
+    "en": "Thai Vowels"
+  },
+  "voiceLang": "th-TH",
+  "columns": 5,
+  "letters": [
+    { "symbol": "◌ะ", "name": "สระอะ" },
+    { "symbol": "◌า", "name": "สระอา" },
+    { "symbol": "◌ิ", "name": "สระอิ" },
+    { "symbol": "◌ี", "name": "สระอี" },
+    { "symbol": "◌ึ", "name": "สระอึ" },
+
+    { "symbol": "◌ื", "name": "สระอือ" },
+    { "symbol": "◌ุ", "name": "สระอุ" },
+    { "symbol": "◌ู", "name": "สระอู" },
+    { "symbol": "เ◌ะ", "name": "สระเอะ" },
+    { "symbol": "เ◌", "name": "สระเอ" },
+
+    { "symbol": "แ◌ะ", "name": "สระแอะ" },
+    { "symbol": "แ◌", "name": "สระแอ" },
+    { "symbol": "โ◌ะ", "name": "สระโอะ" },
+    { "symbol": "โ◌", "name": "สระโอ" },
+    { "symbol": "เ◌าะ", "name": "สระเอาะ" },
+
+    { "symbol": "◌อ", "name": "สระออ" },
+    { "symbol": "เ◌อะ", "name": "สระเออะ" },
+    { "symbol": "เ◌อ", "name": "สระเออ" },
+    { "symbol": "เ◌ียะ", "name": "สระเอียะ" },
+    { "symbol": "เ◌ีย", "name": "สระเอีย" },
+
+    { "symbol": "เ◌ือะ", "name": "สระเอือะ" },
+    { "symbol": "เ◌ือ", "name": "สระเอือ" },
+    { "symbol": "◌ัวะ", "name": "สระอัวะ" },
+    { "symbol": "◌ัว", "name": "สระอัว" },
+    { "symbol": "◌ำ", "name": "สระอำ" },
+
+    { "symbol": "ไ◌", "name": "สระไอ" },
+    { "symbol": "ใ◌", "name": "สระใอ" },
+    { "symbol": "เ◌า", "name": "สระเอา" },
+    { "symbol": "◌ฤ", "name": "สระฤ" },
+    { "symbol": "◌ฤๅ", "name": "สระฤๅ" },
+
+    { "symbol": "◌ฦ", "name": "สระฦ" },
+    { "symbol": "◌ฦๅ", "name": "สระฦๅ" }
+  ]
+}

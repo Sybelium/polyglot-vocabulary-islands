@@ -1,0 +1,47 @@
+{
+  "id": "georgian",
+  "name": {
+    "en": "Georgian Alphabet"
+  },
+  "voiceLang": "ka-GE",
+  "columns": 7,
+  "letters": [
+    { "symbol": "ა", "name": "ანი" },
+    { "symbol": "ბ", "name": "ბანი" },
+    { "symbol": "გ", "name": "განი" },
+    { "symbol": "დ", "name": "დონი" },
+    { "symbol": "ე", "name": "ენი" },
+    { "symbol": "ვ", "name": "ვინი" },
+    { "symbol": "ზ", "name": "ზენი" },
+
+    { "symbol": "თ", "name": "თანი" },
+    { "symbol": "ი", "name": "ინი" },
+    { "symbol": "კ", "name": "კანი" },
+    { "symbol": "ლ", "name": "ლასი" },
+    { "symbol": "მ", "name": "მანი" },
+    { "symbol": "ნ", "name": "ნარი" },
+    { "symbol": "ო", "name": "ონი" },
+
+    { "symbol": "პ", "name": "პარი" },
+    { "symbol": "ჟ", "name": "ჟანი" },
+    { "symbol": "რ", "name": "რაე" },
+    { "symbol": "ს", "name": "სანი" },
+    { "symbol": "ტ", "name": "ტარი" },
+    { "symbol": "უ", "name": "უნი" },
+    { "symbol": "ფ", "name": "ფარი" },
+
+    { "symbol": "ქ", "name": "ქანი" },
+    { "symbol": "ღ", "name": "ღანი" },
+    { "symbol": "ყ", "name": "ყარი" },
+    { "symbol": "შ", "name": "შინი" },
+    { "symbol": "ჩ", "name": "ჩინი" },
+    { "symbol": "ც", "name": "ცანი" },
+    { "symbol": "ძ", "name": "ძილი" },
+
+    { "symbol": "წ", "name": "წილი" },
+    { "symbol": "ჭ", "name": "ჭარი" },
+    { "symbol": "ხ", "name": "ხანი" },
+    { "symbol": "ჯ", "name": "ჯანი" },
+    { "symbol": "ჰ", "name": "ჰაე" }
+  ]
+}

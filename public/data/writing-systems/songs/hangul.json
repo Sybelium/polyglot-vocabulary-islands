@@ -1,0 +1,22 @@
+{
+  "id": "hangul",
+  "pageTitle": {
+    "en": "Hangul Songs"
+  },
+  "intro": {
+    "en": [
+      "Songs are a fun way to remember Hangul letters and their order."
+    ]
+  },
+  "songs": [
+    {
+      "title": {
+        "en": "Korean Alphabet Song (Ga Na Da Song)"
+      },
+      "description": {
+        "en": "A beginner-friendly Hangul alphabet song for children."
+      },
+      "embedUrl": "https://www.youtube.com/embed/F8esJH9yvPo"
+    }
+  ]
+}

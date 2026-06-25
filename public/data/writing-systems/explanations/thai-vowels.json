@@ -1,0 +1,62 @@
+{
+  "id": "thai-vowels",
+  "title": {
+    "en": "Thai Vowels"
+  },
+  "intro": {
+    "en": [
+      "Thai vowels are an essential part of the Thai writing system.",
+      "Unlike Latin vowels, Thai vowels can appear before, after, above, below, or around a consonant."
+    ]
+  },
+  "sections": [
+    {
+      "id": "overview",
+      "title": {
+        "en": "Overview"
+      },
+      "content": {
+        "en": [
+          "Thai uses vowel symbols that combine into many written vowel forms.",
+          "Learners usually meet them through consonant examples such as กะ, กา, กิ, กี, กุ and กู."
+        ]
+      }
+    },
+    {
+      "id": "placement",
+      "title": {
+        "en": "Where vowels appear"
+      },
+      "content": {
+        "en": [
+          "Thai vowels are not all written in one place.",
+          "Some appear before the consonant, some after it, some above or below it, and some split around it."
+        ]
+      }
+    },
+    {
+      "id": "length",
+      "title": {
+        "en": "Short and long vowels"
+      },
+      "content": {
+        "en": [
+          "Many Thai vowels come in short and long pairs.",
+          "Vowel length can change the meaning of a word, so it is important to hear and read the difference clearly."
+        ]
+      }
+    },
+    {
+      "id": "watch-out",
+      "title": {
+        "en": "Watch out"
+      },
+      "content": {
+        "en": [
+          "Thai vowels are easier to learn when attached to a sample consonant such as อ or ก.",
+          "Beginners should not expect the written order of vowel symbols to match the spoken order exactly."
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "id": "thai",
+  "name": {
+    "en": "Thai Script"
+  },
+  "voiceLang": "th-TH",
+  "columns": 7,
+  "letters": [
+    { "symbol": "ก", "name": "กอ ไก่" },
+    { "symbol": "ข", "name": "ขอ ไข่" },
+    { "symbol": "ฃ", "name": "ฃอ ขวด" },
+    { "symbol": "ค", "name": "คอ ควาย" },
+    { "symbol": "ฅ", "name": "ฅอ คน" },
+    { "symbol": "ฆ", "name": "ฆอ ระฆัง" },
+    { "symbol": "ง", "name": "งอ งู" },
+
+    { "symbol": "จ", "name": "จอ จาน" },
+    { "symbol": "ฉ", "name": "ฉอ ฉิ่ง" },
+    { "symbol": "ช", "name": "ชอ ช้าง" },
+    { "symbol": "ซ", "name": "ซอ โซ่" },
+    { "symbol": "ฌ", "name": "ฌอ เฌอ" },
+    { "symbol": "ญ", "name": "ญอ หญิง" },
+
+    { "symbol": "ฎ", "name": "ฎอ ชฎา" },
+    { "symbol": "ฏ", "name": "ฏอ ปฏัก" },
+    { "symbol": "ฐ", "name": "ฐอ ฐาน" },
+    { "symbol": "ฑ", "name": "ฑอ มณโฑ" },
+    { "symbol": "ฒ", "name": "ฒอ ผู้เฒ่า" },
+    { "symbol": "ณ", "name": "ณอ เณร" },
+
+    { "symbol": "ด", "name": "ดอ เด็ก" },
+    { "symbol": "ต", "name": "ตอ เต่า" },
+    { "symbol": "ถ", "name": "ถอ ถุง" },
+    { "symbol": "ท", "name": "ทอ ทหาร" },
+    { "symbol": "ธ", "name": "ธอ ธง" },
+    { "symbol": "น", "name": "นอ หนู" },
+
+    { "symbol": "บ", "name": "บอ ใบไม้" },
+    { "symbol": "ป", "name": "ปอ ปลา" },
+    { "symbol": "ผ", "name": "ผอ ผึ้ง" },
+    { "symbol": "ฝ", "name": "ฝอ ฝา" },
+    { "symbol": "พ", "name": "พอ พาน" },
+    { "symbol": "ฟ", "name": "ฟอ ฟัน" },
+    { "symbol": "ภ", "name": "ภอ สำเภา" },
+
+    { "symbol": "ม", "name": "มอ ม้า" },
+    { "symbol": "ย", "name": "ยอ ยักษ์" },
+    { "symbol": "ร", "name": "รอ เรือ" },
+    { "symbol": "ล", "name": "ลอ ลิง" },
+    { "symbol": "ว", "name": "วอ แหวน" },
+
+    { "symbol": "ศ", "name": "ศอ ศาลา" },
+    { "symbol": "ษ", "name": "ษอ ฤๅษี" },
+    { "symbol": "ส", "name": "สอ เสือ" },
+    { "symbol": "ห", "name": "หอ หีบ" },
+    { "symbol": "ฬ", "name": "ฬอ จุฬา" },
+    { "symbol": "อ", "name": "ออ อ่าง" },
+    { "symbol": "ฮ", "name": "ฮอ นกฮูก" }
+  ]
+}

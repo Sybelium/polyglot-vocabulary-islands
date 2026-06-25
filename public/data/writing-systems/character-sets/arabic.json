@@ -1,0 +1,41 @@
+{
+  "id": "arabic",
+  "name": {
+    "en": "Arabic Script"
+  },
+  "voiceLang": "ar-SA",
+  "columns": 7,
+  "letters": [
+    { "symbol": "ا", "name": "ألف" },
+    { "symbol": "ب", "name": "باء" },
+    { "symbol": "ت", "name": "تاء" },
+    { "symbol": "ث", "name": "ثاء" },
+    { "symbol": "ج", "name": "جيم" },
+    { "symbol": "ح", "name": "حاء" },
+    { "symbol": "خ", "name": "خاء" },
+
+    { "symbol": "د", "name": "دال" },
+    { "symbol": "ذ", "name": "ذال" },
+    { "symbol": "ر", "name": "راء" },
+    { "symbol": "ز", "name": "زاي" },
+    { "symbol": "س", "name": "سين" },
+    { "symbol": "ش", "name": "شين" },
+    { "symbol": "ص", "name": "صاد" },
+
+    { "symbol": "ض", "name": "ضاد" },
+    { "symbol": "ط", "name": "طاء" },
+    { "symbol": "ظ", "name": "ظاء" },
+    { "symbol": "ع", "name": "عين" },
+    { "symbol": "غ", "name": "غين" },
+    { "symbol": "ف", "name": "فاء" },
+    { "symbol": "ق", "name": "قاف" },
+
+    { "symbol": "ك", "name": "كاف" },
+    { "symbol": "ل", "name": "لام" },
+    { "symbol": "م", "name": "ميم" },
+    { "symbol": "ن", "name": "نون" },
+    { "symbol": "ه", "name": "هاء" },
+    { "symbol": "و", "name": "واو" },
+    { "symbol": "ي", "name": "ياء" }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "thai-consonants",
+  "pageTitle": {
+    "en": "Thai Consonant Songs"
+  },
+  "intro": {
+    "en": [
+      "Songs help memorise the Thai consonant alphabet and their order."
+    ]
+  },
+  "songs": [
+    {
+      "title": {
+        "en": "Thai Alphabet Song"
+      },
+      "description": {
+        "en": "A children's song presenting the Thai consonant alphabet."
+      },
+      "embedUrl": "https://www.youtube.com/embed/1Tk-x5KHJFI"
+    }
+  ]
+}

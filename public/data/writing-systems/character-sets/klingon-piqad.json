@@ -1,0 +1,40 @@
+{
+  "id": "klingon-piqad",
+  "name": {
+    "en": "pIqaD (Klingon Script)"
+  },
+  "voiceLang": "en-US",
+  "columns": 6,
+  "letters": [
+    { "symbol": "", "name": "a" },
+    { "symbol": "", "name": "b" },
+    { "symbol": "", "name": "ch" },
+    { "symbol": "", "name": "D" },
+    { "symbol": "", "name": "e" },
+    { "symbol": "", "name": "gh" },
+
+    { "symbol": "", "name": "H" },
+    { "symbol": "", "name": "I" },
+    { "symbol": "", "name": "j" },
+    { "symbol": "", "name": "l" },
+    { "symbol": "", "name": "m" },
+    { "symbol": "", "name": "n" },
+
+    { "symbol": "", "name": "ng" },
+    { "symbol": "", "name": "o" },
+    { "symbol": "", "name": "p" },
+    { "symbol": "", "name": "q" },
+    { "symbol": "", "name": "Q" },
+    { "symbol": "", "name": "r" },
+
+    { "symbol": "", "name": "S" },
+    { "symbol": "", "name": "t" },
+    { "symbol": "", "name": "tlh" },
+    { "symbol": "", "name": "u" },
+    { "symbol": "", "name": "v" },
+    { "symbol": "", "name": "w" },
+
+    { "symbol": "", "name": "y" },
+    { "symbol": "", "name": "glottal stop" }
+  ]
+}

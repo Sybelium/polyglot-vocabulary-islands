@@ -1,0 +1,65 @@
+{
+  "id": "hiragana",
+  "name": {
+    "en": "Hiragana"
+  },
+  "voiceLang": "ja-JP",
+  "columns": 5,
+  "letters": [
+    { "symbol": "あ", "name": "あ" },
+    { "symbol": "い", "name": "い" },
+    { "symbol": "う", "name": "う" },
+    { "symbol": "え", "name": "え" },
+    { "symbol": "お", "name": "お" },
+
+    { "symbol": "か", "name": "か" },
+    { "symbol": "き", "name": "き" },
+    { "symbol": "く", "name": "く" },
+    { "symbol": "け", "name": "け" },
+    { "symbol": "こ", "name": "こ" },
+
+    { "symbol": "さ", "name": "さ" },
+    { "symbol": "し", "name": "し" },
+    { "symbol": "す", "name": "す" },
+    { "symbol": "せ", "name": "せ" },
+    { "symbol": "そ", "name": "そ" },
+
+    { "symbol": "た", "name": "た" },
+    { "symbol": "ち", "name": "ち" },
+    { "symbol": "つ", "name": "つ" },
+    { "symbol": "て", "name": "て" },
+    { "symbol": "と", "name": "と" },
+
+    { "symbol": "な", "name": "な" },
+    { "symbol": "に", "name": "に" },
+    { "symbol": "ぬ", "name": "ぬ" },
+    { "symbol": "ね", "name": "ね" },
+    { "symbol": "の", "name": "の" },
+
+    { "symbol": "は", "name": "は" },
+    { "symbol": "ひ", "name": "ひ" },
+    { "symbol": "ふ", "name": "ふ" },
+    { "symbol": "へ", "name": "へ" },
+    { "symbol": "ほ", "name": "ほ" },
+
+    { "symbol": "ま", "name": "ま" },
+    { "symbol": "み", "name": "み" },
+    { "symbol": "む", "name": "む" },
+    { "symbol": "め", "name": "め" },
+    { "symbol": "も", "name": "も" },
+
+    { "symbol": "や", "name": "や" },
+    { "symbol": "ゆ", "name": "ゆ" },
+    { "symbol": "よ", "name": "よ" },
+
+    { "symbol": "ら", "name": "ら" },
+    { "symbol": "り", "name": "り" },
+    { "symbol": "る", "name": "る" },
+    { "symbol": "れ", "name": "れ" },
+    { "symbol": "ろ", "name": "ろ" },
+
+    { "symbol": "わ", "name": "わ" },
+    { "symbol": "を", "name": "を" },
+    { "symbol": "ん", "name": "ん" }
+  ]
+}

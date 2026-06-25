@@ -32,7 +32,7 @@ export default function A0IslandGrid({ lang, islands }) {
         return (
           <Link
             key={island.id}
-            href={`/${lang}/journey/a0/${island.id}`}
+            href={`/vocabulary/${lang}/journey/a0/${island.id}`}
             className="group overflow-hidden rounded-[2rem] bg-white shadow-xl transition hover:-translate-y-1 hover:shadow-2xl"
           >
             <div className="relative h-36 bg-sky-300 sm:h-44">

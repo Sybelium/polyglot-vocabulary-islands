@@ -65,7 +65,7 @@ export default function A0JourneyProgress({ lang, islands }) {
 
         {summary.nextIsland ? (
           <Link
-            href={`/${lang}/journey/a0/${summary.nextIsland.id}`}
+            href={`/vocabulary/${lang}/journey/a0/${summary.nextIsland.id}`}
             className="inline-flex items-center justify-center rounded-full bg-blue-600 px-5 py-3 text-sm font-black text-white shadow transition hover:bg-blue-700 active:scale-[0.98]"
           >
             Continue: {summary.nextIsland.title} →

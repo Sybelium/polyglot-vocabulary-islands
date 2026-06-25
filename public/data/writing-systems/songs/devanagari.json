@@ -1,0 +1,22 @@
+{
+  "id": "devanagari",
+  "pageTitle": {
+    "en": "Devanagari Alphabet Songs"
+  },
+  "intro": {
+    "en": [
+      "Songs can help learners remember the order of the Devanagari letters."
+    ]
+  },
+  "songs": [
+    {
+      "title": {
+        "en": "Hindi Alphabet Song"
+      },
+      "description": {
+        "en": "A children-friendly song presenting the Hindi alphabet."
+      },
+      "embedUrl": "https://www.youtube.com/embed/eofyx2okzV4"
+    }
+  ]
+}

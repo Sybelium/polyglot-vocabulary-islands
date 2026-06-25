@@ -1,0 +1,22 @@
+{
+  "id": "arabic",
+  "pageTitle": {
+    "en": "Arabic Alphabet Songs"
+  },
+  "intro": {
+    "en": [
+      "Songs are a fun way to remember the order and sound of Arabic letters."
+    ]
+  },
+  "songs": [
+    {
+      "title": {
+        "en": "Arabic Alphabet Song for Kids (Alif Ba Ta)"
+      },
+      "description": {
+        "en": "A clear and beginner-friendly Arabic alphabet song for children."
+      },
+      "embedUrl": "https://www.youtube.com/embed/KjZvUtK5Epo"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "thai-vowels",
+  "pageTitle": {
+    "en": "Thai Vowel Songs"
+  },
+  "intro": {
+    "en": [
+      "Songs can help learners remember Thai vowel sounds and patterns."
+    ]
+  },
+  "songs": [
+    {
+      "title": {
+        "en": "Thai Vowels Song"
+      },
+      "description": {
+        "en": "A beginner-friendly video to practise Thai vowels."
+      },
+      "embedUrl": "https://www.youtube.com/embed/pBoQcFogon8"
+    }
+  ]
+}
