@@ -125,6 +125,7 @@ export default function HomePage() {
           })}
         </section>
 
+
         <footer className="text-center text-sm font-medium text-slate-500">
           Vocabulary Islands is ready. Writing Systems will be the next app.
         </footer>
