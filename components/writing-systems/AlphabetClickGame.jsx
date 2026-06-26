@@ -27,6 +27,31 @@ function getLetterLabel(letter) {
   return letter.name || letter.sound || letter.transliteration || "";
 }
 
+function waitForSpeechVoices() {
+  return new Promise((resolve) => {
+    if (typeof window === "undefined" || !window.speechSynthesis) {
+      resolve();
+      return;
+    }
+
+    const synth = window.speechSynthesis;
+
+    if (synth.getVoices().length > 0) {
+      resolve();
+      return;
+    }
+
+    const timeout = setTimeout(() => {
+      resolve();
+    }, 1000);
+
+    synth.onvoiceschanged = () => {
+      clearTimeout(timeout);
+      resolve();
+    };
+  });
+}
+
 function buildChoices(current, letters) {
   if (!current) return [];
 
@@ -56,8 +81,8 @@ export default function AlphabetClickGame({ system, letters }) {
   const current = questions[index];
 
   const visibleLetters = useMemo(() => {
-    return shuffle(letters).slice(0, 48);
-  }, [letters]);
+  return letters.slice(0, 48);
+}, [letters]);
 
   function clearReadingTimers() {
     timersRef.current.forEach((timer) => clearTimeout(timer));
@@ -86,12 +111,16 @@ export default function AlphabetClickGame({ system, letters }) {
 
     const utterance = new SpeechSynthesisUtterance(text);
     utterance.lang = VOICE_BY_SYSTEM[system] || "en-US";
-    utterance.rate = 0.82;
+    utterance.rate = 0.7;
 
     window.speechSynthesis.speak(utterance);
   }
 
-  function readLetterSet(repetitions = 1) {
+  async function readLetterSet(repetitions = 1) {
+
+    stopSpeech();
+setIsReadingSet(true);
+await waitForSpeechVoices();
     if (!visibleLetters.length) return;
 
     stopSpeech();
@@ -103,7 +132,7 @@ export default function AlphabetClickGame({ system, letters }) {
       visibleLetters.forEach((letter) => sequence.push(letter));
     }
 
-    let delay = 0;
+    let delay = 900;
 
     sequence.forEach((letter) => {
       const timer = setTimeout(() => {
@@ -112,7 +141,7 @@ export default function AlphabetClickGame({ system, letters }) {
       }, delay);
 
       timersRef.current.push(timer);
-      delay += 950;
+      delay += 1600;
     });
 
     const endTimer = setTimeout(() => {
