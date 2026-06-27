@@ -75,8 +75,12 @@ export default function AlphabetClickGame({ system, letters }) {
   const [finished, setFinished] = useState(false);
   const [activeTrainingId, setActiveTrainingId] = useState(null);
   const [isReadingSet, setIsReadingSet] = useState(false);
+const [audioMap, setAudioMap] = useState(null);
+const [audioStatus, setAudioStatus] = useState("loading");
 
-  const timersRef = useRef([]);
+const timersRef = useRef([]);
+const audioRef = useRef(null);
+const segmentTimerRef = useRef(null);
 
   const current = questions[index];
 
@@ -84,88 +88,222 @@ export default function AlphabetClickGame({ system, letters }) {
   return letters.slice(0, 48);
 }, [letters]);
 
+const segmentById = useMemo(() => {
+  const segments = Array.isArray(audioMap?.segments) ? audioMap.segments : [];
+
+  return new Map(
+    segments
+      .filter((segment) => segment.id)
+      .map((segment) => [segment.id, segment])
+  );
+}, [audioMap]);
+
   function clearReadingTimers() {
     timersRef.current.forEach((timer) => clearTimeout(timer));
     timersRef.current = [];
   }
 
-  function stopSpeech() {
-    clearReadingTimers();
-
-    if (typeof window !== "undefined" && window.speechSynthesis) {
-      window.speechSynthesis.cancel();
-    }
-
-    setIsReadingSet(false);
-    setActiveTrainingId(null);
+  function stopCurrentSound() {
+  if (segmentTimerRef.current) {
+    clearTimeout(segmentTimerRef.current);
+    segmentTimerRef.current = null;
   }
 
-  function speak(letter) {
-    if (typeof window === "undefined") return;
-    if (!window.speechSynthesis) return;
+  if (audioRef.current) {
+    audioRef.current.pause();
+  }
 
-    const text = letter.audioText || letter.sound || letter.name || letter.symbol;
-    if (!text) return;
-
+  if (typeof window !== "undefined" && window.speechSynthesis) {
     window.speechSynthesis.cancel();
-
-    const utterance = new SpeechSynthesisUtterance(text);
-    utterance.lang = VOICE_BY_SYSTEM[system] || "en-US";
-    utterance.rate = 0.7;
-
-    window.speechSynthesis.speak(utterance);
   }
+}
+
+function stopSpeech() {
+  clearReadingTimers();
+  stopCurrentSound();
+
+  setIsReadingSet(false);
+  setActiveTrainingId(null);
+}
+
+function speakWithBrowserTts(letter) {
+  if (typeof window === "undefined") return;
+  if (!window.speechSynthesis) return;
+
+  const text = letter.audioText || letter.sound || letter.name || letter.symbol;
+  if (!text) return;
+
+  window.speechSynthesis.cancel();
+
+  const utterance = new SpeechSynthesisUtterance(text);
+  utterance.lang = VOICE_BY_SYSTEM[system] || "en-US";
+  utterance.rate = 0.7;
+
+  window.speechSynthesis.speak(utterance);
+}
+
+function playTimestampSegment(letter) {
+  const segment = segmentById.get(letter.id);
+  const audio = audioRef.current;
+
+  if (!segment || !audio) return false;
+
+  const start = Number(segment.start);
+  const end = Number(segment.end);
+
+  if (!Number.isFinite(start) || !Number.isFinite(end) || end <= start) {
+    return false;
+  }
+
+  audio.currentTime = start;
+
+  const playPromise = audio.play();
+
+  segmentTimerRef.current = setTimeout(() => {
+    audio.pause();
+  }, Math.max(200, (end - start) * 1000 + 80));
+
+  if (playPromise?.catch) {
+    playPromise.catch(() => {
+      if (segmentTimerRef.current) {
+        clearTimeout(segmentTimerRef.current);
+        segmentTimerRef.current = null;
+      }
+
+      speakWithBrowserTts(letter);
+    });
+  }
+
+  return true;
+}
+
+function speak(letter) {
+  if (!letter) return;
+
+  stopCurrentSound();
+
+  const playedSegment = playTimestampSegment(letter);
+
+  if (!playedSegment) {
+    speakWithBrowserTts(letter);
+  }
+}
 
   async function readLetterSet(repetitions = 1) {
+  stopSpeech();
 
-    stopSpeech();
-setIsReadingSet(true);
-await waitForSpeechVoices();
-    if (!visibleLetters.length) return;
+  if (!visibleLetters.length) return;
 
-    stopSpeech();
-    setIsReadingSet(true);
+  setIsReadingSet(true);
 
-    const sequence = [];
-
-    for (let round = 0; round < repetitions; round += 1) {
-      visibleLetters.forEach((letter) => sequence.push(letter));
-    }
-
-    let delay = 900;
-
-    sequence.forEach((letter) => {
-      const timer = setTimeout(() => {
-        setActiveTrainingId(letter.id);
-        speak(letter);
-      }, delay);
-
-      timersRef.current.push(timer);
-      delay += 1600;
-    });
-
-    const endTimer = setTimeout(() => {
-      setIsReadingSet(false);
-      setActiveTrainingId(null);
-    }, delay + 300);
-
-    timersRef.current.push(endTimer);
+  if (audioStatus !== "ready") {
+    await waitForSpeechVoices();
   }
 
-  useEffect(() => {
-    if (mode !== "training") return;
-    if (!visibleLetters.length) return;
+  const sequence = [];
 
+  for (let round = 0; round < repetitions; round += 1) {
+    visibleLetters.forEach((letter) => sequence.push(letter));
+  }
+
+  let delay = 900;
+
+  sequence.forEach((letter) => {
     const timer = setTimeout(() => {
-      readLetterSet(1);
-    }, 700);
+      setActiveTrainingId(letter.id);
+      speak(letter);
+    }, delay);
 
-    return () => {
-      clearTimeout(timer);
-      stopSpeech();
-    };
-    // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [mode, visibleLetters]);
+    timersRef.current.push(timer);
+    delay += 1600;
+  });
+
+  const endTimer = setTimeout(() => {
+    setIsReadingSet(false);
+    setActiveTrainingId(null);
+  }, delay + 300);
+
+  timersRef.current.push(endTimer);
+}
+
+useEffect(() => {
+  let cancelled = false;
+
+  async function loadAudioMap() {
+    setAudioStatus("loading");
+    setAudioMap(null);
+
+    if (audioRef.current) {
+      audioRef.current.pause();
+      audioRef.current = null;
+    }
+
+    try {
+      const response = await fetch(
+        `/data/writing-systems/audio-maps/${system}.json`,
+        {
+          cache: "no-store",
+        }
+      );
+
+      if (!response.ok) {
+        throw new Error("No timestamped audio map found.");
+      }
+
+      const map = await response.json();
+
+      if (!map?.audioSrc || !Array.isArray(map.segments)) {
+        throw new Error("Invalid timestamped audio map.");
+      }
+
+      if (cancelled) return;
+
+      const audio = new Audio(map.audioSrc);
+      audio.preload = "auto";
+
+      audioRef.current = audio;
+      setAudioMap(map);
+      setAudioStatus("ready");
+    } catch {
+      if (cancelled) return;
+
+      setAudioMap(null);
+      setAudioStatus("fallback");
+    }
+  }
+
+  loadAudioMap();
+
+  return () => {
+    cancelled = true;
+
+    if (segmentTimerRef.current) {
+      clearTimeout(segmentTimerRef.current);
+      segmentTimerRef.current = null;
+    }
+
+    if (audioRef.current) {
+      audioRef.current.pause();
+      audioRef.current = null;
+    }
+  };
+}, [system]);
+
+  useEffect(() => {
+  if (mode !== "training") return;
+  if (!visibleLetters.length) return;
+  if (audioStatus === "loading") return;
+
+  const timer = setTimeout(() => {
+    readLetterSet(1);
+  }, 700);
+
+  return () => {
+    clearTimeout(timer);
+    stopSpeech();
+  };
+  // eslint-disable-next-line react-hooks/exhaustive-deps
+}, [mode, visibleLetters, audioStatus]);
 
   useEffect(() => {
     if (mode === "game") {
