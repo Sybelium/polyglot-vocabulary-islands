@@ -1,0 +1,684 @@
+{
+  "language": "fr",
+  "tenses": {
+    "present": {
+      "label": { "en": "Present tense", "fr": "Présent" },
+      "description": {
+        "en": "The present tense describes what happens now, regularly, or generally.",
+        "fr": "Le présent décrit ce qui se passe maintenant, régulièrement ou en général."
+      },
+      "groups": {
+        "regular-er": {
+          "label": { "en": "Regular -ER verbs", "fr": "Verbes réguliers en -ER" },
+          "description": {
+            "en": "Remove -er from the infinitive, then add the present tense endings.",
+            "fr": "On enlève -er de l’infinitif, puis on ajoute les terminaisons du présent."
+          },
+          "stemRule": "remove-er",
+          "endings": ["e", "es", "e", "ons", "ez", "ent"]
+        },
+        "regular-ir": {
+          "label": { "en": "Regular -IR verbs", "fr": "Verbes réguliers en -IR" },
+          "description": {
+            "en": "Remove -ir from the infinitive, then add the present tense endings.",
+            "fr": "On enlève -ir de l’infinitif, puis on ajoute les terminaisons du présent."
+          },
+          "stemRule": "remove-ir",
+          "endings": ["is", "is", "it", "issons", "issez", "issent"]
+        },
+        "regular-re": {
+          "label": { "en": "Regular -RE verbs", "fr": "Verbes réguliers en -RE" },
+          "description": {
+            "en": "Remove -re from the infinitive, then add the present tense endings. The il/elle form has no visible ending.",
+            "fr": "On enlève -re de l’infinitif, puis on ajoute les terminaisons du présent. La forme il/elle n’a pas de terminaison visible."
+          },
+          "stemRule": "remove-re",
+          "endings": ["s", "s", "", "ons", "ez", "ent"]
+        }
+      }
+    },
+
+    "imperfect": {
+  "label": {
+    "en": "Imperfect",
+    "fr": "Imparfait"
+  },
+  "description": {
+    "en": "The imperfect describes habits, background actions, or ongoing past situations.",
+    "fr": "L’imparfait décrit des habitudes, des descriptions ou des situations en cours dans le passé."
+  },
+  "groups": {
+    "regular-er": {
+      "label": {
+        "en": "Regular -ER verbs",
+        "fr": "Verbes réguliers en -ER"
+      },
+      "stemRule": "remove-er",
+      "endings": ["ais", "ais", "ait", "ions", "iez", "aient"]
+    },
+    "regular-ir": {
+      "label": {
+        "en": "Regular -IR verbs",
+        "fr": "Verbes réguliers en -IR"
+      },
+      "stemRule": "imperfect-regular-ir",
+      "endings": ["ais", "ais", "ait", "ions", "iez", "aient"]
+    },
+    "regular-re": {
+      "label": {
+        "en": "Regular -RE verbs",
+        "fr": "Verbes réguliers en -RE"
+      },
+      "stemRule": "remove-re",
+      "endings": ["ais", "ais", "ait", "ions", "iez", "aient"]
+    }
+  }
+},
+
+"future-simple": {
+  "label": {
+    "en": "Future simple",
+    "fr": "Futur simple"
+  },
+  "description": {
+    "en": "The future simple describes what will happen later.",
+    "fr": "Le futur simple décrit ce qui arrivera plus tard."
+  },
+  "groups": {
+    "regular-er": {
+      "label": {
+        "en": "Regular -ER verbs",
+        "fr": "Verbes réguliers en -ER"
+      },
+      "description": {
+        "en": "Use the full infinitive as the stem, then add the future endings.",
+        "fr": "On utilise l’infinitif entier comme base, puis on ajoute les terminaisons du futur."
+      },
+      "stemRule": "future-full-infinitive",
+      "endings": ["ai", "as", "a", "ons", "ez", "ont"]
+    },
+    "regular-ir": {
+      "label": {
+        "en": "Regular -IR verbs",
+        "fr": "Verbes réguliers en -IR"
+      },
+      "description": {
+        "en": "Use the full infinitive as the stem, then add the future endings.",
+        "fr": "On utilise l’infinitif entier comme base, puis on ajoute les terminaisons du futur."
+      },
+      "stemRule": "future-full-infinitive",
+      "endings": ["ai", "as", "a", "ons", "ez", "ont"]
+    },
+    "regular-re": {
+      "label": {
+        "en": "Regular -RE verbs",
+        "fr": "Verbes réguliers en -RE"
+      },
+      "description": {
+        "en": "Remove the final -e from the infinitive, then add the future endings.",
+        "fr": "On enlève le -e final de l’infinitif, puis on ajoute les terminaisons du futur."
+      },
+      "stemRule": "future-remove-final-e",
+      "endings": ["ai", "as", "a", "ons", "ez", "ont"]
+    }
+  }
+},
+
+"conditional-present": {
+  "label": {
+    "en": "Conditional present",
+    "fr": "Conditionnel présent"
+  },
+  "description": {
+    "en": "The conditional present describes what would happen.",
+    "fr": "Le conditionnel présent décrit ce qui arriverait."
+  },
+  "groups": {
+    "regular-er": {
+      "label": {
+        "en": "Regular -ER verbs",
+        "fr": "Verbes réguliers en -ER"
+      },
+      "description": {
+        "en": "Use the full infinitive as the stem, then add the conditional endings.",
+        "fr": "On utilise l’infinitif entier comme base, puis on ajoute les terminaisons du conditionnel."
+      },
+      "stemRule": "future-full-infinitive",
+      "endings": ["ais", "ais", "ait", "ions", "iez", "aient"]
+    },
+    "regular-ir": {
+      "label": {
+        "en": "Regular -IR verbs",
+        "fr": "Verbes réguliers en -IR"
+      },
+      "description": {
+        "en": "Use the full infinitive as the stem, then add the conditional endings.",
+        "fr": "On utilise l’infinitif entier comme base, puis on ajoute les terminaisons du conditionnel."
+      },
+      "stemRule": "future-full-infinitive",
+      "endings": ["ais", "ais", "ait", "ions", "iez", "aient"]
+    },
+    "regular-re": {
+      "label": {
+        "en": "Regular -RE verbs",
+        "fr": "Verbes réguliers en -RE"
+      },
+      "description": {
+        "en": "Remove the final -e from the infinitive, then add the conditional endings.",
+        "fr": "On enlève le -e final de l’infinitif, puis on ajoute les terminaisons du conditionnel."
+      },
+      "stemRule": "future-remove-final-e",
+      "endings": ["ais", "ais", "ait", "ions", "iez", "aient"]
+    }
+  }
+},
+
+"subjunctive-present": {
+  "label": {
+    "en": "Subjunctive present",
+    "fr": "Subjonctif présent"
+  },
+  "description": {
+    "en": "The subjunctive present is often used after expressions of wish, need, doubt, or emotion.",
+    "fr": "Le subjonctif présent s’utilise souvent après des expressions de souhait, de nécessité, de doute ou d’émotion."
+  },
+
+  "pronounPrefix": "que",
+  
+  "groups": {
+    "regular-er": {
+      "label": {
+        "en": "Regular -ER verbs",
+        "fr": "Verbes réguliers en -ER"
+      },
+      "description": {
+        "en": "Remove -er from the infinitive, then add the subjunctive present endings.",
+        "fr": "On enlève -er de l’infinitif, puis on ajoute les terminaisons du subjonctif présent."
+      },
+      "stemRule": "remove-er",
+      "endings": ["e", "es", "e", "ions", "iez", "ent"]
+    },
+    "regular-ir": {
+      "label": {
+        "en": "Regular -IR verbs",
+        "fr": "Verbes réguliers en -IR"
+      },
+      "description": {
+        "en": "Remove -ir, add -iss-, then add the subjunctive present endings.",
+        "fr": "On enlève -ir, on ajoute -iss-, puis on ajoute les terminaisons du subjonctif présent."
+      },
+      "stemRule": "subjunctive-regular-ir",
+      "endings": ["e", "es", "e", "ions", "iez", "ent"]
+    },
+    "regular-re": {
+      "label": {
+        "en": "Regular -RE verbs",
+        "fr": "Verbes réguliers en -RE"
+      },
+      "description": {
+        "en": "Remove -re from the infinitive, then add the subjunctive present endings.",
+        "fr": "On enlève -re de l’infinitif, puis on ajoute les terminaisons du subjonctif présent."
+      },
+      "stemRule": "remove-re",
+      "endings": ["e", "es", "e", "ions", "iez", "ent"]
+    }
+  }
+},
+
+"passe-compose": {
+  "label": {
+    "en": "Compound past",
+    "fr": "Passé composé"
+  },
+  "description": {
+    "en": "The passé composé describes completed past actions. Regular verbs use avoir + past participle.",
+    "fr": "Le passé composé décrit des actions terminées dans le passé. Les verbes réguliers utilisent avoir + participe passé."
+  },
+  "patternType": "compound",
+  "auxiliary": "avoir",
+  "auxiliaryForms": ["ai", "as", "a", "avons", "avez", "ont"],
+  "groups": {
+    "regular-er": {
+      "label": {
+        "en": "Regular -ER verbs",
+        "fr": "Verbes réguliers en -ER"
+      },
+      "description": {
+        "en": "Remove -er and add -é to form the past participle.",
+        "fr": "On enlève -er et on ajoute -é pour former le participe passé."
+      },
+      "participleRule": "remove-er-add-é"
+    },
+    "regular-ir": {
+      "label": {
+        "en": "Regular -IR verbs",
+        "fr": "Verbes réguliers en -IR"
+      },
+      "description": {
+        "en": "Remove -ir and add -i to form the past participle.",
+        "fr": "On enlève -ir et on ajoute -i pour former le participe passé."
+      },
+      "participleRule": "remove-ir-add-i"
+    },
+    "regular-re": {
+      "label": {
+        "en": "Regular -RE verbs",
+        "fr": "Verbes réguliers en -RE"
+      },
+      "description": {
+        "en": "Remove -re and add -u to form the past participle.",
+        "fr": "On enlève -re et on ajoute -u pour former le participe passé."
+      },
+      "participleRule": "remove-re-add-u"
+    }
+  }
+},
+
+"plus-que-parfait": {
+  "label": {
+    "en": "Pluperfect",
+    "fr": "Plus-que-parfait"
+  },
+  "description": {
+    "en": "The pluperfect describes an action that had happened before another past action.",
+    "fr": "Le plus-que-parfait décrit une action qui s’était passée avant une autre action passée."
+  },
+  "patternType": "compound",
+  "auxiliary": "avoir",
+  "auxiliaryForms": ["avais", "avais", "avait", "avions", "aviez", "avaient"],
+  "groups": {
+    "regular-er": {
+      "label": {
+        "en": "Regular -ER verbs",
+        "fr": "Verbes réguliers en -ER"
+      },
+      "description": {
+        "en": "Use the imperfect of avoir plus the past participle in -é.",
+        "fr": "On utilise l’imparfait d’avoir puis le participe passé en -é."
+      },
+      "participleRule": "remove-er-add-é"
+    },
+    "regular-ir": {
+      "label": {
+        "en": "Regular -IR verbs",
+        "fr": "Verbes réguliers en -IR"
+      },
+      "description": {
+        "en": "Use the imperfect of avoir plus the past participle in -i.",
+        "fr": "On utilise l’imparfait d’avoir puis le participe passé en -i."
+      },
+      "participleRule": "remove-ir-add-i"
+    },
+    "regular-re": {
+      "label": {
+        "en": "Regular -RE verbs",
+        "fr": "Verbes réguliers en -RE"
+      },
+      "description": {
+        "en": "Use the imperfect of avoir plus the past participle in -u.",
+        "fr": "On utilise l’imparfait d’avoir puis le participe passé en -u."
+      },
+      "participleRule": "remove-re-add-u"
+    }
+  }
+},
+
+"futur-anterieur": {
+  "label": {
+    "en": "Future perfect",
+    "fr": "Futur antérieur"
+  },
+  "description": {
+    "en": "The future perfect describes an action that will have happened before another future moment.",
+    "fr": "Le futur antérieur décrit une action qui sera terminée avant un autre moment futur."
+  },
+  "patternType": "compound",
+  "auxiliary": "avoir",
+  "auxiliaryForms": ["aurai", "auras", "aura", "aurons", "aurez", "auront"],
+  "groups": {
+    "regular-er": {
+      "label": {
+        "en": "Regular -ER verbs",
+        "fr": "Verbes réguliers en -ER"
+      },
+      "description": {
+        "en": "Use the future of avoir plus the past participle in -é.",
+        "fr": "On utilise le futur d’avoir puis le participe passé en -é."
+      },
+      "participleRule": "remove-er-add-é"
+    },
+    "regular-ir": {
+      "label": {
+        "en": "Regular -IR verbs",
+        "fr": "Verbes réguliers en -IR"
+      },
+      "description": {
+        "en": "Use the future of avoir plus the past participle in -i.",
+        "fr": "On utilise le futur d’avoir puis le participe passé en -i."
+      },
+      "participleRule": "remove-ir-add-i"
+    },
+    "regular-re": {
+      "label": {
+        "en": "Regular -RE verbs",
+        "fr": "Verbes réguliers en -RE"
+      },
+      "description": {
+        "en": "Use the future of avoir plus the past participle in -u.",
+        "fr": "On utilise le futur d’avoir puis le participe passé en -u."
+      },
+      "participleRule": "remove-re-add-u"
+    }
+  }
+},
+
+"conditional-past": {
+  "label": {
+    "en": "Past conditional",
+    "fr": "Conditionnel passé"
+  },
+  "description": {
+    "en": "The past conditional describes what would have happened.",
+    "fr": "Le conditionnel passé décrit ce qui serait arrivé."
+  },
+  "patternType": "compound",
+  "auxiliary": "avoir",
+  "auxiliaryForms": ["aurais", "aurais", "aurait", "aurions", "auriez", "auraient"],
+  "groups": {
+    "regular-er": {
+      "label": {
+        "en": "Regular -ER verbs",
+        "fr": "Verbes réguliers en -ER"
+      },
+      "description": {
+        "en": "Use the conditional of avoir plus the past participle in -é.",
+        "fr": "On utilise le conditionnel d’avoir puis le participe passé en -é."
+      },
+      "participleRule": "remove-er-add-é"
+    },
+    "regular-ir": {
+      "label": {
+        "en": "Regular -IR verbs",
+        "fr": "Verbes réguliers en -IR"
+      },
+      "description": {
+        "en": "Use the conditional of avoir plus the past participle in -i.",
+        "fr": "On utilise le conditionnel d’avoir puis le participe passé en -i."
+      },
+      "participleRule": "remove-ir-add-i"
+    },
+    "regular-re": {
+      "label": {
+        "en": "Regular -RE verbs",
+        "fr": "Verbes réguliers en -RE"
+      },
+      "description": {
+        "en": "Use the conditional of avoir plus the past participle in -u.",
+        "fr": "On utilise le conditionnel d’avoir puis le participe passé en -u."
+      },
+      "participleRule": "remove-re-add-u"
+    }
+  }
+},
+
+"passe-simple": {
+  "label": {
+    "en": "Simple past",
+    "fr": "Passé simple"
+  },
+  "description": {
+    "en": "The simple past is mainly used in written French, especially in stories, history, and literature.",
+    "fr": "Le passé simple est surtout utilisé à l’écrit, notamment dans les récits, l’histoire et la littérature."
+  },
+  "groups": {
+    "regular-er": {
+      "label": {
+        "en": "Regular -ER verbs",
+        "fr": "Verbes réguliers en -ER"
+      },
+      "description": {
+        "en": "Remove -er from the infinitive, then add the simple past endings.",
+        "fr": "On enlève -er de l’infinitif, puis on ajoute les terminaisons du passé simple."
+      },
+      "stemRule": "remove-er",
+      "endings": ["ai", "as", "a", "âmes", "âtes", "èrent"]
+    },
+    "regular-ir": {
+      "label": {
+        "en": "Regular -IR verbs",
+        "fr": "Verbes réguliers en -IR"
+      },
+      "description": {
+        "en": "Remove -ir from the infinitive, then add the simple past endings.",
+        "fr": "On enlève -ir de l’infinitif, puis on ajoute les terminaisons du passé simple."
+      },
+      "stemRule": "remove-ir",
+      "endings": ["is", "is", "it", "îmes", "îtes", "irent"]
+    },
+    "regular-re": {
+      "label": {
+        "en": "Regular -RE verbs",
+        "fr": "Verbes réguliers en -RE"
+      },
+      "description": {
+        "en": "Remove -re from the infinitive, then add the simple past endings.",
+        "fr": "On enlève -re de l’infinitif, puis on ajoute les terminaisons du passé simple."
+      },
+      "stemRule": "remove-re",
+      "endings": ["is", "is", "it", "îmes", "îtes", "irent"]
+    }
+  }
+},
+
+"passe-anterieur": {
+  "label": {
+    "en": "Past anterior",
+    "fr": "Passé antérieur"
+  },
+  "description": {
+    "en": "The past anterior is mainly used in written French to describe an action completed before another simple past action.",
+    "fr": "Le passé antérieur s’utilise surtout à l’écrit pour décrire une action terminée avant une autre action au passé simple."
+  },
+  "patternType": "compound",
+  "auxiliary": "avoir",
+  "auxiliaryForms": ["eus", "eus", "eut", "eûmes", "eûtes", "eurent"],
+  "groups": {
+    "regular-er": {
+      "label": {
+        "en": "Regular -ER verbs",
+        "fr": "Verbes réguliers en -ER"
+      },
+      "description": {
+        "en": "Use the simple past of avoir plus the past participle in -é.",
+        "fr": "On utilise le passé simple d’avoir puis le participe passé en -é."
+      },
+      "participleRule": "remove-er-add-é"
+    },
+    "regular-ir": {
+      "label": {
+        "en": "Regular -IR verbs",
+        "fr": "Verbes réguliers en -IR"
+      },
+      "description": {
+        "en": "Use the simple past of avoir plus the past participle in -i.",
+        "fr": "On utilise le passé simple d’avoir puis le participe passé en -i."
+      },
+      "participleRule": "remove-ir-add-i"
+    },
+    "regular-re": {
+      "label": {
+        "en": "Regular -RE verbs",
+        "fr": "Verbes réguliers en -RE"
+      },
+      "description": {
+        "en": "Use the simple past of avoir plus the past participle in -u.",
+        "fr": "On utilise le passé simple d’avoir puis le participe passé en -u."
+      },
+      "participleRule": "remove-re-add-u"
+    }
+  }
+},
+
+"subjunctive-past": {
+  "label": {
+    "en": "Past subjunctive",
+    "fr": "Subjonctif passé"
+  },
+  "description": {
+    "en": "The past subjunctive is used after expressions of wish, need, doubt, or emotion when the action is completed.",
+    "fr": "Le subjonctif passé s’utilise après des expressions de souhait, de nécessité, de doute ou d’émotion quand l’action est terminée."
+  },
+  "pronounPrefix": "que",
+  "patternType": "compound",
+  "auxiliary": "avoir",
+  "auxiliaryForms": ["aie", "aies", "ait", "ayons", "ayez", "aient"],
+  "groups": {
+    "regular-er": {
+      "label": {
+        "en": "Regular -ER verbs",
+        "fr": "Verbes réguliers en -ER"
+      },
+      "description": {
+        "en": "Use the subjunctive present of avoir plus the past participle in -é.",
+        "fr": "On utilise le subjonctif présent d’avoir puis le participe passé en -é."
+      },
+      "participleRule": "remove-er-add-é"
+    },
+    "regular-ir": {
+      "label": {
+        "en": "Regular -IR verbs",
+        "fr": "Verbes réguliers en -IR"
+      },
+      "description": {
+        "en": "Use the subjunctive present of avoir plus the past participle in -i.",
+        "fr": "On utilise le subjonctif présent d’avoir puis le participe passé en -i."
+      },
+      "participleRule": "remove-ir-add-i"
+    },
+    "regular-re": {
+      "label": {
+        "en": "Regular -RE verbs",
+        "fr": "Verbes réguliers en -RE"
+      },
+      "description": {
+        "en": "Use the subjunctive present of avoir plus the past participle in -u.",
+        "fr": "On utilise le subjonctif présent d’avoir puis le participe passé en -u."
+      },
+      "participleRule": "remove-re-add-u"
+    }
+  }
+},
+
+"subjunctive-imperfect": {
+  "label": {
+    "en": "Imperfect subjunctive",
+    "fr": "Subjonctif imparfait"
+  },
+  "description": {
+    "en": "The imperfect subjunctive is a literary tense, mostly used in formal writing and older texts.",
+    "fr": "Le subjonctif imparfait est un temps littéraire, surtout utilisé dans la langue écrite soutenue et les textes anciens."
+  },
+  "pronounPrefix": "que",
+  "groups": {
+    "regular-er": {
+      "label": {
+        "en": "Regular -ER verbs",
+        "fr": "Verbes réguliers en -ER"
+      },
+      "description": {
+        "en": "Remove -er from the infinitive, then add the imperfect subjunctive endings.",
+        "fr": "On enlève -er de l’infinitif, puis on ajoute les terminaisons du subjonctif imparfait."
+      },
+      "stemRule": "remove-er",
+      "endings": ["asse", "asses", "ât", "assions", "assiez", "assent"]
+    },
+    "regular-ir": {
+      "label": {
+        "en": "Regular -IR verbs",
+        "fr": "Verbes réguliers en -IR"
+      },
+      "description": {
+        "en": "Remove -ir from the infinitive, then add the imperfect subjunctive endings.",
+        "fr": "On enlève -ir de l’infinitif, puis on ajoute les terminaisons du subjonctif imparfait."
+      },
+      "stemRule": "remove-ir",
+      "endings": ["isse", "isses", "ît", "issions", "issiez", "issent"]
+    },
+    "regular-re": {
+      "label": {
+        "en": "Regular -RE verbs",
+        "fr": "Verbes réguliers en -RE"
+      },
+      "description": {
+        "en": "Remove -re from the infinitive, then add the imperfect subjunctive endings.",
+        "fr": "On enlève -re de l’infinitif, puis on ajoute les terminaisons du subjonctif imparfait."
+      },
+      "stemRule": "remove-re",
+      "endings": ["isse", "isses", "ît", "issions", "issiez", "issent"]
+    }
+  }
+},
+
+"subjunctive-pluperfect": {
+  "label": {
+    "en": "Pluperfect subjunctive",
+    "fr": "Subjonctif plus-que-parfait"
+  },
+  "description": {
+    "en": "The pluperfect subjunctive is a literary compound tense, mostly used in formal writing and older texts.",
+    "fr": "Le subjonctif plus-que-parfait est un temps composé littéraire, surtout utilisé dans la langue écrite soutenue et les textes anciens."
+  },
+  "pronounPrefix": "que",
+  "patternType": "compound",
+  "auxiliary": "avoir",
+  "auxiliaryForms": ["eusse", "eusses", "eût", "eussions", "eussiez", "eussent"],
+  "groups": {
+    "regular-er": {
+      "label": {
+        "en": "Regular -ER verbs",
+        "fr": "Verbes réguliers en -ER"
+      },
+      "description": {
+        "en": "Use the imperfect subjunctive of avoir plus the past participle in -é.",
+        "fr": "On utilise le subjonctif imparfait d’avoir puis le participe passé en -é."
+      },
+      "participleRule": "remove-er-add-é"
+    },
+    "regular-ir": {
+      "label": {
+        "en": "Regular -IR verbs",
+        "fr": "Verbes réguliers en -IR"
+      },
+      "description": {
+        "en": "Use the imperfect subjunctive of avoir plus the past participle in -i.",
+        "fr": "On utilise le subjonctif imparfait d’avoir puis le participe passé en -i."
+      },
+      "participleRule": "remove-ir-add-i"
+    },
+    "regular-re": {
+      "label": {
+        "en": "Regular -RE verbs",
+        "fr": "Verbes réguliers en -RE"
+      },
+      "description": {
+        "en": "Use the imperfect subjunctive of avoir plus the past participle in -u.",
+        "fr": "On utilise le subjonctif imparfait d’avoir puis le participe passé en -u."
+      },
+      "participleRule": "remove-re-add-u"
+    }
+  }
+},
+
+"other-forms": {
+  "label": {
+    "en": "Other forms",
+    "fr": "Autres formes"
+  },
+  "description": {
+    "en": "Infinitive, participle, gerund, imperative, and other useful verb forms.",
+    "fr": "Infinitif, participe, gérondif, impératif et autres formes utiles du verbe."
+  },
+  "patternType": "otherForms"
+}
+  }
+}

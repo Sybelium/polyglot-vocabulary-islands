@@ -1,0 +1,181 @@
+{
+  "language": "pt",
+  "tenses": {
+    "present": {
+      "label": {"en": "Present", "pt": "Presente"},
+      "description": {"en": "The present tense describes actions happening now or regularly.", "pt": "O presente descreve ações que acontecem agora ou habitualmente."},
+      "groups": {
+        "regular-ar": {"label": {"en": "Regular -AR verbs", "pt": "Verbos regulares em -AR"}, "description": {"en": "Remove the infinitive ending and add the present endings.", "pt": "Retire a terminação do infinitivo e acrescente as terminações de presente."}, "stemRule": "remove-ar", "endings": ["o", "as", "a", "amos", "ais", "am"]},
+        "regular-er": {"label": {"en": "Regular -ER verbs", "pt": "Verbos regulares em -ER"}, "description": {"en": "Remove the infinitive ending and add the present endings.", "pt": "Retire a terminação do infinitivo e acrescente as terminações de presente."}, "stemRule": "remove-er", "endings": ["o", "es", "e", "emos", "eis", "em"]},
+        "regular-ir": {"label": {"en": "Regular -IR verbs", "pt": "Verbos regulares em -IR"}, "description": {"en": "Remove the infinitive ending and add the present endings.", "pt": "Retire a terminação do infinitivo e acrescente as terminações de presente."}, "stemRule": "remove-ir", "endings": ["o", "es", "e", "imos", "is", "em"]}
+      }
+    },
+    "imperfect": {
+      "label": {"en": "Imperfect", "pt": "Pretérito imperfeito"},
+      "description": {"en": "The imperfect describes repeated or ongoing actions in the past.", "pt": "O pretérito imperfeito descreve ações repetidas ou em progresso no passado."},
+      "groups": {
+        "regular-ar": {"label": {"en": "Regular -AR verbs", "pt": "Verbos regulares em -AR"}, "description": {"en": "Remove the infinitive ending and add the imperfect endings.", "pt": "Retire a terminação do infinitivo e acrescente as terminações de pretérito imperfeito."}, "stemRule": "remove-ar", "endings": ["ava", "avas", "ava", "ávamos", "áveis", "avam"]},
+        "regular-er": {"label": {"en": "Regular -ER verbs", "pt": "Verbos regulares em -ER"}, "description": {"en": "Remove the infinitive ending and add the imperfect endings.", "pt": "Retire a terminação do infinitivo e acrescente as terminações de pretérito imperfeito."}, "stemRule": "remove-er", "endings": ["ia", "ias", "ia", "íamos", "íeis", "iam"]},
+        "regular-ir": {"label": {"en": "Regular -IR verbs", "pt": "Verbos regulares em -IR"}, "description": {"en": "Remove the infinitive ending and add the imperfect endings.", "pt": "Retire a terminação do infinitivo e acrescente as terminações de pretérito imperfeito."}, "stemRule": "remove-ir", "endings": ["ia", "ias", "ia", "íamos", "íeis", "iam"]}
+      }
+    },
+    "future-simple": {
+      "label": {"en": "Future simple", "pt": "Futuro do presente"},
+      "description": {"en": "The future simple describes actions that will happen.", "pt": "O futuro do presente descreve ações que vão acontecer."},
+      "groups": {
+        "regular-ar": {"label": {"en": "Regular -AR verbs", "pt": "Verbos regulares em -AR"}, "description": {"en": "Use the full infinitive as the stem, then add the future endings.", "pt": "Use o infinitivo completo como base e acrescente as terminações do futuro."}, "stemRule": "future-full-infinitive", "endings": ["ei", "ás", "á", "emos", "eis", "ão"]},
+        "regular-er": {"label": {"en": "Regular -ER verbs", "pt": "Verbos regulares em -ER"}, "description": {"en": "Use the full infinitive as the stem, then add the future endings.", "pt": "Use o infinitivo completo como base e acrescente as terminações do futuro."}, "stemRule": "future-full-infinitive", "endings": ["ei", "ás", "á", "emos", "eis", "ão"]},
+        "regular-ir": {"label": {"en": "Regular -IR verbs", "pt": "Verbos regulares em -IR"}, "description": {"en": "Use the full infinitive as the stem, then add the future endings.", "pt": "Use o infinitivo completo como base e acrescente as terminações do futuro."}, "stemRule": "future-full-infinitive", "endings": ["ei", "ás", "á", "emos", "eis", "ão"]}
+      }
+    },
+    "conditional-present": {
+      "label": {"en": "Conditional", "pt": "Condicional"},
+      "description": {"en": "The conditional expresses would do, would speak, would eat.", "pt": "O condicional expressa ações hipotéticas: falaria, comeria, abriria."},
+      "groups": {
+        "regular-ar": {"label": {"en": "Regular -AR verbs", "pt": "Verbos regulares em -AR"}, "description": {"en": "Use the full infinitive as the stem, then add the conditional endings.", "pt": "Use o infinitivo completo como base e acrescente as terminações do condicional."}, "stemRule": "future-full-infinitive", "endings": ["ia", "ias", "ia", "íamos", "íeis", "iam"]},
+        "regular-er": {"label": {"en": "Regular -ER verbs", "pt": "Verbos regulares em -ER"}, "description": {"en": "Use the full infinitive as the stem, then add the conditional endings.", "pt": "Use o infinitivo completo como base e acrescente as terminações do condicional."}, "stemRule": "future-full-infinitive", "endings": ["ia", "ias", "ia", "íamos", "íeis", "iam"]},
+        "regular-ir": {"label": {"en": "Regular -IR verbs", "pt": "Verbos regulares em -IR"}, "description": {"en": "Use the full infinitive as the stem, then add the conditional endings.", "pt": "Use o infinitivo completo como base e acrescente as terminações do condicional."}, "stemRule": "future-full-infinitive", "endings": ["ia", "ias", "ia", "íamos", "íeis", "iam"]}
+      }
+    },
+    "subjunctive-present": {
+      "label": {"en": "Present subjunctive", "pt": "Presente do conjuntivo"},
+      "description": {"en": "The present subjunctive is used after expressions of wish, doubt, emotion, or necessity.", "pt": "O presente do conjuntivo usa-se depois de expressões de desejo, dúvida, emoção ou necessidade."},
+      "pronounPrefix": "que",
+      "groups": {
+        "regular-ar": {"label": {"en": "Regular -AR verbs", "pt": "Verbos regulares em -AR"}, "description": {"en": "Remove the infinitive ending and add the present subjunctive endings.", "pt": "Retire a terminação do infinitivo e acrescente as terminações de presente do conjuntivo."}, "stemRule": "remove-ar", "endings": ["e", "es", "e", "emos", "eis", "em"]},
+        "regular-er": {"label": {"en": "Regular -ER verbs", "pt": "Verbos regulares em -ER"}, "description": {"en": "Remove the infinitive ending and add the present subjunctive endings.", "pt": "Retire a terminação do infinitivo e acrescente as terminações de presente do conjuntivo."}, "stemRule": "remove-er", "endings": ["a", "as", "a", "amos", "ais", "am"]},
+        "regular-ir": {"label": {"en": "Regular -IR verbs", "pt": "Verbos regulares em -IR"}, "description": {"en": "Remove the infinitive ending and add the present subjunctive endings.", "pt": "Retire a terminação do infinitivo e acrescente as terminações de presente do conjuntivo."}, "stemRule": "remove-ir", "endings": ["a", "as", "a", "amos", "ais", "am"]}
+      }
+    },
+    "preterite": {
+      "label": {"en": "Preterite", "pt": "Pretérito perfeito simples"},
+      "description": {"en": "The preterite describes completed actions in the past.", "pt": "O pretérito perfeito simples descreve ações concluídas no passado."},
+      "groups": {
+        "regular-ar": {"label": {"en": "Regular -AR verbs", "pt": "Verbos regulares em -AR"}, "description": {"en": "Remove the infinitive ending and add the preterite endings.", "pt": "Retire a terminação do infinitivo e acrescente as terminações de pretérito perfeito simples."}, "stemRule": "remove-ar", "endings": ["ei", "aste", "ou", "ámos", "astes", "aram"]},
+        "regular-er": {"label": {"en": "Regular -ER verbs", "pt": "Verbos regulares em -ER"}, "description": {"en": "Remove the infinitive ending and add the preterite endings.", "pt": "Retire a terminação do infinitivo e acrescente as terminações de pretérito perfeito simples."}, "stemRule": "remove-er", "endings": ["i", "este", "eu", "emos", "estes", "eram"]},
+        "regular-ir": {"label": {"en": "Regular -IR verbs", "pt": "Verbos regulares em -IR"}, "description": {"en": "Remove the infinitive ending and add the preterite endings.", "pt": "Retire a terminação do infinitivo e acrescente as terminações de pretérito perfeito simples."}, "stemRule": "remove-ir", "endings": ["i", "iste", "iu", "imos", "istes", "iram"]}
+      }
+    },
+    "pluperfect-simple": {
+      "label": {"en": "Simple pluperfect", "pt": "Pretérito mais-que-perfeito simples"},
+      "description": {"en": "A literary/simple form meaning had done.", "pt": "Forma simples, sobretudo literária, com valor de mais-que-perfeito."},
+      "groups": {
+        "regular-ar": {"label": {"en": "Regular -AR verbs", "pt": "Verbos regulares em -AR"}, "description": {"en": "Remove the infinitive ending and add the simple pluperfect endings.", "pt": "Retire a terminação do infinitivo e acrescente as terminações de pretérito mais-que-perfeito simples."}, "stemRule": "remove-ar", "endings": ["ara", "aras", "ara", "áramos", "áreis", "aram"]},
+        "regular-er": {"label": {"en": "Regular -ER verbs", "pt": "Verbos regulares em -ER"}, "description": {"en": "Remove the infinitive ending and add the simple pluperfect endings.", "pt": "Retire a terminação do infinitivo e acrescente as terminações de pretérito mais-que-perfeito simples."}, "stemRule": "remove-er", "endings": ["era", "eras", "era", "êramos", "êreis", "eram"]},
+        "regular-ir": {"label": {"en": "Regular -IR verbs", "pt": "Verbos regulares em -IR"}, "description": {"en": "Remove the infinitive ending and add the simple pluperfect endings.", "pt": "Retire a terminação do infinitivo e acrescente as terminações de pretérito mais-que-perfeito simples."}, "stemRule": "remove-ir", "endings": ["ira", "iras", "ira", "íramos", "íreis", "iram"]}
+      }
+    },
+    "future-subjunctive": {
+      "label": {"en": "Future subjunctive", "pt": "Futuro do conjuntivo"},
+      "description": {"en": "The future subjunctive is common in Portuguese after quando, se, assim que, and similar expressions.", "pt": "O futuro do conjuntivo é comum em português depois de quando, se, assim que e expressões semelhantes."},
+      "pronounPrefix": "quando",
+      "groups": {
+        "regular-ar": {"label": {"en": "Regular -AR verbs", "pt": "Verbos regulares em -AR"}, "description": {"en": "Remove the infinitive ending and add the future subjunctive endings.", "pt": "Retire a terminação do infinitivo e acrescente as terminações de futuro do conjuntivo."}, "stemRule": "remove-ar", "endings": ["ar", "ares", "ar", "armos", "ardes", "arem"]},
+        "regular-er": {"label": {"en": "Regular -ER verbs", "pt": "Verbos regulares em -ER"}, "description": {"en": "Remove the infinitive ending and add the future subjunctive endings.", "pt": "Retire a terminação do infinitivo e acrescente as terminações de futuro do conjuntivo."}, "stemRule": "remove-er", "endings": ["er", "eres", "er", "ermos", "erdes", "erem"]},
+        "regular-ir": {"label": {"en": "Regular -IR verbs", "pt": "Verbos regulares em -IR"}, "description": {"en": "Remove the infinitive ending and add the future subjunctive endings.", "pt": "Retire a terminação do infinitivo e acrescente as terminações de futuro do conjuntivo."}, "stemRule": "remove-ir", "endings": ["ir", "ires", "ir", "irmos", "irdes", "irem"]}
+      }
+    },
+    "compound-preterite": {
+      "label": {"en": "Compound perfect", "pt": "Pretérito perfeito composto"},
+      "description": {"en": "The compound perfect uses ter in the present plus the past participle.", "pt": "O pretérito perfeito composto usa ter no presente mais o particípio passado."},
+      "patternType": "compound",
+      "auxiliary": "ter",
+      "auxiliaryForms": ["tenho", "tens", "tem", "temos", "tendes", "têm"],
+      "groups": {
+        "regular-ar": {"label": {"en": "Regular -AR verbs", "pt": "Verbos regulares em -AR"}, "description": {"en": "Use ter plus the past participle in -ado.", "pt": "Usa-se ter mais o particípio passado em -ado."}, "participleRule": "remove-ar-add-ado"},
+        "regular-er": {"label": {"en": "Regular -ER verbs", "pt": "Verbos regulares em -ER"}, "description": {"en": "Use ter plus the past participle in -ido.", "pt": "Usa-se ter mais o particípio passado em -ido."}, "participleRule": "remove-er-add-ido"},
+        "regular-ir": {"label": {"en": "Regular -IR verbs", "pt": "Verbos regulares em -IR"}, "description": {"en": "Use ter plus the past participle in -ido.", "pt": "Usa-se ter mais o particípio passado em -ido."}, "participleRule": "remove-ir-add-ido"}
+      }
+    },
+    "pluperfect-compound": {
+      "label": {"en": "Compound pluperfect", "pt": "Pretérito mais-que-perfeito composto"},
+      "description": {"en": "The compound pluperfect uses ter in the imperfect plus the past participle.", "pt": "O mais-que-perfeito composto usa ter no imperfeito mais o particípio passado."},
+      "patternType": "compound",
+      "auxiliary": "ter",
+      "auxiliaryForms": ["tinha", "tinhas", "tinha", "tínhamos", "tínheis", "tinham"],
+      "groups": {
+        "regular-ar": {"label": {"en": "Regular -AR verbs", "pt": "Verbos regulares em -AR"}, "description": {"en": "Use ter plus the past participle in -ado.", "pt": "Usa-se ter mais o particípio passado em -ado."}, "participleRule": "remove-ar-add-ado"},
+        "regular-er": {"label": {"en": "Regular -ER verbs", "pt": "Verbos regulares em -ER"}, "description": {"en": "Use ter plus the past participle in -ido.", "pt": "Usa-se ter mais o particípio passado em -ido."}, "participleRule": "remove-er-add-ido"},
+        "regular-ir": {"label": {"en": "Regular -IR verbs", "pt": "Verbos regulares em -IR"}, "description": {"en": "Use ter plus the past participle in -ido.", "pt": "Usa-se ter mais o particípio passado em -ido."}, "participleRule": "remove-ir-add-ido"}
+      }
+    },
+    "future-perfect": {
+      "label": {"en": "Future perfect", "pt": "Futuro perfeito"},
+      "description": {"en": "The future perfect uses ter in the future plus the past participle.", "pt": "O futuro perfeito usa ter no futuro mais o particípio passado."},
+      "patternType": "compound",
+      "auxiliary": "ter",
+      "auxiliaryForms": ["terei", "terás", "terá", "teremos", "tereis", "terão"],
+      "groups": {
+        "regular-ar": {"label": {"en": "Regular -AR verbs", "pt": "Verbos regulares em -AR"}, "description": {"en": "Use ter plus the past participle in -ado.", "pt": "Usa-se ter mais o particípio passado em -ado."}, "participleRule": "remove-ar-add-ado"},
+        "regular-er": {"label": {"en": "Regular -ER verbs", "pt": "Verbos regulares em -ER"}, "description": {"en": "Use ter plus the past participle in -ido.", "pt": "Usa-se ter mais o particípio passado em -ido."}, "participleRule": "remove-er-add-ido"},
+        "regular-ir": {"label": {"en": "Regular -IR verbs", "pt": "Verbos regulares em -IR"}, "description": {"en": "Use ter plus the past participle in -ido.", "pt": "Usa-se ter mais o particípio passado em -ido."}, "participleRule": "remove-ir-add-ido"}
+      }
+    },
+    "conditional-past": {
+      "label": {"en": "Past conditional", "pt": "Condicional passado"},
+      "description": {"en": "The past conditional uses ter in the conditional plus the past participle.", "pt": "O condicional passado usa ter no condicional mais o particípio passado."},
+      "patternType": "compound",
+      "auxiliary": "ter",
+      "auxiliaryForms": ["teria", "terias", "teria", "teríamos", "teríeis", "teriam"],
+      "groups": {
+        "regular-ar": {"label": {"en": "Regular -AR verbs", "pt": "Verbos regulares em -AR"}, "description": {"en": "Use ter plus the past participle in -ado.", "pt": "Usa-se ter mais o particípio passado em -ado."}, "participleRule": "remove-ar-add-ado"},
+        "regular-er": {"label": {"en": "Regular -ER verbs", "pt": "Verbos regulares em -ER"}, "description": {"en": "Use ter plus the past participle in -ido.", "pt": "Usa-se ter mais o particípio passado em -ido."}, "participleRule": "remove-er-add-ido"},
+        "regular-ir": {"label": {"en": "Regular -IR verbs", "pt": "Verbos regulares em -IR"}, "description": {"en": "Use ter plus the past participle in -ido.", "pt": "Usa-se ter mais o particípio passado em -ido."}, "participleRule": "remove-ir-add-ido"}
+      }
+    },
+    "subjunctive-past": {
+      "label": {"en": "Past subjunctive", "pt": "Pretérito perfeito do conjuntivo"},
+      "description": {"en": "The past subjunctive uses ter in the present subjunctive plus the past participle.", "pt": "O pretérito perfeito do conjuntivo usa ter no presente do conjuntivo mais o particípio passado."},
+      "pronounPrefix": "que",
+      "patternType": "compound",
+      "auxiliary": "ter",
+      "auxiliaryForms": ["tenha", "tenhas", "tenha", "tenhamos", "tenhais", "tenham"],
+      "groups": {
+        "regular-ar": {"label": {"en": "Regular -AR verbs", "pt": "Verbos regulares em -AR"}, "description": {"en": "Use ter plus the past participle in -ado.", "pt": "Usa-se ter mais o particípio passado em -ado."}, "participleRule": "remove-ar-add-ado"},
+        "regular-er": {"label": {"en": "Regular -ER verbs", "pt": "Verbos regulares em -ER"}, "description": {"en": "Use ter plus the past participle in -ido.", "pt": "Usa-se ter mais o particípio passado em -ido."}, "participleRule": "remove-er-add-ido"},
+        "regular-ir": {"label": {"en": "Regular -IR verbs", "pt": "Verbos regulares em -IR"}, "description": {"en": "Use ter plus the past participle in -ido.", "pt": "Usa-se ter mais o particípio passado em -ido."}, "participleRule": "remove-ir-add-ido"}
+      }
+    },
+    "subjunctive-pluperfect": {
+      "label": {"en": "Pluperfect subjunctive", "pt": "Pretérito mais-que-perfeito do conjuntivo"},
+      "description": {"en": "The pluperfect subjunctive uses ter in the imperfect subjunctive plus the past participle.", "pt": "O mais-que-perfeito do conjuntivo usa ter no imperfeito do conjuntivo mais o particípio passado."},
+      "pronounPrefix": "que",
+      "patternType": "compound",
+      "auxiliary": "ter",
+      "auxiliaryForms": ["tivesse", "tivesses", "tivesse", "tivéssemos", "tivésseis", "tivessem"],
+      "groups": {
+        "regular-ar": {"label": {"en": "Regular -AR verbs", "pt": "Verbos regulares em -AR"}, "description": {"en": "Use ter plus the past participle in -ado.", "pt": "Usa-se ter mais o particípio passado em -ado."}, "participleRule": "remove-ar-add-ado"},
+        "regular-er": {"label": {"en": "Regular -ER verbs", "pt": "Verbos regulares em -ER"}, "description": {"en": "Use ter plus the past participle in -ido.", "pt": "Usa-se ter mais o particípio passado em -ido."}, "participleRule": "remove-er-add-ido"},
+        "regular-ir": {"label": {"en": "Regular -IR verbs", "pt": "Verbos regulares em -IR"}, "description": {"en": "Use ter plus the past participle in -ido.", "pt": "Usa-se ter mais o particípio passado em -ido."}, "participleRule": "remove-ir-add-ido"}
+      }
+    },
+    "future-perfect-subjunctive": {
+      "label": {"en": "Future perfect subjunctive", "pt": "Futuro perfeito do conjuntivo"},
+      "description": {"en": "The future perfect subjunctive uses ter in the future subjunctive plus the past participle.", "pt": "O futuro perfeito do conjuntivo usa ter no futuro do conjuntivo mais o particípio passado."},
+      "pronounPrefix": "quando",
+      "patternType": "compound",
+      "auxiliary": "ter",
+      "auxiliaryForms": ["tiver", "tiveres", "tiver", "tivermos", "tiverdes", "tiverem"],
+      "groups": {
+        "regular-ar": {"label": {"en": "Regular -AR verbs", "pt": "Verbos regulares em -AR"}, "description": {"en": "Use ter plus the past participle in -ado.", "pt": "Usa-se ter mais o particípio passado em -ado."}, "participleRule": "remove-ar-add-ado"},
+        "regular-er": {"label": {"en": "Regular -ER verbs", "pt": "Verbos regulares em -ER"}, "description": {"en": "Use ter plus the past participle in -ido.", "pt": "Usa-se ter mais o particípio passado em -ido."}, "participleRule": "remove-er-add-ido"},
+        "regular-ir": {"label": {"en": "Regular -IR verbs", "pt": "Verbos regulares em -IR"}, "description": {"en": "Use ter plus the past participle in -ido.", "pt": "Usa-se ter mais o particípio passado em -ido."}, "participleRule": "remove-ir-add-ido"}
+      }
+    },
+    "subjunctive-imperfect": {
+      "label": {"en": "Imperfect subjunctive", "pt": "Pretérito imperfeito do conjuntivo"},
+      "description": {"en": "The imperfect subjunctive is used for hypothetical, wished, or uncertain actions in the past.", "pt": "O pretérito imperfeito do conjuntivo usa-se para ações hipotéticas, desejadas ou incertas no passado."},
+      "pronounPrefix": "que",
+      "groups": {
+        "regular-ar": {"label": {"en": "Regular -AR verbs", "pt": "Verbos regulares em -AR"}, "description": {"en": "Remove the infinitive ending and add the imperfect subjunctive endings.", "pt": "Retire a terminação do infinitivo e acrescente as terminações de pretérito imperfeito do conjuntivo."}, "stemRule": "remove-ar", "endings": ["asse", "asses", "asse", "ássemos", "ásseis", "assem"]},
+        "regular-er": {"label": {"en": "Regular -ER verbs", "pt": "Verbos regulares em -ER"}, "description": {"en": "Remove the infinitive ending and add the imperfect subjunctive endings.", "pt": "Retire a terminação do infinitivo e acrescente as terminações de pretérito imperfeito do conjuntivo."}, "stemRule": "remove-er", "endings": ["esse", "esses", "esse", "êssemos", "êsseis", "essem"]},
+        "regular-ir": {"label": {"en": "Regular -IR verbs", "pt": "Verbos regulares em -IR"}, "description": {"en": "Remove the infinitive ending and add the imperfect subjunctive endings.", "pt": "Retire a terminação do infinitivo e acrescente as terminações de pretérito imperfeito do conjuntivo."}, "stemRule": "remove-ir", "endings": ["isse", "isses", "isse", "íssemos", "ísseis", "issem"]}
+      }
+    },
+    "other-forms": {
+      "label": {"en": "Other forms", "pt": "Outras formas"},
+      "description": {"en": "Infinitive, participle, gerund, and imperative forms.", "pt": "Infinitivo, particípio, gerúndio e imperativo."},
+      "patternType": "otherForms"
+    }
+  }
+}

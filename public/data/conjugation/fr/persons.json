@@ -1,0 +1,11 @@
+{
+  "language": "fr",
+  "persons": [
+    { "id": "je", "label": "je", "spoken": "je" },
+    { "id": "tu", "label": "tu", "spoken": "tu" },
+    { "id": "il", "label": "il / elle", "spoken": "il" },
+    { "id": "nous", "label": "nous", "spoken": "nous" },
+    { "id": "vous", "label": "vous", "spoken": "vous" },
+    { "id": "ils", "label": "ils / elles", "spoken": "ils" }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "language": "es",
+  "persons": [
+    {
+      "id": "yo",
+      "label": "yo",
+      "spoken": "yo"
+    },
+    {
+      "id": "tu",
+      "label": "tú",
+      "spoken": "tú"
+    },
+    {
+      "id": "el",
+      "label": "él / ella / usted",
+      "spoken": "él"
+    },
+    {
+      "id": "nosotros",
+      "label": "nosotros / nosotras",
+      "spoken": "nosotros"
+    },
+    {
+      "id": "vosotros",
+      "label": "vosotros / vosotras",
+      "spoken": "vosotros"
+    },
+    {
+      "id": "ellos",
+      "label": "ellos / ellas / ustedes",
+      "spoken": "ellos"
+    }
+  ]
+}

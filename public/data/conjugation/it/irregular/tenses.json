@@ -1,0 +1,273 @@
+{
+  "language": "it",
+  "tenses": [
+    {
+      "id": "present",
+      "label": {
+        "en": "Present",
+        "it": "Presente"
+      },
+      "description": {
+        "en": "Used for present actions, habits, and general truths.",
+        "it": "Si usa per azioni presenti, abitudini e verità generali."
+      },
+      "patternType": "simple"
+    },
+    {
+      "id": "imperfect",
+      "label": {
+        "en": "Imperfect",
+        "it": "Imperfetto"
+      },
+      "description": {
+        "en": "Used for repeated or ongoing actions in the past.",
+        "it": "Si usa per azioni abituali o in corso nel passato."
+      },
+      "patternType": "simple"
+    },
+    {
+      "id": "future-simple",
+      "label": {
+        "en": "Future simple",
+        "it": "Futuro semplice"
+      },
+      "description": {
+        "en": "Used for future actions and predictions.",
+        "it": "Si usa per azioni future e previsioni."
+      },
+      "patternType": "simple"
+    },
+    {
+      "id": "conditional-present",
+      "label": {
+        "en": "Present conditional",
+        "it": "Condizionale presente"
+      },
+      "description": {
+        "en": "Used for polite requests, hypothetical actions, and wishes.",
+        "it": "Si usa per richieste cortesi, azioni ipotetiche e desideri."
+      },
+      "patternType": "simple"
+    },
+    {
+      "id": "subjunctive-present",
+      "label": {
+        "en": "Present subjunctive",
+        "it": "Congiuntivo presente"
+      },
+      "description": {
+        "en": "Used after expressions of doubt, opinion, emotion, or necessity.",
+        "it": "Si usa dopo espressioni di dubbio, opinione, emozione o necessità."
+      },
+      "patternType": "simple",
+      "pronounPrefix": "che"
+    },
+    {
+      "id": "subjunctive-imperfect",
+      "label": {
+        "en": "Imperfect subjunctive",
+        "it": "Congiuntivo imperfetto"
+      },
+      "description": {
+        "en": "Used in hypothetical or dependent clauses referring to the past or unreal situations.",
+        "it": "Si usa in frasi ipotetiche o dipendenti riferite al passato o a situazioni non reali."
+      },
+      "patternType": "simple",
+      "pronounPrefix": "che"
+    },
+    {
+      "id": "passato-prossimo",
+      "label": {
+        "en": "Present perfect",
+        "it": "Passato prossimo"
+      },
+      "description": {
+        "en": "A compound past tense formed with avere or essere plus the past participle.",
+        "it": "Tempo composto formato con avere o essere più il participio passato."
+      },
+      "patternType": "compound",
+      "auxiliaries": {
+        "avere": [
+          "ho",
+          "hai",
+          "ha",
+          "abbiamo",
+          "avete",
+          "hanno"
+        ],
+        "essere": [
+          "sono",
+          "sei",
+          "è",
+          "siamo",
+          "siete",
+          "sono"
+        ]
+      }
+    },
+    {
+      "id": "trapassato-prossimo",
+      "label": {
+        "en": "Past perfect",
+        "it": "Trapassato prossimo"
+      },
+      "description": {
+        "en": "A compound tense formed with the imperfect of the auxiliary plus the past participle.",
+        "it": "Tempo composto formato con l'imperfetto dell'ausiliare più il participio passato."
+      },
+      "patternType": "compound",
+      "auxiliaries": {
+        "avere": [
+          "avevo",
+          "avevi",
+          "aveva",
+          "avevamo",
+          "avevate",
+          "avevano"
+        ],
+        "essere": [
+          "ero",
+          "eri",
+          "era",
+          "eravamo",
+          "eravate",
+          "erano"
+        ]
+      }
+    },
+    {
+      "id": "future-perfect",
+      "label": {
+        "en": "Future perfect",
+        "it": "Futuro anteriore"
+      },
+      "description": {
+        "en": "A compound tense formed with the future of the auxiliary plus the past participle.",
+        "it": "Tempo composto formato con il futuro dell'ausiliare più il participio passato."
+      },
+      "patternType": "compound",
+      "auxiliaries": {
+        "avere": [
+          "avrò",
+          "avrai",
+          "avrà",
+          "avremo",
+          "avrete",
+          "avranno"
+        ],
+        "essere": [
+          "sarò",
+          "sarai",
+          "sarà",
+          "saremo",
+          "sarete",
+          "saranno"
+        ]
+      }
+    },
+    {
+      "id": "conditional-past",
+      "label": {
+        "en": "Past conditional",
+        "it": "Condizionale passato"
+      },
+      "description": {
+        "en": "A compound tense formed with the conditional of the auxiliary plus the past participle.",
+        "it": "Tempo composto formato con il condizionale dell'ausiliare più il participio passato."
+      },
+      "patternType": "compound",
+      "auxiliaries": {
+        "avere": [
+          "avrei",
+          "avresti",
+          "avrebbe",
+          "avremmo",
+          "avreste",
+          "avrebbero"
+        ],
+        "essere": [
+          "sarei",
+          "saresti",
+          "sarebbe",
+          "saremmo",
+          "sareste",
+          "sarebbero"
+        ]
+      }
+    },
+    {
+      "id": "subjunctive-past",
+      "label": {
+        "en": "Past subjunctive",
+        "it": "Congiuntivo passato"
+      },
+      "description": {
+        "en": "A compound subjunctive tense formed with the present subjunctive of the auxiliary.",
+        "it": "Tempo composto del congiuntivo formato con il congiuntivo presente dell'ausiliare."
+      },
+      "patternType": "compound",
+      "pronounPrefix": "che",
+      "auxiliaries": {
+        "avere": [
+          "abbia",
+          "abbia",
+          "abbia",
+          "abbiamo",
+          "abbiate",
+          "abbiano"
+        ],
+        "essere": [
+          "sia",
+          "sia",
+          "sia",
+          "siamo",
+          "siate",
+          "siano"
+        ]
+      }
+    },
+    {
+      "id": "subjunctive-pluperfect",
+      "label": {
+        "en": "Pluperfect subjunctive",
+        "it": "Congiuntivo trapassato"
+      },
+      "description": {
+        "en": "A compound subjunctive tense formed with the imperfect subjunctive of the auxiliary.",
+        "it": "Tempo composto del congiuntivo formato con il congiuntivo imperfetto dell'ausiliare."
+      },
+      "patternType": "compound",
+      "pronounPrefix": "che",
+      "auxiliaries": {
+        "avere": [
+          "avessi",
+          "avessi",
+          "avesse",
+          "avessimo",
+          "aveste",
+          "avessero"
+        ],
+        "essere": [
+          "fossi",
+          "fossi",
+          "fosse",
+          "fossimo",
+          "foste",
+          "fossero"
+        ]
+      }
+    },
+    {
+      "id": "other-forms",
+      "label": {
+        "en": "Other forms",
+        "it": "Altre forme"
+      },
+      "description": {
+        "en": "Infinitive, participle, gerund, and imperative forms.",
+        "it": "Infinitivo, participio, gerundio e imperativo."
+      },
+      "patternType": "otherForms"
+    }
+  ]
+}

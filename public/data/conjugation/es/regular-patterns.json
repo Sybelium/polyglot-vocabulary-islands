@@ -1,0 +1,184 @@
+{
+  "language": "es",
+  "tenses": {
+    "present": {
+      "label": {"en": "Present", "es": "Presente de indicativo"},
+      "description": {"en": "The present tense describes actions happening now or general habits.", "es": "El presente de indicativo describe acciones actuales o hábitos generales."},
+      "groups": {
+        "regular-ar": {"label": {"en": "Regular -AR verbs", "es": "Verbos regulares en -AR"}, "description": {"en": "Remove -ar from the infinitive, then add the present endings.", "es": "Se quita -ar del infinitivo y se añaden las terminaciones del presente."}, "stemRule": "remove-ar", "endings": ["o", "as", "a", "amos", "áis", "an"]},
+        "regular-er": {"label": {"en": "Regular -ER verbs", "es": "Verbos regulares en -ER"}, "description": {"en": "Remove -er from the infinitive, then add the present endings.", "es": "Se quita -er del infinitivo y se añaden las terminaciones del presente."}, "stemRule": "remove-er", "endings": ["o", "es", "e", "emos", "éis", "en"]},
+        "regular-ir": {"label": {"en": "Regular -IR verbs", "es": "Verbos regulares en -IR"}, "description": {"en": "Remove -ir from the infinitive, then add the present endings.", "es": "Se quita -ir del infinitivo y se añaden las terminaciones del presente."}, "stemRule": "remove-ir", "endings": ["o", "es", "e", "imos", "ís", "en"]}
+      }
+    },
+    "imperfect": {
+      "label": {"en": "Imperfect", "es": "Pretérito imperfecto"},
+      "description": {"en": "The imperfect describes past habits, background situations, or repeated actions.", "es": "El pretérito imperfecto describe hábitos pasados, situaciones de fondo o acciones repetidas."},
+      "groups": {
+        "regular-ar": {"label": {"en": "Regular -AR verbs", "es": "Verbos regulares en -AR"}, "description": {"en": "Remove -ar from the infinitive, then add the imperfect endings.", "es": "Se quita -ar del infinitivo y se añaden las terminaciones del imperfecto."}, "stemRule": "remove-ar", "endings": ["aba", "abas", "aba", "ábamos", "abais", "aban"]},
+        "regular-er": {"label": {"en": "Regular -ER verbs", "es": "Verbos regulares en -ER"}, "description": {"en": "Remove -er from the infinitive, then add the imperfect endings.", "es": "Se quita -er del infinitivo y se añaden las terminaciones del imperfecto."}, "stemRule": "remove-er", "endings": ["ía", "ías", "ía", "íamos", "íais", "ían"]},
+        "regular-ir": {"label": {"en": "Regular -IR verbs", "es": "Verbos regulares en -IR"}, "description": {"en": "Remove -ir from the infinitive, then add the imperfect endings.", "es": "Se quita -ir del infinitivo y se añaden las terminaciones del imperfecto."}, "stemRule": "remove-ir", "endings": ["ía", "ías", "ía", "íamos", "íais", "ían"]}
+      }
+    },
+    "future-simple": {
+      "label": {"en": "Future simple", "es": "Futuro simple"},
+      "description": {"en": "The future simple describes what will happen.", "es": "El futuro simple describe lo que ocurrirá."},
+      "groups": {
+        "regular-ar": {"label": {"en": "Regular -AR verbs", "es": "Verbos regulares en -AR"}, "description": {"en": "Use the full infinitive as the stem, then add the future endings.", "es": "Se usa el infinitivo completo como raíz y se añaden las terminaciones del futuro."}, "stemRule": "future-full-infinitive", "endings": ["é", "ás", "á", "emos", "éis", "án"]},
+        "regular-er": {"label": {"en": "Regular -ER verbs", "es": "Verbos regulares en -ER"}, "description": {"en": "Use the full infinitive as the stem, then add the future endings.", "es": "Se usa el infinitivo completo como raíz y se añaden las terminaciones del futuro."}, "stemRule": "future-full-infinitive", "endings": ["é", "ás", "á", "emos", "éis", "án"]},
+        "regular-ir": {"label": {"en": "Regular -IR verbs", "es": "Verbos regulares en -IR"}, "description": {"en": "Use the full infinitive as the stem, then add the future endings.", "es": "Se usa el infinitivo completo como raíz y se añaden las terminaciones del futuro."}, "stemRule": "future-full-infinitive", "endings": ["é", "ás", "á", "emos", "éis", "án"]}
+      }
+    },
+    "conditional-simple": {
+      "label": {"en": "Conditional simple", "es": "Condicional simple"},
+      "description": {"en": "The conditional simple describes what would happen.", "es": "El condicional simple describe lo que ocurriría."},
+      "groups": {
+        "regular-ar": {"label": {"en": "Regular -AR verbs", "es": "Verbos regulares en -AR"}, "description": {"en": "Use the full infinitive as the stem, then add the conditional endings.", "es": "Se usa el infinitivo completo como raíz y se añaden las terminaciones del condicional."}, "stemRule": "future-full-infinitive", "endings": ["ía", "ías", "ía", "íamos", "íais", "ían"]},
+        "regular-er": {"label": {"en": "Regular -ER verbs", "es": "Verbos regulares en -ER"}, "description": {"en": "Use the full infinitive as the stem, then add the conditional endings.", "es": "Se usa el infinitivo completo como raíz y se añaden las terminaciones del condicional."}, "stemRule": "future-full-infinitive", "endings": ["ía", "ías", "ía", "íamos", "íais", "ían"]},
+        "regular-ir": {"label": {"en": "Regular -IR verbs", "es": "Verbos regulares en -IR"}, "description": {"en": "Use the full infinitive as the stem, then add the conditional endings.", "es": "Se usa el infinitivo completo como raíz y se añaden las terminaciones del condicional."}, "stemRule": "future-full-infinitive", "endings": ["ía", "ías", "ía", "íamos", "íais", "ían"]}
+      }
+    },
+    "subjunctive-present": {
+      "label": {"en": "Present subjunctive", "es": "Presente de subjuntivo"},
+      "description": {"en": "The present subjunctive is used after expressions of wish, doubt, need, emotion, or uncertainty.", "es": "El presente de subjuntivo se usa después de expresiones de deseo, duda, necesidad, emoción o incertidumbre."},
+      "pronounPrefix": "que",
+      "groups": {
+        "regular-ar": {"label": {"en": "Regular -AR verbs", "es": "Verbos regulares en -AR"}, "description": {"en": "Remove -ar from the infinitive, then add the present subjunctive endings.", "es": "Se quita -ar del infinitivo y se añaden las terminaciones del presente de subjuntivo."}, "stemRule": "remove-ar", "endings": ["e", "es", "e", "emos", "éis", "en"]},
+        "regular-er": {"label": {"en": "Regular -ER verbs", "es": "Verbos regulares en -ER"}, "description": {"en": "Remove -er from the infinitive, then add the present subjunctive endings.", "es": "Se quita -er del infinitivo y se añaden las terminaciones del presente de subjuntivo."}, "stemRule": "remove-er", "endings": ["a", "as", "a", "amos", "áis", "an"]},
+        "regular-ir": {"label": {"en": "Regular -IR verbs", "es": "Verbos regulares en -IR"}, "description": {"en": "Remove -ir from the infinitive, then add the present subjunctive endings.", "es": "Se quita -ir del infinitivo y se añaden las terminaciones del presente de subjuntivo."}, "stemRule": "remove-ir", "endings": ["a", "as", "a", "amos", "áis", "an"]}
+      }
+    },
+    "preterite-simple": {
+      "label": {"en": "Preterite simple", "es": "Pretérito perfecto simple"},
+      "description": {"en": "The preterite simple describes completed actions in the past. It is very common in Spanish.", "es": "El pretérito perfecto simple describe acciones terminadas en el pasado. Es muy común en español."},
+      "groups": {
+        "regular-ar": {"label": {"en": "Regular -AR verbs", "es": "Verbos regulares en -AR"}, "description": {"en": "Remove -ar from the infinitive, then add the preterite simple endings.", "es": "Se quita -ar del infinitivo y se añaden las terminaciones del pretérito perfecto simple."}, "stemRule": "remove-ar", "endings": ["é", "aste", "ó", "amos", "asteis", "aron"]},
+        "regular-er": {"label": {"en": "Regular -ER verbs", "es": "Verbos regulares en -ER"}, "description": {"en": "Remove -er from the infinitive, then add the preterite simple endings.", "es": "Se quita -er del infinitivo y se añaden las terminaciones del pretérito perfecto simple."}, "stemRule": "remove-er", "endings": ["í", "iste", "ió", "imos", "isteis", "ieron"]},
+        "regular-ir": {"label": {"en": "Regular -IR verbs", "es": "Verbos regulares en -IR"}, "description": {"en": "Remove -ir from the infinitive, then add the preterite simple endings.", "es": "Se quita -ir del infinitivo y se añaden las terminaciones del pretérito perfecto simple."}, "stemRule": "remove-ir", "endings": ["í", "iste", "ió", "imos", "isteis", "ieron"]}
+      }
+    },
+    "present-perfect": {
+      "label": {"en": "Present perfect", "es": "Pretérito perfecto compuesto"},
+      "description": {"en": "The present perfect uses haber in the present plus the past participle.", "es": "El pretérito perfecto compuesto usa haber en presente más el participio pasado."},
+      "patternType": "compound",
+      "auxiliary": "haber",
+      "auxiliaryForms": ["he", "has", "ha", "hemos", "habéis", "han"],
+      "groups": {
+        "regular-ar": {"label": {"en": "Regular -AR verbs", "es": "Verbos regulares en -AR"}, "description": {"en": "Use the present of haber plus the past participle in -ado.", "es": "Se usa haber en presente más el participio pasado en -ado."}, "participleRule": "remove-ar-add-ado"},
+        "regular-er": {"label": {"en": "Regular -ER verbs", "es": "Verbos regulares en -ER"}, "description": {"en": "Use the present of haber plus the past participle in -ido.", "es": "Se usa haber en presente más el participio pasado en -ido."}, "participleRule": "remove-er-add-ido"},
+        "regular-ir": {"label": {"en": "Regular -IR verbs", "es": "Verbos regulares en -IR"}, "description": {"en": "Use the present of haber plus the past participle in -ido.", "es": "Se usa haber en presente más el participio pasado en -ido."}, "participleRule": "remove-ir-add-ido"}
+      }
+    },
+    "pluperfect": {
+      "label": {"en": "Pluperfect", "es": "Pluscuamperfecto"},
+      "description": {"en": "The pluperfect uses haber in the imperfect plus the past participle.", "es": "El pluscuamperfecto usa haber en imperfecto más el participio pasado."},
+      "patternType": "compound",
+      "auxiliary": "haber",
+      "auxiliaryForms": ["había", "habías", "había", "habíamos", "habíais", "habían"],
+      "groups": {
+        "regular-ar": {"label": {"en": "Regular -AR verbs", "es": "Verbos regulares en -AR"}, "description": {"en": "Use the imperfect of haber plus the past participle in -ado.", "es": "Se usa haber en imperfecto más el participio pasado en -ado."}, "participleRule": "remove-ar-add-ado"},
+        "regular-er": {"label": {"en": "Regular -ER verbs", "es": "Verbos regulares en -ER"}, "description": {"en": "Use the imperfect of haber plus the past participle in -ido.", "es": "Se usa haber en imperfecto más el participio pasado en -ido."}, "participleRule": "remove-er-add-ido"},
+        "regular-ir": {"label": {"en": "Regular -IR verbs", "es": "Verbos regulares en -IR"}, "description": {"en": "Use the imperfect of haber plus the past participle in -ido.", "es": "Se usa haber en imperfecto más el participio pasado en -ido."}, "participleRule": "remove-ir-add-ido"}
+      }
+    },
+    "future-perfect": {
+      "label": {"en": "Future perfect", "es": "Futuro perfecto"},
+      "description": {"en": "The future perfect uses haber in the future plus the past participle.", "es": "El futuro perfecto usa haber en futuro más el participio pasado."},
+      "patternType": "compound",
+      "auxiliary": "haber",
+      "auxiliaryForms": ["habré", "habrás", "habrá", "habremos", "habréis", "habrán"],
+      "groups": {
+        "regular-ar": {"label": {"en": "Regular -AR verbs", "es": "Verbos regulares en -AR"}, "description": {"en": "Use the future of haber plus the past participle in -ado.", "es": "Se usa haber en futuro más el participio pasado en -ado."}, "participleRule": "remove-ar-add-ado"},
+        "regular-er": {"label": {"en": "Regular -ER verbs", "es": "Verbos regulares en -ER"}, "description": {"en": "Use the future of haber plus the past participle in -ido.", "es": "Se usa haber en futuro más el participio pasado en -ido."}, "participleRule": "remove-er-add-ido"},
+        "regular-ir": {"label": {"en": "Regular -IR verbs", "es": "Verbos regulares en -IR"}, "description": {"en": "Use the future of haber plus the past participle in -ido.", "es": "Se usa haber en futuro más el participio pasado en -ido."}, "participleRule": "remove-ir-add-ido"}
+      }
+    },
+    "conditional-perfect": {
+      "label": {"en": "Conditional perfect", "es": "Condicional compuesto"},
+      "description": {"en": "The conditional perfect uses haber in the conditional plus the past participle.", "es": "El condicional compuesto usa haber en condicional más el participio pasado."},
+      "patternType": "compound",
+      "auxiliary": "haber",
+      "auxiliaryForms": ["habría", "habrías", "habría", "habríamos", "habríais", "habrían"],
+      "groups": {
+        "regular-ar": {"label": {"en": "Regular -AR verbs", "es": "Verbos regulares en -AR"}, "description": {"en": "Use the conditional of haber plus the past participle in -ado.", "es": "Se usa haber en condicional más el participio pasado en -ado."}, "participleRule": "remove-ar-add-ado"},
+        "regular-er": {"label": {"en": "Regular -ER verbs", "es": "Verbos regulares en -ER"}, "description": {"en": "Use the conditional of haber plus the past participle in -ido.", "es": "Se usa haber en condicional más el participio pasado en -ido."}, "participleRule": "remove-er-add-ido"},
+        "regular-ir": {"label": {"en": "Regular -IR verbs", "es": "Verbos regulares en -IR"}, "description": {"en": "Use the conditional of haber plus the past participle in -ido.", "es": "Se usa haber en condicional más el participio pasado en -ido."}, "participleRule": "remove-ir-add-ido"}
+      }
+    },
+    "subjunctive-past": {
+      "label": {"en": "Past subjunctive", "es": "Pretérito perfecto de subjuntivo"},
+      "description": {"en": "The past subjunctive uses haber in the present subjunctive plus the past participle.", "es": "El pretérito perfecto de subjuntivo usa haber en presente de subjuntivo más el participio pasado."},
+      "patternType": "compound",
+      "auxiliary": "haber",
+      "auxiliaryForms": ["haya", "hayas", "haya", "hayamos", "hayáis", "hayan"],
+      "pronounPrefix": "que",
+      "groups": {
+        "regular-ar": {"label": {"en": "Regular -AR verbs", "es": "Verbos regulares en -AR"}, "description": {"en": "Use the present subjunctive of haber plus the past participle in -ado.", "es": "Se usa haber en presente de subjuntivo más el participio pasado en -ado."}, "participleRule": "remove-ar-add-ado"},
+        "regular-er": {"label": {"en": "Regular -ER verbs", "es": "Verbos regulares en -ER"}, "description": {"en": "Use the present subjunctive of haber plus the past participle in -ido.", "es": "Se usa haber en presente de subjuntivo más el participio pasado en -ido."}, "participleRule": "remove-er-add-ido"},
+        "regular-ir": {"label": {"en": "Regular -IR verbs", "es": "Verbos regulares en -IR"}, "description": {"en": "Use the present subjunctive of haber plus the past participle in -ido.", "es": "Se usa haber en presente de subjuntivo más el participio pasado en -ido."}, "participleRule": "remove-ir-add-ido"}
+      }
+    },
+    "subjunctive-imperfect-ra": {
+      "label": {"en": "Imperfect subjunctive (-ra)", "es": "Imperfecto de subjuntivo (-ra)"},
+      "description": {"en": "The imperfect subjunctive -ra form is used after expressions of wish, doubt, emotion, or uncertainty referring to the past or hypothetical situations.", "es": "El imperfecto de subjuntivo en -ra se usa después de expresiones de deseo, duda, emoción o incertidumbre referidas al pasado o a situaciones hipotéticas."},
+      "pronounPrefix": "que",
+      "groups": {
+        "regular-ar": {"label": {"en": "Regular -AR verbs", "es": "Verbos regulares en -AR"}, "description": {"en": "Remove -ar from the infinitive, then add the imperfect subjunctive -ra endings.", "es": "Se quita -ar del infinitivo y se añaden las terminaciones del imperfecto de subjuntivo en -ra."}, "stemRule": "remove-ar", "endings": ["ara", "aras", "ara", "áramos", "arais", "aran"]},
+        "regular-er": {"label": {"en": "Regular -ER verbs", "es": "Verbos regulares en -ER"}, "description": {"en": "Remove -er from the infinitive, then add the imperfect subjunctive -ra endings.", "es": "Se quita -er del infinitivo y se añaden las terminaciones del imperfecto de subjuntivo en -ra."}, "stemRule": "remove-er", "endings": ["iera", "ieras", "iera", "iéramos", "ierais", "ieran"]},
+        "regular-ir": {"label": {"en": "Regular -IR verbs", "es": "Verbos regulares en -IR"}, "description": {"en": "Remove -ir from the infinitive, then add the imperfect subjunctive -ra endings.", "es": "Se quita -ir del infinitivo y se añaden las terminaciones del imperfecto de subjuntivo en -ra."}, "stemRule": "remove-ir", "endings": ["iera", "ieras", "iera", "iéramos", "ierais", "ieran"]}
+      }
+    },
+    "subjunctive-imperfect-se": {
+      "label": {"en": "Imperfect subjunctive (-se)", "es": "Imperfecto de subjuntivo (-se)"},
+      "description": {"en": "The imperfect subjunctive -se form is an alternative to the -ra form, often more literary or formal in many contexts.", "es": "El imperfecto de subjuntivo en -se es una alternativa a la forma en -ra, a menudo más literaria o formal en muchos contextos."},
+      "pronounPrefix": "que",
+      "groups": {
+        "regular-ar": {"label": {"en": "Regular -AR verbs", "es": "Verbos regulares en -AR"}, "description": {"en": "Remove -ar from the infinitive, then add the imperfect subjunctive -se endings.", "es": "Se quita -ar del infinitivo y se añaden las terminaciones del imperfecto de subjuntivo en -se."}, "stemRule": "remove-ar", "endings": ["ase", "ases", "ase", "ásemos", "aseis", "asen"]},
+        "regular-er": {"label": {"en": "Regular -ER verbs", "es": "Verbos regulares en -ER"}, "description": {"en": "Remove -er from the infinitive, then add the imperfect subjunctive -se endings.", "es": "Se quita -er del infinitivo y se añaden las terminaciones del imperfecto de subjuntivo en -se."}, "stemRule": "remove-er", "endings": ["iese", "ieses", "iese", "iésemos", "ieseis", "iesen"]},
+        "regular-ir": {"label": {"en": "Regular -IR verbs", "es": "Verbos regulares en -IR"}, "description": {"en": "Remove -ir from the infinitive, then add the imperfect subjunctive -se endings.", "es": "Se quita -ir del infinitivo y se añaden las terminaciones del imperfecto de subjuntivo en -se."}, "stemRule": "remove-ir", "endings": ["iese", "ieses", "iese", "iésemos", "ieseis", "iesen"]}
+      }
+    },
+    "subjunctive-pluperfect-ra": {
+      "label": {"en": "Pluperfect subjunctive (-ra)", "es": "Pluscuamperfecto de subjuntivo (-ra)"},
+      "description": {"en": "The pluperfect subjunctive -ra form uses haber in the imperfect subjunctive plus the past participle.", "es": "El pluscuamperfecto de subjuntivo en -ra usa haber en imperfecto de subjuntivo más el participio pasado."},
+      "patternType": "compound",
+      "auxiliary": "haber",
+      "auxiliaryForms": ["hubiera", "hubieras", "hubiera", "hubiéramos", "hubierais", "hubieran"],
+      "pronounPrefix": "que",
+      "groups": {
+        "regular-ar": {"label": {"en": "Regular -AR verbs", "es": "Verbos regulares en -AR"}, "description": {"en": "Use the imperfect subjunctive -ra form of haber plus the past participle in -ado.", "es": "Se usa haber en imperfecto de subjuntivo en -ra más el participio pasado en -ado."}, "participleRule": "remove-ar-add-ado"},
+        "regular-er": {"label": {"en": "Regular -ER verbs", "es": "Verbos regulares en -ER"}, "description": {"en": "Use the imperfect subjunctive -ra form of haber plus the past participle in -ido.", "es": "Se usa haber en imperfecto de subjuntivo en -ra más el participio pasado en -ido."}, "participleRule": "remove-er-add-ido"},
+        "regular-ir": {"label": {"en": "Regular -IR verbs", "es": "Verbos regulares en -IR"}, "description": {"en": "Use the imperfect subjunctive -ra form of haber plus the past participle in -ido.", "es": "Se usa haber en imperfecto de subjuntivo en -ra más el participio pasado en -ido."}, "participleRule": "remove-ir-add-ido"}
+      }
+    },
+    "subjunctive-pluperfect-se": {
+      "label": {"en": "Pluperfect subjunctive (-se)", "es": "Pluscuamperfecto de subjuntivo (-se)"},
+      "description": {"en": "The pluperfect subjunctive -se form is an alternative to the -ra form.", "es": "El pluscuamperfecto de subjuntivo en -se es una alternativa a la forma en -ra."},
+      "patternType": "compound",
+      "auxiliary": "haber",
+      "auxiliaryForms": ["hubiese", "hubieses", "hubiese", "hubiésemos", "hubieseis", "hubiesen"],
+      "pronounPrefix": "que",
+      "groups": {
+        "regular-ar": {"label": {"en": "Regular -AR verbs", "es": "Verbos regulares en -AR"}, "description": {"en": "Use the imperfect subjunctive -se form of haber plus the past participle in -ado.", "es": "Se usa haber en imperfecto de subjuntivo en -se más el participio pasado en -ado."}, "participleRule": "remove-ar-add-ado"},
+        "regular-er": {"label": {"en": "Regular -ER verbs", "es": "Verbos regulares en -ER"}, "description": {"en": "Use the imperfect subjunctive -se form of haber plus the past participle in -ido.", "es": "Se usa haber en imperfecto de subjuntivo en -se más el participio pasado en -ido."}, "participleRule": "remove-er-add-ido"},
+        "regular-ir": {"label": {"en": "Regular -IR verbs", "es": "Verbos regulares en -IR"}, "description": {"en": "Use the imperfect subjunctive -se form of haber plus the past participle in -ido.", "es": "Se usa haber en imperfecto de subjuntivo en -se más el participio pasado en -ido."}, "participleRule": "remove-ir-add-ido"}
+      }
+    },
+    "preterite-anterior": {
+      "label": {"en": "Preterite anterior", "es": "Pretérito anterior"},
+      "description": {"en": "The preterite anterior is a rare literary tense using haber in the preterite plus the past participle.", "es": "El pretérito anterior es un tiempo literario raro que usa haber en pretérito perfecto simple más el participio pasado."},
+      "patternType": "compound",
+      "auxiliary": "haber",
+      "auxiliaryForms": ["hube", "hubiste", "hubo", "hubimos", "hubisteis", "hubieron"],
+      "groups": {
+        "regular-ar": {"label": {"en": "Regular -AR verbs", "es": "Verbos regulares en -AR"}, "description": {"en": "Use the preterite simple of haber plus the past participle in -ado.", "es": "Se usa haber en pretérito perfecto simple más el participio pasado en -ado."}, "participleRule": "remove-ar-add-ado"},
+        "regular-er": {"label": {"en": "Regular -ER verbs", "es": "Verbos regulares en -ER"}, "description": {"en": "Use the preterite simple of haber plus the past participle in -ido.", "es": "Se usa haber en pretérito perfecto simple más el participio pasado en -ido."}, "participleRule": "remove-er-add-ido"},
+        "regular-ir": {"label": {"en": "Regular -IR verbs", "es": "Verbos regulares en -IR"}, "description": {"en": "Use the preterite simple of haber plus the past participle in -ido.", "es": "Se usa haber en pretérito perfecto simple más el participio pasado en -ido."}, "participleRule": "remove-ir-add-ido"}
+      }
+    },
+    "other-forms": {
+      "label": {"en": "Other forms", "es": "Otras formas"},
+      "description": {"en": "Infinitive, participle, gerund, and imperative forms.", "es": "Infinitivo, participio, gerundio e imperativo."},
+      "patternType": "otherForms"
+    }
+  }
+}

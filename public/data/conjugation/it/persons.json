@@ -1,0 +1,35 @@
+{
+  "language": "it",
+  "persons": [
+    {
+      "id": "io",
+      "label": "io",
+      "spoken": "io"
+    },
+    {
+      "id": "tu",
+      "label": "tu",
+      "spoken": "tu"
+    },
+    {
+      "id": "lui",
+      "label": "lui / lei",
+      "spoken": "lui"
+    },
+    {
+      "id": "noi",
+      "label": "noi",
+      "spoken": "noi"
+    },
+    {
+      "id": "voi",
+      "label": "voi",
+      "spoken": "voi"
+    },
+    {
+      "id": "loro",
+      "label": "loro",
+      "spoken": "loro"
+    }
+  ]
+}

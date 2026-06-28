@@ -1,0 +1,164 @@
+{
+  "tenses": [
+    {
+      "id": "present",
+      "label": {
+        "en": "Present",
+        "pt": "Presente"
+      },
+      "patternType": "simple"
+    },
+    {
+      "id": "imperfect",
+      "label": {
+        "en": "Imperfect",
+        "pt": "Pretérito imperfeito"
+      },
+      "patternType": "simple"
+    },
+    {
+      "id": "preterite",
+      "label": {
+        "en": "Preterite",
+        "pt": "Pretérito perfeito simples"
+      },
+      "patternType": "simple"
+    },
+    {
+      "id": "future-simple",
+      "label": {
+        "en": "Future simple",
+        "pt": "Futuro do presente"
+      },
+      "patternType": "simple"
+    },
+    {
+      "id": "conditional-present",
+      "label": {
+        "en": "Conditional",
+        "pt": "Condicional"
+      },
+      "patternType": "simple"
+    },
+    {
+      "id": "subjunctive-present",
+      "label": {
+        "en": "Subjunctive present",
+        "pt": "Conjuntivo presente"
+      },
+      "patternType": "simple"
+    },
+    {
+      "id": "subjunctive-imperfect",
+      "label": {
+        "en": "Subjunctive imperfect",
+        "pt": "Conjuntivo imperfeito"
+      },
+      "patternType": "simple"
+    },
+    {
+      "id": "subjunctive-future",
+      "label": {
+        "en": "Subjunctive future",
+        "pt": "Conjuntivo futuro"
+      },
+      "patternType": "simple"
+    },
+    {
+      "id": "compound-perfect",
+      "label": {
+        "en": "Compound perfect",
+        "pt": "Pretérito perfeito composto"
+      },
+      "patternType": "compound",
+      "description": {
+        "en": "Ter in the present plus the past participle.",
+        "pt": "Ter no presente mais o particípio passado."
+      },
+      "auxiliaries": {
+        "ter": [
+          "tenho",
+          "tens",
+          "tem",
+          "temos",
+          "tendes",
+          "têm"
+        ]
+      }
+    },
+    {
+      "id": "pluperfect-compound",
+      "label": {
+        "en": "Pluperfect compound",
+        "pt": "Pretérito mais-que-perfeito composto"
+      },
+      "patternType": "compound",
+      "description": {
+        "en": "Ter in the imperfect plus the past participle.",
+        "pt": "Ter no pretérito imperfeito mais o particípio passado."
+      },
+      "auxiliaries": {
+        "ter": [
+          "tinha",
+          "tinhas",
+          "tinha",
+          "tínhamos",
+          "tínheis",
+          "tinham"
+        ]
+      }
+    },
+    {
+      "id": "future-perfect",
+      "label": {
+        "en": "Future perfect",
+        "pt": "Futuro perfeito"
+      },
+      "patternType": "compound",
+      "description": {
+        "en": "Ter in the future plus the past participle.",
+        "pt": "Ter no futuro mais o particípio passado."
+      },
+      "auxiliaries": {
+        "ter": [
+          "terei",
+          "terás",
+          "terá",
+          "teremos",
+          "tereis",
+          "terão"
+        ]
+      }
+    },
+    {
+      "id": "conditional-perfect",
+      "label": {
+        "en": "Conditional perfect",
+        "pt": "Condicional perfeito"
+      },
+      "patternType": "compound",
+      "description": {
+        "en": "Ter in the conditional plus the past participle.",
+        "pt": "Ter no condicional mais o particípio passado."
+      },
+      "auxiliaries": {
+        "ter": [
+          "teria",
+          "terias",
+          "teria",
+          "teríamos",
+          "teríeis",
+          "teriam"
+        ]
+      }
+    },
+    {
+      "id": "other-forms",
+      "label": {
+        "en": "Other forms",
+        "pt": "Outras formas"
+      },
+      "patternType": "other"
+    }
+  ]
+}

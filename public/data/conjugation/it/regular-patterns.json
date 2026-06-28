@@ -1,0 +1,152 @@
+{
+  "language": "it",
+  "tenses": {
+    "present": {
+      "label": {"en": "Present", "it": "Presente"},
+      "description": {"en": "The present tense is used for actions happening now, habits, and general truths.", "it": "Il presente si usa per azioni presenti, abitudini e verità generali."},
+      "groups": {
+        "regular-are": {"label": {"en": "Regular -ARE verbs", "it": "Verbi regolari in -ARE"}, "description": {"en": "Remove -are, then add the present endings.", "it": "Si toglie -are, poi si aggiungono le desinenze del presente."}, "stemRule": "remove-are", "endings": ["o", "i", "a", "iamo", "ate", "ano"]},
+        "regular-ere": {"label": {"en": "Regular -ERE verbs", "it": "Verbi regolari in -ERE"}, "description": {"en": "Remove -ere, then add the present endings.", "it": "Si toglie -ere, poi si aggiungono le desinenze del presente."}, "stemRule": "remove-ere", "endings": ["o", "i", "e", "iamo", "ete", "ono"]},
+        "regular-ire": {"label": {"en": "Regular -IRE verbs", "it": "Verbi regolari in -IRE"}, "description": {"en": "Remove -ire, then add the present endings.", "it": "Si toglie -ire, poi si aggiungono le desinenze del presente."}, "stemRule": "remove-ire", "endings": ["o", "i", "e", "iamo", "ite", "ono"]},
+        "regular-ire-isc": {"label": {"en": "Regular -IRE verbs with -ISC", "it": "Verbi regolari in -IRE con -ISC"}, "description": {"en": "Remove -ire, then use the -isc- present pattern.", "it": "Si toglie -ire, poi si usa il modello del presente con -isc-."}, "stemRule": "remove-ire", "endings": ["isco", "isci", "isce", "iamo", "ite", "iscono"]}
+      }
+    },
+    "imperfect": {
+      "label": {"en": "Imperfect", "it": "Imperfetto"},
+      "description": {"en": "The imperfect describes habits, background situations, or repeated actions in the past.", "it": "L’imperfetto descrive abitudini, situazioni di sfondo o azioni ripetute nel passato."},
+      "groups": {
+        "regular-are": {"label": {"en": "Regular -ARE verbs", "it": "Verbi regolari in -ARE"}, "description": {"en": "Remove -are, then add the imperfect endings.", "it": "Si toglie -are, poi si aggiungono le desinenze dell’imperfetto."}, "stemRule": "remove-are", "endings": ["avo", "avi", "ava", "avamo", "avate", "avano"]},
+        "regular-ere": {"label": {"en": "Regular -ERE verbs", "it": "Verbi regolari in -ERE"}, "description": {"en": "Remove -ere, then add the imperfect endings.", "it": "Si toglie -ere, poi si aggiungono le desinenze dell’imperfetto."}, "stemRule": "remove-ere", "endings": ["evo", "evi", "eva", "evamo", "evate", "evano"]},
+        "regular-ire": {"label": {"en": "Regular -IRE verbs", "it": "Verbi regolari in -IRE"}, "description": {"en": "Remove -ire, then add the imperfect endings.", "it": "Si toglie -ire, poi si aggiungono le desinenze dell’imperfetto."}, "stemRule": "remove-ire", "endings": ["ivo", "ivi", "iva", "ivamo", "ivate", "ivano"]},
+        "regular-ire-isc": {"label": {"en": "Regular -IRE verbs with -ISC", "it": "Verbi regolari in -IRE con -ISC"}, "description": {"en": "The -isc- pattern does not appear in the imperfect.", "it": "Il modello con -isc- non compare all’imperfetto."}, "stemRule": "remove-ire", "endings": ["ivo", "ivi", "iva", "ivamo", "ivate", "ivano"]}
+      }
+    },
+    "future-simple": {
+      "label": {"en": "Future simple", "it": "Futuro semplice"},
+      "description": {"en": "The future simple is used to talk about future actions.", "it": "Il futuro semplice si usa per parlare di azioni future."},
+      "groups": {
+        "regular-are": {"label": {"en": "Regular -ARE verbs", "it": "Verbi regolari in -ARE"}, "description": {"en": "Change -are to -er-, then add the future endings.", "it": "Si cambia -are in -er-, poi si aggiungono le desinenze del futuro."}, "stemRule": "future-are-to-er", "endings": ["ò", "ai", "à", "emo", "ete", "anno"]},
+        "regular-ere": {"label": {"en": "Regular -ERE verbs", "it": "Verbi regolari in -ERE"}, "description": {"en": "Remove the final -e, then add the future endings.", "it": "Si toglie la -e finale, poi si aggiungono le desinenze del futuro."}, "stemRule": "future-remove-final-e", "endings": ["ò", "ai", "à", "emo", "ete", "anno"]},
+        "regular-ire": {"label": {"en": "Regular -IRE verbs", "it": "Verbi regolari in -IRE"}, "description": {"en": "Remove the final -e, then add the future endings.", "it": "Si toglie la -e finale, poi si aggiungono le desinenze del futuro."}, "stemRule": "future-remove-final-e", "endings": ["ò", "ai", "à", "emo", "ete", "anno"]},
+        "regular-ire-isc": {"label": {"en": "Regular -IRE verbs with -ISC", "it": "Verbi regolari in -IRE con -ISC"}, "description": {"en": "The -isc- pattern does not appear in the future.", "it": "Il modello con -isc- non compare al futuro."}, "stemRule": "future-remove-final-e", "endings": ["ò", "ai", "à", "emo", "ete", "anno"]}
+      }
+    },
+    "conditional-present": {
+      "label": {"en": "Present conditional", "it": "Condizionale presente"},
+      "description": {"en": "The present conditional is used for polite requests, possibilities, and hypothetical situations.", "it": "Il condizionale presente si usa per richieste cortesi, possibilità e situazioni ipotetiche."},
+      "groups": {
+        "regular-are": {"label": {"en": "Regular -ARE verbs", "it": "Verbi regolari in -ARE"}, "description": {"en": "Change -are to -er-, then add the conditional endings.", "it": "Si cambia -are in -er-, poi si aggiungono le desinenze del condizionale."}, "stemRule": "future-are-to-er", "endings": ["ei", "esti", "ebbe", "emmo", "este", "ebbero"]},
+        "regular-ere": {"label": {"en": "Regular -ERE verbs", "it": "Verbi regolari in -ERE"}, "description": {"en": "Remove the final -e, then add the conditional endings.", "it": "Si toglie la -e finale, poi si aggiungono le desinenze del condizionale."}, "stemRule": "future-remove-final-e", "endings": ["ei", "esti", "ebbe", "emmo", "este", "ebbero"]},
+        "regular-ire": {"label": {"en": "Regular -IRE verbs", "it": "Verbi regolari in -IRE"}, "description": {"en": "Remove the final -e, then add the conditional endings.", "it": "Si toglie la -e finale, poi si aggiungono le desinenze del condizionale."}, "stemRule": "future-remove-final-e", "endings": ["ei", "esti", "ebbe", "emmo", "este", "ebbero"]},
+        "regular-ire-isc": {"label": {"en": "Regular -IRE verbs with -ISC", "it": "Verbi regolari in -IRE con -ISC"}, "description": {"en": "The -isc- pattern does not appear in the conditional.", "it": "Il modello con -isc- non compare al condizionale."}, "stemRule": "future-remove-final-e", "endings": ["ei", "esti", "ebbe", "emmo", "este", "ebbero"]}
+      }
+    },
+    "subjunctive-present": {
+      "label": {"en": "Present subjunctive", "it": "Congiuntivo presente"},
+      "description": {"en": "The present subjunctive is used after expressions of doubt, wish, opinion, emotion, or necessity.", "it": "Il congiuntivo presente si usa dopo espressioni di dubbio, desiderio, opinione, emozione o necessità."},
+      "pronounPrefix": "che",
+      "groups": {
+        "regular-are": {"label": {"en": "Regular -ARE verbs", "it": "Verbi regolari in -ARE"}, "description": {"en": "Remove -are, then add the present subjunctive endings.", "it": "Si toglie -are, poi si aggiungono le desinenze del congiuntivo presente."}, "stemRule": "remove-are", "endings": ["i", "i", "i", "iamo", "iate", "ino"]},
+        "regular-ere": {"label": {"en": "Regular -ERE verbs", "it": "Verbi regolari in -ERE"}, "description": {"en": "Remove -ere, then add the present subjunctive endings.", "it": "Si toglie -ere, poi si aggiungono le desinenze del congiuntivo presente."}, "stemRule": "remove-ere", "endings": ["a", "a", "a", "iamo", "iate", "ano"]},
+        "regular-ire": {"label": {"en": "Regular -IRE verbs", "it": "Verbi regolari in -IRE"}, "description": {"en": "Remove -ire, then add the present subjunctive endings.", "it": "Si toglie -ire, poi si aggiungono le desinenze del congiuntivo presente."}, "stemRule": "remove-ire", "endings": ["a", "a", "a", "iamo", "iate", "ano"]},
+        "regular-ire-isc": {"label": {"en": "Regular -IRE verbs with -ISC", "it": "Verbi regolari in -IRE con -ISC"}, "description": {"en": "Remove -ire, then use the -isc- present subjunctive pattern.", "it": "Si toglie -ire, poi si usa il modello del congiuntivo presente con -isc-."}, "stemRule": "remove-ire", "endings": ["isca", "isca", "isca", "iamo", "iate", "iscano"]}
+      }
+    },
+    "passato-prossimo": {
+      "label": {"en": "Present perfect", "it": "Passato prossimo"},
+      "description": {"en": "The passato prossimo is used for completed past actions. In this regular trainer, forms use avere plus the past participle.", "it": "Il passato prossimo si usa per azioni concluse nel passato. In questo trainer regolare, le forme usano avere più il participio passato."},
+      "patternType": "compound",
+      "auxiliary": "avere",
+      "auxiliaryForms": ["ho", "hai", "ha", "abbiamo", "avete", "hanno"],
+      "groups": {
+        "regular-are": {"label": {"en": "Regular -ARE verbs", "it": "Verbi regolari in -ARE"}, "description": {"en": "Use avere plus the past participle in -ato.", "it": "Si usa avere più il participio passato in -ato."}, "participleRule": "remove-are-add-ato"},
+        "regular-ere": {"label": {"en": "Regular -ERE verbs", "it": "Verbi regolari in -ERE"}, "description": {"en": "Use avere plus the past participle in -uto.", "it": "Si usa avere più il participio passato in -uto."}, "participleRule": "remove-ere-add-uto"},
+        "regular-ire": {"label": {"en": "Regular -IRE verbs", "it": "Verbi regolari in -IRE"}, "description": {"en": "Use avere plus the past participle in -ito.", "it": "Si usa avere più il participio passato in -ito."}, "participleRule": "remove-ire-add-ito"},
+        "regular-ire-isc": {"label": {"en": "Regular -IRE verbs with -ISC", "it": "Verbi regolari in -IRE con -ISC"}, "description": {"en": "The -isc- pattern does not affect the past participle: use -ito.", "it": "Il modello con -isc- non cambia il participio passato: si usa -ito."}, "participleRule": "remove-ire-add-ito"}
+      }
+    },
+    "trapassato-prossimo": {
+      "label": {"en": "Past perfect", "it": "Trapassato prossimo"},
+      "description": {"en": "The trapassato prossimo describes an action completed before another past action.", "it": "Il trapassato prossimo indica un’azione conclusa prima di un’altra azione passata."},
+      "patternType": "compound",
+      "auxiliary": "avere",
+      "auxiliaryForms": ["avevo", "avevi", "aveva", "avevamo", "avevate", "avevano"],
+      "groups": {
+        "regular-are": {"label": {"en": "Regular -ARE verbs", "it": "Verbi regolari in -ARE"}, "description": {"en": "Use avere plus the past participle in -ato.", "it": "Si usa avere più il participio passato in -ato."}, "participleRule": "remove-are-add-ato"},
+        "regular-ere": {"label": {"en": "Regular -ERE verbs", "it": "Verbi regolari in -ERE"}, "description": {"en": "Use avere plus the past participle in -uto.", "it": "Si usa avere più il participio passato in -uto."}, "participleRule": "remove-ere-add-uto"},
+        "regular-ire": {"label": {"en": "Regular -IRE verbs", "it": "Verbi regolari in -IRE"}, "description": {"en": "Use avere plus the past participle in -ito.", "it": "Si usa avere più il participio passato in -ito."}, "participleRule": "remove-ire-add-ito"},
+        "regular-ire-isc": {"label": {"en": "Regular -IRE verbs with -ISC", "it": "Verbi regolari in -IRE con -ISC"}, "description": {"en": "The -isc- pattern does not affect the past participle: use -ito.", "it": "Il modello con -isc- non cambia il participio passato: si usa -ito."}, "participleRule": "remove-ire-add-ito"}
+      }
+    },
+    "future-perfect": {
+      "label": {"en": "Future perfect", "it": "Futuro anteriore"},
+      "description": {"en": "The futuro anteriore describes an action that will be completed before another future action.", "it": "Il futuro anteriore indica un’azione che sarà conclusa prima di un’altra azione futura."},
+      "patternType": "compound",
+      "auxiliary": "avere",
+      "auxiliaryForms": ["avrò", "avrai", "avrà", "avremo", "avrete", "avranno"],
+      "groups": {
+        "regular-are": {"label": {"en": "Regular -ARE verbs", "it": "Verbi regolari in -ARE"}, "description": {"en": "Use avere plus the past participle in -ato.", "it": "Si usa avere più il participio passato in -ato."}, "participleRule": "remove-are-add-ato"},
+        "regular-ere": {"label": {"en": "Regular -ERE verbs", "it": "Verbi regolari in -ERE"}, "description": {"en": "Use avere plus the past participle in -uto.", "it": "Si usa avere più il participio passato in -uto."}, "participleRule": "remove-ere-add-uto"},
+        "regular-ire": {"label": {"en": "Regular -IRE verbs", "it": "Verbi regolari in -IRE"}, "description": {"en": "Use avere plus the past participle in -ito.", "it": "Si usa avere più il participio passato in -ito."}, "participleRule": "remove-ire-add-ito"},
+        "regular-ire-isc": {"label": {"en": "Regular -IRE verbs with -ISC", "it": "Verbi regolari in -IRE con -ISC"}, "description": {"en": "The -isc- pattern does not affect the past participle: use -ito.", "it": "Il modello con -isc- non cambia il participio passato: si usa -ito."}, "participleRule": "remove-ire-add-ito"}
+      }
+    },
+    "conditional-past": {
+      "label": {"en": "Past conditional", "it": "Condizionale passato"},
+      "description": {"en": "The past conditional is used for hypothetical or unreal completed actions.", "it": "Il condizionale passato si usa per azioni compiute ipotetiche o non realizzate."},
+      "patternType": "compound",
+      "auxiliary": "avere",
+      "auxiliaryForms": ["avrei", "avresti", "avrebbe", "avremmo", "avreste", "avrebbero"],
+      "groups": {
+        "regular-are": {"label": {"en": "Regular -ARE verbs", "it": "Verbi regolari in -ARE"}, "description": {"en": "Use avere plus the past participle in -ato.", "it": "Si usa avere più il participio passato in -ato."}, "participleRule": "remove-are-add-ato"},
+        "regular-ere": {"label": {"en": "Regular -ERE verbs", "it": "Verbi regolari in -ERE"}, "description": {"en": "Use avere plus the past participle in -uto.", "it": "Si usa avere più il participio passato in -uto."}, "participleRule": "remove-ere-add-uto"},
+        "regular-ire": {"label": {"en": "Regular -IRE verbs", "it": "Verbi regolari in -IRE"}, "description": {"en": "Use avere plus the past participle in -ito.", "it": "Si usa avere più il participio passato in -ito."}, "participleRule": "remove-ire-add-ito"},
+        "regular-ire-isc": {"label": {"en": "Regular -IRE verbs with -ISC", "it": "Verbi regolari in -IRE con -ISC"}, "description": {"en": "The -isc- pattern does not affect the past participle: use -ito.", "it": "Il modello con -isc- non cambia il participio passato: si usa -ito."}, "participleRule": "remove-ire-add-ito"}
+      }
+    },
+    "subjunctive-past": {
+      "label": {"en": "Past subjunctive", "it": "Congiuntivo passato"},
+      "description": {"en": "The past subjunctive is used after expressions of doubt, wish, emotion, or necessity when the action is completed.", "it": "Il congiuntivo passato si usa dopo espressioni di dubbio, desiderio, emozione o necessità quando l’azione è conclusa."},
+      "pronounPrefix": "che",
+      "patternType": "compound",
+      "auxiliary": "avere",
+      "auxiliaryForms": ["abbia", "abbia", "abbia", "abbiamo", "abbiate", "abbiano"],
+      "groups": {
+        "regular-are": {"label": {"en": "Regular -ARE verbs", "it": "Verbi regolari in -ARE"}, "description": {"en": "Use avere plus the past participle in -ato.", "it": "Si usa avere più il participio passato in -ato."}, "participleRule": "remove-are-add-ato"},
+        "regular-ere": {"label": {"en": "Regular -ERE verbs", "it": "Verbi regolari in -ERE"}, "description": {"en": "Use avere plus the past participle in -uto.", "it": "Si usa avere più il participio passato in -uto."}, "participleRule": "remove-ere-add-uto"},
+        "regular-ire": {"label": {"en": "Regular -IRE verbs", "it": "Verbi regolari in -IRE"}, "description": {"en": "Use avere plus the past participle in -ito.", "it": "Si usa avere più il participio passato in -ito."}, "participleRule": "remove-ire-add-ito"},
+        "regular-ire-isc": {"label": {"en": "Regular -IRE verbs with -ISC", "it": "Verbi regolari in -IRE con -ISC"}, "description": {"en": "The -isc- pattern does not affect the past participle: use -ito.", "it": "Il modello con -isc- non cambia il participio passato: si usa -ito."}, "participleRule": "remove-ire-add-ito"}
+      }
+    },
+    "subjunctive-imperfect": {
+      "label": {"en": "Imperfect subjunctive", "it": "Congiuntivo imperfetto"},
+      "description": {"en": "The imperfect subjunctive is used after expressions of doubt, wish, emotion, or necessity when the main action is in the past or conditional.", "it": "Il congiuntivo imperfetto si usa dopo espressioni di dubbio, desiderio, emozione o necessità quando l’azione principale è al passato o al condizionale."},
+      "pronounPrefix": "che",
+      "groups": {
+        "regular-are": {"label": {"en": "Regular -ARE verbs", "it": "Verbi regolari in -ARE"}, "description": {"en": "Remove -are, then add the imperfect subjunctive endings.", "it": "Si toglie -are, poi si aggiungono le desinenze del congiuntivo imperfetto."}, "stemRule": "remove-are", "endings": ["assi", "assi", "asse", "assimo", "aste", "assero"]},
+        "regular-ere": {"label": {"en": "Regular -ERE verbs", "it": "Verbi regolari in -ERE"}, "description": {"en": "Remove -ere, then add the imperfect subjunctive endings.", "it": "Si toglie -ere, poi si aggiungono le desinenze del congiuntivo imperfetto."}, "stemRule": "remove-ere", "endings": ["essi", "essi", "esse", "essimo", "este", "essero"]},
+        "regular-ire": {"label": {"en": "Regular -IRE verbs", "it": "Verbi regolari in -IRE"}, "description": {"en": "Remove -ire, then add the imperfect subjunctive endings.", "it": "Si toglie -ire, poi si aggiungono le desinenze del congiuntivo imperfetto."}, "stemRule": "remove-ire", "endings": ["issi", "issi", "isse", "issimo", "iste", "issero"]},
+        "regular-ire-isc": {"label": {"en": "Regular -IRE verbs with -ISC", "it": "Verbi regolari in -IRE con -ISC"}, "description": {"en": "The -isc- pattern does not appear in the imperfect subjunctive.", "it": "Il modello con -isc- non compare al congiuntivo imperfetto."}, "stemRule": "remove-ire", "endings": ["issi", "issi", "isse", "issimo", "iste", "issero"]}
+      }
+    },
+    "subjunctive-pluperfect": {
+      "label": {"en": "Pluperfect subjunctive", "it": "Congiuntivo trapassato"},
+      "description": {"en": "The pluperfect subjunctive describes a completed action in a subjunctive context before another past action.", "it": "Il congiuntivo trapassato indica un’azione conclusa, in un contesto di congiuntivo, prima di un’altra azione passata."},
+      "pronounPrefix": "che",
+      "patternType": "compound",
+      "auxiliary": "avere",
+      "auxiliaryForms": ["avessi", "avessi", "avesse", "avessimo", "aveste", "avessero"],
+      "groups": {
+        "regular-are": {"label": {"en": "Regular -ARE verbs", "it": "Verbi regolari in -ARE"}, "description": {"en": "Use avere plus the past participle in -ato.", "it": "Si usa avere più il participio passato in -ato."}, "participleRule": "remove-are-add-ato"},
+        "regular-ere": {"label": {"en": "Regular -ERE verbs", "it": "Verbi regolari in -ERE"}, "description": {"en": "Use avere plus the past participle in -uto.", "it": "Si usa avere più il participio passato in -uto."}, "participleRule": "remove-ere-add-uto"},
+        "regular-ire": {"label": {"en": "Regular -IRE verbs", "it": "Verbi regolari in -IRE"}, "description": {"en": "Use avere plus the past participle in -ito.", "it": "Si usa avere più il participio passato in -ito."}, "participleRule": "remove-ire-add-ito"},
+        "regular-ire-isc": {"label": {"en": "Regular -IRE verbs with -ISC", "it": "Verbi regolari in -IRE con -ISC"}, "description": {"en": "The -isc- pattern does not affect the past participle: use -ito.", "it": "Il modello con -isc- non cambia il participio passato: si usa -ito."}, "participleRule": "remove-ire-add-ito"}
+      }
+    },
+    "other-forms": {
+      "label": {"en": "Other forms", "it": "Altre forme"},
+      "description": {"en": "Infinitive, participle, gerund, and imperative forms.", "it": "Infinitivo, participio, gerundio e imperativo."},
+      "patternType": "otherForms"
+    }
+  }
+}

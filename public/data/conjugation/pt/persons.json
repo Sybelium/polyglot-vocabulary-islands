@@ -1,0 +1,35 @@
+{
+  "language": "pt",
+  "persons": [
+    {
+      "id": "eu",
+      "label": "eu",
+      "spoken": "eu"
+    },
+    {
+      "id": "tu",
+      "label": "tu",
+      "spoken": "tu"
+    },
+    {
+      "id": "ele",
+      "label": "ele / ela / você",
+      "spoken": "ele"
+    },
+    {
+      "id": "nos",
+      "label": "nós",
+      "spoken": "nós"
+    },
+    {
+      "id": "vos",
+      "label": "vós",
+      "spoken": "vós"
+    },
+    {
+      "id": "eles",
+      "label": "eles / elas / vocês",
+      "spoken": "eles"
+    }
+  ]
+}

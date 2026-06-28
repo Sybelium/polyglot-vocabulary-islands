@@ -1,0 +1,52 @@
+{
+  "persons": [
+    {
+      "id": "eu",
+      "label": "eu",
+      "fullLabel": {
+        "en": "I",
+        "pt": "eu"
+      }
+    },
+    {
+      "id": "tu",
+      "label": "tu",
+      "fullLabel": {
+        "en": "you singular",
+        "pt": "tu"
+      }
+    },
+    {
+      "id": "ele_ela",
+      "label": "ele / ela",
+      "fullLabel": {
+        "en": "he / she",
+        "pt": "ele / ela"
+      }
+    },
+    {
+      "id": "nos",
+      "label": "nós",
+      "fullLabel": {
+        "en": "we",
+        "pt": "nós"
+      }
+    },
+    {
+      "id": "vos",
+      "label": "vós",
+      "fullLabel": {
+        "en": "you plural",
+        "pt": "vós"
+      }
+    },
+    {
+      "id": "eles_elas",
+      "label": "eles / elas",
+      "fullLabel": {
+        "en": "they",
+        "pt": "eles / elas"
+      }
+    }
+  ]
+}

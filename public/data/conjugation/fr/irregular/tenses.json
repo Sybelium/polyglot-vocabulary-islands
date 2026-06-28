@@ -1,0 +1,315 @@
+{
+  "language": "fr",
+  "tenses": [
+    {
+      "id": "present",
+      "label": {
+        "en": "Present",
+        "fr": "Présent"
+      },
+      "description": {
+        "en": "Common present-tense irregular forms.",
+        "fr": "Formes irrégulières fréquentes au présent."
+      },
+      "patternType": "simple"
+    },
+    {
+      "id": "imperfect",
+      "label": {
+        "en": "Imperfect",
+        "fr": "Imparfait"
+      },
+      "description": {
+        "en": "Past habit or background tense.",
+        "fr": "Temps du passé pour les habitudes et le contexte."
+      },
+      "patternType": "simple"
+    },
+    {
+      "id": "future-simple",
+      "label": {
+        "en": "Future simple",
+        "fr": "Futur simple"
+      },
+      "description": {
+        "en": "Future forms, often built from an irregular future stem.",
+        "fr": "Formes du futur, souvent construites sur une base irrégulière."
+      },
+      "patternType": "simple"
+    },
+    {
+      "id": "conditional-present",
+      "label": {
+        "en": "Conditional present",
+        "fr": "Conditionnel présent"
+      },
+      "description": {
+        "en": "Would-form, often built from the same stem as the future.",
+        "fr": "Forme en -rais, souvent construite sur la même base que le futur."
+      },
+      "patternType": "simple"
+    },
+    {
+      "id": "subjunctive-present",
+      "label": {
+        "en": "Present subjunctive",
+        "fr": "Subjonctif présent"
+      },
+      "description": {
+        "en": "Subjunctive forms after que.",
+        "fr": "Formes du subjonctif après que."
+      },
+      "patternType": "simple",
+      "pronounPrefix": "que"
+    },
+    {
+      "id": "preterite",
+      "label": {
+        "en": "Simple past",
+        "fr": "Passé simple"
+      },
+      "description": {
+        "en": "A literary written past tense.",
+        "fr": "Temps du passé surtout littéraire et écrit."
+      },
+      "patternType": "simple"
+    },
+    {
+      "id": "subjunctive-imperfect",
+      "label": {
+        "en": "Imperfect subjunctive",
+        "fr": "Subjonctif imparfait"
+      },
+      "description": {
+        "en": "A literary subjunctive tense.",
+        "fr": "Temps du subjonctif surtout littéraire."
+      },
+      "patternType": "simple",
+      "pronounPrefix": "que"
+    },
+    {
+      "id": "passe-compose",
+      "label": {
+        "en": "Compound past",
+        "fr": "Passé composé"
+      },
+      "description": {
+        "en": "Auxiliary in the present plus the past participle.",
+        "fr": "Auxiliaire au présent + participe passé."
+      },
+      "patternType": "compound",
+      "auxiliaries": {
+        "avoir": [
+          "ai",
+          "as",
+          "a",
+          "avons",
+          "avez",
+          "ont"
+        ],
+        "etre": [
+          "suis",
+          "es",
+          "est",
+          "sommes",
+          "êtes",
+          "sont"
+        ]
+      }
+    },
+    {
+      "id": "plus-que-parfait",
+      "label": {
+        "en": "Pluperfect",
+        "fr": "Plus-que-parfait"
+      },
+      "description": {
+        "en": "Auxiliary in the imperfect plus the past participle.",
+        "fr": "Auxiliaire à l’imparfait + participe passé."
+      },
+      "patternType": "compound",
+      "auxiliaries": {
+        "avoir": [
+          "avais",
+          "avais",
+          "avait",
+          "avions",
+          "aviez",
+          "avaient"
+        ],
+        "etre": [
+          "étais",
+          "étais",
+          "était",
+          "étions",
+          "étiez",
+          "étaient"
+        ]
+      }
+    },
+    {
+      "id": "futur-anterieur",
+      "label": {
+        "en": "Future perfect",
+        "fr": "Futur antérieur"
+      },
+      "description": {
+        "en": "Auxiliary in the future plus the past participle.",
+        "fr": "Auxiliaire au futur + participe passé."
+      },
+      "patternType": "compound",
+      "auxiliaries": {
+        "avoir": [
+          "aurai",
+          "auras",
+          "aura",
+          "aurons",
+          "aurez",
+          "auront"
+        ],
+        "etre": [
+          "serai",
+          "seras",
+          "sera",
+          "serons",
+          "serez",
+          "seront"
+        ]
+      }
+    },
+    {
+      "id": "conditional-past",
+      "label": {
+        "en": "Past conditional",
+        "fr": "Conditionnel passé"
+      },
+      "description": {
+        "en": "Auxiliary in the conditional plus the past participle.",
+        "fr": "Auxiliaire au conditionnel + participe passé."
+      },
+      "patternType": "compound",
+      "auxiliaries": {
+        "avoir": [
+          "aurais",
+          "aurais",
+          "aurait",
+          "aurions",
+          "auriez",
+          "auraient"
+        ],
+        "etre": [
+          "serais",
+          "serais",
+          "serait",
+          "serions",
+          "seriez",
+          "seraient"
+        ]
+      }
+    },
+    {
+      "id": "subjunctive-past",
+      "label": {
+        "en": "Past subjunctive",
+        "fr": "Subjonctif passé"
+      },
+      "description": {
+        "en": "Subjunctive auxiliary plus the past participle.",
+        "fr": "Auxiliaire au subjonctif présent + participe passé."
+      },
+      "patternType": "compound",
+      "pronounPrefix": "que",
+      "auxiliaries": {
+        "avoir": [
+          "aie",
+          "aies",
+          "ait",
+          "ayons",
+          "ayez",
+          "aient"
+        ],
+        "etre": [
+          "sois",
+          "sois",
+          "soit",
+          "soyons",
+          "soyez",
+          "soient"
+        ]
+      }
+    },
+    {
+      "id": "subjunctive-pluperfect",
+      "label": {
+        "en": "Pluperfect subjunctive",
+        "fr": "Subjonctif plus-que-parfait"
+      },
+      "description": {
+        "en": "Imperfect subjunctive auxiliary plus the past participle.",
+        "fr": "Auxiliaire au subjonctif imparfait + participe passé."
+      },
+      "patternType": "compound",
+      "pronounPrefix": "que",
+      "auxiliaries": {
+        "avoir": [
+          "eusse",
+          "eusses",
+          "eût",
+          "eussions",
+          "eussiez",
+          "eussent"
+        ],
+        "etre": [
+          "fusse",
+          "fusses",
+          "fût",
+          "fussions",
+          "fussiez",
+          "fussent"
+        ]
+      }
+    },
+    {
+      "id": "passe-anterieur",
+      "label": {
+        "en": "Past anterior",
+        "fr": "Passé antérieur"
+      },
+      "description": {
+        "en": "Simple-past auxiliary plus the past participle.",
+        "fr": "Auxiliaire au passé simple + participe passé."
+      },
+      "patternType": "compound",
+      "auxiliaries": {
+        "avoir": [
+          "eus",
+          "eus",
+          "eut",
+          "eûmes",
+          "eûtes",
+          "eurent"
+        ],
+        "etre": [
+          "fus",
+          "fus",
+          "fut",
+          "fûmes",
+          "fûtes",
+          "furent"
+        ]
+      }
+    },
+    {
+      "id": "other-forms",
+      "label": {
+        "en": "Other forms",
+        "fr": "Autres formes"
+      },
+      "description": {
+        "en": "Infinitive, participles, gerund and imperative forms.",
+        "fr": "Infinitif, participes, gérondif et impératif."
+      },
+      "patternType": "otherForms"
+    }
+  ]
+}

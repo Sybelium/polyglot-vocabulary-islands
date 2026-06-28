@@ -1,0 +1,273 @@
+{
+  "language": "es",
+  "tenses": [
+    {
+      "id": "present",
+      "label": {
+        "en": "Present",
+        "es": "Presente"
+      },
+      "description": {
+        "en": "Present indicative irregular forms.",
+        "es": "Formas irregulares del presente de indicativo."
+      },
+      "patternType": "simple"
+    },
+    {
+      "id": "imperfect",
+      "label": {
+        "en": "Imperfect",
+        "es": "Pretérito imperfecto"
+      },
+      "description": {
+        "en": "Past habit or background tense.",
+        "es": "Tiempo del pasado para hábitos y contexto."
+      },
+      "patternType": "simple"
+    },
+    {
+      "id": "future-simple",
+      "label": {
+        "en": "Future simple",
+        "es": "Futuro simple"
+      },
+      "description": {
+        "en": "Future forms, often built from an irregular future stem.",
+        "es": "Formas del futuro, a menudo construidas sobre una base irregular."
+      },
+      "patternType": "simple"
+    },
+    {
+      "id": "conditional-simple",
+      "label": {
+        "en": "Conditional simple",
+        "es": "Condicional simple"
+      },
+      "description": {
+        "en": "Would-form, often built from the same stem as the future.",
+        "es": "Forma en -ría, a menudo construida sobre la misma base que el futuro."
+      },
+      "patternType": "simple"
+    },
+    {
+      "id": "present-subjunctive",
+      "label": {
+        "en": "Present subjunctive",
+        "es": "Presente de subjuntivo"
+      },
+      "description": {
+        "en": "Subjunctive forms after que.",
+        "es": "Formas del subjuntivo después de que."
+      },
+      "patternType": "simple",
+      "pronounPrefix": "que"
+    },
+    {
+      "id": "preterite",
+      "label": {
+        "en": "Preterite",
+        "es": "Pretérito perfecto simple"
+      },
+      "description": {
+        "en": "Completed past actions.",
+        "es": "Acciones terminadas en el pasado."
+      },
+      "patternType": "simple"
+    },
+    {
+      "id": "imperfect-subjunctive-ra",
+      "label": {
+        "en": "Imperfect subjunctive (-ra)",
+        "es": "Imperfecto de subjuntivo (-ra)"
+      },
+      "description": {
+        "en": "Imperfect subjunctive with -ra forms.",
+        "es": "Imperfecto de subjuntivo con formas en -ra."
+      },
+      "patternType": "simple",
+      "pronounPrefix": "que"
+    },
+    {
+      "id": "imperfect-subjunctive-se",
+      "label": {
+        "en": "Imperfect subjunctive (-se)",
+        "es": "Imperfecto de subjuntivo (-se)"
+      },
+      "description": {
+        "en": "Imperfect subjunctive with -se forms.",
+        "es": "Imperfecto de subjuntivo con formas en -se."
+      },
+      "patternType": "simple",
+      "pronounPrefix": "que"
+    },
+    {
+      "id": "present-perfect",
+      "label": {
+        "en": "Present perfect",
+        "es": "Pretérito perfecto compuesto"
+      },
+      "description": {
+        "en": "Haber in the present plus the past participle.",
+        "es": "Haber en presente + participio."
+      },
+      "patternType": "compound",
+      "auxiliaries": {
+        "haber": [
+          "he",
+          "has",
+          "ha",
+          "hemos",
+          "habéis",
+          "han"
+        ]
+      }
+    },
+    {
+      "id": "pluperfect",
+      "label": {
+        "en": "Pluperfect",
+        "es": "Pluscuamperfecto"
+      },
+      "description": {
+        "en": "Haber in the imperfect plus the past participle.",
+        "es": "Haber en imperfecto + participio."
+      },
+      "patternType": "compound",
+      "auxiliaries": {
+        "haber": [
+          "había",
+          "habías",
+          "había",
+          "habíamos",
+          "habíais",
+          "habían"
+        ]
+      }
+    },
+    {
+      "id": "future-perfect",
+      "label": {
+        "en": "Future perfect",
+        "es": "Futuro perfecto"
+      },
+      "description": {
+        "en": "Haber in the future plus the past participle.",
+        "es": "Haber en futuro + participio."
+      },
+      "patternType": "compound",
+      "auxiliaries": {
+        "haber": [
+          "habré",
+          "habrás",
+          "habrá",
+          "habremos",
+          "habréis",
+          "habrán"
+        ]
+      }
+    },
+    {
+      "id": "conditional-perfect",
+      "label": {
+        "en": "Conditional perfect",
+        "es": "Condicional compuesto"
+      },
+      "description": {
+        "en": "Haber in the conditional plus the past participle.",
+        "es": "Haber en condicional + participio."
+      },
+      "patternType": "compound",
+      "auxiliaries": {
+        "haber": [
+          "habría",
+          "habrías",
+          "habría",
+          "habríamos",
+          "habríais",
+          "habrían"
+        ]
+      }
+    },
+    {
+      "id": "present-perfect-subjunctive",
+      "label": {
+        "en": "Present perfect subjunctive",
+        "es": "Pretérito perfecto de subjuntivo"
+      },
+      "description": {
+        "en": "Subjunctive haber plus the past participle.",
+        "es": "Haber en subjuntivo + participio."
+      },
+      "patternType": "compound",
+      "pronounPrefix": "que",
+      "auxiliaries": {
+        "haber": [
+          "haya",
+          "hayas",
+          "haya",
+          "hayamos",
+          "hayáis",
+          "hayan"
+        ]
+      }
+    },
+    {
+      "id": "pluperfect-subjunctive-ra",
+      "label": {
+        "en": "Pluperfect subjunctive (-ra)",
+        "es": "Pluscuamperfecto de subjuntivo (-ra)"
+      },
+      "description": {
+        "en": "Hubiera plus the past participle.",
+        "es": "Hubiera + participio."
+      },
+      "patternType": "compound",
+      "pronounPrefix": "que",
+      "auxiliaries": {
+        "haber": [
+          "hubiera",
+          "hubieras",
+          "hubiera",
+          "hubiéramos",
+          "hubierais",
+          "hubieran"
+        ]
+      }
+    },
+    {
+      "id": "pluperfect-subjunctive-se",
+      "label": {
+        "en": "Pluperfect subjunctive (-se)",
+        "es": "Pluscuamperfecto de subjuntivo (-se)"
+      },
+      "description": {
+        "en": "Hubiese plus the past participle.",
+        "es": "Hubiese + participio."
+      },
+      "patternType": "compound",
+      "pronounPrefix": "que",
+      "auxiliaries": {
+        "haber": [
+          "hubiese",
+          "hubieses",
+          "hubiese",
+          "hubiésemos",
+          "hubieseis",
+          "hubiesen"
+        ]
+      }
+    },
+    {
+      "id": "other-forms",
+      "label": {
+        "en": "Other forms",
+        "es": "Otras formas"
+      },
+      "description": {
+        "en": "Infinitive, participle, gerund and imperative forms.",
+        "es": "Infinitivo, participio, gerundio e imperativo."
+      },
+      "patternType": "otherForms"
+    }
+  ]
+}
