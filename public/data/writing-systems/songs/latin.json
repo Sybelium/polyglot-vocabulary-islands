@@ -1,0 +1,22 @@
+{
+  "id": "latin",
+  "pageTitle": {
+    "en": "Latin Alphabet Songs"
+  },
+  "intro": {
+    "en": [
+      "A song can help you remember the letter order and pronunciation of the Latin alphabet."
+    ]
+  },
+  "songs": [
+    {
+      "title": {
+        "en": "Latin Alphabet Song"
+      },
+      "description": {
+        "en": "A Latin alphabet song for reviewing the letters in order."
+      },
+      "embedUrl": "https://www.youtube.com/embed/a6XZOYHVIUQ"
+    }
+  ]
+}

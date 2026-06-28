@@ -1,0 +1,22 @@
+{
+  "id": "days",
+  "type": "vocabulary-category",
+  "category": "Days of the Week",
+  "language": "pt",
+  "locale": "pt-PT",
+  "voice": "pt-PT-RaquelNeural",
+  "audioSrc": "/data/audio/vocabulary/days/pt.mp3",
+  "createdAt": "2026-06-28T01:08:45.898Z",
+  "status": "ready",
+  "gapSeconds": 0.45,
+  "totalDuration": 19.152,
+  "segments": [
+    {"id":"1","order":1,"image":"📅","text":"segunda-feira","englishReference":"Monday","start":0,"end":2.568,"duration":2.568},
+    {"id":"2","order":2,"image":"📅","text":"terça-feira","englishReference":"Tuesday","start":3.018,"end":5.37,"duration":2.352},
+    {"id":"3","order":3,"image":"📅","text":"quarta-feira","englishReference":"Wednesday","start":5.82,"end":8.196,"duration":2.376},
+    {"id":"4","order":4,"image":"📅","text":"quinta-feira","englishReference":"Thursday","start":8.646,"end":10.95,"duration":2.304},
+    {"id":"5","order":5,"image":"📅","text":"sexta-feira","englishReference":"Friday","start":11.4,"end":13.92,"duration":2.52},
+    {"id":"6","order":6,"image":"📅","text":"sábado","englishReference":"Saturday","start":14.37,"end":16.482,"duration":2.112},
+    {"id":"7","order":7,"image":"📅","text":"domingo","englishReference":"Sunday","start":16.932,"end":19.092,"duration":2.16}
+  ]
+}

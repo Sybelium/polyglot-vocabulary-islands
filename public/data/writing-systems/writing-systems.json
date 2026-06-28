@@ -1,4 +1,19 @@
 [
+{
+  "id": "latin",
+  "glyph": "A",
+  "title": {
+    "en": "Latin Alphabet"
+  },
+  "subtitle": {
+    "en": "The alphabet used by English, French, Spanish, Latin and many more"
+  },
+  "links": {
+    "explanation": "/writing-systems/latin",
+    "songs": "/writing-systems/latin/songs",
+    "game": "/writing-systems/latin/game"
+  }
+},
   {
     "id": "cyrillic",
     "glyph": "Ж",
@@ -147,6 +162,21 @@
     "explanation": "/writing-systems/thai-vowels",
     "songs": "/writing-systems/thai-vowels/songs",
     "game": "/writing-systems/thai-vowels/game"
+  }
+},
+{
+  "id": "khmer",
+  "glyph": "ក",
+  "title": {
+    "en": "Khmer"
+  },
+  "subtitle": {
+    "en": "The script of Cambodia, with consonants, vowels and stacked letters"
+  },
+  "links": {
+    "explanation": "/writing-systems/khmer",
+    "songs": "/writing-systems/khmer/songs",
+    "game": "/writing-systems/khmer/game"
   }
 }
 ]

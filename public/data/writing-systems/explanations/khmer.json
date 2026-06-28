@@ -1,0 +1,53 @@
+{
+  "id": "khmer",
+  "title": {
+    "en": "Khmer"
+  },
+  "intro": {
+    "en": [
+      "The Khmer script is used to write Khmer, the official language of Cambodia.",
+      "It is an abugida: consonant letters carry an inherent vowel sound, and vowel signs can change that sound."
+    ]
+  },
+  "sections": [
+    {
+      "id": "overview",
+      "title": {
+        "en": "Overview"
+      },
+      "content": {
+        "en": [
+          "Modern Khmer uses 33 consonant letters.",
+          "The script is written from left to right.",
+          "Spaces are not used between words in the same way as in English; they often separate phrases instead."
+        ]
+      }
+    },
+    {
+      "id": "consonants-and-vowels",
+      "title": {
+        "en": "Consonants and vowels"
+      },
+      "content": {
+        "en": [
+          "Each consonant belongs to a sound series and has an inherent vowel.",
+          "Dependent vowel signs are added around consonants to create syllables.",
+          "Some vowels can have different sounds depending on the consonant series."
+        ]
+      }
+    },
+    {
+      "id": "stacked-letters",
+      "title": {
+        "en": "Stacked letters"
+      },
+      "content": {
+        "en": [
+          "Khmer can stack consonants: a smaller form of one consonant can appear below another.",
+          "This helps write consonant clusters inside a word.",
+          "For beginners, recognizing the basic consonants first is the best starting point."
+        ]
+      }
+    }
+  ]
+}

@@ -7,6 +7,7 @@ import {
   getJourneyWordIds,
   saveJourneyStepProgress,
 } from "@/lib/app/progress/saveJourneyStepProgress";
+import useVocabularyAudio from "@/components/journey/useVocabularyAudio";
 
 const speechLangs = {
   en: "en-US",
@@ -34,6 +35,15 @@ export default function JourneyLearnWords({ lang, island, words }) {
   const timeoutRef = useRef(null);
   const stoppedRef = useRef(false);
   const savingRef = useRef(false);
+
+  const {
+  audioStatus,
+  playWord: playVocabularyWord,
+  stopAudio,
+} = useVocabularyAudio({
+  category: island.category,
+  lang,
+});
 
   const activeWord =
     activeIndex >= 0 && words?.[activeIndex] ? words[activeIndex] : null;
@@ -71,35 +81,19 @@ export default function JourneyLearnWords({ lang, island, words }) {
     }
   }
 
-  function speak(text, onEnd) {
-    if (typeof window === "undefined") return;
-    if (!text || !("speechSynthesis" in window)) return;
-
-    window.speechSynthesis.cancel();
-
-    const utterance = new SpeechSynthesisUtterance(text);
-    utterance.lang = speechLangs[lang] || "en-US";
-    utterance.rate = 0.88;
-    utterance.pitch = 1;
-
-    utterance.onend = () => {
+  function speakWord(word, text, onEnd) {
+  playVocabularyWord(word, {
+    text,
+    rate: 0.88,
+    onEnd: () => {
       if (stoppedRef.current) return;
 
       timeoutRef.current = setTimeout(() => {
         onEnd?.();
       }, BETWEEN_WORD_DELAY);
-    };
-
-    utterance.onerror = () => {
-      if (stoppedRef.current) return;
-
-      timeoutRef.current = setTimeout(() => {
-        onEnd?.();
-      }, BETWEEN_WORD_DELAY);
-    };
-
-    window.speechSynthesis.speak(utterance);
-  }
+    },
+  });
+}
 
   function stopAutoplay() {
     stoppedRef.current = true;
@@ -107,9 +101,7 @@ export default function JourneyLearnWords({ lang, island, words }) {
     setActiveIndex(-1);
     clearCurrentTimer();
 
-    if (typeof window !== "undefined") {
-      window.speechSynthesis?.cancel();
-    }
+    stopAudio();
   }
 
   function playFrom(index = 0) {
@@ -118,9 +110,7 @@ export default function JourneyLearnWords({ lang, island, words }) {
     stoppedRef.current = false;
     clearCurrentTimer();
 
-    if (typeof window !== "undefined") {
-      window.speechSynthesis?.cancel();
-    }
+    stopAudio();
 
     setPlaying(true);
     setCompleted(false);
@@ -141,9 +131,9 @@ export default function JourneyLearnWords({ lang, island, words }) {
 
       setActiveIndex(wordIndex);
 
-      speak(text, () => {
-        playWord(wordIndex + 1);
-      });
+      speakWord(word, text, () => {
+  playWord(wordIndex + 1);
+});
     };
 
     playWord(index);
@@ -161,9 +151,7 @@ export default function JourneyLearnWords({ lang, island, words }) {
       clearTimeout(startTimer);
       clearCurrentTimer();
 
-      if (typeof window !== "undefined") {
-        window.speechSynthesis?.cancel();
-      }
+      stopAudio();
     };
   }, []);
 
@@ -179,6 +167,13 @@ export default function JourneyLearnWords({ lang, island, words }) {
             <p className="mt-1 text-sm font-semibold text-slate-600 md:text-base">
               The words are read automatically, one after another.
             </p>
+            <p className="mt-1 text-xs font-bold text-slate-500">
+  {audioStatus === "ready"
+    ? "Using recorded MP3 audio."
+    : audioStatus === "loading"
+    ? "Loading audio…"
+    : "Using browser TTS fallback."}
+</p>
           </div>
 
           <div className="flex flex-wrap gap-2 md:gap-3">
@@ -255,7 +250,17 @@ export default function JourneyLearnWords({ lang, island, words }) {
                 </div>
 
                 <div className="shrink-0 [&_button]:!px-3 [&_button]:!py-2 [&_button]:!text-lg [&_button]:!leading-none">
-                  <SpeakButton text={text} lang={lang} hideLabel />
+                  <SpeakButton
+  text={text}
+  lang={lang}
+  hideLabel
+  onSpeak={() =>
+    playVocabularyWord(word, {
+      text,
+      rate: 0.88,
+    })
+  }
+/>
                 </div>
               </div>
             );

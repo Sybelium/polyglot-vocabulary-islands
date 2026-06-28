@@ -1,0 +1,53 @@
+{
+  "id": "latin",
+  "title": {
+    "en": "Latin Alphabet"
+  },
+  "intro": {
+    "en": [
+      "The Latin alphabet began as the writing system of Latin and became one of the most widely used scripts in the world.",
+      "Many modern languages use versions of the Latin alphabet, sometimes with extra letters, accents, or special signs."
+    ]
+  },
+  "sections": [
+    {
+      "id": "overview",
+      "title": {
+        "en": "Overview"
+      },
+      "content": {
+        "en": [
+          "The Latin alphabet is familiar to learners of English, French, Spanish, Italian, Portuguese, German, Dutch and many other languages.",
+          "Modern versions often have 26 basic letters, but different languages adapt them in different ways.",
+          "Classical Latin used fewer letters than modern English."
+        ]
+      }
+    },
+    {
+      "id": "classical-latin",
+      "title": {
+        "en": "Classical Latin letters"
+      },
+      "content": {
+        "en": [
+          "In classical Latin, the alphabet had 23 letters.",
+          "The letters J, V and W were not used in the same way as in modern English.",
+          "This is why a Latin alphabet lesson may look slightly different depending on whether it teaches classical Latin or a modern Latin-based alphabet."
+        ]
+      }
+    },
+    {
+      "id": "many-languages",
+      "title": {
+        "en": "One script, many languages"
+      },
+      "content": {
+        "en": [
+          "The same basic letters can represent different sounds in different languages.",
+          "For example, C, G, J, R, U and Y may be pronounced differently depending on the language.",
+          "This makes the Latin alphabet easy to recognize, but pronunciation still needs practice."
+        ]
+      }
+    }
+  ]
+}

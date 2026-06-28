@@ -7,6 +7,7 @@ import {
   getJourneyWordIds,
   saveJourneyStepProgress,
 } from "@/lib/app/progress/saveJourneyStepProgress";
+import useVocabularyAudio from "@/components/journey/useVocabularyAudio";
 
 const speechLangs = {
   en: "en-US",
@@ -78,6 +79,15 @@ export default function JourneyRecognizeGame({ lang, island, words }) {
   const savingRef = useRef(false);
   const advanceTimerRef = useRef(null);
   const speakTimerRef = useRef(null);
+
+  const {
+  audioStatus,
+  playWord: playVocabularyWord,
+  stopAudio,
+} = useVocabularyAudio({
+  category: island.category,
+  lang,
+});
   
   useEffect(() => {
   setIsReady(false);
@@ -147,11 +157,12 @@ export default function JourneyRecognizeGame({ lang, island, words }) {
       setMistakes((prev) => [
         ...prev,
         {
-          id: currentQuestion.answer.id,
-          expected: getWordText(currentQuestion.answer, lang),
-          selected: getWordText(choice, lang),
-          image: currentQuestion.answer.image,
-        },
+  id: currentQuestion.answer.id,
+  expected: getWordText(currentQuestion.answer, lang),
+  expectedWord: currentQuestion.answer,
+  selected: getWordText(choice, lang),
+  image: currentQuestion.answer.image,
+},
       ]);
     }
 
@@ -169,19 +180,30 @@ export default function JourneyRecognizeGame({ lang, island, words }) {
     }, 1000);
   }
 
+  function playQuestion(question) {
+  if (!question) return;
+
+  playVocabularyWord(question.answer, {
+    text: question.prompt,
+    rate: 0.9,
+  });
+}
+
   useEffect(() => {
-    if (!currentQuestion || finished) return;
+  if (!currentQuestion || finished) return;
+  if (audioStatus === "loading") return;
 
-    speakTimerRef.current = setTimeout(() => {
-      speakText(currentQuestion.prompt, lang);
-    }, 350);
+  speakTimerRef.current = setTimeout(() => {
+    playQuestion(currentQuestion);
+  }, 350);
 
-    return () => {
-      if (speakTimerRef.current) {
-        clearTimeout(speakTimerRef.current);
-      }
-    };
-  }, [currentQuestion, lang, finished]);
+  return () => {
+    if (speakTimerRef.current) {
+      clearTimeout(speakTimerRef.current);
+    }
+  };
+  // eslint-disable-next-line react-hooks/exhaustive-deps
+}, [currentQuestion, finished, audioStatus]);
 
   useEffect(() => {
     return () => {
@@ -193,9 +215,7 @@ export default function JourneyRecognizeGame({ lang, island, words }) {
         clearTimeout(speakTimerRef.current);
       }
 
-      if (typeof window !== "undefined") {
-  window.speechSynthesis?.cancel();
-}
+      stopAudio();
     };
   }, []);
 
@@ -255,7 +275,16 @@ export default function JourneyRecognizeGame({ lang, island, words }) {
                     </div>
                   </div>
 
-                  <SpeakButton text={mistake.expected} lang={lang} />
+                  <SpeakButton
+  text={mistake.expected}
+  lang={lang}
+  onSpeak={() =>
+    playVocabularyWord(mistake.expectedWord, {
+      text: mistake.expected,
+      rate: 0.9,
+    })
+  }
+/>
                 </div>
               ))}
             </div>
@@ -298,10 +327,17 @@ export default function JourneyRecognizeGame({ lang, island, words }) {
         <h2 className="mt-3 text-3xl font-black text-blue-950 md:text-4xl">
           Which one do you hear?
         </h2>
+        <p className="mt-2 text-xs font-bold text-slate-500">
+  {audioStatus === "ready"
+    ? "Using recorded MP3 audio."
+    : audioStatus === "loading"
+    ? "Loading audio…"
+    : "Using browser TTS fallback."}
+</p>
 
         <button
           type="button"
-          onClick={() => speakText(currentQuestion.prompt, lang)}
+          onClick={() => playQuestion(currentQuestion)}
           className="mt-5 rounded-full bg-blue-600 px-5 py-3 font-black text-white shadow hover:bg-blue-700"
         >
           🔊 Play again

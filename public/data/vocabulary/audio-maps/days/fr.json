@@ -1,0 +1,22 @@
+{
+  "id": "days",
+  "type": "vocabulary-category",
+  "category": "Days of the Week",
+  "language": "fr",
+  "locale": "fr-FR",
+  "voice": "fr-FR-DeniseNeural",
+  "audioSrc": "/data/audio/vocabulary/days/fr.mp3",
+  "createdAt": "2026-06-28T01:08:26.429Z",
+  "status": "ready",
+  "gapSeconds": 0.45,
+  "totalDuration": 16.32,
+  "segments": [
+    {"id":"1","order":1,"image":"📅","text":"lundi","englishReference":"Monday","start":0,"end":1.824,"duration":1.824},
+    {"id":"2","order":2,"image":"📅","text":"mardi","englishReference":"Tuesday","start":2.274,"end":4.122,"duration":1.848},
+    {"id":"3","order":3,"image":"📅","text":"mercredi","englishReference":"Wednesday","start":4.572,"end":6.612,"duration":2.04},
+    {"id":"4","order":4,"image":"📅","text":"jeudi","englishReference":"Thursday","start":7.062,"end":8.982,"duration":1.92},
+    {"id":"5","order":5,"image":"📅","text":"vendredi","englishReference":"Friday","start":9.432,"end":11.52,"duration":2.088},
+    {"id":"6","order":6,"image":"📅","text":"samedi","englishReference":"Saturday","start":11.97,"end":13.938,"duration":1.968},
+    {"id":"7","order":7,"image":"📅","text":"dimanche","englishReference":"Sunday","start":14.388,"end":16.26,"duration":1.872}
+  ]
+}

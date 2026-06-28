@@ -1,0 +1,27 @@
+{
+  "id": "months",
+  "type": "vocabulary-category",
+  "category": "Months of the Year",
+  "language": "nl",
+  "locale": "nl-NL",
+  "voice": "nl-NL-ColetteNeural",
+  "audioSrc": "/data/audio/vocabulary/months/nl.mp3",
+  "createdAt": "2026-06-28T09:35:43.236Z",
+  "status": "ready",
+  "gapSeconds": 0.45,
+  "totalDuration": 28.776,
+  "segments": [
+    {"id":"1","order":1,"image":"❄️","text":"januari","englishReference":"January","start":0,"end":2.136,"duration":2.136},
+    {"id":"2","order":2,"image":"💘","text":"februari","englishReference":"February","start":2.586,"end":4.842,"duration":2.256},
+    {"id":"3","order":3,"image":"🌬️","text":"maart","englishReference":"March","start":5.292,"end":7.14,"duration":1.848},
+    {"id":"4","order":4,"image":"🌸","text":"april","englishReference":"April","start":7.59,"end":9.414,"duration":1.824},
+    {"id":"5","order":5,"image":"🌼","text":"mei","englishReference":"May","start":9.864,"end":11.568,"duration":1.704},
+    {"id":"6","order":6,"image":"🌞","text":"juni","englishReference":"June","start":12.018,"end":13.746,"duration":1.728},
+    {"id":"7","order":7,"image":"🏖️","text":"juli","englishReference":"July","start":14.196,"end":15.9,"duration":1.704},
+    {"id":"8","order":8,"image":"🌻","text":"augustus","englishReference":"August","start":16.35,"end":18.51,"duration":2.16},
+    {"id":"9","order":9,"image":"🍂","text":"september","englishReference":"September","start":18.96,"end":21.144,"duration":2.184},
+    {"id":"10","order":10,"image":"🎃","text":"oktober","englishReference":"October","start":21.594,"end":23.682,"duration":2.088},
+    {"id":"11","order":11,"image":"🍁","text":"november","englishReference":"November","start":24.132,"end":26.196,"duration":2.064},
+    {"id":"12","order":12,"image":"🎄","text":"december","englishReference":"December","start":26.646,"end":28.71,"duration":2.064}
+  ]
+}

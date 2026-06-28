@@ -1,0 +1,22 @@
+{
+  "id": "khmer",
+  "pageTitle": {
+    "en": "Khmer Alphabet Songs"
+  },
+  "intro": {
+    "en": [
+      "Songs can help you remember the order and sound of Khmer letters."
+    ]
+  },
+  "songs": [
+    {
+      "title": {
+        "en": "Khmer Alphabet Song"
+      },
+      "description": {
+        "en": "A simple Khmer alphabet song for learning and reviewing the letters."
+      },
+      "embedUrl": "https://www.youtube.com/embed/zcKZaOqk8lc"
+    }
+  ]
+}

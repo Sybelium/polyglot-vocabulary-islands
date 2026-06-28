@@ -1,0 +1,22 @@
+{
+  "id": "days",
+  "type": "vocabulary-category",
+  "category": "Days of the Week",
+  "language": "it",
+  "locale": "it-IT",
+  "voice": "it-IT-ElsaNeural",
+  "audioSrc": "/data/audio/vocabulary/days/it.mp3",
+  "createdAt": "2026-06-28T01:08:37.957Z",
+  "status": "ready",
+  "gapSeconds": 0.45,
+  "totalDuration": 11.64,
+  "segments": [
+    {"id":"1","order":1,"image":"📅","text":"lunedì","englishReference":"Monday","start":0,"end":1.152,"duration":1.152},
+    {"id":"2","order":2,"image":"📅","text":"martedì","englishReference":"Tuesday","start":1.602,"end":2.922,"duration":1.32},
+    {"id":"3","order":3,"image":"📅","text":"mercoledì","englishReference":"Wednesday","start":3.372,"end":4.836,"duration":1.464},
+    {"id":"4","order":4,"image":"📅","text":"giovedì","englishReference":"Thursday","start":5.286,"end":6.414,"duration":1.128},
+    {"id":"5","order":5,"image":"📅","text":"venerdì","englishReference":"Friday","start":6.864,"end":8.088,"duration":1.224},
+    {"id":"6","order":6,"image":"📅","text":"sabato","englishReference":"Saturday","start":8.538,"end":9.786,"duration":1.248},
+    {"id":"7","order":7,"image":"📅","text":"domenica","englishReference":"Sunday","start":10.236,"end":11.58,"duration":1.344}
+  ]
+}

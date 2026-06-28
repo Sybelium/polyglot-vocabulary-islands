@@ -1,0 +1,27 @@
+{
+  "id": "months",
+  "type": "vocabulary-category",
+  "category": "Months of the Year",
+  "language": "pt",
+  "locale": "pt-PT",
+  "voice": "pt-PT-RaquelNeural",
+  "audioSrc": "/data/audio/vocabulary/months/pt.mp3",
+  "createdAt": "2026-06-28T09:35:23.847Z",
+  "status": "ready",
+  "gapSeconds": 0.45,
+  "totalDuration": 28.584,
+  "segments": [
+    {"id":"1","order":1,"image":"❄️","text":"janeiro","englishReference":"January","start":0,"end":2.16,"duration":2.16},
+    {"id":"2","order":2,"image":"💘","text":"fevereiro","englishReference":"February","start":2.61,"end":4.722,"duration":2.112},
+    {"id":"3","order":3,"image":"🌬️","text":"março","englishReference":"March","start":5.172,"end":7.14,"duration":1.968},
+    {"id":"4","order":4,"image":"🌸","text":"abril","englishReference":"April","start":7.59,"end":9.462,"duration":1.872},
+    {"id":"5","order":5,"image":"🌼","text":"maio","englishReference":"May","start":9.912,"end":11.568,"duration":1.656},
+    {"id":"6","order":6,"image":"🌞","text":"junho","englishReference":"June","start":12.018,"end":13.794,"duration":1.776},
+    {"id":"7","order":7,"image":"🏖️","text":"julho","englishReference":"July","start":14.244,"end":15.9,"duration":1.656},
+    {"id":"8","order":8,"image":"🌻","text":"agosto","englishReference":"August","start":16.35,"end":18.51,"duration":2.16},
+    {"id":"9","order":9,"image":"🍂","text":"setembro","englishReference":"September","start":18.96,"end":21,"duration":2.04},
+    {"id":"10","order":10,"image":"🎃","text":"outubro","englishReference":"October","start":21.45,"end":23.37,"duration":1.92},
+    {"id":"11","order":11,"image":"🍁","text":"novembro","englishReference":"November","start":23.82,"end":26.004,"duration":2.184},
+    {"id":"12","order":12,"image":"🎄","text":"dezembro","englishReference":"December","start":26.454,"end":28.518,"duration":2.064}
+  ]
+}
