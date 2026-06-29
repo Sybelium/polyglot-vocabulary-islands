@@ -119,29 +119,17 @@ function normalizeSource(source) {
 
 function getRegularPaths(lang) {
   return {
-    persons: [
-      `/data/${lang}/grammar/conjugation/persons.json`,
-      `/data/${lang}/grammar/conjugation/regular/persons.json`,
-    ],
-    verbs: [
-      `/data/${lang}/grammar/conjugation/regular-verbs.json`,
-      `/data/${lang}/grammar/conjugation/regular/regular-verbs.json`,
-    ],
-    patterns: [
-      `/data/${lang}/grammar/conjugation/regular-patterns.json`,
-      `/data/${lang}/grammar/conjugation/regular/regular-patterns.json`,
-    ],
+    persons: [`/data/conjugation/${lang}/persons.json`],
+    verbs: [`/data/conjugation/${lang}/regular-verbs.json`],
+    patterns: [`/data/conjugation/${lang}/regular-patterns.json`],
   };
 }
 
 function getIrregularPaths(lang) {
   return {
-    persons: [
-      `/data/${lang}/grammar/conjugation/irregular/persons.json`,
-      `/data/${lang}/grammar/conjugation/persons.json`,
-    ],
-    verbs: [`/data/${lang}/grammar/conjugation/irregular/verbs.json`],
-    tenses: [`/data/${lang}/grammar/conjugation/irregular/tenses.json`],
+    persons: [`/data/conjugation/${lang}/irregular/persons.json`],
+    verbs: [`/data/conjugation/${lang}/irregular/verbs.json`],
+    tenses: [`/data/conjugation/${lang}/irregular/tenses.json`],
   };
 }
 

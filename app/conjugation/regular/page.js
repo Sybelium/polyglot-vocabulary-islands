@@ -1,12 +1,10 @@
 import ConjugationTrainer from "@/components/conjugation/ConjugationTrainer";
 
 export const metadata = {
-  title: "Regular Conjugation Trainer | Polyglot World",
-  description: "Learn regular conjugation patterns with roots and endings.",
+  title: "Latin Languages Regular Conjugation | Language Playground",
+  description: "Practice regular conjugation patterns in French, Spanish, Italian and Portuguese.",
 };
 
-export default async function RegularConjugationPage({ params }) {
-  const { lang } = await params;
-
-  return <ConjugationTrainer targetLang={lang} />;
+export default function RegularConjugationPage() {
+  return <ConjugationTrainer targetLang="fr" />;
 }

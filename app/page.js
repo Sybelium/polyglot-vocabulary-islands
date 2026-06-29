@@ -11,14 +11,15 @@ const apps = [
     gradient: "from-sky-400 to-emerald-400",
   },
   {
-    title: "Conjugation Trainer",
-    subtitle: "Practice verbs, tenses and patterns step by step.",
-    href: "/conjugation",
-    emoji: "⚙️",
-    status: "Coming soon",
-    active: false,
-    gradient: "from-slate-300 to-slate-400",
-  },
+  title: "Latin Conjugation",
+  subtitle:
+    "Practice regular and irregular verbs in French, Spanish, Italian and Portuguese.",
+  href: "/conjugation",
+  emoji: "🧩",
+  status: "Available",
+  active: true,
+  gradient: "from-indigo-400 to-sky-500",
+},
   {
     title: "Pronunciation Coach",
     subtitle: "Train your speaking, listening and pronunciation skills.",

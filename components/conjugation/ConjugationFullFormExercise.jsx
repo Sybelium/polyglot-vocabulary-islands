@@ -8,7 +8,7 @@ function shuffleArray(array) {
 }
 
 function normalizeAnswer(value) {
-  return value
+  return String(value || "")
     .trim()
     .toLowerCase()
     .replace(/[’']/g, "'")
@@ -19,17 +19,15 @@ function getAcceptedAnswers(question) {
   const fullForm = normalizeAnswer(question.fullForm);
   const verbOnly = normalizeAnswer(question.form);
 
-  const accepted = [fullForm, verbOnly];
-
-  // Accept both j’aime and j'aime.
-  if (fullForm.includes("'")) {
-    accepted.push(fullForm.replace("'", "’"));
-  }
-
-  return accepted;
+  return [...new Set([fullForm, verbOnly].filter(Boolean))];
 }
 
-export default function ConjugationFullFormExercise({ verb, pattern, persons, tense, }) {
+export default function ConjugationFullFormExercise({
+  verb,
+  pattern,
+  persons,
+  tense,
+}) {
   const [questions, setQuestions] = useState([]);
   const [questionIndex, setQuestionIndex] = useState(0);
   const [answer, setAnswer] = useState("");
@@ -100,7 +98,6 @@ export default function ConjugationFullFormExercise({ verb, pattern, persons, te
 
     const normalizedUserAnswer = normalizeAnswer(answer);
     const acceptedAnswers = getAcceptedAnswers(currentQuestion);
-
     const isCorrect = acceptedAnswers.includes(normalizedUserAnswer);
 
     if (isCorrect) {
@@ -120,7 +117,7 @@ export default function ConjugationFullFormExercise({ verb, pattern, persons, te
         setTimeout(() => {
           inputRef.current?.focus();
         }, 50);
-      }, 1000);
+      }, 900);
     }
   }
 
@@ -130,24 +127,24 @@ export default function ConjugationFullFormExercise({ verb, pattern, persons, te
 
   if (finished) {
     return (
-      <section className="mt-8 rounded-3xl border border-emerald-100 bg-emerald-50 p-6 shadow-sm">
-        <p className="text-sm font-black uppercase tracking-wide text-emerald-700">
+      <section className="rounded-2xl border border-emerald-100 bg-emerald-50 p-4 shadow-sm md:p-6">
+        <p className="text-[11px] font-black uppercase tracking-wide text-emerald-700 md:text-sm">
           Exercise complete
         </p>
 
-        <h2 className="mt-2 text-3xl font-black text-slate-900">
+        <h2 className="mt-1 text-2xl font-black text-slate-900 md:text-3xl">
           Score: {score} / {questions.length}
         </h2>
 
-        <p className="mt-3 text-slate-700">
-          You practiced full present tense forms for{" "}
+        <p className="mt-2 text-sm font-semibold text-slate-700 md:text-base">
+          You practiced full forms for{" "}
           <span className="font-black">{verb.infinitive}</span>.
         </p>
 
         <button
           type="button"
           onClick={restart}
-          className="mt-5 rounded-2xl bg-emerald-600 px-5 py-3 font-black text-white shadow-sm hover:bg-emerald-700"
+          className="mt-4 rounded-2xl bg-emerald-600 px-5 py-3 text-sm font-black text-white shadow-sm hover:bg-emerald-700"
         >
           Practice again
         </button>
@@ -163,82 +160,89 @@ export default function ConjugationFullFormExercise({ verb, pattern, persons, te
       : "border-slate-200 bg-white";
 
   return (
-    <section className="mt-8 rounded-3xl border border-violet-100 bg-white p-6 shadow-sm">
-      <div className="mb-5 flex flex-col gap-3 sm:flex-row sm:items-end sm:justify-between">
-        <div>
-          <p className="text-sm font-black uppercase tracking-wide text-violet-600">
+    <section className="rounded-2xl border border-violet-100 bg-white p-3 shadow-sm md:p-6">
+      <div className="mb-3 flex items-center justify-between gap-3">
+        <div className="min-w-0">
+          <p className="text-[11px] font-black uppercase tracking-wide text-violet-600 md:text-sm">
             Exercise
           </p>
 
-          <h2 className="mt-1 text-2xl font-black text-slate-900">
+          <h2 className="truncate text-2xl font-black leading-tight text-slate-900 md:text-3xl">
             Type the full form
           </h2>
 
-          <p className="mt-2 text-sm text-slate-600">
-            Type the complete conjugated form. You can write the full form with
-            the pronoun, or only the verb form.
+          <p className="mt-1 hidden text-sm font-semibold text-slate-600 sm:block">
+            Write the full form or only the verb form.
           </p>
         </div>
 
-        <div className="rounded-2xl bg-violet-50 px-4 py-3 text-sm font-black text-violet-700">
-          {questionIndex + 1} / {questions.length} · Score {score}
+        <div className="shrink-0 rounded-2xl bg-violet-50 px-3 py-2 text-xs font-black text-violet-700 md:text-sm">
+          {questionIndex + 1}/{questions.length}
+          <span className="hidden sm:inline"> · Score </span>
+          <span className="sm:hidden"> · </span>
+          {score}
         </div>
       </div>
 
       <form
         onSubmit={checkAnswer}
-        className={`rounded-3xl border p-6 transition ${feedbackClass}`}
+        className={`rounded-2xl border p-2 transition md:p-4 ${feedbackClass}`}
       >
-        <div className="text-center">
-          <p className="text-sm font-black uppercase tracking-wide text-slate-500">
-  Conjugate
-</p>
+        <div className="mx-auto max-w-md">
+          <div className="rounded-2xl bg-slate-50 p-2 text-center">
+            <div className="mb-2 flex items-center justify-center">
+              <span className="rounded-full bg-violet-100 px-3 py-1 text-xs font-black text-violet-700">
+                {tenseLabel}
+              </span>
+            </div>
 
-<p className="mt-2 inline-flex rounded-full bg-violet-50 px-4 py-2 text-sm font-black text-violet-700">
-  {tenseLabel}
-</p>
+            <div className="flex flex-wrap items-center justify-center gap-2 font-black">
+              <span className="rounded-xl bg-white px-3 py-2 text-2xl leading-none text-slate-700 shadow-sm md:text-3xl">
+                {currentQuestion.pronoun}
+              </span>
 
-<div className="mt-5 flex flex-wrap items-center justify-center gap-3 text-4xl font-black">
-            <span className="rounded-2xl bg-slate-100 px-4 py-2 text-slate-700">
-              {currentQuestion.pronoun}
-            </span>
+              <span className="text-2xl leading-none text-slate-300 md:text-3xl">
+                +
+              </span>
 
-            <span className="text-slate-400">+</span>
-
-            <span className="rounded-2xl bg-blue-50 px-4 py-2 text-blue-700">
-              {verb.infinitive}
-            </span>
+              <span className="rounded-xl bg-blue-50 px-3 py-2 text-2xl leading-none text-blue-700 md:text-3xl">
+                {verb.infinitive}
+              </span>
+            </div>
           </div>
 
-          <div className="mt-6 flex flex-col items-center justify-center gap-3 sm:flex-row">
+          <div className="mt-3 grid grid-cols-[1fr_auto] gap-2">
             <input
               ref={inputRef}
               value={answer}
               onChange={(event) => setAnswer(event.target.value)}
               disabled={Boolean(feedback)}
-              placeholder="type the form..."
-              className="w-full max-w-md rounded-2xl border border-slate-200 px-4 py-3 text-center text-2xl font-black text-slate-900 outline-none focus:border-violet-400 focus:ring-4 focus:ring-violet-100 disabled:bg-slate-100"
+              placeholder="type..."
+              className="min-w-0 rounded-2xl border border-slate-200 px-3 py-3 text-center text-xl font-black text-slate-900 outline-none focus:border-violet-400 focus:ring-2 focus:ring-violet-100 disabled:bg-slate-100 md:text-2xl"
             />
 
             <button
               type="submit"
               disabled={!answer.trim() || Boolean(feedback)}
-              className="rounded-2xl bg-violet-600 px-6 py-3 font-black text-white shadow-sm hover:bg-violet-700 disabled:cursor-not-allowed disabled:opacity-50"
+              className="rounded-2xl bg-violet-600 px-4 py-3 text-sm font-black text-white shadow-sm hover:bg-violet-700 disabled:cursor-not-allowed disabled:opacity-50 md:px-6"
             >
               Check
             </button>
           </div>
 
           {feedback === "correct" && (
-            <p className="mt-5 text-lg font-black text-emerald-700">
-              Correct! {currentQuestion.fullForm}
-            </p>
+            <div className="mt-3 rounded-2xl bg-emerald-100 px-4 py-3 text-center text-sm font-black text-emerald-800">
+              Correct!{" "}
+              <span className="text-emerald-900">
+                {currentQuestion.fullForm}
+              </span>
+            </div>
           )}
 
           {feedback === "wrong" && (
-            <p className="mt-5 text-lg font-black text-red-700">
+            <div className="mt-3 rounded-2xl bg-red-100 px-4 py-3 text-center text-sm font-black text-red-700">
               Try again.
-            </p>
+            </div>
           )}
         </div>
       </form>

@@ -6,8 +6,11 @@ import ConjugationEndingExercise from "./ConjugationEndingExercise";
 import ConjugationFullFormExercise from "./ConjugationFullFormExercise";
 import ConjugationBuildForm from "./ConjugationBuildForm";
 import PolyglotConjugationTable from "./polyglot/PolyglotConjugationTable";
+import ConjugationAppControls from "./ConjugationAppControls";
+import ConjugationModeDock from "./ConjugationModeDock";
 
 export default function ConjugationTrainer({ targetLang = "fr" }) {
+  const [selectedLang, setSelectedLang] = useState(targetLang);
   const [verbs, setVerbs] = useState([]);
   const [persons, setPersons] = useState([]);
   const [patterns, setPatterns] = useState(null);
@@ -19,75 +22,85 @@ export default function ConjugationTrainer({ targetLang = "fr" }) {
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
-    let alive = true;
+  let alive = true;
 
-    async function loadData() {
-      try {
-        setLoading(true);
+  async function loadData() {
+    setLoading(true);
 
-        const [verbsRes, personsRes, patternsRes] = await Promise.all([
-          fetch(`/data/${targetLang}/grammar/conjugation/regular-verbs.json`),
-          fetch(`/data/${targetLang}/grammar/conjugation/persons.json`),
-          fetch(`/data/${targetLang}/grammar/conjugation/regular-patterns.json`),
-        ]);
+    try {
+      const [verbsRes, personsRes, patternsRes] = await Promise.all([
+        fetch(`/data/conjugation/${selectedLang}/regular-verbs.json`, {
+          cache: "no-store",
+        }),
+        fetch(`/data/conjugation/${selectedLang}/persons.json`, {
+          cache: "no-store",
+        }),
+        fetch(`/data/conjugation/${selectedLang}/regular-patterns.json`, {
+          cache: "no-store",
+        }),
+      ]);
 
-        if (!verbsRes.ok) {
-          throw new Error("Could not load conjugation/regular-verbs.json");
-        }
+      if (!verbsRes.ok || !personsRes.ok || !patternsRes.ok) {
+        throw new Error(`Could not load regular conjugation data for ${selectedLang}`);
+      }
 
-        if (!personsRes.ok) {
-          throw new Error("Could not load conjugation/persons.json");
-        }
+      const verbsData = await verbsRes.json();
+      const personsData = await personsRes.json();
+      const patternsData = await patternsRes.json();
 
-        if (!patternsRes.ok) {
-          throw new Error("Could not load conjugation/regular-patterns.json");
-        }
+      if (!alive) return;
 
-        const verbsData = await verbsRes.json();
-        const personsData = await personsRes.json();
-        const patternsData = await patternsRes.json();
+      const nextVerbs = Array.isArray(verbsData) ? verbsData : [];
+      const nextPersons = Array.isArray(personsData?.persons)
+        ? personsData.persons
+        : [];
+      const nextPatterns = patternsData || { tenses: {} };
+const nextTenses = nextPatterns.tenses || {};
 
-        if (alive) {
-          setVerbs(Array.isArray(verbsData) ? verbsData : verbsData.verbs || []);
-          setPersons(personsData.persons || []);
-          setPatterns(patternsData);
+const firstTenseId = Object.keys(nextTenses)[0] || "";
+const firstGroupId = firstTenseId
+  ? Object.keys(nextTenses[firstTenseId]?.groups || {})[0] || ""
+  : "";
 
-          const firstTenseId =
-            Object.keys(patternsData.tenses || {})[0] || "present";
+      const firstVerb =
+        nextVerbs.find((verb) => verb.group === firstGroupId) ||
+        nextVerbs[0] ||
+        null;
 
-          const firstGroupId =
-            Object.keys(patternsData.tenses?.[firstTenseId]?.groups || {})[0] ||
-            "regular-er";
+      setVerbs(nextVerbs);
+      setPersons(nextPersons);
+      setPatterns(nextPatterns);
 
-          const firstVerbInGroup =
-            (Array.isArray(verbsData) ? verbsData : verbsData.verbs || []).find(
-              (verb) => verb.group === firstGroupId
-            ) || (Array.isArray(verbsData) ? verbsData : verbsData.verbs || [])[0];
+      setSelectedTenseId(firstTenseId);
+      setSelectedGroupId(firstGroupId);
+      setSelectedVerbId(firstVerb?.id || "");
 
-          setSelectedTenseId(firstTenseId);
-          setSelectedGroupId(firstGroupId);
-          setSelectedVerbId(firstVerbInGroup?.id || "");
-        }
-      } catch (error) {
-        console.error(error);
+      setActiveMode("pattern");
+      setShowPolyglotOnly(false);
+    } catch (error) {
+      console.error(error);
 
-        if (alive) {
-          setVerbs([]);
-          setPatterns(null);
-        }
-      } finally {
-        if (alive) {
-          setLoading(false);
-        }
+      if (!alive) return;
+
+      setVerbs([]);
+      setPersons([]);
+      setPatterns({});
+      setSelectedTenseId("");
+      setSelectedGroupId("");
+      setSelectedVerbId("");
+    } finally {
+      if (alive) {
+        setLoading(false);
       }
     }
+  }
 
-    loadData();
+  loadData();
 
-    return () => {
-      alive = false;
-    };
-  }, [targetLang]);
+  return () => {
+    alive = false;
+  };
+}, [selectedLang]);
 
   useEffect(() => {
     const firstVerbInGroup = verbs.find(
@@ -174,169 +187,167 @@ export default function ConjugationTrainer({ targetLang = "fr" }) {
   ];
 
   if (loading) {
-    return (
-      <main className="mx-auto max-w-5xl px-4 py-10">
-        <p className="text-slate-600">Loading conjugation trainer...</p>
-      </main>
-    );
-  }
-
-  if (!selectedPattern) {
-    return (
-      <main className="mx-auto max-w-5xl px-4 py-10">
-        <div className="rounded-3xl border border-red-100 bg-red-50 p-6 text-red-700">
-          Could not load the conjugation data.
-        </div>
-      </main>
-    );
-  }
-
   return (
-    <main className="mx-auto max-w-5xl px-4 py-10">
-      <section className="mb-8 rounded-3xl bg-gradient-to-br from-sky-50 to-emerald-50 p-6 shadow-sm">
-        <p className="text-sm font-black uppercase tracking-wide text-sky-700">
-          Regular Conjugation Trainer
+    <main className="mx-auto max-w-6xl px-2 py-2 pb-20 md:px-4 md:py-6">
+      <ConjugationAppControls
+        selectedLang={selectedLang}
+        activeType="regular"
+        onLanguageChange={(languageId) => {
+          setSelectedLang(languageId);
+          setActiveMode("pattern");
+          setShowPolyglotOnly(false);
+        }}
+      />
+
+      <section className="mt-4 rounded-3xl bg-white/90 p-6 shadow-sm">
+        <p className="font-bold text-slate-600">
+          Loading conjugation trainer...
         </p>
+      </section>
+    </main>
+  );
+}
 
-        <h1 className="mt-2 text-4xl font-black text-slate-900">
-          Regular verbs
-        </h1>
+if (!selectedPattern) {
+  return (
+    <main className="mx-auto max-w-6xl px-2 py-2 pb-20 md:px-4 md:py-6">
+      <ConjugationAppControls
+        selectedLang={selectedLang}
+        activeType="regular"
+        onLanguageChange={(languageId) => {
+          setSelectedLang(languageId);
+          setActiveMode("pattern");
+          setShowPolyglotOnly(false);
+        }}
+      />
 
-        <p className="mt-3 max-w-2xl text-slate-700">
-          Learn conjugation patterns, practice forms, and compare Romance
-          languages.
+      <section className="mt-4 rounded-3xl border border-red-100 bg-red-50 p-6 text-red-700">
+        Could not load the conjugation data.
+      </section>
+    </main>
+  );
+}
+
+return (
+  <main className="mx-auto max-w-6xl px-2 py-2 pb-20 md:px-4 md:py-6">
+    <ConjugationAppControls
+      selectedLang={selectedLang}
+      activeType="regular"
+      onLanguageChange={(languageId) => {
+        setSelectedLang(languageId);
+        setActiveMode("pattern");
+        setShowPolyglotOnly(false);
+      }}
+    />
+
+    <section className="mb-2 rounded-2xl border border-sky-100 bg-white/95 p-2 shadow-sm">
+  <div className="grid grid-cols-2 gap-2">
+    <label className="rounded-xl bg-sky-50/70 p-2">
+      <span className="block text-[10px] font-black uppercase tracking-wide text-slate-500">
+        Tense
+      </span>
+
+      <select
+        value={selectedTenseId}
+        onChange={(event) => {
+          setSelectedTenseId(event.target.value);
+          setActiveMode("pattern");
+        }}
+        className="mt-1 w-full rounded-lg border border-slate-200 bg-white px-2 py-2 text-xs font-black text-slate-800 outline-none focus:border-sky-400 focus:ring-2 focus:ring-sky-100 sm:text-sm"
+      >
+        {availableTenses.map((tense) => (
+          <option key={tense.id} value={tense.id}>
+            {tense.label}
+          </option>
+        ))}
+      </select>
+    </label>
+
+    <label className="rounded-xl bg-sky-50/70 p-2">
+      <span className="block text-[10px] font-black uppercase tracking-wide text-slate-500">
+        Group
+      </span>
+
+      <select
+        value={selectedGroupId}
+        onChange={(event) => {
+          setSelectedGroupId(event.target.value);
+          setActiveMode("pattern");
+        }}
+        className="mt-1 w-full rounded-lg border border-slate-200 bg-white px-2 py-2 text-xs font-black text-slate-800 outline-none focus:border-sky-400 focus:ring-2 focus:ring-sky-100 sm:text-sm"
+      >
+        {availableGroups.map((group) => (
+          <option key={group.id} value={group.id}>
+            {group.label}
+          </option>
+        ))}
+      </select>
+    </label>
+
+    <label className="rounded-xl bg-emerald-50/70 p-2">
+      <span className="block text-[10px] font-black uppercase tracking-wide text-slate-500">
+        Verb
+      </span>
+
+      <select
+        value={selectedVerb?.id || ""}
+        onChange={(event) => setSelectedVerbId(event.target.value)}
+        disabled={filteredVerbs.length === 0}
+        className="mt-1 w-full rounded-lg border border-slate-200 bg-white px-2 py-2 text-xs font-black text-slate-800 outline-none focus:border-sky-400 focus:ring-2 focus:ring-sky-100 disabled:bg-slate-100 disabled:text-slate-400 sm:text-sm"
+      >
+        {filteredVerbs.map((verb) => (
+          <option key={verb.id} value={verb.id}>
+            {verb.infinitive}
+          </option>
+        ))}
+      </select>
+
+      <span className="mt-2 flex items-center gap-2 text-[11px] font-black text-slate-600">
+        <input
+          type="checkbox"
+          checked={showPolyglotOnly}
+          onChange={(event) => setShowPolyglotOnly(event.target.checked)}
+          className="h-4 w-4 rounded border-slate-300"
+        />
+        Polyglot
+      </span>
+    </label>
+
+    <div className="rounded-xl bg-emerald-50/70 p-2">
+      <span className="block text-[10px] font-black uppercase tracking-wide text-slate-500">
+        Meaning
+      </span>
+
+      <p className="mt-1 line-clamp-1 text-sm font-black text-slate-900 sm:text-base">
+        {selectedVerb?.meaning?.en || "No verb selected"}
+      </p>
+
+      {selectedVerb?.example?.[selectedLang] && (
+        <p className="mt-1 line-clamp-2 text-[11px] font-semibold leading-snug text-slate-600 sm:text-xs">
+          {selectedVerb.example[selectedLang]}
         </p>
-
-        <div className="mt-6 grid gap-4 md:grid-cols-[1fr_1fr_1fr_2fr]">
-          <div className="rounded-2xl bg-white p-4 shadow-sm">
-            <label className="block text-xs font-black uppercase tracking-wide text-slate-500">
-              Tense
-            </label>
-
-            <select
-              value={selectedTenseId}
-              onChange={(event) => {
-                setSelectedTenseId(event.target.value);
-                setActiveMode("pattern");
-              }}
-              className="mt-2 w-full rounded-xl border border-slate-200 bg-white px-3 py-2 font-bold text-slate-800 outline-none focus:border-sky-400 focus:ring-4 focus:ring-sky-100"
-            >
-              {availableTenses.map((tense) => (
-                <option key={tense.id} value={tense.id}>
-                  {tense.label}
-                </option>
-              ))}
-            </select>
-          </div>
-
-          <div className="rounded-2xl bg-white p-4 shadow-sm">
-            <label className="block text-xs font-black uppercase tracking-wide text-slate-500">
-              Verb group
-            </label>
-
-            <select
-              value={selectedGroupId}
-              onChange={(event) => {
-                setSelectedGroupId(event.target.value);
-                setActiveMode("pattern");
-              }}
-              className="mt-2 w-full rounded-xl border border-slate-200 bg-white px-3 py-2 font-bold text-slate-800 outline-none focus:border-sky-400 focus:ring-4 focus:ring-sky-100"
-            >
-              {availableGroups.map((group) => (
-                <option key={group.id} value={group.id}>
-                  {group.label}
-                </option>
-              ))}
-            </select>
-          </div>
-
-          <div className="rounded-2xl bg-white p-4 shadow-sm">
-            <label className="block text-xs font-black uppercase tracking-wide text-slate-500">
-              Choose a verb
-            </label>
-
-            <select
-              value={selectedVerb?.id || ""}
-              onChange={(event) => setSelectedVerbId(event.target.value)}
-              disabled={filteredVerbs.length === 0}
-              className="mt-2 w-full rounded-xl border border-slate-200 bg-white px-3 py-2 font-bold text-slate-800 outline-none focus:border-sky-400 focus:ring-4 focus:ring-sky-100 disabled:bg-slate-100 disabled:text-slate-400"
-            >
-              {filteredVerbs.map((verb) => (
-                <option key={verb.id} value={verb.id}>
-                  {verb.infinitive}
-                </option>
-              ))}
-            </select>
-
-            <label className="mt-3 flex cursor-pointer items-center gap-2 text-xs font-bold text-slate-600">
-              <input
-                type="checkbox"
-                checked={showPolyglotOnly}
-                onChange={(event) => setShowPolyglotOnly(event.target.checked)}
-                className="h-4 w-4 rounded border-slate-300"
-              />
-              Polyglot verbs only
-            </label>
-          </div>
-
-          <div className="rounded-2xl bg-white p-4 shadow-sm">
-            <p className="text-xs font-black uppercase tracking-wide text-slate-500">
-              Meaning
-            </p>
-
-            <p className="mt-2 text-xl font-black text-slate-900">
-              {selectedVerb?.meaning?.en || "No verb selected"}
-            </p>
-
-            {selectedVerb?.example?.[targetLang] && (
-              <p className="mt-2 text-sm font-semibold text-slate-600">
-                {selectedVerb.example[targetLang]}
-              </p>
-            )}
-          </div>
-        </div>
-      </section>
-
-      <section className="mb-8 rounded-3xl border border-slate-100 bg-white p-3 shadow-sm">
-        <div className="grid gap-2 sm:grid-cols-2 lg:grid-cols-5">
-          {modeTabs.map((tab) => {
-            const isActive = activeMode === tab.id;
-
-            return (
-              <button
-                key={tab.id}
-                type="button"
-                onClick={() => setActiveMode(tab.id)}
-                className={`rounded-2xl px-4 py-3 text-left transition ${
-                  isActive
-                    ? "bg-sky-600 text-white shadow-sm"
-                    : "bg-slate-50 text-slate-700 hover:bg-slate-100"
-                }`}
-              >
-                <span className="block text-sm font-black">{tab.label}</span>
-                <span
-                  className={`mt-1 block text-xs font-semibold ${
-                    isActive ? "text-sky-100" : "text-slate-500"
-                  }`}
-                >
-                  {tab.description}
-                </span>
-              </button>
-            );
-          })}
-        </div>
-      </section>
-
-      {filteredVerbs.length === 0 && (
-        <div className="rounded-3xl border border-dashed border-slate-300 bg-white p-6 text-center shadow-sm">
-          <p className="text-lg font-black text-slate-800">
-            No Polyglot verbs in this group yet
-          </p>
-          <p className="mt-2 text-sm text-slate-500">
-            Turn off the filter or choose another verb group.
-          </p>
-        </div>
       )}
+    </div>
+  </div>
+</section>
+
+    <ConjugationModeDock
+  modeTabs={modeTabs}
+  activeMode={activeMode}
+  onModeChange={setActiveMode}
+/>
+
+    {filteredVerbs.length === 0 && (
+      <div className="rounded-3xl border border-dashed border-slate-300 bg-white p-6 text-center shadow-sm">
+        <p className="text-lg font-black text-slate-800">
+          No Polyglot verbs in this group yet
+        </p>
+
+        <p className="mt-2 text-sm text-slate-500">
+          Turn off the filter or choose another verb group.
+        </p>
+      </div>
+    )}
 
       {filteredVerbs.length > 0 && activeMode === "pattern" && (
         <ConjugationPatternTable
