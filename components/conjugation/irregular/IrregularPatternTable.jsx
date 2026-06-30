@@ -1,32 +1,44 @@
 "use client";
 
 import { useMemo, useState } from "react";
-import { speakConjugation } from "../conjugationAudio";
+import {
+  getSpeechLangForTargetLang,
+  playConjugationAudio,
+} from "../conjugationAudio";
 import { buildIrregularRows } from "./irregularConjugationUtils";
 import { splitIrregularForm } from "./irregularConjugationUtils";
 
-export default function IrregularPatternTable({ verb, tense, persons, targetLang = "fr" }) {
+export default function IrregularPatternTable({
+  verb,
+  tense,
+  persons,
+  tenseId = "",
+  targetLang = "fr",
+}) {
   const [playingId, setPlayingId] = useState(null);
   const [isPlayingAll, setIsPlayingAll] = useState(false);
 
-  const speechLangByTargetLang = {
-    fr: "fr-FR",
-    es: "es-ES",
-    it: "it-IT",
-    pt: "pt-PT",
-  };
-
-  const speechLang = speechLangByTargetLang[targetLang] || "fr-FR";
+  const speechLang = getSpeechLangForTargetLang(targetLang);
 
   const rows = useMemo(() => buildIrregularRows(verb, tense, persons), [verb, tense, persons]);
   const isCompound = tense?.patternType === "compound";
 
   function playRow(row) {
-    setPlayingId(row.personId);
-    speakConjugation(row.spokenForm || row.fullForm, speechLang, () => {
+  setPlayingId(row.personId);
+
+  playConjugationAudio({
+    languageId: targetLang,
+    sourceType: "irregular",
+    tenseId,
+    verbId: verb.id,
+    personId: row.personId,
+    fallbackText: row.spokenForm || row.fullForm,
+    speechLang,
+    onEnd: () => {
       setPlayingId(null);
-    });
-  }
+    },
+  });
+}
 
   function playAllRows(index = 0) {
     if (!rows[index]) {
@@ -39,9 +51,18 @@ export default function IrregularPatternTable({ verb, tense, persons, targetLang
     setIsPlayingAll(true);
     setPlayingId(row.personId);
 
-    speakConjugation(row.spokenForm || row.fullForm, speechLang, () => {
-      setTimeout(() => playAllRows(index + 1), 350);
-    });
+    playConjugationAudio({
+  languageId: targetLang,
+  sourceType: "irregular",
+  tenseId,
+  verbId: verb.id,
+  personId: row.personId,
+  fallbackText: row.spokenForm || row.fullForm,
+  speechLang,
+  onEnd: () => {
+    setTimeout(() => playAllRows(index + 1), 250);
+  },
+});
   }
 
   if (!rows.length) return null;

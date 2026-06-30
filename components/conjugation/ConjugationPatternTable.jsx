@@ -2,34 +2,42 @@
 
 import { useState } from "react";
 import { buildConjugationRows, displayEnding } from "./conjugationUtils";
-import { speakConjugation } from "./conjugationAudio";
+import {
+  getSpeechLangForTargetLang,
+  playConjugationAudio,
+} from "./conjugationAudio";
 
 export default function ConjugationPatternTable({
   verb,
   pattern,
   persons,
   tense,
+  tenseId = "",
   targetLang = "fr",
 }) {
   const [playingId, setPlayingId] = useState(null);
   const [isPlayingAll, setIsPlayingAll] = useState(false);
 
-  const speechLangByTargetLang = {
-    fr: "fr-FR",
-    es: "es-ES",
-    it: "it-IT",
-    pt: "pt-PT",
-  };
-
-  const speechLang = speechLangByTargetLang[targetLang] || "fr-FR";
+  const speechLang = getSpeechLangForTargetLang(targetLang);
   const rows = buildConjugationRows(verb, pattern, persons, tense);
 
   function playRow(row) {
     setPlayingId(row.personId);
 
-    speakConjugation(row.spokenForm || row.fullForm, speechLang, () => {
-      setPlayingId(null);
-    });
+    playConjugationAudio({
+  languageId: targetLang,
+  sourceType: "regular",
+  tenseId,
+  verbId: verb.id,
+  personId: row.personId,
+  fallbackText: row.spokenForm || row.fullForm,
+  speechLang,
+  onEnd: () => {
+    setTimeout(() => {
+      playAllRows(index + 1);
+    }, 250);
+  },
+});
   }
 
   function playAllRows(index = 0) {

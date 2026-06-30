@@ -450,6 +450,7 @@ return (
   verb={selectedVerb}
   tense={selectedTense}
   persons={persons}
+  tenseId={selectedTenseId}
   targetLang={selectedLang}
 />
       )}

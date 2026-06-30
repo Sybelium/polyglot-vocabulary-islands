@@ -8,26 +8,10 @@ import {
   getPolyglotSourceBadges,
   resolvePolyglotConjugation,
 } from "./polyglotConjugationUtils";
-
-const SPEECH_LANGS = {
-  fr: "fr-FR",
-  es: "es-ES",
-  it: "it-IT",
-  pt: "pt-PT",
-};
-
-function speak(text, lang) {
-  if (typeof window === "undefined") return;
-  if (!window.speechSynthesis || !text) return;
-
-  window.speechSynthesis.cancel();
-
-  const utterance = new SpeechSynthesisUtterance(text);
-  utterance.lang = SPEECH_LANGS[lang] || "en-US";
-  utterance.rate = 0.9;
-
-  window.speechSynthesis.speak(utterance);
-}
+import {
+  getSpeechLangForTargetLang,
+  playConjugationAudio,
+} from "../conjugationAudio";
 
 function splitPronounAndVerb(text) {
   if (!text) return { pronoun: "", form: "" };
@@ -66,13 +50,30 @@ function EmptyState({ title, message }) {
   );
 }
 
-function SpeakButton({ text, lang }) {
+function SpeakButton({
+  text,
+  lang,
+  sourceType,
+  tenseId,
+  verbId,
+  personId = "",
+}) {
   if (!text) return null;
 
   return (
     <button
       type="button"
-      onClick={() => speak(text, lang)}
+      onClick={() =>
+        playConjugationAudio({
+          languageId: lang,
+          sourceType,
+          tenseId,
+          verbId,
+          personId,
+          fallbackText: text,
+          speechLang: getSpeechLangForTargetLang(lang),
+        })
+      }
       className="inline-grid h-7 w-7 shrink-0 place-items-center rounded-full border border-slate-200 bg-white text-[10px] shadow-sm transition hover:bg-slate-50"
       aria-label={`Listen to ${text}`}
       title="Listen"
@@ -82,7 +83,16 @@ function SpeakButton({ text, lang }) {
   );
 }
 
-function FormCell({ text, lang, isInfinitive, compact = false }) {
+function FormCell({
+  text,
+  lang,
+  isInfinitive,
+  compact = false,
+  sourceType,
+  tenseId,
+  verbId,
+  personId = "",
+}) {
   if (!text) {
     return <span className="text-slate-300">—</span>;
   }
@@ -98,7 +108,14 @@ function FormCell({ text, lang, isInfinitive, compact = false }) {
           {text}
         </span>
 
-        <SpeakButton text={text} lang={lang} />
+        <SpeakButton
+  text={text}
+  lang={lang}
+  sourceType={sourceType}
+  tenseId={tenseId}
+  verbId={verbId}
+  personId={personId}
+/>
       </div>
     );
   }
@@ -127,13 +144,22 @@ function FormCell({ text, lang, isInfinitive, compact = false }) {
         </span>
       </span>
 
-      <SpeakButton text={text} lang={lang} />
+      <SpeakButton
+  text={text}
+  lang={lang}
+  sourceType={sourceType}
+  tenseId={tenseId}
+  verbId={verbId}
+  personId={personId}
+/>
     </div>
   );
 }
 
-function MobileLanguageCard({ lang, rows, source }) {
+function MobileLanguageCard({ lang, rows, source, resolution, tenseId }) {
   const languageName = ROMANCE_LANG_LABELS[lang] || lang;
+  const languageData = resolution?.languages?.[lang];
+  const verbId = languageData?.verb?.id || "";
   const infinitiveRow = rows.find((row) => row.id === "infinitive");
   const formRows = rows.filter((row) => row.id !== "infinitive");
 
@@ -161,11 +187,14 @@ function MobileLanguageCard({ lang, rows, source }) {
             </span>
 
             <FormCell
-              text={infinitiveRow.cells?.[lang]}
-              lang={lang}
-              isInfinitive
-              compact
-            />
+  text={infinitiveRow.cells?.[lang]}
+  lang={lang}
+  isInfinitive
+  compact
+  sourceType={source}
+  tenseId={tenseId}
+  verbId={verbId}
+/>
           </div>
         )}
 
@@ -179,11 +208,14 @@ function MobileLanguageCard({ lang, rows, source }) {
             </span>
 
             <FormCell
-              text={row.cells?.[lang]}
-              lang={lang}
-              isInfinitive={false}
-              compact
-            />
+  text={row.cells?.[lang]}
+  lang={lang}
+  isInfinitive={false}
+  compact
+  sourceType={source}
+  tenseId={tenseId}
+  verbId={verbId}
+/>
           </div>
         ))}
       </div>
@@ -311,11 +343,13 @@ export default function PolyglotConjugationTable({ polyglotId, tenseId }) {
       <div className="grid gap-3 md:hidden">
         {ROMANCE_LANGS.map((lang) => (
           <MobileLanguageCard
-            key={lang}
-            lang={lang}
-            rows={rows}
-            source={sourceBadges[lang]}
-          />
+  key={lang}
+  lang={lang}
+  rows={rows}
+  source={sourceBadges[lang]}
+  resolution={resolution}
+  tenseId={tenseId}
+/>
         ))}
       </div>
 
@@ -360,10 +394,13 @@ export default function PolyglotConjugationTable({ polyglotId, tenseId }) {
                       className="border-b border-slate-100 px-3 py-3 text-sm font-semibold text-slate-800"
                     >
                       <FormCell
-                        text={row.cells?.[lang]}
-                        lang={lang}
-                        isInfinitive={isInfinitive}
-                      />
+  text={row.cells?.[lang]}
+  lang={lang}
+  isInfinitive={isInfinitive}
+  sourceType={sourceBadges[lang]}
+  tenseId={tenseId}
+  verbId={resolution.languages?.[lang]?.verb?.id || ""}
+/>
                     </td>
                   ))}
                 </tr>

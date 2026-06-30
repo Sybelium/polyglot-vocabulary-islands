@@ -351,11 +351,13 @@ return (
 
       {filteredVerbs.length > 0 && activeMode === "pattern" && (
         <ConjugationPatternTable
-          verb={selectedVerb}
-          pattern={selectedPattern}
-          persons={persons}
-          tense={selectedTense}
-        />
+  verb={selectedVerb}
+  pattern={selectedPattern}
+  persons={persons}
+  tense={selectedTense}
+  tenseId={selectedTenseId}
+  targetLang={selectedLang}
+/>
       )}
 
       {filteredVerbs.length > 0 && activeMode === "choose-ending" && (
