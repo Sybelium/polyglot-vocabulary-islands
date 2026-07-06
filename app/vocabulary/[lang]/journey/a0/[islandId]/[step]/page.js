@@ -25,6 +25,39 @@ async function getVocabularyCategory(category) {
   return readJson(`data/vocabulary/${category}.json`);
 }
 
+async function fileExists(relativePath) {
+  try {
+    await fs.access(path.join(process.cwd(), "public", relativePath));
+    return true;
+  } catch {
+    return false;
+  }
+}
+
+async function addVocabularyImageSources(words, category) {
+  return Promise.all(
+    words.map(async (word) => {
+      const candidates = [
+        slugifyImageName(word.en),
+        slugifyImageName(word.id),
+      ].filter(Boolean);
+
+      for (const candidate of candidates) {
+        const imagePath = `data/vocabulary/images/${category}/${candidate}.webp`;
+
+        if (await fileExists(imagePath)) {
+          return {
+            ...word,
+            imageSrc: `/${imagePath}`,
+          };
+        }
+      }
+
+      return word;
+    })
+  );
+}
+
 async function getSong(song) {
   return readJson(`data/vocabulary/songs/${song}.json`);
 }
@@ -41,6 +74,16 @@ function normalizeAnswer(text) {
   return String(text || "")
     .trim()
     .toLowerCase();
+}
+
+function slugifyImageName(value) {
+  return String(value || "")
+    .trim()
+    .toLowerCase()
+    .normalize("NFD")
+    .replace(/\p{Diacritic}/gu, "")
+    .replace(/[^a-z0-9-]+/g, "-")
+    .replace(/^-+|-+$/g, "");
 }
 
 function buildSongChallenge({ lang, island, songData, selectedWords }) {
@@ -111,9 +154,14 @@ export default async function A0JourneyStepPage({ params }) {
   const island = await getIsland(islandId);
   const categoryData = await getVocabularyCategory(island.category);
 
-  const selectedWords = categoryData.words.filter((word) =>
-    island.wordIds.includes(word.id)
-  );
+  const selectedWordsRaw = categoryData.words.filter((word) =>
+  island.wordIds.includes(word.id)
+);
+
+const selectedWords = await addVocabularyImageSources(
+  selectedWordsRaw,
+  island.category
+);
 
   let content = null;
 

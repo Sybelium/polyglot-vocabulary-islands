@@ -1,0 +1,906 @@
+[
+  {
+    "id": "sein",
+    "group": 1,
+    "groupName": "Essential Verbs",
+    "base": "sein",
+    "pastSimple": ["war"],
+    "pastParticiple": ["gewesen"],
+    "display": "sein → war → gewesen",
+    "translations": {
+      "en": "be",
+      "fr": "être",
+      "es": "ser / estar",
+      "it": "essere",
+      "nl": "zijn",
+      "pt": "ser / estar"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "haben",
+    "group": 1,
+    "groupName": "Essential Verbs",
+    "base": "haben",
+    "pastSimple": ["hatte"],
+    "pastParticiple": ["gehabt"],
+    "display": "haben → hatte → gehabt",
+    "translations": {
+      "en": "have",
+      "fr": "avoir",
+      "es": "tener / haber",
+      "it": "avere",
+      "nl": "hebben",
+      "pt": "ter / haver"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "werden",
+    "group": 1,
+    "groupName": "Essential Verbs",
+    "base": "werden",
+    "pastSimple": ["wurde"],
+    "pastParticiple": ["geworden"],
+    "display": "werden → wurde → geworden",
+    "translations": {
+      "en": "become / will",
+      "fr": "devenir",
+      "es": "volverse / convertirse en",
+      "it": "diventare",
+      "nl": "worden",
+      "pt": "tornar-se / virar"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "gehen",
+    "group": 1,
+    "groupName": "Essential Verbs",
+    "base": "gehen",
+    "pastSimple": ["ging"],
+    "pastParticiple": ["gegangen"],
+    "display": "gehen → ging → gegangen",
+    "translations": {
+      "en": "go",
+      "fr": "aller",
+      "es": "ir",
+      "it": "andare",
+      "nl": "gaan",
+      "pt": "ir"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "kommen",
+    "group": 1,
+    "groupName": "Essential Verbs",
+    "base": "kommen",
+    "pastSimple": ["kam"],
+    "pastParticiple": ["gekommen"],
+    "display": "kommen → kam → gekommen",
+    "translations": {
+      "en": "come",
+      "fr": "venir",
+      "es": "venir",
+      "it": "venire",
+      "nl": "komen",
+      "pt": "vir"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "sehen",
+    "group": 1,
+    "groupName": "Essential Verbs",
+    "base": "sehen",
+    "pastSimple": ["sah"],
+    "pastParticiple": ["gesehen"],
+    "display": "sehen → sah → gesehen",
+    "translations": {
+      "en": "see",
+      "fr": "voir",
+      "es": "ver",
+      "it": "vedere",
+      "nl": "zien",
+      "pt": "ver"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "nehmen",
+    "group": 1,
+    "groupName": "Essential Verbs",
+    "base": "nehmen",
+    "pastSimple": ["nahm"],
+    "pastParticiple": ["genommen"],
+    "display": "nehmen → nahm → genommen",
+    "translations": {
+      "en": "take",
+      "fr": "prendre",
+      "es": "tomar / coger",
+      "it": "prendere",
+      "nl": "nemen",
+      "pt": "tomar / pegar"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "geben",
+    "group": 1,
+    "groupName": "Essential Verbs",
+    "base": "geben",
+    "pastSimple": ["gab"],
+    "pastParticiple": ["gegeben"],
+    "display": "geben → gab → gegeben",
+    "translations": {
+      "en": "give",
+      "fr": "donner",
+      "es": "dar",
+      "it": "dare",
+      "nl": "geven",
+      "pt": "dar"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "finden",
+    "group": 1,
+    "groupName": "Essential Verbs",
+    "base": "finden",
+    "pastSimple": ["fand"],
+    "pastParticiple": ["gefunden"],
+    "display": "finden → fand → gefunden",
+    "translations": {
+      "en": "find",
+      "fr": "trouver",
+      "es": "encontrar",
+      "it": "trovare",
+      "nl": "vinden",
+      "pt": "encontrar"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "sprechen",
+    "group": 1,
+    "groupName": "Essential Verbs",
+    "base": "sprechen",
+    "pastSimple": ["sprach"],
+    "pastParticiple": ["gesprochen"],
+    "display": "sprechen → sprach → gesprochen",
+    "translations": {
+      "en": "speak",
+      "fr": "parler",
+      "es": "hablar",
+      "it": "parlare",
+      "nl": "spreken",
+      "pt": "falar"
+    },
+    "difficulty": 1
+  },
+
+  {
+    "id": "essen",
+    "group": 2,
+    "groupName": "Daily Verbs",
+    "base": "essen",
+    "pastSimple": ["aß"],
+    "pastParticiple": ["gegessen"],
+    "display": "essen → aß → gegessen",
+    "translations": {
+      "en": "eat",
+      "fr": "manger",
+      "es": "comer",
+      "it": "mangiare",
+      "nl": "eten",
+      "pt": "comer"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "trinken",
+    "group": 2,
+    "groupName": "Daily Verbs",
+    "base": "trinken",
+    "pastSimple": ["trank"],
+    "pastParticiple": ["getrunken"],
+    "display": "trinken → trank → getrunken",
+    "translations": {
+      "en": "drink",
+      "fr": "boire",
+      "es": "beber",
+      "it": "bere",
+      "nl": "drinken",
+      "pt": "beber"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "schlafen",
+    "group": 2,
+    "groupName": "Daily Verbs",
+    "base": "schlafen",
+    "pastSimple": ["schlief"],
+    "pastParticiple": ["geschlafen"],
+    "display": "schlafen → schlief → geschlafen",
+    "translations": {
+      "en": "sleep",
+      "fr": "dormir",
+      "es": "dormir",
+      "it": "dormire",
+      "nl": "slapen",
+      "pt": "dormir"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "lesen",
+    "group": 2,
+    "groupName": "Daily Verbs",
+    "base": "lesen",
+    "pastSimple": ["las"],
+    "pastParticiple": ["gelesen"],
+    "display": "lesen → las → gelesen",
+    "translations": {
+      "en": "read",
+      "fr": "lire",
+      "es": "leer",
+      "it": "leggere",
+      "nl": "lezen",
+      "pt": "ler"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "schreiben",
+    "group": 2,
+    "groupName": "Daily Verbs",
+    "base": "schreiben",
+    "pastSimple": ["schrieb"],
+    "pastParticiple": ["geschrieben"],
+    "display": "schreiben → schrieb → geschrieben",
+    "translations": {
+      "en": "write",
+      "fr": "écrire",
+      "es": "escribir",
+      "it": "scrivere",
+      "nl": "schrijven",
+      "pt": "escrever"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "bleiben",
+    "group": 2,
+    "groupName": "Daily Verbs",
+    "base": "bleiben",
+    "pastSimple": ["blieb"],
+    "pastParticiple": ["geblieben"],
+    "display": "bleiben → blieb → geblieben",
+    "translations": {
+      "en": "stay / remain",
+      "fr": "rester",
+      "es": "quedarse / permanecer",
+      "it": "restare / rimanere",
+      "nl": "blijven",
+      "pt": "ficar / permanecer"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "bringen",
+    "group": 2,
+    "groupName": "Daily Verbs",
+    "base": "bringen",
+    "pastSimple": ["brachte"],
+    "pastParticiple": ["gebracht"],
+    "display": "bringen → brachte → gebracht",
+    "translations": {
+      "en": "bring",
+      "fr": "apporter",
+      "es": "traer",
+      "it": "portare",
+      "nl": "brengen",
+      "pt": "trazer"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "denken",
+    "group": 2,
+    "groupName": "Daily Verbs",
+    "base": "denken",
+    "pastSimple": ["dachte"],
+    "pastParticiple": ["gedacht"],
+    "display": "denken → dachte → gedacht",
+    "translations": {
+      "en": "think",
+      "fr": "penser",
+      "es": "pensar",
+      "it": "pensare",
+      "nl": "denken",
+      "pt": "pensar"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "kennen",
+    "group": 2,
+    "groupName": "Daily Verbs",
+    "base": "kennen",
+    "pastSimple": ["kannte"],
+    "pastParticiple": ["gekannt"],
+    "display": "kennen → kannte → gekannt",
+    "translations": {
+      "en": "know / be familiar with",
+      "fr": "connaître",
+      "es": "conocer",
+      "it": "conoscere",
+      "nl": "kennen",
+      "pt": "conhecer"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "wissen",
+    "group": 2,
+    "groupName": "Daily Verbs",
+    "base": "wissen",
+    "pastSimple": ["wusste"],
+    "pastParticiple": ["gewusst"],
+    "display": "wissen → wusste → gewusst",
+    "translations": {
+      "en": "know",
+      "fr": "savoir",
+      "es": "saber",
+      "it": "sapere",
+      "nl": "weten",
+      "pt": "saber"
+    },
+    "difficulty": 1
+  },
+
+  {
+    "id": "fahren",
+    "group": 3,
+    "groupName": "Movement Verbs",
+    "base": "fahren",
+    "pastSimple": ["fuhr"],
+    "pastParticiple": ["gefahren"],
+    "display": "fahren → fuhr → gefahren",
+    "translations": {
+      "en": "drive / go by vehicle",
+      "fr": "conduire / aller en véhicule",
+      "es": "conducir / ir en vehículo",
+      "it": "guidare / andare in veicolo",
+      "nl": "rijden / gaan met voertuig",
+      "pt": "conduzir / ir de veículo"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "laufen",
+    "group": 3,
+    "groupName": "Movement Verbs",
+    "base": "laufen",
+    "pastSimple": ["lief"],
+    "pastParticiple": ["gelaufen"],
+    "display": "laufen → lief → gelaufen",
+    "translations": {
+      "en": "run / walk",
+      "fr": "courir / marcher",
+      "es": "correr / andar",
+      "it": "correre / camminare",
+      "nl": "lopen / rennen",
+      "pt": "correr / andar"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "fallen",
+    "group": 3,
+    "groupName": "Movement Verbs",
+    "base": "fallen",
+    "pastSimple": ["fiel"],
+    "pastParticiple": ["gefallen"],
+    "display": "fallen → fiel → gefallen",
+    "translations": {
+      "en": "fall",
+      "fr": "tomber",
+      "es": "caer",
+      "it": "cadere",
+      "nl": "vallen",
+      "pt": "cair"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "steigen",
+    "group": 3,
+    "groupName": "Movement Verbs",
+    "base": "steigen",
+    "pastSimple": ["stieg"],
+    "pastParticiple": ["gestiegen"],
+    "display": "steigen → stieg → gestiegen",
+    "translations": {
+      "en": "climb / rise",
+      "fr": "monter / grimper",
+      "es": "subir / trepar",
+      "it": "salire",
+      "nl": "stijgen / klimmen",
+      "pt": "subir / escalar"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "fliegen",
+    "group": 3,
+    "groupName": "Movement Verbs",
+    "base": "fliegen",
+    "pastSimple": ["flog"],
+    "pastParticiple": ["geflogen"],
+    "display": "fliegen → flog → geflogen",
+    "translations": {
+      "en": "fly",
+      "fr": "voler",
+      "es": "volar",
+      "it": "volare",
+      "nl": "vliegen",
+      "pt": "voar"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "ziehen",
+    "group": 3,
+    "groupName": "Movement Verbs",
+    "base": "ziehen",
+    "pastSimple": ["zog"],
+    "pastParticiple": ["gezogen"],
+    "display": "ziehen → zog → gezogen",
+    "translations": {
+      "en": "pull / move",
+      "fr": "tirer / déménager",
+      "es": "tirar / mudarse",
+      "it": "tirare / trasferirsi",
+      "nl": "trekken / verhuizen",
+      "pt": "puxar / mudar-se"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "tragen",
+    "group": 3,
+    "groupName": "Movement Verbs",
+    "base": "tragen",
+    "pastSimple": ["trug"],
+    "pastParticiple": ["getragen"],
+    "display": "tragen → trug → getragen",
+    "translations": {
+      "en": "carry / wear",
+      "fr": "porter",
+      "es": "llevar / vestir",
+      "it": "portare / indossare",
+      "nl": "dragen",
+      "pt": "carregar / vestir"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "stehen",
+    "group": 3,
+    "groupName": "Movement Verbs",
+    "base": "stehen",
+    "pastSimple": ["stand"],
+    "pastParticiple": ["gestanden"],
+    "display": "stehen → stand → gestanden",
+    "translations": {
+      "en": "stand",
+      "fr": "être debout",
+      "es": "estar de pie",
+      "it": "stare in piedi",
+      "nl": "staan",
+      "pt": "estar de pé"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "sitzen",
+    "group": 3,
+    "groupName": "Movement Verbs",
+    "base": "sitzen",
+    "pastSimple": ["saß"],
+    "pastParticiple": ["gesessen"],
+    "display": "sitzen → saß → gesessen",
+    "translations": {
+      "en": "sit",
+      "fr": "être assis",
+      "es": "estar sentado",
+      "it": "stare seduto",
+      "nl": "zitten",
+      "pt": "estar sentado"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "liegen",
+    "group": 3,
+    "groupName": "Movement Verbs",
+    "base": "liegen",
+    "pastSimple": ["lag"],
+    "pastParticiple": ["gelegen"],
+    "display": "liegen → lag → gelegen",
+    "translations": {
+      "en": "lie / be located",
+      "fr": "être allongé / se trouver",
+      "es": "estar tumbado / estar situado",
+      "it": "stare sdraiato / trovarsi",
+      "nl": "liggen",
+      "pt": "estar deitado / situar-se"
+    },
+    "difficulty": 2
+  },
+
+  {
+    "id": "helfen",
+    "group": 4,
+    "groupName": "Communication and Action Verbs",
+    "base": "helfen",
+    "pastSimple": ["half"],
+    "pastParticiple": ["geholfen"],
+    "display": "helfen → half → geholfen",
+    "translations": {
+      "en": "help",
+      "fr": "aider",
+      "es": "ayudar",
+      "it": "aiutare",
+      "nl": "helpen",
+      "pt": "ajudar"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "rufen",
+    "group": 4,
+    "groupName": "Communication and Action Verbs",
+    "base": "rufen",
+    "pastSimple": ["rief"],
+    "pastParticiple": ["gerufen"],
+    "display": "rufen → rief → gerufen",
+    "translations": {
+      "en": "call / shout",
+      "fr": "appeler / crier",
+      "es": "llamar / gritar",
+      "it": "chiamare / gridare",
+      "nl": "roepen",
+      "pt": "chamar / gritar"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "heißen",
+    "group": 4,
+    "groupName": "Communication and Action Verbs",
+    "base": "heißen",
+    "pastSimple": ["hieß"],
+    "pastParticiple": ["geheißen"],
+    "display": "heißen → hieß → geheißen",
+    "translations": {
+      "en": "be called / mean",
+      "fr": "s'appeler / signifier",
+      "es": "llamarse / significar",
+      "it": "chiamarsi / significare",
+      "nl": "heten / betekenen",
+      "pt": "chamar-se / significar"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "halten",
+    "group": 4,
+    "groupName": "Communication and Action Verbs",
+    "base": "halten",
+    "pastSimple": ["hielt"],
+    "pastParticiple": ["gehalten"],
+    "display": "halten → hielt → gehalten",
+    "translations": {
+      "en": "hold / stop",
+      "fr": "tenir / s'arrêter",
+      "es": "sostener / parar",
+      "it": "tenere / fermarsi",
+      "nl": "houden / stoppen",
+      "pt": "segurar / parar"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "lassen",
+    "group": 4,
+    "groupName": "Communication and Action Verbs",
+    "base": "lassen",
+    "pastSimple": ["ließ"],
+    "pastParticiple": ["gelassen"],
+    "display": "lassen → ließ → gelassen",
+    "translations": {
+      "en": "let / leave",
+      "fr": "laisser",
+      "es": "dejar / permitir",
+      "it": "lasciare / permettere",
+      "nl": "laten",
+      "pt": "deixar / permitir"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "beginnen",
+    "group": 4,
+    "groupName": "Communication and Action Verbs",
+    "base": "beginnen",
+    "pastSimple": ["begann"],
+    "pastParticiple": ["begonnen"],
+    "display": "beginnen → begann → begonnen",
+    "translations": {
+      "en": "begin",
+      "fr": "commencer",
+      "es": "empezar / comenzar",
+      "it": "cominciare / iniziare",
+      "nl": "beginnen",
+      "pt": "começar"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "gewinnen",
+    "group": 4,
+    "groupName": "Communication and Action Verbs",
+    "base": "gewinnen",
+    "pastSimple": ["gewann"],
+    "pastParticiple": ["gewonnen"],
+    "display": "gewinnen → gewann → gewonnen",
+    "translations": {
+      "en": "win",
+      "fr": "gagner",
+      "es": "ganar",
+      "it": "vincere",
+      "nl": "winnen",
+      "pt": "ganhar"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "verlieren",
+    "group": 4,
+    "groupName": "Communication and Action Verbs",
+    "base": "verlieren",
+    "pastSimple": ["verlor"],
+    "pastParticiple": ["verloren"],
+    "display": "verlieren → verlor → verloren",
+    "translations": {
+      "en": "lose",
+      "fr": "perdre",
+      "es": "perder",
+      "it": "perdere",
+      "nl": "verliezen",
+      "pt": "perder"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "treffen",
+    "group": 4,
+    "groupName": "Communication and Action Verbs",
+    "base": "treffen",
+    "pastSimple": ["traf"],
+    "pastParticiple": ["getroffen"],
+    "display": "treffen → traf → getroffen",
+    "translations": {
+      "en": "meet / hit",
+      "fr": "rencontrer / toucher",
+      "es": "encontrar / golpear",
+      "it": "incontrare / colpire",
+      "nl": "ontmoeten / raken",
+      "pt": "encontrar / atingir"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "tun",
+    "group": 4,
+    "groupName": "Communication and Action Verbs",
+    "base": "tun",
+    "pastSimple": ["tat"],
+    "pastParticiple": ["getan"],
+    "display": "tun → tat → getan",
+    "translations": {
+      "en": "do",
+      "fr": "faire",
+      "es": "hacer",
+      "it": "fare",
+      "nl": "doen",
+      "pt": "fazer"
+    },
+    "difficulty": 2
+  },
+
+  {
+    "id": "koennen",
+    "group": 5,
+    "groupName": "Modal and Common Verbs",
+    "base": "können",
+    "pastSimple": ["konnte"],
+    "pastParticiple": ["gekonnt"],
+    "display": "können → konnte → gekonnt",
+    "translations": {
+      "en": "can / be able to",
+      "fr": "pouvoir",
+      "es": "poder",
+      "it": "potere",
+      "nl": "kunnen",
+      "pt": "poder"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "muessen",
+    "group": 5,
+    "groupName": "Modal and Common Verbs",
+    "base": "müssen",
+    "pastSimple": ["musste"],
+    "pastParticiple": ["gemusst"],
+    "display": "müssen → musste → gemusst",
+    "translations": {
+      "en": "must / have to",
+      "fr": "devoir",
+      "es": "deber / tener que",
+      "it": "dovere",
+      "nl": "moeten",
+      "pt": "dever / ter que"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "wollen",
+    "group": 5,
+    "groupName": "Modal and Common Verbs",
+    "base": "wollen",
+    "pastSimple": ["wollte"],
+    "pastParticiple": ["gewollt"],
+    "display": "wollen → wollte → gewollt",
+    "translations": {
+      "en": "want",
+      "fr": "vouloir",
+      "es": "querer",
+      "it": "volere",
+      "nl": "willen",
+      "pt": "querer"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "sollen",
+    "group": 5,
+    "groupName": "Modal and Common Verbs",
+    "base": "sollen",
+    "pastSimple": ["sollte"],
+    "pastParticiple": ["gesollt"],
+    "display": "sollen → sollte → gesollt",
+    "translations": {
+      "en": "should / be supposed to",
+      "fr": "devoir / être censé",
+      "es": "deber / se supone que",
+      "it": "dovere / essere supposto",
+      "nl": "zullen / moeten",
+      "pt": "dever / supostamente"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "duerfen",
+    "group": 5,
+    "groupName": "Modal and Common Verbs",
+    "base": "dürfen",
+    "pastSimple": ["durfte"],
+    "pastParticiple": ["gedurft"],
+    "display": "dürfen → durfte → gedurft",
+    "translations": {
+      "en": "may / be allowed to",
+      "fr": "avoir le droit de",
+      "es": "poder / tener permiso",
+      "it": "potere / avere il permesso",
+      "nl": "mogen",
+      "pt": "poder / ter permissão"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "moegen",
+    "group": 5,
+    "groupName": "Modal and Common Verbs",
+    "base": "mögen",
+    "pastSimple": ["mochte"],
+    "pastParticiple": ["gemocht"],
+    "display": "mögen → mochte → gemocht",
+    "translations": {
+      "en": "like",
+      "fr": "aimer bien",
+      "es": "gustar",
+      "it": "piacere",
+      "nl": "mogen / leuk vinden",
+      "pt": "gostar"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "kaufen",
+    "group": 5,
+    "groupName": "Modal and Common Verbs",
+    "base": "kaufen",
+    "pastSimple": ["kaufte"],
+    "pastParticiple": ["gekauft"],
+    "display": "kaufen → kaufte → gekauft",
+    "translations": {
+      "en": "buy",
+      "fr": "acheter",
+      "es": "comprar",
+      "it": "comprare",
+      "nl": "kopen",
+      "pt": "comprar"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "nennen",
+    "group": 5,
+    "groupName": "Modal and Common Verbs",
+    "base": "nennen",
+    "pastSimple": ["nannte"],
+    "pastParticiple": ["genannt"],
+    "display": "nennen → nannte → genannt",
+    "translations": {
+      "en": "name / call",
+      "fr": "nommer / appeler",
+      "es": "nombrar / llamar",
+      "it": "nominare / chiamare",
+      "nl": "noemen",
+      "pt": "nomear / chamar"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "brennen",
+    "group": 5,
+    "groupName": "Modal and Common Verbs",
+    "base": "brennen",
+    "pastSimple": ["brannte"],
+    "pastParticiple": ["gebrannt"],
+    "display": "brennen → brannte → gebrannt",
+    "translations": {
+      "en": "burn",
+      "fr": "brûler",
+      "es": "arder / quemar",
+      "it": "bruciare",
+      "nl": "branden",
+      "pt": "arder / queimar"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "rennen",
+    "group": 5,
+    "groupName": "Modal and Common Verbs",
+    "base": "rennen",
+    "pastSimple": ["rannte"],
+    "pastParticiple": ["gerannt"],
+    "display": "rennen → rannte → gerannt",
+    "translations": {
+      "en": "run",
+      "fr": "courir",
+      "es": "correr",
+      "it": "correre",
+      "nl": "rennen",
+      "pt": "correr"
+    },
+    "difficulty": 2
+  }
+]

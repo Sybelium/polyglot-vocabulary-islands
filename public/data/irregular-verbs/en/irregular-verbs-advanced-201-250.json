@@ -1,0 +1,1175 @@
+[
+  {
+    "id": "alight",
+    "group": 1,
+    "groupName": "Advanced Verbs 1",
+    "base": "alight",
+    "pastSimple": [
+      "alighted",
+      "alit"
+    ],
+    "pastParticiple": [
+      "alighted",
+      "alit"
+    ],
+    "display": "alight → alighted/alit → alighted/alit",
+    "translations": {
+      "en": "land / get off",
+      "fr": "descendre / se poser",
+      "es": "bajar / posarse",
+      "it": "scendere / posarsi",
+      "de": "aussteigen / landen",
+      "nl": "uitstappen / landen",
+      "pt": "descer / pousar"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "babysit",
+    "group": 1,
+    "groupName": "Advanced Verbs 1",
+    "base": "babysit",
+    "pastSimple": [
+      "babysat"
+    ],
+    "pastParticiple": [
+      "babysat"
+    ],
+    "display": "babysit → babysat → babysat",
+    "translations": {
+      "en": "babysit",
+      "fr": "faire du babysitting",
+      "es": "cuidar niños",
+      "it": "fare da babysitter",
+      "de": "babysitten",
+      "nl": "oppassen",
+      "pt": "cuidar de crianças"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "backbite",
+    "group": 1,
+    "groupName": "Advanced Verbs 1",
+    "base": "backbite",
+    "pastSimple": [
+      "backbit"
+    ],
+    "pastParticiple": [
+      "backbitten"
+    ],
+    "display": "backbite → backbit → backbitten",
+    "translations": {
+      "en": "speak badly behind someone's back",
+      "fr": "médire",
+      "es": "murmurar / criticar a escondidas",
+      "it": "sparlare",
+      "de": "verleumden / lästern",
+      "nl": "roddelen over",
+      "pt": "falar mal pelas costas"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "backslide",
+    "group": 1,
+    "groupName": "Advanced Verbs 1",
+    "base": "backslide",
+    "pastSimple": [
+      "backslid"
+    ],
+    "pastParticiple": [
+      "backslid",
+      "backslidden"
+    ],
+    "display": "backslide → backslid → backslid/backslidden",
+    "translations": {
+      "en": "relapse / fall back",
+      "fr": "rechuter",
+      "es": "recaer",
+      "it": "ricadere",
+      "de": "rückfällig werden",
+      "nl": "terugvallen",
+      "pt": "recaír"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "beget",
+    "group": 1,
+    "groupName": "Advanced Verbs 1",
+    "base": "beget",
+    "pastSimple": [
+      "begot"
+    ],
+    "pastParticiple": [
+      "begotten",
+      "begot"
+    ],
+    "display": "beget → begot → begotten/begot",
+    "translations": {
+      "en": "father / produce",
+      "fr": "engendrer",
+      "es": "engendrar",
+      "it": "generare",
+      "de": "zeugen / hervorbringen",
+      "nl": "verwekken / voortbrengen",
+      "pt": "gerar"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "bespeak",
+    "group": 1,
+    "groupName": "Advanced Verbs 1",
+    "base": "bespeak",
+    "pastSimple": [
+      "bespoke"
+    ],
+    "pastParticiple": [
+      "bespoken"
+    ],
+    "display": "bespeak → bespoke → bespoken",
+    "translations": {
+      "en": "indicate / order in advance",
+      "fr": "indiquer / commander d'avance",
+      "es": "indicar / encargar",
+      "it": "indicare / ordinare",
+      "de": "andeuten / bestellen",
+      "nl": "duiden op / bestellen",
+      "pt": "indicar / encomendar"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "bestride",
+    "group": 1,
+    "groupName": "Advanced Verbs 1",
+    "base": "bestride",
+    "pastSimple": [
+      "bestrode"
+    ],
+    "pastParticiple": [
+      "bestridden"
+    ],
+    "display": "bestride → bestrode → bestridden",
+    "translations": {
+      "en": "stand or sit across",
+      "fr": "enjamber / chevaucher",
+      "es": "montar a horcajadas",
+      "it": "stare a cavalcioni",
+      "de": "rittlings sitzen / überragen",
+      "nl": "wijdbeens staan over",
+      "pt": "montar / ficar sobre"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "bide",
+    "group": 1,
+    "groupName": "Advanced Verbs 1",
+    "base": "bide",
+    "pastSimple": [
+      "bided",
+      "bode"
+    ],
+    "pastParticiple": [
+      "bided"
+    ],
+    "display": "bide → bided/bode → bided",
+    "translations": {
+      "en": "wait / remain",
+      "fr": "attendre / demeurer",
+      "es": "esperar / permanecer",
+      "it": "attendere / restare",
+      "de": "warten / verweilen",
+      "nl": "wachten / blijven",
+      "pt": "esperar / permanecer"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "browbeat",
+    "group": 1,
+    "groupName": "Advanced Verbs 1",
+    "base": "browbeat",
+    "pastSimple": [
+      "browbeat"
+    ],
+    "pastParticiple": [
+      "browbeaten"
+    ],
+    "display": "browbeat → browbeat → browbeaten",
+    "translations": {
+      "en": "intimidate",
+      "fr": "intimider",
+      "es": "intimidar",
+      "it": "intimidire",
+      "de": "einschüchtern",
+      "nl": "intimideren",
+      "pt": "intimidar"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "cleave",
+    "group": 1,
+    "groupName": "Advanced Verbs 1",
+    "base": "cleave",
+    "pastSimple": [
+      "cleft",
+      "clove",
+      "cleaved"
+    ],
+    "pastParticiple": [
+      "cleft",
+      "cloven",
+      "cleaved"
+    ],
+    "display": "cleave → cleft/clove/cleaved → cleft/cloven/cleaved",
+    "translations": {
+      "en": "split / cling",
+      "fr": "fendre / adhérer",
+      "es": "partir / adherirse",
+      "it": "fendere / aderire",
+      "de": "spalten / festhalten",
+      "nl": "splijten / hechten",
+      "pt": "fender / aderir"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "counterbid",
+    "group": 2,
+    "groupName": "Advanced Verbs 2",
+    "base": "counterbid",
+    "pastSimple": [
+      "counterbid"
+    ],
+    "pastParticiple": [
+      "counterbid"
+    ],
+    "display": "counterbid → counterbid → counterbid",
+    "translations": {
+      "en": "make a counterbid",
+      "fr": "faire une contre-offre",
+      "es": "hacer una contraoferta",
+      "it": "fare una controfferta",
+      "de": "ein Gegenangebot machen",
+      "nl": "een tegenbod doen",
+      "pt": "fazer uma contraproposta"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "crossbreed",
+    "group": 2,
+    "groupName": "Advanced Verbs 2",
+    "base": "crossbreed",
+    "pastSimple": [
+      "crossbred"
+    ],
+    "pastParticiple": [
+      "crossbred"
+    ],
+    "display": "crossbreed → crossbred → crossbred",
+    "translations": {
+      "en": "crossbreed",
+      "fr": "croiser des espèces",
+      "es": "cruzar razas",
+      "it": "incrociare razze",
+      "de": "kreuzen",
+      "nl": "kruisen",
+      "pt": "cruzar raças"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "daydream",
+    "group": 2,
+    "groupName": "Advanced Verbs 2",
+    "base": "daydream",
+    "pastSimple": [
+      "daydreamed",
+      "daydreamt"
+    ],
+    "pastParticiple": [
+      "daydreamed",
+      "daydreamt"
+    ],
+    "display": "daydream → daydreamed/daydreamt → daydreamed/daydreamt",
+    "translations": {
+      "en": "daydream",
+      "fr": "rêvasser",
+      "es": "soñar despierto",
+      "it": "sognare a occhi aperti",
+      "de": "tagträumen",
+      "nl": "dagdromen",
+      "pt": "sonhar acordado"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "disprove",
+    "group": 2,
+    "groupName": "Advanced Verbs 2",
+    "base": "disprove",
+    "pastSimple": [
+      "disproved"
+    ],
+    "pastParticiple": [
+      "disproved",
+      "disproven"
+    ],
+    "display": "disprove → disproved → disproved/disproven",
+    "translations": {
+      "en": "disprove",
+      "fr": "réfuter",
+      "es": "refutar",
+      "it": "confutare",
+      "de": "widerlegen",
+      "nl": "weerleggen",
+      "pt": "refutar"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "dogfight",
+    "group": 2,
+    "groupName": "Advanced Verbs 2",
+    "base": "dogfight",
+    "pastSimple": [
+      "dogfought"
+    ],
+    "pastParticiple": [
+      "dogfought"
+    ],
+    "display": "dogfight → dogfought → dogfought",
+    "translations": {
+      "en": "fight in the air",
+      "fr": "combattre en duel aérien",
+      "es": "combatir en el aire",
+      "it": "combattere in volo",
+      "de": "einen Luftkampf führen",
+      "nl": "een luchtgevecht voeren",
+      "pt": "combater no ar"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "downcast",
+    "group": 2,
+    "groupName": "Advanced Verbs 2",
+    "base": "downcast",
+    "pastSimple": [
+      "downcast"
+    ],
+    "pastParticiple": [
+      "downcast"
+    ],
+    "display": "downcast → downcast → downcast",
+    "translations": {
+      "en": "cast down / lower",
+      "fr": "abaisser",
+      "es": "bajar / abatir",
+      "it": "abbassare",
+      "de": "senken",
+      "nl": "neerslaan / verlagen",
+      "pt": "baixar / abater"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "forbear",
+    "group": 2,
+    "groupName": "Advanced Verbs 2",
+    "base": "forbear",
+    "pastSimple": [
+      "forbore"
+    ],
+    "pastParticiple": [
+      "forborne"
+    ],
+    "display": "forbear → forbore → forborne",
+    "translations": {
+      "en": "refrain from",
+      "fr": "s'abstenir de",
+      "es": "abstenerse de",
+      "it": "astenersi da",
+      "de": "sich enthalten",
+      "nl": "zich onthouden van",
+      "pt": "abster-se de"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "foretell",
+    "group": 2,
+    "groupName": "Advanced Verbs 2",
+    "base": "foretell",
+    "pastSimple": [
+      "foretold"
+    ],
+    "pastParticiple": [
+      "foretold"
+    ],
+    "display": "foretell → foretold → foretold",
+    "translations": {
+      "en": "predict",
+      "fr": "prédire",
+      "es": "predecir",
+      "it": "predire",
+      "de": "vorhersagen",
+      "nl": "voorspellen",
+      "pt": "prever"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "forgo",
+    "group": 2,
+    "groupName": "Advanced Verbs 2",
+    "base": "forgo",
+    "pastSimple": [
+      "forwent"
+    ],
+    "pastParticiple": [
+      "forgone"
+    ],
+    "display": "forgo → forwent → forgone",
+    "translations": {
+      "en": "give up / do without",
+      "fr": "renoncer à",
+      "es": "renunciar a",
+      "it": "rinunciare a",
+      "de": "verzichten auf",
+      "nl": "afzien van",
+      "pt": "renunciar a"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "gainsay",
+    "group": 2,
+    "groupName": "Advanced Verbs 2",
+    "base": "gainsay",
+    "pastSimple": [
+      "gainsaid"
+    ],
+    "pastParticiple": [
+      "gainsaid"
+    ],
+    "display": "gainsay → gainsaid → gainsaid",
+    "translations": {
+      "en": "deny / contradict",
+      "fr": "contredire",
+      "es": "contradecir",
+      "it": "contraddire",
+      "de": "widersprechen",
+      "nl": "tegenspreken",
+      "pt": "contradizer"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "ghostwrite",
+    "group": 3,
+    "groupName": "Advanced Verbs 3",
+    "base": "ghostwrite",
+    "pastSimple": [
+      "ghostwrote"
+    ],
+    "pastParticiple": [
+      "ghostwritten"
+    ],
+    "display": "ghostwrite → ghostwrote → ghostwritten",
+    "translations": {
+      "en": "write for someone else",
+      "fr": "écrire comme prête-plume",
+      "es": "escribir como negro literario",
+      "it": "scrivere da ghostwriter",
+      "de": "als Ghostwriter schreiben",
+      "nl": "ghostwriten",
+      "pt": "escrever como ghostwriter"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "gird",
+    "group": 3,
+    "groupName": "Advanced Verbs 3",
+    "base": "gird",
+    "pastSimple": [
+      "girded",
+      "girt"
+    ],
+    "pastParticiple": [
+      "girded",
+      "girt"
+    ],
+    "display": "gird → girded/girt → girded/girt",
+    "translations": {
+      "en": "encircle / prepare",
+      "fr": "ceindre / préparer",
+      "es": "ceñir / preparar",
+      "it": "cingere / preparare",
+      "de": "umgürten / rüsten",
+      "nl": "omgorden / voorbereiden",
+      "pt": "cingir / preparar"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "hand-feed",
+    "group": 3,
+    "groupName": "Advanced Verbs 3",
+    "base": "hand-feed",
+    "pastSimple": [
+      "hand-fed"
+    ],
+    "pastParticiple": [
+      "hand-fed"
+    ],
+    "display": "hand-feed → hand-fed → hand-fed",
+    "translations": {
+      "en": "feed by hand",
+      "fr": "nourrir à la main",
+      "es": "alimentar a mano",
+      "it": "nutrire a mano",
+      "de": "von Hand füttern",
+      "nl": "met de hand voeren",
+      "pt": "alimentar à mão"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "handwrite",
+    "group": 3,
+    "groupName": "Advanced Verbs 3",
+    "base": "handwrite",
+    "pastSimple": [
+      "handwrote"
+    ],
+    "pastParticiple": [
+      "handwritten"
+    ],
+    "display": "handwrite → handwrote → handwritten",
+    "translations": {
+      "en": "write by hand",
+      "fr": "écrire à la main",
+      "es": "escribir a mano",
+      "it": "scrivere a mano",
+      "de": "handschriftlich schreiben",
+      "nl": "met de hand schrijven",
+      "pt": "escrever à mão"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "heave",
+    "group": 3,
+    "groupName": "Advanced Verbs 3",
+    "base": "heave",
+    "pastSimple": [
+      "heaved",
+      "hove"
+    ],
+    "pastParticiple": [
+      "heaved",
+      "hove"
+    ],
+    "display": "heave → heaved/hove → heaved/hove",
+    "translations": {
+      "en": "lift / throw / move heavily",
+      "fr": "soulever / lancer",
+      "es": "alzar / lanzar",
+      "it": "sollevare / lanciare",
+      "de": "heben / werfen",
+      "nl": "heffen / werpen",
+      "pt": "erguer / lançar"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "hew",
+    "group": 3,
+    "groupName": "Advanced Verbs 3",
+    "base": "hew",
+    "pastSimple": [
+      "hewed"
+    ],
+    "pastParticiple": [
+      "hewn",
+      "hewed"
+    ],
+    "display": "hew → hewed → hewn/hewed",
+    "translations": {
+      "en": "cut / chop",
+      "fr": "tailler / couper",
+      "es": "talar / cortar",
+      "it": "tagliare / squadrate",
+      "de": "hauen / behauen",
+      "nl": "hakken / uithouwen",
+      "pt": "talhar / cortar"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "housebreak",
+    "group": 3,
+    "groupName": "Advanced Verbs 3",
+    "base": "housebreak",
+    "pastSimple": [
+      "housebroke"
+    ],
+    "pastParticiple": [
+      "housebroken"
+    ],
+    "display": "housebreak → housebroke → housebroken",
+    "translations": {
+      "en": "train a pet for the house",
+      "fr": "apprendre la propreté à un animal",
+      "es": "adiestrar para hacer sus necesidades",
+      "it": "addestrare alla casa",
+      "de": "stubenerziehen",
+      "nl": "zindelijk maken",
+      "pt": "treinar para casa"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "inbreed",
+    "group": 3,
+    "groupName": "Advanced Verbs 3",
+    "base": "inbreed",
+    "pastSimple": [
+      "inbred"
+    ],
+    "pastParticiple": [
+      "inbred"
+    ],
+    "display": "inbreed → inbred → inbred",
+    "translations": {
+      "en": "breed within a close group",
+      "fr": "faire de la consanguinité",
+      "es": "criar por endogamia",
+      "it": "praticare consanguineità",
+      "de": "inzüchten",
+      "nl": "inteelt toepassen",
+      "pt": "criar por endogamia"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "interbreed",
+    "group": 3,
+    "groupName": "Advanced Verbs 3",
+    "base": "interbreed",
+    "pastSimple": [
+      "interbred"
+    ],
+    "pastParticiple": [
+      "interbred"
+    ],
+    "display": "interbreed → interbred → interbred",
+    "translations": {
+      "en": "breed with another group",
+      "fr": "se croiser",
+      "es": "cruzarse",
+      "it": "incrociarsi",
+      "de": "sich kreuzen",
+      "nl": "kruisen",
+      "pt": "cruzar-se"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "intercut",
+    "group": 3,
+    "groupName": "Advanced Verbs 3",
+    "base": "intercut",
+    "pastSimple": [
+      "intercut"
+    ],
+    "pastParticiple": [
+      "intercut"
+    ],
+    "display": "intercut → intercut → intercut",
+    "translations": {
+      "en": "edit by alternating scenes",
+      "fr": "monter en alternance",
+      "es": "intercalar escenas",
+      "it": "intercalare scene",
+      "de": "zwischenschneiden",
+      "nl": "afwisselend monteren",
+      "pt": "intercalar cenas"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "interlay",
+    "group": 4,
+    "groupName": "Advanced Verbs 4",
+    "base": "interlay",
+    "pastSimple": [
+      "interlaid"
+    ],
+    "pastParticiple": [
+      "interlaid"
+    ],
+    "display": "interlay → interlaid → interlaid",
+    "translations": {
+      "en": "lay between",
+      "fr": "intercaler",
+      "es": "intercalar",
+      "it": "interporre",
+      "de": "dazwischenlegen",
+      "nl": "ertussen leggen",
+      "pt": "intercalar"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "interweave",
+    "group": 4,
+    "groupName": "Advanced Verbs 4",
+    "base": "interweave",
+    "pastSimple": [
+      "interwove",
+      "interweaved"
+    ],
+    "pastParticiple": [
+      "interwoven",
+      "interweaved"
+    ],
+    "display": "interweave → interwove/interweaved → interwoven/interweaved",
+    "translations": {
+      "en": "weave together",
+      "fr": "entrelacer",
+      "es": "entrelazar",
+      "it": "intrecciare",
+      "de": "verweben",
+      "nl": "verweven",
+      "pt": "entrelaçar"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "joyride",
+    "group": 4,
+    "groupName": "Advanced Verbs 4",
+    "base": "joyride",
+    "pastSimple": [
+      "joyrode"
+    ],
+    "pastParticiple": [
+      "joyridden"
+    ],
+    "display": "joyride → joyrode → joyridden",
+    "translations": {
+      "en": "ride for fun, often recklessly",
+      "fr": "faire une virée en voiture",
+      "es": "dar una vuelta imprudente",
+      "it": "fare un giro spericolato",
+      "de": "eine Spritztour machen",
+      "nl": "een joyride maken",
+      "pt": "dar uma volta imprudente"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "lip-read",
+    "group": 4,
+    "groupName": "Advanced Verbs 4",
+    "base": "lip-read",
+    "pastSimple": [
+      "lip-read"
+    ],
+    "pastParticiple": [
+      "lip-read"
+    ],
+    "display": "lip-read → lip-read → lip-read",
+    "translations": {
+      "en": "read lips",
+      "fr": "lire sur les lèvres",
+      "es": "leer los labios",
+      "it": "leggere le labbra",
+      "de": "von den Lippen ablesen",
+      "nl": "liplezen",
+      "pt": "ler lábios"
+    },
+    "difficulty": 3,
+    "spokenText": "lip reed, lip red, lip red"
+  },
+  {
+    "id": "miscast",
+    "group": 4,
+    "groupName": "Advanced Verbs 4",
+    "base": "miscast",
+    "pastSimple": [
+      "miscast"
+    ],
+    "pastParticiple": [
+      "miscast"
+    ],
+    "display": "miscast → miscast → miscast",
+    "translations": {
+      "en": "cast in the wrong role",
+      "fr": "mal distribuer un rôle",
+      "es": "asignar mal un papel",
+      "it": "assegnare male un ruolo",
+      "de": "fehlbesetzen",
+      "nl": "verkeerd casten",
+      "pt": "escalar mal"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "misdeal",
+    "group": 4,
+    "groupName": "Advanced Verbs 4",
+    "base": "misdeal",
+    "pastSimple": [
+      "misdealt"
+    ],
+    "pastParticiple": [
+      "misdealt"
+    ],
+    "display": "misdeal → misdealt → misdealt",
+    "translations": {
+      "en": "deal incorrectly",
+      "fr": "distribuer mal",
+      "es": "repartir mal",
+      "it": "distribuire male",
+      "de": "falsch austeilen",
+      "nl": "verkeerd delen",
+      "pt": "distribuir mal"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "misdo",
+    "group": 4,
+    "groupName": "Advanced Verbs 4",
+    "base": "misdo",
+    "pastSimple": [
+      "misdid"
+    ],
+    "pastParticiple": [
+      "misdone"
+    ],
+    "display": "misdo → misdid → misdone",
+    "translations": {
+      "en": "do wrongly",
+      "fr": "mal faire",
+      "es": "hacer mal",
+      "it": "fare male",
+      "de": "falsch machen",
+      "nl": "verkeerd doen",
+      "pt": "fazer mal"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "misgive",
+    "group": 4,
+    "groupName": "Advanced Verbs 4",
+    "base": "misgive",
+    "pastSimple": [
+      "misgave"
+    ],
+    "pastParticiple": [
+      "misgiven"
+    ],
+    "display": "misgive → misgave → misgiven",
+    "translations": {
+      "en": "make doubtful / worry",
+      "fr": "inquiéter / faire douter",
+      "es": "hacer dudar",
+      "it": "far dubitare",
+      "de": "zweifeln lassen",
+      "nl": "doen twijfelen",
+      "pt": "fazer duvidar"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "mishear",
+    "group": 4,
+    "groupName": "Advanced Verbs 4",
+    "base": "mishear",
+    "pastSimple": [
+      "misheard"
+    ],
+    "pastParticiple": [
+      "misheard"
+    ],
+    "display": "mishear → misheard → misheard",
+    "translations": {
+      "en": "hear incorrectly",
+      "fr": "mal entendre",
+      "es": "oír mal",
+      "it": "sentire male",
+      "de": "sich verhören",
+      "nl": "verkeerd horen",
+      "pt": "ouvir mal"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "mislay",
+    "group": 4,
+    "groupName": "Advanced Verbs 4",
+    "base": "mislay",
+    "pastSimple": [
+      "mislaid"
+    ],
+    "pastParticiple": [
+      "mislaid"
+    ],
+    "display": "mislay → mislaid → mislaid",
+    "translations": {
+      "en": "misplace",
+      "fr": "égarer",
+      "es": "extraviar",
+      "it": "smarrire",
+      "de": "verlegen",
+      "nl": "kwijtraken",
+      "pt": "extraviar"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "misread",
+    "group": 5,
+    "groupName": "Advanced Verbs 5",
+    "base": "misread",
+    "pastSimple": [
+      "misread"
+    ],
+    "pastParticiple": [
+      "misread"
+    ],
+    "display": "misread → misread → misread",
+    "translations": {
+      "en": "read incorrectly",
+      "fr": "mal lire",
+      "es": "leer mal",
+      "it": "leggere male",
+      "de": "falsch lesen",
+      "nl": "verkeerd lezen",
+      "pt": "ler mal"
+    },
+    "difficulty": 3,
+    "spokenText": "misreed, misred, misred"
+  },
+  {
+    "id": "misspeak",
+    "group": 5,
+    "groupName": "Advanced Verbs 5",
+    "base": "misspeak",
+    "pastSimple": [
+      "misspoke"
+    ],
+    "pastParticiple": [
+      "misspoken"
+    ],
+    "display": "misspeak → misspoke → misspoken",
+    "translations": {
+      "en": "speak incorrectly",
+      "fr": "mal s'exprimer",
+      "es": "expresarse mal",
+      "it": "esprimersi male",
+      "de": "sich versprechen",
+      "nl": "zich verspreken",
+      "pt": "expressar-se mal"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "misspell",
+    "group": 5,
+    "groupName": "Advanced Verbs 5",
+    "base": "misspell",
+    "pastSimple": [
+      "misspelled",
+      "misspelt"
+    ],
+    "pastParticiple": [
+      "misspelled",
+      "misspelt"
+    ],
+    "display": "misspell → misspelled/misspelt → misspelled/misspelt",
+    "translations": {
+      "en": "spell incorrectly",
+      "fr": "mal orthographier",
+      "es": "escribir mal",
+      "it": "scrivere male",
+      "de": "falsch schreiben",
+      "nl": "verkeerd spellen",
+      "pt": "soletrar mal"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "misspend",
+    "group": 5,
+    "groupName": "Advanced Verbs 5",
+    "base": "misspend",
+    "pastSimple": [
+      "misspent"
+    ],
+    "pastParticiple": [
+      "misspent"
+    ],
+    "display": "misspend → misspent → misspent",
+    "translations": {
+      "en": "spend badly",
+      "fr": "mal dépenser",
+      "es": "gastar mal",
+      "it": "spendere male",
+      "de": "verschwenden",
+      "nl": "verkwisten",
+      "pt": "gastar mal"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "miswrite",
+    "group": 5,
+    "groupName": "Advanced Verbs 5",
+    "base": "miswrite",
+    "pastSimple": [
+      "miswrote"
+    ],
+    "pastParticiple": [
+      "miswritten"
+    ],
+    "display": "miswrite → miswrote → miswritten",
+    "translations": {
+      "en": "write incorrectly",
+      "fr": "mal écrire",
+      "es": "escribir incorrectamente",
+      "it": "scrivere male",
+      "de": "falsch schreiben",
+      "nl": "verkeerd schrijven",
+      "pt": "escrever mal"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "offset",
+    "group": 5,
+    "groupName": "Advanced Verbs 5",
+    "base": "offset",
+    "pastSimple": [
+      "offset"
+    ],
+    "pastParticiple": [
+      "offset"
+    ],
+    "display": "offset → offset → offset",
+    "translations": {
+      "en": "balance / compensate",
+      "fr": "compenser",
+      "es": "compensar",
+      "it": "compensare",
+      "de": "ausgleichen",
+      "nl": "compenseren",
+      "pt": "compensar"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "outbid",
+    "group": 5,
+    "groupName": "Advanced Verbs 5",
+    "base": "outbid",
+    "pastSimple": [
+      "outbid"
+    ],
+    "pastParticiple": [
+      "outbid"
+    ],
+    "display": "outbid → outbid → outbid",
+    "translations": {
+      "en": "bid more than someone",
+      "fr": "surenchérir",
+      "es": "superar una oferta",
+      "it": "rilanciare più alto",
+      "de": "überbieten",
+      "nl": "overbieden",
+      "pt": "superar uma oferta"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "outbreed",
+    "group": 5,
+    "groupName": "Advanced Verbs 5",
+    "base": "outbreed",
+    "pastSimple": [
+      "outbred"
+    ],
+    "pastParticiple": [
+      "outbred"
+    ],
+    "display": "outbreed → outbred → outbred",
+    "translations": {
+      "en": "breed outside a close group",
+      "fr": "croiser hors du groupe",
+      "es": "criar fuera del grupo",
+      "it": "incrociare fuori dal gruppo",
+      "de": "auskreuzen",
+      "nl": "uitkruisen",
+      "pt": "cruzar fora do grupo"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "outdraw",
+    "group": 5,
+    "groupName": "Advanced Verbs 5",
+    "base": "outdraw",
+    "pastSimple": [
+      "outdrew"
+    ],
+    "pastParticiple": [
+      "outdrawn"
+    ],
+    "display": "outdraw → outdrew → outdrawn",
+    "translations": {
+      "en": "draw faster or better",
+      "fr": "dégainer plus vite / attirer plus",
+      "es": "sacar más rápido / atraer más",
+      "it": "estrarre più veloce / attirare più",
+      "de": "schneller ziehen / mehr anziehen",
+      "nl": "sneller trekken / meer aantrekken",
+      "pt": "sacar mais rápido / atrair mais"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "outfight",
+    "group": 5,
+    "groupName": "Advanced Verbs 5",
+    "base": "outfight",
+    "pastSimple": [
+      "outfought"
+    ],
+    "pastParticiple": [
+      "outfought"
+    ],
+    "display": "outfight → outfought → outfought",
+    "translations": {
+      "en": "fight better than",
+      "fr": "vaincre au combat",
+      "es": "vencer luchando",
+      "it": "battere in combattimento",
+      "de": "im Kampf übertreffen",
+      "nl": "overwinnen in gevecht",
+      "pt": "vencer em combate"
+    },
+    "difficulty": 3
+  }
+]

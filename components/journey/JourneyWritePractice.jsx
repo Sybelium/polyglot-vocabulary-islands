@@ -12,6 +12,21 @@ function getWordText(word, lang) {
   return word[lang] || word.en || "";
 }
 
+function WordThumbnail({ word, fallback }) {
+  if (word?.imageSrc) {
+    return (
+      <img
+        src={word.imageSrc}
+        alt=""
+        className="h-full w-full rounded-3xl object-cover"
+        draggable="false"
+      />
+    );
+  }
+
+  return word?.image || fallback;
+}
+
 function normalizeText(text) {
   return text
     .toLowerCase()
@@ -149,7 +164,7 @@ export default function JourneyWritePractice({ lang, island, words }) {
         id: currentWord.id,
         expected: currentText,
         received: answer || "—",
-        image: currentWord.image,
+        word: currentWord,
       },
     ]);
 
@@ -190,7 +205,9 @@ export default function JourneyWritePractice({ lang, island, words }) {
                   className="flex items-center justify-between gap-4 rounded-2xl bg-white p-4 shadow"
                 >
                   <div className="flex items-center gap-3">
-                    <div className="text-3xl">{word.image || "❔"}</div>
+                    <div className="grid h-14 w-14 shrink-0 place-items-center overflow-hidden rounded-2xl bg-yellow-100 text-3xl">
+  <WordThumbnail word={word.word} fallback="❔" />
+</div>
 
                     <div>
                       <div className="text-lg font-black text-blue-950">
@@ -266,9 +283,9 @@ export default function JourneyWritePractice({ lang, island, words }) {
 
       <div className="mt-8 grid gap-8 lg:grid-cols-[0.9fr_1.1fr]">
         <div className="grid place-items-center rounded-[2rem] bg-yellow-50 p-8 text-center shadow-inner">
-          <div className="text-[6rem] leading-none md:text-[9rem]">
-            {currentWord.image || "❔"}
-          </div>
+          <div className="grid h-40 w-40 place-items-center overflow-hidden rounded-[2rem] bg-white text-[6rem] leading-none shadow md:h-56 md:w-56 md:text-[9rem]">
+  <WordThumbnail word={currentWord} fallback="❔" />
+</div>
 
           <div className="mt-4 text-sm font-bold uppercase tracking-wide text-slate-500">
             Listen, then type the word

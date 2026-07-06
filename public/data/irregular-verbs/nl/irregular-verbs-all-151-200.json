@@ -1,0 +1,1152 @@
+[
+  {
+    "id": "vragen",
+    "group": 1,
+    "groupName": "All Verbs 151–200",
+    "base": "vragen",
+    "pastSimple": [
+      "vroeg",
+      "vroegen"
+    ],
+    "pastParticiple": [
+      "gevraagd"
+    ],
+    "display": "vragen → vroeg/vroegen → gevraagd",
+    "translations": {
+      "en": "ask",
+      "fr": "demander",
+      "es": "preguntar / pedir",
+      "it": "chiedere",
+      "de": "fragen",
+      "pt": "perguntar / pedir"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "vreten",
+    "group": 1,
+    "groupName": "All Verbs 151–200",
+    "base": "vreten",
+    "pastSimple": [
+      "vrat",
+      "vraten"
+    ],
+    "pastParticiple": [
+      "gevreten"
+    ],
+    "display": "vreten → vrat/vraten → gevreten",
+    "translations": {
+      "en": "devour / eat greedily",
+      "fr": "dévorer",
+      "es": "devorar",
+      "it": "divorare",
+      "de": "fressen",
+      "pt": "devorar"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "vriezen",
+    "group": 1,
+    "groupName": "All Verbs 151–200",
+    "base": "vriezen",
+    "pastSimple": [
+      "vroor",
+      "vroren"
+    ],
+    "pastParticiple": [
+      "gevroren"
+    ],
+    "display": "vriezen → vroor/vroren → gevroren",
+    "translations": {
+      "en": "freeze",
+      "fr": "geler",
+      "es": "helar / congelarse",
+      "it": "gelare",
+      "de": "frieren / gefrieren",
+      "pt": "gelar / congelar"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "vrijlaten",
+    "group": 1,
+    "groupName": "All Verbs 151–200",
+    "base": "vrijlaten",
+    "pastSimple": [
+      "liet vrij",
+      "lieten vrij"
+    ],
+    "pastParticiple": [
+      "vrijgelaten"
+    ],
+    "display": "vrijlaten → liet vrij/lieten vrij → vrijgelaten",
+    "translations": {
+      "en": "release / set free",
+      "fr": "libérer",
+      "es": "liberar",
+      "it": "liberare",
+      "de": "freilassen",
+      "pt": "libertar"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "voldoen",
+    "group": 1,
+    "groupName": "All Verbs 151–200",
+    "base": "voldoen",
+    "pastSimple": [
+      "voldeed",
+      "voldeden"
+    ],
+    "pastParticiple": [
+      "voldaan"
+    ],
+    "display": "voldoen → voldeed/voldeden → voldaan",
+    "translations": {
+      "en": "satisfy / meet requirements",
+      "fr": "satisfaire / répondre à",
+      "es": "satisfacer / cumplir",
+      "it": "soddisfare / adempiere",
+      "de": "genügen / erfüllen",
+      "pt": "satisfazer / cumprir"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "volhouden",
+    "group": 1,
+    "groupName": "All Verbs 151–200",
+    "base": "volhouden",
+    "pastSimple": [
+      "hield vol",
+      "hielden vol"
+    ],
+    "pastParticiple": [
+      "volgehouden"
+    ],
+    "display": "volhouden → hield vol/hielden vol → volgehouden",
+    "translations": {
+      "en": "keep going / persist",
+      "fr": "tenir bon / persévérer",
+      "es": "aguantar / persistir",
+      "it": "resistere / perseverare",
+      "de": "durchhalten",
+      "pt": "aguentar / persistir"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "voordragen",
+    "group": 1,
+    "groupName": "All Verbs 151–200",
+    "base": "voordragen",
+    "pastSimple": [
+      "droeg voor",
+      "droegen voor"
+    ],
+    "pastParticiple": [
+      "voorgedragen"
+    ],
+    "display": "voordragen → droeg voor/droegen voor → voorgedragen",
+    "translations": {
+      "en": "recite / nominate",
+      "fr": "réciter / proposer",
+      "es": "recitar / proponer",
+      "it": "recitare / proporre",
+      "de": "vortragen / vorschlagen",
+      "pt": "recitar / propor"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "voorgaan",
+    "group": 1,
+    "groupName": "All Verbs 151–200",
+    "base": "voorgaan",
+    "pastSimple": [
+      "ging voor",
+      "gingen voor"
+    ],
+    "pastParticiple": [
+      "voorgegaan"
+    ],
+    "display": "voorgaan → ging voor/gingen voor → voorgegaan",
+    "translations": {
+      "en": "precede / lead the way",
+      "fr": "précéder / passer devant",
+      "es": "preceder / ir delante",
+      "it": "precedere / andare avanti",
+      "de": "vorgehen",
+      "pt": "preceder / ir à frente"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "voorhouden",
+    "group": 1,
+    "groupName": "All Verbs 151–200",
+    "base": "voorhouden",
+    "pastSimple": [
+      "hield voor",
+      "hielden voor"
+    ],
+    "pastParticiple": [
+      "voorgehouden"
+    ],
+    "display": "voorhouden → hield voor/hielden voor → voorgehouden",
+    "translations": {
+      "en": "hold up / present",
+      "fr": "présenter / montrer",
+      "es": "presentar / mostrar",
+      "it": "presentare / mostrare",
+      "de": "vorhalten",
+      "pt": "apresentar / mostrar"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "voorkomen",
+    "group": 1,
+    "groupName": "All Verbs 151–200",
+    "base": "voorkomen",
+    "pastSimple": [
+      "kwam voor",
+      "kwamen voor"
+    ],
+    "pastParticiple": [
+      "voorgekomen"
+    ],
+    "display": "voorkomen → kwam voor/kwamen voor → voorgekomen",
+    "translations": {
+      "en": "occur / appear",
+      "fr": "se produire / apparaître",
+      "es": "ocurrir / aparecer",
+      "it": "accadere / apparire",
+      "de": "vorkommen",
+      "pt": "ocorrer / aparecer"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "voorlezen",
+    "group": 2,
+    "groupName": "All Verbs 151–200",
+    "base": "voorlezen",
+    "pastSimple": [
+      "las voor",
+      "lazen voor"
+    ],
+    "pastParticiple": [
+      "voorgelezen"
+    ],
+    "display": "voorlezen → las voor/lazen voor → voorgelezen",
+    "translations": {
+      "en": "read aloud",
+      "fr": "lire à voix haute",
+      "es": "leer en voz alta",
+      "it": "leggere ad alta voce",
+      "de": "vorlesen",
+      "pt": "ler em voz alta"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "voorliegen",
+    "group": 2,
+    "groupName": "All Verbs 151–200",
+    "base": "voorliegen",
+    "pastSimple": [
+      "loog voor",
+      "logen voor"
+    ],
+    "pastParticiple": [
+      "voorgelogen"
+    ],
+    "display": "voorliegen → loog voor/logen voor → voorgelogen",
+    "translations": {
+      "en": "lie to someone",
+      "fr": "mentir à quelqu'un",
+      "es": "mentir a alguien",
+      "it": "mentire a qualcuno",
+      "de": "belügen / vorlügen",
+      "pt": "mentir a alguém"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "voornemen",
+    "group": 2,
+    "groupName": "All Verbs 151–200",
+    "base": "voornemen",
+    "pastSimple": [
+      "nam voor",
+      "namen voor"
+    ],
+    "pastParticiple": [
+      "voorgenomen"
+    ],
+    "display": "voornemen → nam voor/namen voor → voorgenomen",
+    "translations": {
+      "en": "intend / resolve",
+      "fr": "avoir l'intention de",
+      "es": "proponerse",
+      "it": "proporsi",
+      "de": "sich vornehmen",
+      "pt": "propor-se"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "voorschrijven",
+    "group": 2,
+    "groupName": "All Verbs 151–200",
+    "base": "voorschrijven",
+    "pastSimple": [
+      "schreef voor",
+      "schreven voor"
+    ],
+    "pastParticiple": [
+      "voorgeschreven"
+    ],
+    "display": "voorschrijven → schreef voor/schreven voor → voorgeschreven",
+    "translations": {
+      "en": "prescribe / dictate",
+      "fr": "prescrire",
+      "es": "prescribir",
+      "it": "prescrivere",
+      "de": "vorschreiben",
+      "pt": "prescrever"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "voortgaan",
+    "group": 2,
+    "groupName": "All Verbs 151–200",
+    "base": "voortgaan",
+    "pastSimple": [
+      "ging voort",
+      "gingen voort"
+    ],
+    "pastParticiple": [
+      "voortgegaan"
+    ],
+    "display": "voortgaan → ging voort/gingen voort → voortgegaan",
+    "translations": {
+      "en": "continue / go on",
+      "fr": "continuer",
+      "es": "continuar",
+      "it": "continuare",
+      "de": "fortfahren / weitergehen",
+      "pt": "continuar"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "voortkomen",
+    "group": 2,
+    "groupName": "All Verbs 151–200",
+    "base": "voortkomen",
+    "pastSimple": [
+      "kwam voort",
+      "kwamen voort"
+    ],
+    "pastParticiple": [
+      "voortgekomen"
+    ],
+    "display": "voortkomen → kwam voort/kwamen voort → voortgekomen",
+    "translations": {
+      "en": "come from / result from",
+      "fr": "provenir de",
+      "es": "provenir de",
+      "it": "derivare da",
+      "de": "hervorgehen / entstehen",
+      "pt": "provir de"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "wegblijven",
+    "group": 2,
+    "groupName": "All Verbs 151–200",
+    "base": "wegblijven",
+    "pastSimple": [
+      "bleef weg",
+      "bleven weg"
+    ],
+    "pastParticiple": [
+      "weggebleven"
+    ],
+    "display": "wegblijven → bleef weg/bleven weg → weggebleven",
+    "translations": {
+      "en": "stay away",
+      "fr": "rester à l'écart",
+      "es": "ausentarse / no venir",
+      "it": "restare lontano",
+      "de": "wegbleiben",
+      "pt": "ficar afastado"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "weggaan",
+    "group": 2,
+    "groupName": "All Verbs 151–200",
+    "base": "weggaan",
+    "pastSimple": [
+      "ging weg",
+      "gingen weg"
+    ],
+    "pastParticiple": [
+      "weggegaan"
+    ],
+    "display": "weggaan → ging weg/gingen weg → weggegaan",
+    "translations": {
+      "en": "go away / leave",
+      "fr": "s'en aller",
+      "es": "irse",
+      "it": "andarsene",
+      "de": "weggehen",
+      "pt": "ir embora"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "weggeven",
+    "group": 2,
+    "groupName": "All Verbs 151–200",
+    "base": "weggeven",
+    "pastSimple": [
+      "gaf weg",
+      "gaven weg"
+    ],
+    "pastParticiple": [
+      "weggegeven"
+    ],
+    "display": "weggeven → gaf weg/gaven weg → weggegeven",
+    "translations": {
+      "en": "give away",
+      "fr": "donner / révéler",
+      "es": "regalar / revelar",
+      "it": "regalare / rivelare",
+      "de": "weggeben / verraten",
+      "pt": "dar / revelar"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "wegkomen",
+    "group": 2,
+    "groupName": "All Verbs 151–200",
+    "base": "wegkomen",
+    "pastSimple": [
+      "kwam weg",
+      "kwamen weg"
+    ],
+    "pastParticiple": [
+      "weggekomen"
+    ],
+    "display": "wegkomen → kwam weg/kwamen weg → weggekomen",
+    "translations": {
+      "en": "get away",
+      "fr": "s'échapper",
+      "es": "escaparse",
+      "it": "scappare / cavarsela",
+      "de": "wegkommen",
+      "pt": "escapar"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "weglopen",
+    "group": 3,
+    "groupName": "All Verbs 151–200",
+    "base": "weglopen",
+    "pastSimple": [
+      "liep weg",
+      "liepen weg"
+    ],
+    "pastParticiple": [
+      "weggelopen"
+    ],
+    "display": "weglopen → liep weg/liepen weg → weggelopen",
+    "translations": {
+      "en": "run away / walk away",
+      "fr": "s'enfuir / partir",
+      "es": "escaparse / alejarse",
+      "it": "scappare / andarsene",
+      "de": "weglaufen",
+      "pt": "fugir / ir embora"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "wegnemen",
+    "group": 3,
+    "groupName": "All Verbs 151–200",
+    "base": "wegnemen",
+    "pastSimple": [
+      "nam weg",
+      "namen weg"
+    ],
+    "pastParticiple": [
+      "weggenomen"
+    ],
+    "display": "wegnemen → nam weg/namen weg → weggenomen",
+    "translations": {
+      "en": "take away / remove",
+      "fr": "enlever / retirer",
+      "es": "quitar / llevarse",
+      "it": "togliere / portare via",
+      "de": "wegnehmen",
+      "pt": "tirar / remover"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "wegrijden",
+    "group": 3,
+    "groupName": "All Verbs 151–200",
+    "base": "wegrijden",
+    "pastSimple": [
+      "reed weg",
+      "reden weg"
+    ],
+    "pastParticiple": [
+      "weggereden"
+    ],
+    "display": "wegrijden → reed weg/reden weg → weggereden",
+    "translations": {
+      "en": "drive away",
+      "fr": "partir en voiture",
+      "es": "irse en coche",
+      "it": "andarsene in macchina",
+      "de": "wegfahren",
+      "pt": "ir embora de carro"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "wegvallen",
+    "group": 3,
+    "groupName": "All Verbs 151–200",
+    "base": "wegvallen",
+    "pastSimple": [
+      "viel weg",
+      "vielen weg"
+    ],
+    "pastParticiple": [
+      "weggevallen"
+    ],
+    "display": "wegvallen → viel weg/vielen weg → weggevallen",
+    "translations": {
+      "en": "drop out / disappear",
+      "fr": "disparaître / tomber",
+      "es": "desaparecer / caerse",
+      "it": "venire meno / cadere",
+      "de": "wegfallen",
+      "pt": "desaparecer / cair"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "wegwerpen",
+    "group": 3,
+    "groupName": "All Verbs 151–200",
+    "base": "wegwerpen",
+    "pastSimple": [
+      "wierp weg",
+      "wierpen weg"
+    ],
+    "pastParticiple": [
+      "weggeworpen"
+    ],
+    "display": "wegwerpen → wierp weg/wierpen weg → weggeworpen",
+    "translations": {
+      "en": "throw away",
+      "fr": "jeter",
+      "es": "tirar / desechar",
+      "it": "gettare via",
+      "de": "wegwerfen",
+      "pt": "jogar fora"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "wassen",
+    "group": 3,
+    "groupName": "All Verbs 151–200",
+    "base": "wassen",
+    "pastSimple": [
+      "waste",
+      "wasten"
+    ],
+    "pastParticiple": [
+      "gewassen"
+    ],
+    "display": "wassen → waste/wasten → gewassen",
+    "translations": {
+      "en": "wash",
+      "fr": "laver",
+      "es": "lavar",
+      "it": "lavare",
+      "de": "waschen",
+      "pt": "lavar"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "wegen",
+    "group": 3,
+    "groupName": "All Verbs 151–200",
+    "base": "wegen",
+    "pastSimple": [
+      "woog",
+      "wogen"
+    ],
+    "pastParticiple": [
+      "gewogen"
+    ],
+    "display": "wegen → woog/wogen → gewogen",
+    "translations": {
+      "en": "weigh",
+      "fr": "peser",
+      "es": "pesar",
+      "it": "pesare",
+      "de": "wiegen",
+      "pt": "pesar"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "werpen",
+    "group": 3,
+    "groupName": "All Verbs 151–200",
+    "base": "werpen",
+    "pastSimple": [
+      "wierp",
+      "wierpen"
+    ],
+    "pastParticiple": [
+      "geworpen"
+    ],
+    "display": "werpen → wierp/wierpen → geworpen",
+    "translations": {
+      "en": "throw",
+      "fr": "lancer / jeter",
+      "es": "lanzar / arrojar",
+      "it": "lanciare / gettare",
+      "de": "werfen",
+      "pt": "lançar / arremessar"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "werven",
+    "group": 3,
+    "groupName": "All Verbs 151–200",
+    "base": "werven",
+    "pastSimple": [
+      "wierf",
+      "wierven"
+    ],
+    "pastParticiple": [
+      "geworven"
+    ],
+    "display": "werven → wierf/wierven → geworven",
+    "translations": {
+      "en": "recruit",
+      "fr": "recruter",
+      "es": "reclutar",
+      "it": "reclutare",
+      "de": "werben / anwerben",
+      "pt": "recrutar"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "weten",
+    "group": 3,
+    "groupName": "All Verbs 151–200",
+    "base": "weten",
+    "pastSimple": [
+      "wist",
+      "wisten"
+    ],
+    "pastParticiple": [
+      "geweten"
+    ],
+    "display": "weten → wist/wisten → geweten",
+    "translations": {
+      "en": "know",
+      "fr": "savoir",
+      "es": "saber",
+      "it": "sapere",
+      "de": "wissen",
+      "pt": "saber"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "wijken",
+    "group": 4,
+    "groupName": "All Verbs 151–200",
+    "base": "wijken",
+    "pastSimple": [
+      "week",
+      "weken"
+    ],
+    "pastParticiple": [
+      "geweken"
+    ],
+    "display": "wijken → week/weken → geweken",
+    "translations": {
+      "en": "give way / retreat",
+      "fr": "céder / reculer",
+      "es": "ceder / retirarse",
+      "it": "cedere / arretrare",
+      "de": "weichen",
+      "pt": "ceder / recuar"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "wijzen",
+    "group": 4,
+    "groupName": "All Verbs 151–200",
+    "base": "wijzen",
+    "pastSimple": [
+      "wees",
+      "wezen"
+    ],
+    "pastParticiple": [
+      "gewezen"
+    ],
+    "display": "wijzen → wees/wezen → gewezen",
+    "translations": {
+      "en": "point / indicate",
+      "fr": "indiquer / montrer",
+      "es": "señalar / indicar",
+      "it": "indicare",
+      "de": "weisen / zeigen",
+      "pt": "apontar / indicar"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "winnen",
+    "group": 4,
+    "groupName": "All Verbs 151–200",
+    "base": "winnen",
+    "pastSimple": [
+      "won",
+      "wonnen"
+    ],
+    "pastParticiple": [
+      "gewonnen"
+    ],
+    "display": "winnen → won/wonnen → gewonnen",
+    "translations": {
+      "en": "win",
+      "fr": "gagner",
+      "es": "ganar",
+      "it": "vincere",
+      "de": "gewinnen",
+      "pt": "ganhar"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "worden",
+    "group": 4,
+    "groupName": "All Verbs 151–200",
+    "base": "worden",
+    "pastSimple": [
+      "werd",
+      "werden"
+    ],
+    "pastParticiple": [
+      "geworden"
+    ],
+    "display": "worden → werd/werden → geworden",
+    "translations": {
+      "en": "become",
+      "fr": "devenir",
+      "es": "volverse / convertirse en",
+      "it": "diventare",
+      "de": "werden",
+      "pt": "tornar-se"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "wrijven",
+    "group": 4,
+    "groupName": "All Verbs 151–200",
+    "base": "wrijven",
+    "pastSimple": [
+      "wreef",
+      "wreven"
+    ],
+    "pastParticiple": [
+      "gewreven"
+    ],
+    "display": "wrijven → wreef/wreven → gewreven",
+    "translations": {
+      "en": "rub",
+      "fr": "frotter",
+      "es": "frotar",
+      "it": "strofinare",
+      "de": "reiben",
+      "pt": "esfregar"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "zeggen",
+    "group": 4,
+    "groupName": "All Verbs 151–200",
+    "base": "zeggen",
+    "pastSimple": [
+      "zei",
+      "zeiden"
+    ],
+    "pastParticiple": [
+      "gezegd"
+    ],
+    "display": "zeggen → zei/zeiden → gezegd",
+    "translations": {
+      "en": "say",
+      "fr": "dire",
+      "es": "decir",
+      "it": "dire",
+      "de": "sagen",
+      "pt": "dizer"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "zenden",
+    "group": 4,
+    "groupName": "All Verbs 151–200",
+    "base": "zenden",
+    "pastSimple": [
+      "zond",
+      "zonden"
+    ],
+    "pastParticiple": [
+      "gezonden"
+    ],
+    "display": "zenden → zond/zonden → gezonden",
+    "translations": {
+      "en": "send / broadcast",
+      "fr": "envoyer / diffuser",
+      "es": "enviar / emitir",
+      "it": "inviare / trasmettere",
+      "de": "senden",
+      "pt": "enviar / transmitir"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "zien",
+    "group": 4,
+    "groupName": "All Verbs 151–200",
+    "base": "zien",
+    "pastSimple": [
+      "zag",
+      "zagen"
+    ],
+    "pastParticiple": [
+      "gezien"
+    ],
+    "display": "zien → zag/zagen → gezien",
+    "translations": {
+      "en": "see",
+      "fr": "voir",
+      "es": "ver",
+      "it": "vedere",
+      "de": "sehen",
+      "pt": "ver"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "zijn",
+    "group": 4,
+    "groupName": "All Verbs 151–200",
+    "base": "zijn",
+    "pastSimple": [
+      "was",
+      "waren"
+    ],
+    "pastParticiple": [
+      "geweest"
+    ],
+    "display": "zijn → was/waren → geweest",
+    "translations": {
+      "en": "be",
+      "fr": "être",
+      "es": "ser / estar",
+      "it": "essere",
+      "de": "sein",
+      "pt": "ser / estar"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "zingen",
+    "group": 4,
+    "groupName": "All Verbs 151–200",
+    "base": "zingen",
+    "pastSimple": [
+      "zong",
+      "zongen"
+    ],
+    "pastParticiple": [
+      "gezongen"
+    ],
+    "display": "zingen → zong/zongen → gezongen",
+    "translations": {
+      "en": "sing",
+      "fr": "chanter",
+      "es": "cantar",
+      "it": "cantare",
+      "de": "singen",
+      "pt": "cantar"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "zinken",
+    "group": 5,
+    "groupName": "All Verbs 151–200",
+    "base": "zinken",
+    "pastSimple": [
+      "zonk",
+      "zonken"
+    ],
+    "pastParticiple": [
+      "gezonken"
+    ],
+    "display": "zinken → zonk/zonken → gezonken",
+    "translations": {
+      "en": "sink",
+      "fr": "couler",
+      "es": "hundirse",
+      "it": "affondare",
+      "de": "sinken",
+      "pt": "afundar"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "zitten",
+    "group": 5,
+    "groupName": "All Verbs 151–200",
+    "base": "zitten",
+    "pastSimple": [
+      "zat",
+      "zaten"
+    ],
+    "pastParticiple": [
+      "gezeten"
+    ],
+    "display": "zitten → zat/zaten → gezeten",
+    "translations": {
+      "en": "sit",
+      "fr": "être assis",
+      "es": "estar sentado",
+      "it": "stare seduto",
+      "de": "sitzen",
+      "pt": "estar sentado"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "zoeken",
+    "group": 5,
+    "groupName": "All Verbs 151–200",
+    "base": "zoeken",
+    "pastSimple": [
+      "zocht",
+      "zochten"
+    ],
+    "pastParticiple": [
+      "gezocht"
+    ],
+    "display": "zoeken → zocht/zochten → gezocht",
+    "translations": {
+      "en": "search / look for",
+      "fr": "chercher",
+      "es": "buscar",
+      "it": "cercare",
+      "de": "suchen",
+      "pt": "procurar / buscar"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "zuigen",
+    "group": 5,
+    "groupName": "All Verbs 151–200",
+    "base": "zuigen",
+    "pastSimple": [
+      "zoog",
+      "zogen"
+    ],
+    "pastParticiple": [
+      "gezogen"
+    ],
+    "display": "zuigen → zoog/zogen → gezogen",
+    "translations": {
+      "en": "suck",
+      "fr": "sucer / aspirer",
+      "es": "chupar / aspirar",
+      "it": "succhiare / aspirare",
+      "de": "saugen",
+      "pt": "sugar / aspirar"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "zuipen",
+    "group": 5,
+    "groupName": "All Verbs 151–200",
+    "base": "zuipen",
+    "pastSimple": [
+      "zoop",
+      "zopen"
+    ],
+    "pastParticiple": [
+      "gezopen"
+    ],
+    "display": "zuipen → zoop/zopen → gezopen",
+    "translations": {
+      "en": "drink heavily",
+      "fr": "boire beaucoup",
+      "es": "beber en exceso",
+      "it": "bere troppo",
+      "de": "saufen",
+      "pt": "beber demais"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "zwellen",
+    "group": 5,
+    "groupName": "All Verbs 151–200",
+    "base": "zwellen",
+    "pastSimple": [
+      "zwol",
+      "zwollen"
+    ],
+    "pastParticiple": [
+      "gezwollen"
+    ],
+    "display": "zwellen → zwol/zwollen → gezwollen",
+    "translations": {
+      "en": "swell",
+      "fr": "gonfler",
+      "es": "hincharse",
+      "it": "gonfiarsi",
+      "de": "schwellen",
+      "pt": "inchar"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "zwemmen",
+    "group": 5,
+    "groupName": "All Verbs 151–200",
+    "base": "zwemmen",
+    "pastSimple": [
+      "zwom",
+      "zwommen"
+    ],
+    "pastParticiple": [
+      "gezwommen"
+    ],
+    "display": "zwemmen → zwom/zwommen → gezwommen",
+    "translations": {
+      "en": "swim",
+      "fr": "nager",
+      "es": "nadar",
+      "it": "nuotare",
+      "de": "schwimmen",
+      "pt": "nadar"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "zweren",
+    "group": 5,
+    "groupName": "All Verbs 151–200",
+    "base": "zweren",
+    "pastSimple": [
+      "zwoer",
+      "zwoeren"
+    ],
+    "pastParticiple": [
+      "gezworen"
+    ],
+    "display": "zweren → zwoer/zwoeren → gezworen",
+    "translations": {
+      "en": "swear / vow",
+      "fr": "jurer",
+      "es": "jurar",
+      "it": "giurare",
+      "de": "schwören",
+      "pt": "jurar"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "zwerven",
+    "group": 5,
+    "groupName": "All Verbs 151–200",
+    "base": "zwerven",
+    "pastSimple": [
+      "zwierf",
+      "zwierven"
+    ],
+    "pastParticiple": [
+      "gezworven"
+    ],
+    "display": "zwerven → zwierf/zwierven → gezworven",
+    "translations": {
+      "en": "wander / roam",
+      "fr": "errer / vagabonder",
+      "es": "vagar",
+      "it": "vagare",
+      "de": "umherirren / streunen",
+      "pt": "vaguear"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "zwijgen",
+    "group": 5,
+    "groupName": "All Verbs 151–200",
+    "base": "zwijgen",
+    "pastSimple": [
+      "zweeg",
+      "zwegen"
+    ],
+    "pastParticiple": [
+      "gezwegen"
+    ],
+    "display": "zwijgen → zweeg/zwegen → gezwegen",
+    "translations": {
+      "en": "be silent",
+      "fr": "se taire",
+      "es": "callarse",
+      "it": "tacere",
+      "de": "schweigen",
+      "pt": "calar-se"
+    },
+    "difficulty": 3
+  }
+]

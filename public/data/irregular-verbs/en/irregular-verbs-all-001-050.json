@@ -1,0 +1,1131 @@
+[
+  {
+    "id": "abide",
+    "group": 1,
+    "groupName": "All Verbs 001–050",
+    "base": "abide",
+    "pastSimple": [
+      "abode",
+      "abided"
+    ],
+    "pastParticiple": [
+      "abode",
+      "abided"
+    ],
+    "display": "abide → abode/abided → abode/abided",
+    "translations": {
+      "fr": "demeurer / respecter",
+      "es": "permanecer / acatar",
+      "it": "rimanere / rispettare",
+      "de": "verweilen / befolgen",
+      "nl": "verblijven / naleven",
+      "pt": "permanecer / cumprir"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "arise",
+    "group": 1,
+    "groupName": "All Verbs 001–050",
+    "base": "arise",
+    "pastSimple": [
+      "arose"
+    ],
+    "pastParticiple": [
+      "arisen"
+    ],
+    "display": "arise → arose → arisen",
+    "translations": {
+      "fr": "survenir / se lever",
+      "es": "surgir / levantarse",
+      "it": "sorgere / alzarsi",
+      "de": "entstehen / sich erheben",
+      "nl": "ontstaan / opstaan",
+      "pt": "surgir / levantar-se"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "awake",
+    "group": 1,
+    "groupName": "All Verbs 001–050",
+    "base": "awake",
+    "pastSimple": [
+      "awoke",
+      "awaked"
+    ],
+    "pastParticiple": [
+      "awoken",
+      "awaked"
+    ],
+    "display": "awake → awoke/awaked → awoken/awaked",
+    "translations": {
+      "fr": "se réveiller",
+      "es": "despertar(se)",
+      "it": "svegliarsi",
+      "de": "erwachen / aufwachen",
+      "nl": "ontwaken / wakker worden",
+      "pt": "acordar / despertar"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "be",
+    "group": 1,
+    "groupName": "All Verbs 001–050",
+    "base": "be",
+    "pastSimple": [
+      "was",
+      "were"
+    ],
+    "pastParticiple": [
+      "been"
+    ],
+    "display": "be → was/were → been",
+    "translations": {
+      "fr": "être",
+      "es": "ser / estar",
+      "it": "essere",
+      "de": "sein",
+      "nl": "zijn",
+      "pt": "ser / estar"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "bear",
+    "group": 1,
+    "groupName": "All Verbs 001–050",
+    "base": "bear",
+    "pastSimple": [
+      "bore"
+    ],
+    "pastParticiple": [
+      "borne",
+      "born"
+    ],
+    "display": "bear → bore → borne/born",
+    "translations": {
+      "fr": "supporter / porter",
+      "es": "soportar / llevar",
+      "it": "sopportare / portare",
+      "de": "tragen / ertragen",
+      "nl": "dragen / verdragen",
+      "pt": "suportar / carregar"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "beat",
+    "group": 1,
+    "groupName": "All Verbs 001–050",
+    "base": "beat",
+    "pastSimple": [
+      "beat"
+    ],
+    "pastParticiple": [
+      "beaten",
+      "beat"
+    ],
+    "display": "beat → beat → beaten/beat",
+    "translations": {
+      "fr": "battre",
+      "es": "golpear / vencer",
+      "it": "battere",
+      "de": "schlagen / besiegen",
+      "nl": "slaan / verslaan",
+      "pt": "bater / vencer"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "become",
+    "group": 1,
+    "groupName": "All Verbs 001–050",
+    "base": "become",
+    "pastSimple": [
+      "became"
+    ],
+    "pastParticiple": [
+      "become"
+    ],
+    "display": "become → became → become",
+    "translations": {
+      "fr": "devenir",
+      "es": "volverse / convertirse en",
+      "it": "diventare",
+      "de": "werden",
+      "nl": "worden",
+      "pt": "tornar-se / virar"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "befall",
+    "group": 1,
+    "groupName": "All Verbs 001–050",
+    "base": "befall",
+    "pastSimple": [
+      "befell"
+    ],
+    "pastParticiple": [
+      "befallen"
+    ],
+    "display": "befall → befell → befallen",
+    "translations": {
+      "fr": "arriver à / frapper",
+      "es": "sucederle a / acaecer",
+      "it": "accadere a",
+      "de": "widerfahren / zustoßen",
+      "nl": "overkomen",
+      "pt": "acontecer a / sobrevir"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "begin",
+    "group": 1,
+    "groupName": "All Verbs 001–050",
+    "base": "begin",
+    "pastSimple": [
+      "began"
+    ],
+    "pastParticiple": [
+      "begun"
+    ],
+    "display": "begin → began → begun",
+    "translations": {
+      "fr": "commencer",
+      "es": "empezar / comenzar",
+      "it": "cominciare / iniziare",
+      "de": "beginnen",
+      "nl": "beginnen",
+      "pt": "começar"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "behold",
+    "group": 1,
+    "groupName": "All Verbs 001–050",
+    "base": "behold",
+    "pastSimple": [
+      "beheld"
+    ],
+    "pastParticiple": [
+      "beheld"
+    ],
+    "display": "behold → beheld → beheld",
+    "translations": {
+      "fr": "contempler / voir",
+      "es": "contemplar / ver",
+      "it": "contemplare / vedere",
+      "de": "erblicken / betrachten",
+      "nl": "aanschouwen / zien",
+      "pt": "contemplar / ver"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "bend",
+    "group": 1,
+    "groupName": "All Verbs 001–050",
+    "base": "bend",
+    "pastSimple": [
+      "bent"
+    ],
+    "pastParticiple": [
+      "bent"
+    ],
+    "display": "bend → bent → bent",
+    "translations": {
+      "fr": "plier / se pencher",
+      "es": "doblar / inclinarse",
+      "it": "piegare / piegarsi",
+      "de": "biegen / beugen",
+      "nl": "buigen",
+      "pt": "dobrar / curvar-se"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "bereave",
+    "group": 1,
+    "groupName": "All Verbs 001–050",
+    "base": "bereave",
+    "pastSimple": [
+      "bereaved",
+      "bereft"
+    ],
+    "pastParticiple": [
+      "bereaved",
+      "bereft"
+    ],
+    "display": "bereave → bereaved/bereft → bereaved/bereft",
+    "translations": {
+      "fr": "priver / endeuiller",
+      "es": "privar / dejar en duelo",
+      "it": "privare / lasciare in lutto",
+      "de": "berauben / in Trauer versetzen",
+      "nl": "beroven / in rouw dompelen",
+      "pt": "privar / enlutecer"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "beseech",
+    "group": 1,
+    "groupName": "All Verbs 001–050",
+    "base": "beseech",
+    "pastSimple": [
+      "besought",
+      "beseeched"
+    ],
+    "pastParticiple": [
+      "besought",
+      "beseeched"
+    ],
+    "display": "beseech → besought/beseeched → besought/beseeched",
+    "translations": {
+      "fr": "supplier",
+      "es": "suplicar",
+      "it": "implorare",
+      "de": "anflehen / bitten",
+      "nl": "smeken",
+      "pt": "suplicar / implorar"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "beset",
+    "group": 1,
+    "groupName": "All Verbs 001–050",
+    "base": "beset",
+    "pastSimple": [
+      "beset"
+    ],
+    "pastParticiple": [
+      "beset"
+    ],
+    "display": "beset → beset → beset",
+    "translations": {
+      "fr": "assaillir / entourer",
+      "es": "acosar / asediar",
+      "it": "assediare / tormentare",
+      "de": "bedrängen / heimsuchen",
+      "nl": "belagen / teisteren",
+      "pt": "assediar / atormentar"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "bet",
+    "group": 1,
+    "groupName": "All Verbs 001–050",
+    "base": "bet",
+    "pastSimple": [
+      "bet",
+      "betted"
+    ],
+    "pastParticiple": [
+      "bet",
+      "betted"
+    ],
+    "display": "bet → bet/betted → bet/betted",
+    "translations": {
+      "fr": "parier",
+      "es": "apostar",
+      "it": "scommettere",
+      "de": "wetten",
+      "nl": "wedden",
+      "pt": "apostar"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "bid",
+    "group": 1,
+    "groupName": "All Verbs 001–050",
+    "base": "bid",
+    "pastSimple": [
+      "bid",
+      "bade"
+    ],
+    "pastParticiple": [
+      "bid",
+      "bidden"
+    ],
+    "display": "bid → bid/bade → bid/bidden",
+    "translations": {
+      "fr": "offrir / ordonner",
+      "es": "ofertar / ordenar",
+      "it": "fare un'offerta / ordinare",
+      "de": "bieten / befehlen",
+      "nl": "bieden / bevelen",
+      "pt": "licitar / ordenar"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "bind",
+    "group": 1,
+    "groupName": "All Verbs 001–050",
+    "base": "bind",
+    "pastSimple": [
+      "bound"
+    ],
+    "pastParticiple": [
+      "bound"
+    ],
+    "display": "bind → bound → bound",
+    "translations": {
+      "fr": "lier / attacher",
+      "es": "atar / vincular",
+      "it": "legare / vincolare",
+      "de": "binden",
+      "nl": "binden",
+      "pt": "atar / vincular"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "bite",
+    "group": 1,
+    "groupName": "All Verbs 001–050",
+    "base": "bite",
+    "pastSimple": [
+      "bit"
+    ],
+    "pastParticiple": [
+      "bitten"
+    ],
+    "display": "bite → bit → bitten",
+    "translations": {
+      "fr": "mordre",
+      "es": "morder",
+      "it": "mordere",
+      "de": "beißen",
+      "nl": "bijten",
+      "pt": "morder"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "bleed",
+    "group": 1,
+    "groupName": "All Verbs 001–050",
+    "base": "bleed",
+    "pastSimple": [
+      "bled"
+    ],
+    "pastParticiple": [
+      "bled"
+    ],
+    "display": "bleed → bled → bled",
+    "translations": {
+      "fr": "saigner",
+      "es": "sangrar",
+      "it": "sanguinare",
+      "de": "bluten",
+      "nl": "bloeden",
+      "pt": "sangrar"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "blow",
+    "group": 1,
+    "groupName": "All Verbs 001–050",
+    "base": "blow",
+    "pastSimple": [
+      "blew"
+    ],
+    "pastParticiple": [
+      "blown"
+    ],
+    "display": "blow → blew → blown",
+    "translations": {
+      "fr": "souffler",
+      "es": "soplar",
+      "it": "soffiare",
+      "de": "blasen",
+      "nl": "blazen",
+      "pt": "soprar"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "break",
+    "group": 1,
+    "groupName": "All Verbs 001–050",
+    "base": "break",
+    "pastSimple": [
+      "broke"
+    ],
+    "pastParticiple": [
+      "broken"
+    ],
+    "display": "break → broke → broken",
+    "translations": {
+      "fr": "casser",
+      "es": "romper",
+      "it": "rompere",
+      "de": "brechen / kaputtmachen",
+      "nl": "breken",
+      "pt": "quebrar / partir"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "breed",
+    "group": 1,
+    "groupName": "All Verbs 001–050",
+    "base": "breed",
+    "pastSimple": [
+      "bred"
+    ],
+    "pastParticiple": [
+      "bred"
+    ],
+    "display": "breed → bred → bred",
+    "translations": {
+      "fr": "élever / se reproduire",
+      "es": "criar / reproducirse",
+      "it": "allevare / riprodursi",
+      "de": "züchten / sich fortpflanzen",
+      "nl": "fokken / voortplanten",
+      "pt": "criar / reproduzir-se"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "bring",
+    "group": 1,
+    "groupName": "All Verbs 001–050",
+    "base": "bring",
+    "pastSimple": [
+      "brought"
+    ],
+    "pastParticiple": [
+      "brought"
+    ],
+    "display": "bring → brought → brought",
+    "translations": {
+      "fr": "apporter",
+      "es": "traer",
+      "it": "portare",
+      "de": "bringen",
+      "nl": "brengen",
+      "pt": "trazer"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "broadcast",
+    "group": 1,
+    "groupName": "All Verbs 001–050",
+    "base": "broadcast",
+    "pastSimple": [
+      "broadcast",
+      "broadcasted"
+    ],
+    "pastParticiple": [
+      "broadcast",
+      "broadcasted"
+    ],
+    "display": "broadcast → broadcast/broadcasted → broadcast/broadcasted",
+    "translations": {
+      "fr": "diffuser",
+      "es": "transmitir / emitir",
+      "it": "trasmettere",
+      "de": "senden / ausstrahlen",
+      "nl": "uitzenden",
+      "pt": "transmitir / emitir"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "build",
+    "group": 1,
+    "groupName": "All Verbs 001–050",
+    "base": "build",
+    "pastSimple": [
+      "built"
+    ],
+    "pastParticiple": [
+      "built"
+    ],
+    "display": "build → built → built",
+    "translations": {
+      "fr": "construire",
+      "es": "construir",
+      "it": "costruire",
+      "de": "bauen",
+      "nl": "bouwen",
+      "pt": "construir"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "burn",
+    "group": 1,
+    "groupName": "All Verbs 001–050",
+    "base": "burn",
+    "pastSimple": [
+      "burned",
+      "burnt"
+    ],
+    "pastParticiple": [
+      "burned",
+      "burnt"
+    ],
+    "display": "burn → burned/burnt → burned/burnt",
+    "translations": {
+      "fr": "brûler",
+      "es": "quemar / arder",
+      "it": "bruciare",
+      "de": "brennen / verbrennen",
+      "nl": "branden / verbranden",
+      "pt": "queimar / arder"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "burst",
+    "group": 1,
+    "groupName": "All Verbs 001–050",
+    "base": "burst",
+    "pastSimple": [
+      "burst"
+    ],
+    "pastParticiple": [
+      "burst"
+    ],
+    "display": "burst → burst → burst",
+    "translations": {
+      "fr": "éclater",
+      "es": "estallar / reventar",
+      "it": "scoppiare",
+      "de": "platzen / bersten",
+      "nl": "barsten",
+      "pt": "rebentar / explodir"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "buy",
+    "group": 1,
+    "groupName": "All Verbs 001–050",
+    "base": "buy",
+    "pastSimple": [
+      "bought"
+    ],
+    "pastParticiple": [
+      "bought"
+    ],
+    "display": "buy → bought → bought",
+    "translations": {
+      "fr": "acheter",
+      "es": "comprar",
+      "it": "comprare",
+      "de": "kaufen",
+      "nl": "kopen",
+      "pt": "comprar"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "cast",
+    "group": 1,
+    "groupName": "All Verbs 001–050",
+    "base": "cast",
+    "pastSimple": [
+      "cast"
+    ],
+    "pastParticiple": [
+      "cast"
+    ],
+    "display": "cast → cast → cast",
+    "translations": {
+      "fr": "jeter / distribuer un rôle",
+      "es": "lanzar / asignar un papel",
+      "it": "gettare / assegnare un ruolo",
+      "de": "werfen / besetzen",
+      "nl": "werpen / casten",
+      "pt": "lançar / escalar"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "catch",
+    "group": 1,
+    "groupName": "All Verbs 001–050",
+    "base": "catch",
+    "pastSimple": [
+      "caught"
+    ],
+    "pastParticiple": [
+      "caught"
+    ],
+    "display": "catch → caught → caught",
+    "translations": {
+      "fr": "attraper",
+      "es": "atrapar / coger",
+      "it": "prendere / catturare",
+      "de": "fangen / erwischen",
+      "nl": "vangen",
+      "pt": "apanhar / capturar"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "chide",
+    "group": 1,
+    "groupName": "All Verbs 001–050",
+    "base": "chide",
+    "pastSimple": [
+      "chided",
+      "chid"
+    ],
+    "pastParticiple": [
+      "chided",
+      "chidden"
+    ],
+    "display": "chide → chided/chid → chided/chidden",
+    "translations": {
+      "fr": "réprimander",
+      "es": "reprender",
+      "it": "rimproverare",
+      "de": "schelten / zurechtweisen",
+      "nl": "berispen",
+      "pt": "repreender"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "choose",
+    "group": 1,
+    "groupName": "All Verbs 001–050",
+    "base": "choose",
+    "pastSimple": [
+      "chose"
+    ],
+    "pastParticiple": [
+      "chosen"
+    ],
+    "display": "choose → chose → chosen",
+    "translations": {
+      "fr": "choisir",
+      "es": "elegir / escoger",
+      "it": "scegliere",
+      "de": "wählen / aussuchen",
+      "nl": "kiezen",
+      "pt": "escolher"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "cling",
+    "group": 1,
+    "groupName": "All Verbs 001–050",
+    "base": "cling",
+    "pastSimple": [
+      "clung"
+    ],
+    "pastParticiple": [
+      "clung"
+    ],
+    "display": "cling → clung → clung",
+    "translations": {
+      "fr": "s'accrocher",
+      "es": "aferrarse",
+      "it": "aggrapparsi",
+      "de": "sich klammern",
+      "nl": "zich vastklampen",
+      "pt": "agarrar-se"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "clothe",
+    "group": 1,
+    "groupName": "All Verbs 001–050",
+    "base": "clothe",
+    "pastSimple": [
+      "clothed",
+      "clad"
+    ],
+    "pastParticiple": [
+      "clothed",
+      "clad"
+    ],
+    "display": "clothe → clothed/clad → clothed/clad",
+    "translations": {
+      "fr": "habiller",
+      "es": "vestir",
+      "it": "vestire",
+      "de": "kleiden",
+      "nl": "kleden",
+      "pt": "vestir"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "come",
+    "group": 1,
+    "groupName": "All Verbs 001–050",
+    "base": "come",
+    "pastSimple": [
+      "came"
+    ],
+    "pastParticiple": [
+      "come"
+    ],
+    "display": "come → came → come",
+    "spokenText": "to come, came, come",
+    "translations": {
+      "fr": "venir",
+      "es": "venir",
+      "it": "venire",
+      "de": "kommen",
+      "nl": "komen",
+      "pt": "vir"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "cost",
+    "group": 1,
+    "groupName": "All Verbs 001–050",
+    "base": "cost",
+    "pastSimple": [
+      "cost"
+    ],
+    "pastParticiple": [
+      "cost"
+    ],
+    "display": "cost → cost → cost",
+    "translations": {
+      "fr": "coûter",
+      "es": "costar",
+      "it": "costare",
+      "de": "kosten",
+      "nl": "kosten",
+      "pt": "custar"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "creep",
+    "group": 1,
+    "groupName": "All Verbs 001–050",
+    "base": "creep",
+    "pastSimple": [
+      "crept"
+    ],
+    "pastParticiple": [
+      "crept"
+    ],
+    "display": "creep → crept → crept",
+    "translations": {
+      "fr": "ramper / se glisser",
+      "es": "arrastrarse / deslizarse",
+      "it": "strisciare / insinuarsi",
+      "de": "kriechen / schleichen",
+      "nl": "kruipen / sluipen",
+      "pt": "rastejar / esgueirar-se"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "cut",
+    "group": 1,
+    "groupName": "All Verbs 001–050",
+    "base": "cut",
+    "pastSimple": [
+      "cut"
+    ],
+    "pastParticiple": [
+      "cut"
+    ],
+    "display": "cut → cut → cut",
+    "translations": {
+      "fr": "couper",
+      "es": "cortar",
+      "it": "tagliare",
+      "de": "schneiden",
+      "nl": "snijden / knippen",
+      "pt": "cortar"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "deal",
+    "group": 1,
+    "groupName": "All Verbs 001–050",
+    "base": "deal",
+    "pastSimple": [
+      "dealt"
+    ],
+    "pastParticiple": [
+      "dealt"
+    ],
+    "display": "deal → dealt → dealt",
+    "translations": {
+      "fr": "traiter / distribuer",
+      "es": "tratar / repartir",
+      "it": "trattare / distribuire",
+      "de": "umgehen mit / austeilen",
+      "nl": "omgaan met / delen",
+      "pt": "lidar com / distribuir"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "dig",
+    "group": 1,
+    "groupName": "All Verbs 001–050",
+    "base": "dig",
+    "pastSimple": [
+      "dug"
+    ],
+    "pastParticiple": [
+      "dug"
+    ],
+    "display": "dig → dug → dug",
+    "translations": {
+      "fr": "creuser",
+      "es": "cavar",
+      "it": "scavare",
+      "de": "graben",
+      "nl": "graven",
+      "pt": "cavar"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "dive",
+    "group": 1,
+    "groupName": "All Verbs 001–050",
+    "base": "dive",
+    "pastSimple": [
+      "dived",
+      "dove"
+    ],
+    "pastParticiple": [
+      "dived"
+    ],
+    "display": "dive → dived/dove → dived",
+    "translations": {
+      "fr": "plonger",
+      "es": "bucear / zambullirse",
+      "it": "tuffarsi / immergersi",
+      "de": "tauchen / springen",
+      "nl": "duiken",
+      "pt": "mergulhar"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "do",
+    "group": 1,
+    "groupName": "All Verbs 001–050",
+    "base": "do",
+    "pastSimple": [
+      "did"
+    ],
+    "pastParticiple": [
+      "done"
+    ],
+    "display": "do → did → done",
+    "translations": {
+      "fr": "faire",
+      "es": "hacer",
+      "it": "fare",
+      "de": "tun / machen",
+      "nl": "doen",
+      "pt": "fazer"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "draw",
+    "group": 1,
+    "groupName": "All Verbs 001–050",
+    "base": "draw",
+    "pastSimple": [
+      "drew"
+    ],
+    "pastParticiple": [
+      "drawn"
+    ],
+    "display": "draw → drew → drawn",
+    "translations": {
+      "fr": "dessiner / tirer",
+      "es": "dibujar / sacar",
+      "it": "disegnare / tirare",
+      "de": "zeichnen / ziehen",
+      "nl": "tekenen / trekken",
+      "pt": "desenhar / puxar"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "dream",
+    "group": 1,
+    "groupName": "All Verbs 001–050",
+    "base": "dream",
+    "pastSimple": [
+      "dreamed",
+      "dreamt"
+    ],
+    "pastParticiple": [
+      "dreamed",
+      "dreamt"
+    ],
+    "display": "dream → dreamed/dreamt → dreamed/dreamt",
+    "translations": {
+      "fr": "rêver",
+      "es": "soñar",
+      "it": "sognare",
+      "de": "träumen",
+      "nl": "dromen",
+      "pt": "sonhar"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "drink",
+    "group": 1,
+    "groupName": "All Verbs 001–050",
+    "base": "drink",
+    "pastSimple": [
+      "drank"
+    ],
+    "pastParticiple": [
+      "drunk"
+    ],
+    "display": "drink → drank → drunk",
+    "translations": {
+      "fr": "boire",
+      "es": "beber",
+      "it": "bere",
+      "de": "trinken",
+      "nl": "drinken",
+      "pt": "beber"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "drive",
+    "group": 1,
+    "groupName": "All Verbs 001–050",
+    "base": "drive",
+    "pastSimple": [
+      "drove"
+    ],
+    "pastParticiple": [
+      "driven"
+    ],
+    "display": "drive → drove → driven",
+    "translations": {
+      "fr": "conduire",
+      "es": "conducir",
+      "it": "guidare",
+      "de": "fahren / antreiben",
+      "nl": "rijden / besturen",
+      "pt": "dirigir / conduzir"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "dwell",
+    "group": 1,
+    "groupName": "All Verbs 001–050",
+    "base": "dwell",
+    "pastSimple": [
+      "dwelt",
+      "dwelled"
+    ],
+    "pastParticiple": [
+      "dwelt",
+      "dwelled"
+    ],
+    "display": "dwell → dwelt/dwelled → dwelt/dwelled",
+    "translations": {
+      "fr": "habiter / demeurer",
+      "es": "habitar / morar",
+      "it": "abitare / dimorare",
+      "de": "wohnen / verweilen",
+      "nl": "wonen / verblijven",
+      "pt": "habitar / morar"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "eat",
+    "group": 1,
+    "groupName": "All Verbs 001–050",
+    "base": "eat",
+    "pastSimple": [
+      "ate"
+    ],
+    "pastParticiple": [
+      "eaten"
+    ],
+    "display": "eat → ate → eaten",
+    "translations": {
+      "fr": "manger",
+      "es": "comer",
+      "it": "mangiare",
+      "de": "essen",
+      "nl": "eten",
+      "pt": "comer"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "fall",
+    "group": 1,
+    "groupName": "All Verbs 001–050",
+    "base": "fall",
+    "pastSimple": [
+      "fell"
+    ],
+    "pastParticiple": [
+      "fallen"
+    ],
+    "display": "fall → fell → fallen",
+    "translations": {
+      "fr": "tomber",
+      "es": "caer",
+      "it": "cadere",
+      "de": "fallen",
+      "nl": "vallen",
+      "pt": "cair"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "feed",
+    "group": 5,
+    "groupName": "All Verbs 001–050",
+    "base": "feed",
+    "pastSimple": [
+      "fed"
+    ],
+    "pastParticiple": [
+      "fed"
+    ],
+    "display": "feed → fed → fed",
+    "translations": {
+      "fr": "nourrir",
+      "es": "alimentar / dar de comer",
+      "it": "nutrire / dare da mangiare",
+      "de": "füttern / ernähren",
+      "nl": "voeden / voeren",
+      "pt": "alimentar"
+    },
+    "difficulty": 2
+  }
+]

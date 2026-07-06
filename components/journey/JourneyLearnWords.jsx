@@ -9,21 +9,38 @@ import {
 } from "@/lib/app/progress/saveJourneyStepProgress";
 import useVocabularyAudio from "@/components/journey/useVocabularyAudio";
 
-const speechLangs = {
-  en: "en-US",
-  fr: "fr-FR",
-  es: "es-ES",
-  it: "it-IT",
-  pt: "pt-PT",
-  de: "de-DE",
-  nl: "nl-NL",
-};
-
 const INITIAL_PLAY_DELAY = 1200;
 const BETWEEN_WORD_DELAY = 900;
 
 function getWordText(word, lang) {
   return word[lang] || word.en || "";
+}
+
+function getVocabularyImageSrc(word) {
+  return word?.imageSrc || "";
+}
+
+function WordThumbnail({ word, category, fallback }) {
+  const imageSrc = getVocabularyImageSrc(word);
+  const [imageFailed, setImageFailed] = useState(false);
+
+  useEffect(() => {
+    setImageFailed(false);
+  }, [imageSrc]);
+
+  if (imageSrc && !imageFailed) {
+    return (
+      <img
+        src={imageSrc}
+        alt=""
+        className="h-full w-full rounded-2xl object-cover"
+        draggable="false"
+        onError={() => setImageFailed(true)}
+      />
+    );
+  }
+
+  return <span>{word?.image || fallback}</span>;
 }
 
 export default function JourneyLearnWords({ lang, island, words }) {
@@ -37,13 +54,13 @@ export default function JourneyLearnWords({ lang, island, words }) {
   const savingRef = useRef(false);
 
   const {
-  audioStatus,
-  playWord: playVocabularyWord,
-  stopAudio,
-} = useVocabularyAudio({
-  category: island.category,
-  lang,
-});
+    audioStatus,
+    playWord: playVocabularyWord,
+    stopAudio,
+  } = useVocabularyAudio({
+    category: island.category,
+    lang,
+  });
 
   const activeWord =
     activeIndex >= 0 && words?.[activeIndex] ? words[activeIndex] : null;
@@ -82,25 +99,24 @@ export default function JourneyLearnWords({ lang, island, words }) {
   }
 
   function speakWord(word, text, onEnd) {
-  playVocabularyWord(word, {
-    text,
-    rate: 0.88,
-    onEnd: () => {
-      if (stoppedRef.current) return;
+    playVocabularyWord(word, {
+      text,
+      rate: 0.88,
+      onEnd: () => {
+        if (stoppedRef.current) return;
 
-      timeoutRef.current = setTimeout(() => {
-        onEnd?.();
-      }, BETWEEN_WORD_DELAY);
-    },
-  });
-}
+        timeoutRef.current = setTimeout(() => {
+          onEnd?.();
+        }, BETWEEN_WORD_DELAY);
+      },
+    });
+  }
 
   function stopAutoplay() {
     stoppedRef.current = true;
     setPlaying(false);
     setActiveIndex(-1);
     clearCurrentTimer();
-
     stopAudio();
   }
 
@@ -109,7 +125,6 @@ export default function JourneyLearnWords({ lang, island, words }) {
 
     stoppedRef.current = false;
     clearCurrentTimer();
-
     stopAudio();
 
     setPlaying(true);
@@ -132,8 +147,8 @@ export default function JourneyLearnWords({ lang, island, words }) {
       setActiveIndex(wordIndex);
 
       speakWord(word, text, () => {
-  playWord(wordIndex + 1);
-});
+        playWord(wordIndex + 1);
+      });
     };
 
     playWord(index);
@@ -150,7 +165,6 @@ export default function JourneyLearnWords({ lang, island, words }) {
       stoppedRef.current = true;
       clearTimeout(startTimer);
       clearCurrentTimer();
-
       stopAudio();
     };
   }, []);
@@ -167,13 +181,14 @@ export default function JourneyLearnWords({ lang, island, words }) {
             <p className="mt-1 text-sm font-semibold text-slate-600 md:text-base">
               The words are read automatically, one after another.
             </p>
+
             <p className="mt-1 text-xs font-bold text-slate-500">
-  {audioStatus === "ready"
-    ? "Using recorded MP3 audio."
-    : audioStatus === "loading"
-    ? "Loading audio…"
-    : "Using browser TTS fallback."}
-</p>
+              {audioStatus === "ready"
+                ? "Using recorded MP3 audio."
+                : audioStatus === "loading"
+                ? "Loading audio…"
+                : "Using browser TTS fallback."}
+            </p>
           </div>
 
           <div className="flex flex-wrap gap-2 md:gap-3">
@@ -231,13 +246,17 @@ export default function JourneyLearnWords({ lang, island, words }) {
               >
                 <div
                   className={[
-                    "grid h-11 w-11 shrink-0 place-items-center rounded-2xl text-xl font-black md:h-12 md:w-12",
+                    "grid h-11 w-11 shrink-0 place-items-center overflow-hidden rounded-2xl text-xl font-black md:h-12 md:w-12",
                     isActive
                       ? "bg-yellow-300 text-yellow-900"
                       : "bg-sky-100 text-blue-900",
                   ].join(" ")}
                 >
-                  {word.image || index + 1}
+                  <WordThumbnail
+                    word={word}
+                    category={island.category}
+                    fallback={index + 1}
+                  />
                 </div>
 
                 <div
@@ -251,16 +270,16 @@ export default function JourneyLearnWords({ lang, island, words }) {
 
                 <div className="shrink-0 [&_button]:!px-3 [&_button]:!py-2 [&_button]:!text-lg [&_button]:!leading-none">
                   <SpeakButton
-  text={text}
-  lang={lang}
-  hideLabel
-  onSpeak={() =>
-    playVocabularyWord(word, {
-      text,
-      rate: 0.88,
-    })
-  }
-/>
+                    text={text}
+                    lang={lang}
+                    hideLabel
+                    onSpeak={() =>
+                      playVocabularyWord(word, {
+                        text,
+                        rate: 0.88,
+                      })
+                    }
+                  />
                 </div>
               </div>
             );

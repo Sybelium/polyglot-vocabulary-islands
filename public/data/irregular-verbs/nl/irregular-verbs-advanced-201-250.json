@@ -1,0 +1,906 @@
+[
+  {
+    "id": "afbijten",
+    "group": 1,
+    "groupName": "Advanced Verbs",
+    "base": "afbijten",
+    "pastSimple": ["beet af", "beten af"],
+    "pastParticiple": ["afgebeten"],
+    "display": "afbijten → beet af/beten af → afgebeten",
+    "translations": {
+      "en": "bite off",
+      "fr": "mordre / couper avec les dents",
+      "es": "morder / arrancar con los dientes",
+      "it": "mordere / staccare con i denti",
+      "de": "abbbeißen",
+      "pt": "morder / arrancar com os dentes"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "afbreken",
+    "group": 1,
+    "groupName": "Advanced Verbs",
+    "base": "afbreken",
+    "pastSimple": ["brak af", "braken af"],
+    "pastParticiple": ["afgebroken"],
+    "display": "afbreken → brak af/braken af → afgebroken",
+    "translations": {
+      "en": "break off / interrupt",
+      "fr": "casser / interrompre",
+      "es": "romper / interrumpir",
+      "it": "rompere / interrompere",
+      "de": "abbrechen",
+      "pt": "quebrar / interromper"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "afdwingen",
+    "group": 1,
+    "groupName": "Advanced Verbs",
+    "base": "afdwingen",
+    "pastSimple": ["dwong af", "dwongen af"],
+    "pastParticiple": ["afgedwongen"],
+    "display": "afdwingen → dwong af/dwongen af → afgedwongen",
+    "translations": {
+      "en": "force / impose",
+      "fr": "imposer / arracher",
+      "es": "imponer / forzar",
+      "it": "imporre / estorcere",
+      "de": "erzwingen",
+      "pt": "impor / forçar"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "afgaan",
+    "group": 1,
+    "groupName": "Advanced Verbs",
+    "base": "afgaan",
+    "pastSimple": ["ging af", "gingen af"],
+    "pastParticiple": ["afgegaan"],
+    "display": "afgaan → ging af/gingen af → afgegaan",
+    "translations": {
+      "en": "go off / explode / ring",
+      "fr": "se déclencher / exploser / sonner",
+      "es": "dispararse / explotar / sonar",
+      "it": "scattare / esplodere / suonare",
+      "de": "losgehen / explodieren / klingeln",
+      "pt": "disparar / explodir / tocar"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "afgeven",
+    "group": 1,
+    "groupName": "Advanced Verbs",
+    "base": "afgeven",
+    "pastSimple": ["gaf af", "gaven af"],
+    "pastParticiple": ["afgegeven"],
+    "display": "afgeven → gaf af/gaven af → afgegeven",
+    "translations": {
+      "en": "hand in / give off",
+      "fr": "remettre / dégager",
+      "es": "entregar / desprender",
+      "it": "consegnare / emanare",
+      "de": "abgeben",
+      "pt": "entregar / emitir"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "afglijden",
+    "group": 1,
+    "groupName": "Advanced Verbs",
+    "base": "afglijden",
+    "pastSimple": ["gleed af", "gleden af"],
+    "pastParticiple": ["afgegleden"],
+    "display": "afglijden → gleed af/gleden af → afgegleden",
+    "translations": {
+      "en": "slip off / slide down",
+      "fr": "glisser / déraper",
+      "es": "resbalar / deslizarse",
+      "it": "scivolare / slittare",
+      "de": "abgleiten",
+      "pt": "escorregar / deslizar"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "afgraven",
+    "group": 1,
+    "groupName": "Advanced Verbs",
+    "base": "afgraven",
+    "pastSimple": ["groef af", "groeven af"],
+    "pastParticiple": ["afgegraven"],
+    "display": "afgraven → groef af/groeven af → afgegraven",
+    "translations": {
+      "en": "dig away / excavate",
+      "fr": "creuser / excaver",
+      "es": "excavar / cavar",
+      "it": "scavare / asportare scavando",
+      "de": "abgraben",
+      "pt": "escavar / retirar cavando"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "afhouden",
+    "group": 1,
+    "groupName": "Advanced Verbs",
+    "base": "afhouden",
+    "pastSimple": ["hield af", "hielden af"],
+    "pastParticiple": ["afgehouden"],
+    "display": "afhouden → hield af/hielden af → afgehouden",
+    "translations": {
+      "en": "ward off / refrain from",
+      "fr": "écarter / s'abstenir de",
+      "es": "ahuyentar / abstenerse de",
+      "it": "tenere lontano / astenersi da",
+      "de": "abhalten / fernhalten",
+      "pt": "afastar / abster-se de"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "afleiden",
+    "group": 1,
+    "groupName": "Advanced Verbs",
+    "base": "afleiden",
+    "pastSimple": ["leidde af", "leidden af"],
+    "pastParticiple": ["afgeleid"],
+    "display": "afleiden → leidde af/leidden af → afgeleid",
+    "translations": {
+      "en": "distract / derive",
+      "fr": "distraire / déduire",
+      "es": "distraer / derivar",
+      "it": "distrarre / derivare",
+      "de": "ablenken / ableiten",
+      "pt": "distrair / derivar"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "afnemen",
+    "group": 1,
+    "groupName": "Advanced Verbs",
+    "base": "afnemen",
+    "pastSimple": ["nam af", "namen af"],
+    "pastParticiple": ["afgenomen"],
+    "display": "afnemen → nam af/namen af → afgenomen",
+    "translations": {
+      "en": "decrease / take away / administer",
+      "fr": "diminuer / retirer / faire passer",
+      "es": "disminuir / quitar / administrar",
+      "it": "diminuire / togliere / somministrare",
+      "de": "abnehmen / entnehmen",
+      "pt": "diminuir / tirar / aplicar"
+    },
+    "difficulty": 3
+  },
+
+  {
+    "id": "afrijden",
+    "group": 2,
+    "groupName": "Advanced Verbs",
+    "base": "afrijden",
+    "pastSimple": ["reed af", "reden af"],
+    "pastParticiple": ["afgereden"],
+    "display": "afrijden → reed af/reden af → afgereden",
+    "translations": {
+      "en": "drive away / complete by driving",
+      "fr": "partir en voiture / terminer en conduisant",
+      "es": "irse conduciendo / terminar conduciendo",
+      "it": "andarsene in auto / completare guidando",
+      "de": "wegfahren / abfahren",
+      "pt": "sair de carro / completar dirigindo"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "afschrijven",
+    "group": 2,
+    "groupName": "Advanced Verbs",
+    "base": "afschrijven",
+    "pastSimple": ["schreef af", "schreven af"],
+    "pastParticiple": ["afgeschreven"],
+    "display": "afschrijven → schreef af/schreven af → afgeschreven",
+    "translations": {
+      "en": "write off / copy down",
+      "fr": "amortir / recopier",
+      "es": "amortizar / copiar",
+      "it": "ammortizzare / copiare",
+      "de": "abschreiben",
+      "pt": "baixar / copiar"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "afslaan",
+    "group": 2,
+    "groupName": "Advanced Verbs",
+    "base": "afslaan",
+    "pastSimple": ["sloeg af", "sloegen af"],
+    "pastParticiple": ["afgeslagen"],
+    "display": "afslaan → sloeg af/sloegen af → afgeslagen",
+    "translations": {
+      "en": "turn off / decline / repel",
+      "fr": "tourner / refuser / repousser",
+      "es": "girar / rechazar / repeler",
+      "it": "svoltare / rifiutare / respingere",
+      "de": "abbiegen / ablehnen / abwehren",
+      "pt": "virar / recusar / repelir"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "afsnijden",
+    "group": 2,
+    "groupName": "Advanced Verbs",
+    "base": "afsnijden",
+    "pastSimple": ["sneed af", "sneden af"],
+    "pastParticiple": ["afgesneden"],
+    "display": "afsnijden → sneed af/sneden af → afgesneden",
+    "translations": {
+      "en": "cut off",
+      "fr": "couper / couper l'accès",
+      "es": "cortar / aislar",
+      "it": "tagliare / isolare",
+      "de": "abschneiden",
+      "pt": "cortar / isolar"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "afspreken",
+    "group": 2,
+    "groupName": "Advanced Verbs",
+    "base": "afspreken",
+    "pastSimple": ["sprak af", "spraken af"],
+    "pastParticiple": ["afgesproken"],
+    "display": "afspreken → sprak af/spraken af → afgesproken",
+    "translations": {
+      "en": "arrange / agree",
+      "fr": "convenir / fixer",
+      "es": "acordar / fijar",
+      "it": "concordare / fissare",
+      "de": "absprechen / vereinbaren",
+      "pt": "combinar / acertar"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "afstaan",
+    "group": 2,
+    "groupName": "Advanced Verbs",
+    "base": "afstaan",
+    "pastSimple": ["stond af", "stonden af"],
+    "pastParticiple": ["afgestaan"],
+    "display": "afstaan → stond af/stonden af → afgestaan",
+    "translations": {
+      "en": "cede / hand over",
+      "fr": "céder / remettre",
+      "es": "ceder / entregar",
+      "it": "cedere / consegnare",
+      "de": "abstehen / abgeben",
+      "pt": "ceder / entregar"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "aftreden",
+    "group": 2,
+    "groupName": "Advanced Verbs",
+    "base": "aftreden",
+    "pastSimple": ["trad af", "traden af"],
+    "pastParticiple": ["afgetreden"],
+    "display": "aftreden → trad af/traden af → afgetreden",
+    "translations": {
+      "en": "resign / step down",
+      "fr": "démissionner / se retirer",
+      "es": "dimitir / retirarse",
+      "it": "dimettersi / ritirarsi",
+      "de": "zurücktreten",
+      "pt": "renunciar / retirar-se"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "aftrekken",
+    "group": 2,
+    "groupName": "Advanced Verbs",
+    "base": "aftrekken",
+    "pastSimple": ["trok af", "trokken af"],
+    "pastParticiple": ["afgetrokken"],
+    "display": "aftrekken → trok af/trokken af → afgetrokken",
+    "translations": {
+      "en": "subtract / pull off / withdraw",
+      "fr": "soustraire / retirer / se retirer",
+      "es": "restar / quitar / retirarse",
+      "it": "sottrarre / tirare via / ritirarsi",
+      "de": "abziehen",
+      "pt": "subtrair / retirar / recuar"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "afvallen",
+    "group": 2,
+    "groupName": "Advanced Verbs",
+    "base": "afvallen",
+    "pastSimple": ["viel af", "vielen af"],
+    "pastParticiple": ["afgevallen"],
+    "display": "afvallen → viel af/vielen af → afgevallen",
+    "translations": {
+      "en": "lose weight / fall off",
+      "fr": "maigrir / tomber",
+      "es": "adelgazar / caerse",
+      "it": "dimagrire / cadere",
+      "de": "abnehmen / herunterfallen",
+      "pt": "emagrecer / cair"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "afwijken",
+    "group": 2,
+    "groupName": "Advanced Verbs",
+    "base": "afwijken",
+    "pastSimple": ["week af", "weken af"],
+    "pastParticiple": ["afgeweken"],
+    "display": "afwijken → week af/weken af → afgeweken",
+    "translations": {
+      "en": "deviate / differ",
+      "fr": "dévier / différer",
+      "es": "desviarse / diferir",
+      "it": "deviare / differire",
+      "de": "abweichen",
+      "pt": "desviar / diferir"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "afwijzen",
+    "group": 2,
+    "groupName": "Advanced Verbs",
+    "base": "afwijzen",
+    "pastSimple": ["wees af", "wezen af"],
+    "pastParticiple": ["afgewezen"],
+    "display": "afwijzen → wees af/wezen af → afgewezen",
+    "translations": {
+      "en": "reject / turn down",
+      "fr": "rejeter / refuser",
+      "es": "rechazar / denegar",
+      "it": "rifiutare / respingere",
+      "de": "ablehnen / zurückweisen",
+      "pt": "rejeitar / recusar"
+    },
+    "difficulty": 3
+  },
+
+  {
+    "id": "bederven",
+    "group": 3,
+    "groupName": "Advanced Verbs",
+    "base": "bederven",
+    "pastSimple": ["bedierf", "bedierven"],
+    "pastParticiple": ["bedorven"],
+    "display": "bederven → bedierf/bedierven → bedorven",
+    "translations": {
+      "en": "spoil / ruin",
+      "fr": "gâter / abîmer",
+      "es": "estropear / arruinar",
+      "it": "guastare / rovinare",
+      "de": "verderben",
+      "pt": "estragar / arruinar"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "bedriegen",
+    "group": 3,
+    "groupName": "Advanced Verbs",
+    "base": "bedriegen",
+    "pastSimple": ["bedroog", "bedrogen"],
+    "pastParticiple": ["bedrogen"],
+    "display": "bedriegen → bedroog/bedrogen → bedrogen",
+    "translations": {
+      "en": "deceive / cheat",
+      "fr": "tromper",
+      "es": "engañar",
+      "it": "ingannare",
+      "de": "betrügen",
+      "pt": "enganar"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "bedwingen",
+    "group": 3,
+    "groupName": "Advanced Verbs",
+    "base": "bedwingen",
+    "pastSimple": ["bedwong", "bedwongen"],
+    "pastParticiple": ["bedwongen"],
+    "display": "bedwingen → bedwong/bedwongen → bedwongen",
+    "translations": {
+      "en": "master / subdue",
+      "fr": "maîtriser / dompter",
+      "es": "dominar / someter",
+      "it": "dominare / soggiogare",
+      "de": "bezwingen",
+      "pt": "dominar / subjugar"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "begeven",
+    "group": 3,
+    "groupName": "Advanced Verbs",
+    "base": "begeven",
+    "pastSimple": ["begaf", "begaven"],
+    "pastParticiple": ["begeven"],
+    "display": "begeven → begaf/begaven → begeven",
+    "translations": {
+      "en": "go to / head toward / give way",
+      "fr": "se rendre / céder",
+      "es": "dirigirse / ceder",
+      "it": "dirigersi / cedere",
+      "de": "sich begeben / versagen",
+      "pt": "dirigir-se / ceder"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "begraven",
+    "group": 3,
+    "groupName": "Advanced Verbs",
+    "base": "begraven",
+    "pastSimple": ["begroef", "begroeven"],
+    "pastParticiple": ["begraven"],
+    "display": "begraven → begroef/begroeven → begraven",
+    "translations": {
+      "en": "bury",
+      "fr": "enterrer",
+      "es": "enterrar",
+      "it": "seppellire",
+      "de": "begraben",
+      "pt": "enterrar"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "bekruipen",
+    "group": 3,
+    "groupName": "Advanced Verbs",
+    "base": "bekruipen",
+    "pastSimple": ["bekroop", "bekropen"],
+    "pastParticiple": ["bekropen"],
+    "display": "bekruipen → bekroop/bekropen → bekropen",
+    "translations": {
+      "en": "creep over / come over",
+      "fr": "gagner / envahir",
+      "es": "invadir / sobrevenir",
+      "it": "assalire / venire addosso",
+      "de": "beschleichen",
+      "pt": "invadir / assaltar"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "belijden",
+    "group": 3,
+    "groupName": "Advanced Verbs",
+    "base": "belijden",
+    "pastSimple": ["beleed", "beleden"],
+    "pastParticiple": ["beleden"],
+    "display": "belijden → beleed/beleden → beleden",
+    "translations": {
+      "en": "profess / confess",
+      "fr": "professer / avouer",
+      "es": "profesar / confesar",
+      "it": "professare / confessare",
+      "de": "bekennen / bekennen",
+      "pt": "professar / confessar"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "berijden",
+    "group": 3,
+    "groupName": "Advanced Verbs",
+    "base": "berijden",
+    "pastSimple": ["bereed", "bereden"],
+    "pastParticiple": ["bereden"],
+    "display": "berijden → bereed/bereden → bereden",
+    "translations": {
+      "en": "ride / travel on",
+      "fr": "monter / parcourir",
+      "es": "montar / recorrer",
+      "it": "cavalcare / percorrere",
+      "de": "bereiten / reiten auf",
+      "pt": "montar / percorrer"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "beschrijven",
+    "group": 3,
+    "groupName": "Advanced Verbs",
+    "base": "beschrijven",
+    "pastSimple": ["beschreef", "beschreven"],
+    "pastParticiple": ["beschreven"],
+    "display": "beschrijven → beschreef/beschreven → beschreven",
+    "translations": {
+      "en": "describe",
+      "fr": "décrire",
+      "es": "describir",
+      "it": "descrivere",
+      "de": "beschreiben",
+      "pt": "descrever"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "besluiten",
+    "group": 3,
+    "groupName": "Advanced Verbs",
+    "base": "besluiten",
+    "pastSimple": ["besloot", "besloten"],
+    "pastParticiple": ["besloten"],
+    "display": "besluiten → besloot/besloten → besloten",
+    "translations": {
+      "en": "decide / conclude",
+      "fr": "décider / conclure",
+      "es": "decidir / concluir",
+      "it": "decidere / concludere",
+      "de": "beschließen",
+      "pt": "decidir / concluir"
+    },
+    "difficulty": 3
+  },
+
+  {
+    "id": "besluipen",
+    "group": 4,
+    "groupName": "Advanced Verbs",
+    "base": "besluipen",
+    "pastSimple": ["besloop", "beslopen"],
+    "pastParticiple": ["beslopen"],
+    "display": "besluipen → besloop/beslopen → beslopen",
+    "translations": {
+      "en": "creep up on / sneak upon",
+      "fr": "s'approcher furtivement",
+      "es": "acercarse sigilosamente",
+      "it": "avvicinarsi furtivamente",
+      "de": "beschleichen",
+      "pt": "aproximar-se furtivamente"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "bestrijden",
+    "group": 4,
+    "groupName": "Advanced Verbs",
+    "base": "bestrijden",
+    "pastSimple": ["bestreed", "bestreden"],
+    "pastParticiple": ["bestreden"],
+    "display": "bestrijden → bestreed/bestreden → bestreden",
+    "translations": {
+      "en": "combat / fight",
+      "fr": "combattre / lutter contre",
+      "es": "combatir / luchar contra",
+      "it": "combattere / lottare contro",
+      "de": "bekämpfen / bestreiten",
+      "pt": "combater / lutar contra"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "bewijzen",
+    "group": 4,
+    "groupName": "Advanced Verbs",
+    "base": "bewijzen",
+    "pastSimple": ["bewees", "bewezen"],
+    "pastParticiple": ["bewezen"],
+    "display": "bewijzen → bewees/bewezen → bewezen",
+    "translations": {
+      "en": "prove",
+      "fr": "prouver",
+      "es": "probar / demostrar",
+      "it": "provare / dimostrare",
+      "de": "beweisen",
+      "pt": "provar / demonstrar"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "doorbreken",
+    "group": 4,
+    "groupName": "Advanced Verbs",
+    "base": "doorbreken",
+    "pastSimple": ["doorbrak", "doorbraken"],
+    "pastParticiple": ["doorbroken"],
+    "display": "doorbreken → doorbrak/doorbraken → doorbroken",
+    "translations": {
+      "en": "break through",
+      "fr": "percer / briser",
+      "es": "abrirse paso / romper",
+      "it": "sfondare / rompere",
+      "de": "durchbrechen",
+      "pt": "romper / abrir passagem"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "doordringen",
+    "group": 4,
+    "groupName": "Advanced Verbs",
+    "base": "doordringen",
+    "pastSimple": ["drong door", "drongen door"],
+    "pastParticiple": ["doorgedrongen"],
+    "display": "doordringen → drong door/drongen door → doorgedrongen",
+    "translations": {
+      "en": "penetrate / get through",
+      "fr": "pénétrer / parvenir à",
+      "es": "penetrar / abrirse paso",
+      "it": "penetrare / farsi strada",
+      "de": "durchdringen",
+      "pt": "penetrar / abrir caminho"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "doorgaan",
+    "group": 4,
+    "groupName": "Advanced Verbs",
+    "base": "doorgaan",
+    "pastSimple": ["ging door", "gingen door"],
+    "pastParticiple": ["doorgegaan"],
+    "display": "doorgaan → ging door/gingen door → doorgegaan",
+    "translations": {
+      "en": "continue / go ahead",
+      "fr": "continuer / avoir lieu",
+      "es": "continuar / tener lugar",
+      "it": "continuare / avere luogo",
+      "de": "weitergehen / stattfinden",
+      "pt": "continuar / acontecer"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "doorlopen",
+    "group": 4,
+    "groupName": "Advanced Verbs",
+    "base": "doorlopen",
+    "pastSimple": ["liep door", "liepen door"],
+    "pastParticiple": ["doorgelopen"],
+    "display": "doorlopen → liep door/liepen door → doorgelopen",
+    "translations": {
+      "en": "go through / continue walking",
+      "fr": "parcourir / continuer à marcher",
+      "es": "recorrer / seguir caminando",
+      "it": "percorrere / continuare a camminare",
+      "de": "durchlaufen / weiterlaufen",
+      "pt": "percorrer / continuar andando"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "doorsnijden",
+    "group": 4,
+    "groupName": "Advanced Verbs",
+    "base": "doorsnijden",
+    "pastSimple": ["doorsneed", "doorsneden"],
+    "pastParticiple": ["doorsneden"],
+    "display": "doorsnijden → doorsneed/doorsneden → doorsneden",
+    "translations": {
+      "en": "cut through",
+      "fr": "couper / trancher",
+      "es": "cortar / atravesar cortando",
+      "it": "tagliare / recidere",
+      "de": "durchschneiden",
+      "pt": "cortar / atravessar cortando"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "ondergaan",
+    "group": 4,
+    "groupName": "Advanced Verbs",
+    "base": "ondergaan",
+    "pastSimple": ["onderging", "ondergingen"],
+    "pastParticiple": ["ondergaan"],
+    "display": "ondergaan → onderging/ondergingen → ondergaan",
+    "translations": {
+      "en": "undergo",
+      "fr": "subir / traverser",
+      "es": "sufrir / experimentar",
+      "it": "subire / attraversare",
+      "de": "erleiden / durchmachen",
+      "pt": "sofrer / passar por"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "ondergraven",
+    "group": 4,
+    "groupName": "Advanced Verbs",
+    "base": "ondergraven",
+    "pastSimple": ["ondergroef", "ondergroeven"],
+    "pastParticiple": ["ondergraven"],
+    "display": "ondergraven → ondergroef/ondergroeven → ondergraven",
+    "translations": {
+      "en": "undermine",
+      "fr": "saper / miner",
+      "es": "socavar / minar",
+      "it": "minare / scavare sotto",
+      "de": "untergraben",
+      "pt": "minar / enfraquecer"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "onderhouden",
+    "group": 4,
+    "groupName": "Advanced Verbs",
+    "base": "onderhouden",
+    "pastSimple": ["onderhield", "onderhielden"],
+    "pastParticiple": ["onderhouden"],
+    "display": "onderhouden → onderhield/onderhielden → onderhouden",
+    "translations": {
+      "en": "maintain",
+      "fr": "entretenir / maintenir",
+      "es": "mantener / conservar",
+      "it": "mantenere / conservare",
+      "de": "unterhalten / instand halten",
+      "pt": "manter / conservar"
+    },
+    "difficulty": 3
+  },
+
+  {
+    "id": "ondernemen",
+    "group": 5,
+    "groupName": "Advanced Verbs",
+    "base": "ondernemen",
+    "pastSimple": ["ondernam", "ondernamen"],
+    "pastParticiple": ["ondernomen"],
+    "display": "ondernemen → ondernam/ondernamen → ondernomen",
+    "translations": {
+      "en": "undertake",
+      "fr": "entreprendre",
+      "es": "emprender / acometer",
+      "it": "intraprendere",
+      "de": "unternehmen",
+      "pt": "empreender"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "ondervinden",
+    "group": 5,
+    "groupName": "Advanced Verbs",
+    "base": "ondervinden",
+    "pastSimple": ["ondervond", "ondervonden"],
+    "pastParticiple": ["ondervonden"],
+    "display": "ondervinden → ondervond/ondervonden → ondervonden",
+    "translations": {
+      "en": "experience / undergo",
+      "fr": "éprouver / subir",
+      "es": "experimentar / padecer",
+      "it": "sperimentare / subire",
+      "de": "erfahren / erleiden",
+      "pt": "experimentar / sofrer"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "onderwijzen",
+    "group": 5,
+    "groupName": "Advanced Verbs",
+    "base": "onderwijzen",
+    "pastSimple": ["onderwees", "onderwezen"],
+    "pastParticiple": ["onderwezen"],
+    "display": "onderwijzen → onderwees/onderwezen → onderwezen",
+    "translations": {
+      "en": "teach / instruct",
+      "fr": "enseigner",
+      "es": "enseñar / instruir",
+      "it": "insegnare / istruire",
+      "de": "unterrichten / lehren",
+      "pt": "ensinar / instruir"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "ombrengen",
+    "group": 5,
+    "groupName": "Advanced Verbs",
+    "base": "ombrengen",
+    "pastSimple": ["bracht om", "brachten om"],
+    "pastParticiple": ["omgebracht"],
+    "display": "ombrengen → bracht om/brachten om → omgebracht",
+    "translations": {
+      "en": "kill / bring to ruin",
+      "fr": "tuer / anéantir",
+      "es": "matar / arruinar",
+      "it": "uccidere / rovinare",
+      "de": "umbringen",
+      "pt": "matar / arruinar"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "omslaan",
+    "group": 5,
+    "groupName": "Advanced Verbs",
+    "base": "omslaan",
+    "pastSimple": ["sloeg om", "sloegen om"],
+    "pastParticiple": ["omgeslagen"],
+    "display": "omslaan → sloeg om/sloegen om → omgeslagen",
+    "translations": {
+      "en": "turn over / change suddenly",
+      "fr": "se retourner / changer brusquement",
+      "es": "volcar / cambiar bruscamente",
+      "it": "rovesciarsi / cambiare bruscamente",
+      "de": "umschlagen",
+      "pt": "virar / mudar bruscamente"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "ontstaan",
+    "group": 5,
+    "groupName": "Advanced Verbs",
+    "base": "ontstaan",
+    "pastSimple": ["ontstond", "ontstonden"],
+    "pastParticiple": ["ontstaan"],
+    "display": "ontstaan → ontstond/ontstonden → ontstaan",
+    "translations": {
+      "en": "arise / originate",
+      "fr": "naître / surgir",
+      "es": "surgir / originarse",
+      "it": "sorgere / nascere",
+      "de": "entstehen",
+      "pt": "surgir / originar-se"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "ontwijken",
+    "group": 5,
+    "groupName": "Advanced Verbs",
+    "base": "ontwijken",
+    "pastSimple": ["ontweek", "ontweken"],
+    "pastParticiple": ["ontweken"],
+    "display": "ontwijken → ontweek/ontweken → ontweken",
+    "translations": {
+      "en": "avoid / evade",
+      "fr": "éviter / esquiver",
+      "es": "evitar / esquivar",
+      "it": "evitare / schivare",
+      "de": "ausweichen / vermeiden",
+      "pt": "evitar / esquivar"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "overblijven",
+    "group": 5,
+    "groupName": "Advanced Verbs",
+    "base": "overblijven",
+    "pastSimple": ["bleef over", "bleven over"],
+    "pastParticiple": ["overgebleven"],
+    "display": "overblijven → bleef over/bleven over → overgebleven",
+    "translations": {
+      "en": "remain / be left over",
+      "fr": "rester / rester en surplus",
+      "es": "quedar / sobrar",
+      "it": "rimanere / avanzare",
+      "de": "übrig bleiben",
+      "pt": "restar / sobrar"
+    },
+    "difficulty": 3
+  }
+]

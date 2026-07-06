@@ -1,0 +1,1124 @@
+[
+  {
+    "id": "feel",
+    "group": 1,
+    "groupName": "Feel to Forget",
+    "base": "feel",
+    "pastSimple": [
+      "felt"
+    ],
+    "pastParticiple": [
+      "felt"
+    ],
+    "display": "feel → felt → felt",
+    "translations": {
+      "fr": "sentir / ressentir",
+      "es": "sentir",
+      "it": "sentire / sentirsi",
+      "de": "fühlen",
+      "nl": "voelen",
+      "pt": "sentir"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "fight",
+    "group": 1,
+    "groupName": "Feel to Forget",
+    "base": "fight",
+    "pastSimple": [
+      "fought"
+    ],
+    "pastParticiple": [
+      "fought"
+    ],
+    "display": "fight → fought → fought",
+    "translations": {
+      "fr": "combattre / se battre",
+      "es": "luchar / pelear",
+      "it": "combattere / lottare",
+      "de": "kämpfen",
+      "nl": "vechten",
+      "pt": "lutar / brigar"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "find",
+    "group": 1,
+    "groupName": "Feel to Forget",
+    "base": "find",
+    "pastSimple": [
+      "found"
+    ],
+    "pastParticiple": [
+      "found"
+    ],
+    "display": "find → found → found",
+    "translations": {
+      "fr": "trouver",
+      "es": "encontrar",
+      "it": "trovare",
+      "de": "finden",
+      "nl": "vinden",
+      "pt": "encontrar"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "flee",
+    "group": 1,
+    "groupName": "Feel to Forget",
+    "base": "flee",
+    "pastSimple": [
+      "fled"
+    ],
+    "pastParticiple": [
+      "fled"
+    ],
+    "display": "flee → fled → fled",
+    "translations": {
+      "fr": "fuir",
+      "es": "huir",
+      "it": "fuggire",
+      "de": "fliehen",
+      "nl": "vluchten",
+      "pt": "fugir"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "fling",
+    "group": 1,
+    "groupName": "Feel to Forget",
+    "base": "fling",
+    "pastSimple": [
+      "flung"
+    ],
+    "pastParticiple": [
+      "flung"
+    ],
+    "display": "fling → flung → flung",
+    "translations": {
+      "fr": "lancer violemment",
+      "es": "arrojar / lanzar",
+      "it": "scagliare / lanciare",
+      "de": "schleudern",
+      "nl": "werpen / smijten",
+      "pt": "arremessar"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "fly",
+    "group": 1,
+    "groupName": "Feel to Forget",
+    "base": "fly",
+    "pastSimple": [
+      "flew"
+    ],
+    "pastParticiple": [
+      "flown"
+    ],
+    "display": "fly → flew → flown",
+    "translations": {
+      "fr": "voler",
+      "es": "volar",
+      "it": "volare",
+      "de": "fliegen",
+      "nl": "vliegen",
+      "pt": "voar"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "forbid",
+    "group": 1,
+    "groupName": "Feel to Forget",
+    "base": "forbid",
+    "pastSimple": [
+      "forbade",
+      "forbad"
+    ],
+    "pastParticiple": [
+      "forbidden"
+    ],
+    "display": "forbid → forbade/forbad → forbidden",
+    "translations": {
+      "fr": "interdire",
+      "es": "prohibir",
+      "it": "proibire",
+      "de": "verbieten",
+      "nl": "verbieden",
+      "pt": "proibir"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "forecast",
+    "group": 1,
+    "groupName": "Feel to Forget",
+    "base": "forecast",
+    "pastSimple": [
+      "forecast",
+      "forecasted"
+    ],
+    "pastParticiple": [
+      "forecast",
+      "forecasted"
+    ],
+    "display": "forecast → forecast/forecasted → forecast/forecasted",
+    "translations": {
+      "fr": "prévoir",
+      "es": "prever / pronosticar",
+      "it": "prevedere",
+      "de": "vorhersagen",
+      "nl": "voorspellen",
+      "pt": "prever"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "foresee",
+    "group": 1,
+    "groupName": "Feel to Forget",
+    "base": "foresee",
+    "pastSimple": [
+      "foresaw"
+    ],
+    "pastParticiple": [
+      "foreseen"
+    ],
+    "display": "foresee → foresaw → foreseen",
+    "translations": {
+      "fr": "prévoir",
+      "es": "prever",
+      "it": "prevedere",
+      "de": "voraussehen",
+      "nl": "voorzien",
+      "pt": "prever"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "forget",
+    "group": 1,
+    "groupName": "Feel to Forget",
+    "base": "forget",
+    "pastSimple": [
+      "forgot"
+    ],
+    "pastParticiple": [
+      "forgotten",
+      "forgot"
+    ],
+    "display": "forget → forgot → forgotten/forgot",
+    "translations": {
+      "fr": "oublier",
+      "es": "olvidar",
+      "it": "dimenticare",
+      "de": "vergessen",
+      "nl": "vergeten",
+      "pt": "esquecer"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "forgive",
+    "group": 2,
+    "groupName": "Forgive to Have",
+    "base": "forgive",
+    "pastSimple": [
+      "forgave"
+    ],
+    "pastParticiple": [
+      "forgiven"
+    ],
+    "display": "forgive → forgave → forgiven",
+    "translations": {
+      "fr": "pardonner",
+      "es": "perdonar",
+      "it": "perdonare",
+      "de": "vergeben",
+      "nl": "vergeven",
+      "pt": "perdoar"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "forsake",
+    "group": 2,
+    "groupName": "Forgive to Have",
+    "base": "forsake",
+    "pastSimple": [
+      "forsook"
+    ],
+    "pastParticiple": [
+      "forsaken"
+    ],
+    "display": "forsake → forsook → forsaken",
+    "translations": {
+      "fr": "abandonner / renoncer à",
+      "es": "abandonar / renunciar a",
+      "it": "abbandonare / rinunciare a",
+      "de": "aufgeben / verlassen",
+      "nl": "verlaten / verzaken",
+      "pt": "abandonar / renunciar"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "freeze",
+    "group": 2,
+    "groupName": "Forgive to Have",
+    "base": "freeze",
+    "pastSimple": [
+      "froze"
+    ],
+    "pastParticiple": [
+      "frozen"
+    ],
+    "display": "freeze → froze → frozen",
+    "translations": {
+      "fr": "geler",
+      "es": "congelar / helar",
+      "it": "congelare / gelare",
+      "de": "frieren / einfrieren",
+      "nl": "bevriezen",
+      "pt": "congelar"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "get",
+    "group": 2,
+    "groupName": "Forgive to Have",
+    "base": "get",
+    "pastSimple": [
+      "got"
+    ],
+    "pastParticiple": [
+      "got",
+      "gotten"
+    ],
+    "display": "get → got → got/gotten",
+    "translations": {
+      "fr": "obtenir / recevoir",
+      "es": "obtener / recibir",
+      "it": "ottenere / ricevere",
+      "de": "bekommen / erhalten",
+      "nl": "krijgen",
+      "pt": "obter / receber"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "give",
+    "group": 2,
+    "groupName": "Forgive to Have",
+    "base": "give",
+    "pastSimple": [
+      "gave"
+    ],
+    "pastParticiple": [
+      "given"
+    ],
+    "display": "give → gave → given",
+    "translations": {
+      "fr": "donner",
+      "es": "dar",
+      "it": "dare",
+      "de": "geben",
+      "nl": "geven",
+      "pt": "dar"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "go",
+    "group": 2,
+    "groupName": "Forgive to Have",
+    "base": "go",
+    "pastSimple": [
+      "went"
+    ],
+    "pastParticiple": [
+      "gone"
+    ],
+    "display": "go → went → gone",
+    "translations": {
+      "fr": "aller",
+      "es": "ir",
+      "it": "andare",
+      "de": "gehen",
+      "nl": "gaan",
+      "pt": "ir"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "grind",
+    "group": 2,
+    "groupName": "Forgive to Have",
+    "base": "grind",
+    "pastSimple": [
+      "ground"
+    ],
+    "pastParticiple": [
+      "ground"
+    ],
+    "display": "grind → ground → ground",
+    "translations": {
+      "fr": "moudre / broyer",
+      "es": "moler / triturar",
+      "it": "macinare / triturare",
+      "de": "mahlen / schleifen",
+      "nl": "malen / slijpen",
+      "pt": "moer / triturar"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "grow",
+    "group": 2,
+    "groupName": "Forgive to Have",
+    "base": "grow",
+    "pastSimple": [
+      "grew"
+    ],
+    "pastParticiple": [
+      "grown"
+    ],
+    "display": "grow → grew → grown",
+    "translations": {
+      "fr": "grandir / pousser",
+      "es": "crecer / cultivar",
+      "it": "crescere / coltivare",
+      "de": "wachsen / anbauen",
+      "nl": "groeien / kweken",
+      "pt": "crescer / cultivar"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "hang",
+    "group": 2,
+    "groupName": "Forgive to Have",
+    "base": "hang",
+    "pastSimple": [
+      "hung",
+      "hanged"
+    ],
+    "pastParticiple": [
+      "hung",
+      "hanged"
+    ],
+    "display": "hang → hung/hanged → hung/hanged",
+    "translations": {
+      "fr": "accrocher / pendre",
+      "es": "colgar",
+      "it": "appendere / impiccare",
+      "de": "hängen / aufhängen",
+      "nl": "hangen / ophangen",
+      "pt": "pendurar / enforcar"
+    },
+    "difficulty": 2,
+    "note": "Hung is usual for objects; hanged is often used for execution."
+  },
+  {
+    "id": "have",
+    "group": 2,
+    "groupName": "Forgive to Have",
+    "base": "have",
+    "pastSimple": [
+      "had"
+    ],
+    "pastParticiple": [
+      "had"
+    ],
+    "display": "have → had → had",
+    "translations": {
+      "fr": "avoir",
+      "es": "tener / haber",
+      "it": "avere",
+      "de": "haben",
+      "nl": "hebben",
+      "pt": "ter / haver"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "hear",
+    "group": 3,
+    "groupName": "Hear to Know",
+    "base": "hear",
+    "pastSimple": [
+      "heard"
+    ],
+    "pastParticiple": [
+      "heard"
+    ],
+    "display": "hear → heard → heard",
+    "translations": {
+      "fr": "entendre",
+      "es": "oír / escuchar",
+      "it": "sentire / udire",
+      "de": "hören",
+      "nl": "horen",
+      "pt": "ouvir"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "hide",
+    "group": 3,
+    "groupName": "Hear to Know",
+    "base": "hide",
+    "pastSimple": [
+      "hid"
+    ],
+    "pastParticiple": [
+      "hidden",
+      "hid"
+    ],
+    "display": "hide → hid → hidden/hid",
+    "translations": {
+      "fr": "cacher / se cacher",
+      "es": "esconder / esconderse",
+      "it": "nascondere / nascondersi",
+      "de": "verstecken",
+      "nl": "verbergen / verstoppen",
+      "pt": "esconder"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "hit",
+    "group": 3,
+    "groupName": "Hear to Know",
+    "base": "hit",
+    "pastSimple": [
+      "hit"
+    ],
+    "pastParticiple": [
+      "hit"
+    ],
+    "display": "hit → hit → hit",
+    "translations": {
+      "fr": "frapper",
+      "es": "golpear",
+      "it": "colpire",
+      "de": "schlagen / treffen",
+      "nl": "slaan / raken",
+      "pt": "bater / atingir"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "hold",
+    "group": 3,
+    "groupName": "Hear to Know",
+    "base": "hold",
+    "pastSimple": [
+      "held"
+    ],
+    "pastParticiple": [
+      "held"
+    ],
+    "display": "hold → held → held",
+    "translations": {
+      "fr": "tenir",
+      "es": "sostener / celebrar",
+      "it": "tenere",
+      "de": "halten",
+      "nl": "houden / vasthouden",
+      "pt": "segurar / manter"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "hurt",
+    "group": 3,
+    "groupName": "Hear to Know",
+    "base": "hurt",
+    "pastSimple": [
+      "hurt"
+    ],
+    "pastParticiple": [
+      "hurt"
+    ],
+    "display": "hurt → hurt → hurt",
+    "translations": {
+      "fr": "blesser / faire mal",
+      "es": "herir / doler",
+      "it": "ferire / fare male",
+      "de": "verletzen / wehtun",
+      "nl": "pijn doen / kwetsen",
+      "pt": "machucar / doer"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "keep",
+    "group": 3,
+    "groupName": "Hear to Know",
+    "base": "keep",
+    "pastSimple": [
+      "kept"
+    ],
+    "pastParticiple": [
+      "kept"
+    ],
+    "display": "keep → kept → kept",
+    "translations": {
+      "fr": "garder",
+      "es": "guardar / mantener",
+      "it": "tenere / conservare",
+      "de": "behalten / halten",
+      "nl": "houden / bewaren",
+      "pt": "guardar / manter"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "kneel",
+    "group": 3,
+    "groupName": "Hear to Know",
+    "base": "kneel",
+    "pastSimple": [
+      "knelt",
+      "kneeled"
+    ],
+    "pastParticiple": [
+      "knelt",
+      "kneeled"
+    ],
+    "display": "kneel → knelt/kneeled → knelt/kneeled",
+    "translations": {
+      "fr": "s'agenouiller",
+      "es": "arrodillarse",
+      "it": "inginocchiarsi",
+      "de": "knien",
+      "nl": "knielen",
+      "pt": "ajoelhar-se"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "knit",
+    "group": 3,
+    "groupName": "Hear to Know",
+    "base": "knit",
+    "pastSimple": [
+      "knit",
+      "knitted"
+    ],
+    "pastParticiple": [
+      "knit",
+      "knitted"
+    ],
+    "display": "knit → knit/knitted → knit/knitted",
+    "translations": {
+      "fr": "tricoter",
+      "es": "tejer",
+      "it": "lavorare a maglia",
+      "de": "stricken",
+      "nl": "breien",
+      "pt": "tricotar"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "know",
+    "group": 3,
+    "groupName": "Hear to Know",
+    "base": "know",
+    "pastSimple": [
+      "knew"
+    ],
+    "pastParticiple": [
+      "known"
+    ],
+    "display": "know → knew → known",
+    "translations": {
+      "fr": "savoir / connaître",
+      "es": "saber / conocer",
+      "it": "sapere / conoscere",
+      "de": "wissen / kennen",
+      "nl": "weten / kennen",
+      "pt": "saber / conhecer"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "lay",
+    "group": 4,
+    "groupName": "Lay to Make",
+    "base": "lay",
+    "pastSimple": [
+      "laid"
+    ],
+    "pastParticiple": [
+      "laid"
+    ],
+    "display": "lay → laid → laid",
+    "translations": {
+      "fr": "poser / déposer",
+      "es": "poner / colocar",
+      "it": "posare / mettere",
+      "de": "legen",
+      "nl": "leggen",
+      "pt": "colocar / pôr"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "lead",
+    "group": 4,
+    "groupName": "Lay to Make",
+    "base": "lead",
+    "pastSimple": [
+      "led"
+    ],
+    "pastParticiple": [
+      "led"
+    ],
+    "display": "lead → led → led",
+    "translations": {
+      "fr": "mener / diriger",
+      "es": "liderar / guiar",
+      "it": "guidare / condurre",
+      "de": "führen / leiten",
+      "nl": "leiden / leiden tot",
+      "pt": "liderar / conduzir"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "lean",
+    "group": 4,
+    "groupName": "Lay to Make",
+    "base": "lean",
+    "pastSimple": [
+      "leant",
+      "leaned"
+    ],
+    "pastParticiple": [
+      "leant",
+      "leaned"
+    ],
+    "display": "lean → leant/leaned → leant/leaned",
+    "translations": {
+      "fr": "se pencher / s'appuyer",
+      "es": "inclinarse / apoyarse",
+      "it": "sporgersi / appoggiarsi",
+      "de": "lehnen / sich neigen",
+      "nl": "leunen / hellen",
+      "pt": "inclinar-se / apoiar-se"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "leap",
+    "group": 4,
+    "groupName": "Lay to Make",
+    "base": "leap",
+    "pastSimple": [
+      "leapt",
+      "leaped"
+    ],
+    "pastParticiple": [
+      "leapt",
+      "leaped"
+    ],
+    "display": "leap → leapt/leaped → leapt/leaped",
+    "translations": {
+      "fr": "sauter / bondir",
+      "es": "saltar",
+      "it": "saltare / balzare",
+      "de": "springen",
+      "nl": "springen",
+      "pt": "saltar"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "learn",
+    "group": 4,
+    "groupName": "Lay to Make",
+    "base": "learn",
+    "pastSimple": [
+      "learnt",
+      "learned"
+    ],
+    "pastParticiple": [
+      "learnt",
+      "learned"
+    ],
+    "display": "learn → learnt/learned → learnt/learned",
+    "translations": {
+      "fr": "apprendre",
+      "es": "aprender",
+      "it": "imparare",
+      "de": "lernen",
+      "nl": "leren",
+      "pt": "aprender"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "leave",
+    "group": 4,
+    "groupName": "Lay to Make",
+    "base": "leave",
+    "pastSimple": [
+      "left"
+    ],
+    "pastParticiple": [
+      "left"
+    ],
+    "display": "leave → left → left",
+    "translations": {
+      "fr": "partir / laisser",
+      "es": "salir / dejar",
+      "it": "partire / lasciare",
+      "de": "verlassen / gehen",
+      "nl": "verlaten / vertrekken",
+      "pt": "sair / deixar"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "lend",
+    "group": 4,
+    "groupName": "Lay to Make",
+    "base": "lend",
+    "pastSimple": [
+      "lent"
+    ],
+    "pastParticiple": [
+      "lent"
+    ],
+    "display": "lend → lent → lent",
+    "translations": {
+      "fr": "prêter",
+      "es": "prestar",
+      "it": "prestare",
+      "de": "verleihen / leihen",
+      "nl": "lenen / uitlenen",
+      "pt": "emprestar"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "let",
+    "group": 4,
+    "groupName": "Lay to Make",
+    "base": "let",
+    "pastSimple": [
+      "let"
+    ],
+    "pastParticiple": [
+      "let"
+    ],
+    "display": "let → let → let",
+    "translations": {
+      "fr": "laisser / permettre",
+      "es": "dejar / permitir",
+      "it": "lasciare / permettere",
+      "de": "lassen",
+      "nl": "laten",
+      "pt": "deixar / permitir"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "lie",
+    "group": 4,
+    "groupName": "Lay to Make",
+    "base": "lie",
+    "pastSimple": [
+      "lay"
+    ],
+    "pastParticiple": [
+      "lain"
+    ],
+    "display": "lie → lay → lain",
+    "translations": {
+      "fr": "être allongé / s'allonger",
+      "es": "estar tumbado / acostarse",
+      "it": "stare sdraiato / sdraiarsi",
+      "de": "liegen / sich hinlegen",
+      "nl": "liggen",
+      "pt": "estar deitado / deitar-se"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "light",
+    "group": 4,
+    "groupName": "Lay to Make",
+    "base": "light",
+    "pastSimple": [
+      "lit",
+      "lighted"
+    ],
+    "pastParticiple": [
+      "lit",
+      "lighted"
+    ],
+    "display": "light → lit/lighted → lit/lighted",
+    "translations": {
+      "fr": "allumer / éclairer",
+      "es": "encender / iluminar",
+      "it": "accendere / illuminare",
+      "de": "anzünden / beleuchten",
+      "nl": "aansteken / verlichten",
+      "pt": "acender / iluminar"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "lose",
+    "group": 4,
+    "groupName": "Lay to Make",
+    "base": "lose",
+    "pastSimple": [
+      "lost"
+    ],
+    "pastParticiple": [
+      "lost"
+    ],
+    "display": "lose → lost → lost",
+    "translations": {
+      "fr": "perdre",
+      "es": "perder",
+      "it": "perdere",
+      "de": "verlieren",
+      "nl": "verliezen",
+      "pt": "perder"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "make",
+    "group": 4,
+    "groupName": "Lay to Make",
+    "base": "make",
+    "pastSimple": [
+      "made"
+    ],
+    "pastParticiple": [
+      "made"
+    ],
+    "display": "make → made → made",
+    "translations": {
+      "fr": "faire / fabriquer",
+      "es": "hacer / fabricar",
+      "it": "fare / creare",
+      "de": "machen / herstellen",
+      "nl": "maken",
+      "pt": "fazer / fabricar"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "mean",
+    "group": 5,
+    "groupName": "Mean to Overdo",
+    "base": "mean",
+    "pastSimple": [
+      "meant"
+    ],
+    "pastParticiple": [
+      "meant"
+    ],
+    "display": "mean → meant → meant",
+    "translations": {
+      "fr": "signifier / vouloir dire",
+      "es": "significar / querer decir",
+      "it": "significare / voler dire",
+      "de": "bedeuten / meinen",
+      "nl": "betekenen / bedoelen",
+      "pt": "significar / querer dizer"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "meet",
+    "group": 5,
+    "groupName": "Mean to Overdo",
+    "base": "meet",
+    "pastSimple": [
+      "met"
+    ],
+    "pastParticiple": [
+      "met"
+    ],
+    "display": "meet → met → met",
+    "translations": {
+      "fr": "rencontrer",
+      "es": "conocer / encontrarse con",
+      "it": "incontrare",
+      "de": "treffen / kennenlernen",
+      "nl": "ontmoeten",
+      "pt": "encontrar / conhecer"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "mislead",
+    "group": 5,
+    "groupName": "Mean to Overdo",
+    "base": "mislead",
+    "pastSimple": [
+      "misled"
+    ],
+    "pastParticiple": [
+      "misled"
+    ],
+    "display": "mislead → misled → misled",
+    "translations": {
+      "fr": "induire en erreur",
+      "es": "engañar / inducir a error",
+      "it": "fuorviare / ingannare",
+      "de": "irreführen",
+      "nl": "misleiden",
+      "pt": "enganar / induzir em erro"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "mistake",
+    "group": 5,
+    "groupName": "Mean to Overdo",
+    "base": "mistake",
+    "pastSimple": [
+      "mistook"
+    ],
+    "pastParticiple": [
+      "mistaken"
+    ],
+    "display": "mistake → mistook → mistaken",
+    "translations": {
+      "fr": "se tromper / confondre",
+      "es": "confundir / equivocarse",
+      "it": "confondere / sbagliare",
+      "de": "verwechseln / sich irren",
+      "nl": "vergissen / verwarren",
+      "pt": "confundir / enganar-se"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "misunderstand",
+    "group": 5,
+    "groupName": "Mean to Overdo",
+    "base": "misunderstand",
+    "pastSimple": [
+      "misunderstood"
+    ],
+    "pastParticiple": [
+      "misunderstood"
+    ],
+    "display": "misunderstand → misunderstood → misunderstood",
+    "translations": {
+      "fr": "mal comprendre",
+      "es": "malentender",
+      "it": "fraintendere",
+      "de": "missverstehen",
+      "nl": "misverstaan / verkeerd begrijpen",
+      "pt": "entender mal"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "mow",
+    "group": 5,
+    "groupName": "Mean to Overdo",
+    "base": "mow",
+    "pastSimple": [
+      "mowed"
+    ],
+    "pastParticiple": [
+      "mown",
+      "mowed"
+    ],
+    "display": "mow → mowed → mown/mowed",
+    "translations": {
+      "fr": "tondre",
+      "es": "segar / cortar el césped",
+      "it": "falciare / tagliare l'erba",
+      "de": "mähen",
+      "nl": "maaien",
+      "pt": "ceifar / cortar a relva"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "outdo",
+    "group": 5,
+    "groupName": "Mean to Overdo",
+    "base": "outdo",
+    "pastSimple": [
+      "outdid"
+    ],
+    "pastParticiple": [
+      "outdone"
+    ],
+    "display": "outdo → outdid → outdone",
+    "translations": {
+      "fr": "surpasser",
+      "es": "superar",
+      "it": "superare",
+      "de": "übertreffen",
+      "nl": "overtreffen",
+      "pt": "superar"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "overcome",
+    "group": 5,
+    "groupName": "Mean to Overdo",
+    "base": "overcome",
+    "pastSimple": [
+      "overcame"
+    ],
+    "pastParticiple": [
+      "overcome"
+    ],
+    "display": "overcome → overcame → overcome",
+    "translations": {
+      "fr": "surmonter",
+      "es": "superar / vencer",
+      "it": "superare / vincere",
+      "de": "überwinden",
+      "nl": "overwinnen",
+      "pt": "superar / vencer"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "overdo",
+    "group": 5,
+    "groupName": "Mean to Overdo",
+    "base": "overdo",
+    "pastSimple": [
+      "overdid"
+    ],
+    "pastParticiple": [
+      "overdone"
+    ],
+    "display": "overdo → overdid → overdone",
+    "translations": {
+      "fr": "exagérer / en faire trop",
+      "es": "exagerar / excederse",
+      "it": "esagerare / strafare",
+      "de": "übertreiben",
+      "nl": "overdrijven",
+      "pt": "exagerar"
+    },
+    "difficulty": 3
+  }
+]

@@ -1,0 +1,1102 @@
+[
+  {
+    "id": "aanbieden",
+    "group": 1,
+    "groupName": "A-B Verbs",
+    "base": "aanbieden",
+    "pastSimple": [
+      "bood aan"
+    ],
+    "pastParticiple": [
+      "aangeboden"
+    ],
+    "display": "aanbieden → bood aan → aangeboden",
+    "translations": {
+      "en": "offer",
+      "fr": "offrir / proposer",
+      "es": "ofrecer",
+      "it": "offrire / proporre",
+      "de": "anbieten",
+      "pt": "oferecer"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "aanhouden",
+    "group": 1,
+    "groupName": "A-B Verbs",
+    "base": "aanhouden",
+    "pastSimple": [
+      "hield aan"
+    ],
+    "pastParticiple": [
+      "aangehouden"
+    ],
+    "display": "aanhouden → hield aan → aangehouden",
+    "translations": {
+      "en": "continue / arrest",
+      "fr": "continuer / arrêter",
+      "es": "continuar / detener",
+      "it": "continuare / arrestare",
+      "de": "anhalten / festnehmen",
+      "pt": "continuar / prender"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "aankomen",
+    "group": 1,
+    "groupName": "A-B Verbs",
+    "base": "aankomen",
+    "pastSimple": [
+      "kwam aan"
+    ],
+    "pastParticiple": [
+      "aangekomen"
+    ],
+    "display": "aankomen → kwam aan → aangekomen",
+    "translations": {
+      "en": "arrive",
+      "fr": "arriver",
+      "es": "llegar",
+      "it": "arrivare",
+      "de": "ankommen",
+      "pt": "chegar"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "aannemen",
+    "group": 1,
+    "groupName": "A-B Verbs",
+    "base": "aannemen",
+    "pastSimple": [
+      "nam aan"
+    ],
+    "pastParticiple": [
+      "aangenomen"
+    ],
+    "display": "aannemen → nam aan → aangenomen",
+    "translations": {
+      "en": "accept / assume",
+      "fr": "accepter / supposer",
+      "es": "aceptar / suponer",
+      "it": "accettare / supporre",
+      "de": "annehmen",
+      "pt": "aceitar / supor"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "aanraden",
+    "group": 1,
+    "groupName": "A-B Verbs",
+    "base": "aanraden",
+    "pastSimple": [
+      "raadde aan"
+    ],
+    "pastParticiple": [
+      "aangeraden"
+    ],
+    "display": "aanraden → raadde aan → aangeraden",
+    "translations": {
+      "en": "recommend / advise",
+      "fr": "conseiller / recommander",
+      "es": "aconsejar / recomendar",
+      "it": "consigliare / raccomandare",
+      "de": "anraten / empfehlen",
+      "pt": "aconselhar / recomendar"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "aanspreken",
+    "group": 1,
+    "groupName": "A-B Verbs",
+    "base": "aanspreken",
+    "pastSimple": [
+      "sprak aan"
+    ],
+    "pastParticiple": [
+      "aangesproken"
+    ],
+    "display": "aanspreken → sprak aan → aangesproken",
+    "translations": {
+      "en": "address / speak to",
+      "fr": "s'adresser à / interpeller",
+      "es": "dirigirse a / hablar a",
+      "it": "rivolgersi a / parlare a",
+      "de": "ansprechen",
+      "pt": "dirigir-se a / abordar"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "aantrekken",
+    "group": 1,
+    "groupName": "A-B Verbs",
+    "base": "aantrekken",
+    "pastSimple": [
+      "trok aan"
+    ],
+    "pastParticiple": [
+      "aangetrokken"
+    ],
+    "display": "aantrekken → trok aan → aangetrokken",
+    "translations": {
+      "en": "put on / attract",
+      "fr": "mettre / attirer",
+      "es": "ponerse / atraer",
+      "it": "mettere / attirare",
+      "de": "anziehen",
+      "pt": "vestir / atrair"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "achterblijven",
+    "group": 1,
+    "groupName": "A-B Verbs",
+    "base": "achterblijven",
+    "pastSimple": [
+      "bleef achter"
+    ],
+    "pastParticiple": [
+      "achtergebleven"
+    ],
+    "display": "achterblijven → bleef achter → achtergebleven",
+    "translations": {
+      "en": "stay behind / lag behind",
+      "fr": "rester en arrière",
+      "es": "quedarse atrás",
+      "it": "rimanere indietro",
+      "de": "zurückbleiben",
+      "pt": "ficar para trás"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "afbreken",
+    "group": 1,
+    "groupName": "A-B Verbs",
+    "base": "afbreken",
+    "pastSimple": [
+      "brak af"
+    ],
+    "pastParticiple": [
+      "afgebroken"
+    ],
+    "display": "afbreken → brak af → afgebroken",
+    "translations": {
+      "en": "break off / demolish",
+      "fr": "casser / démolir",
+      "es": "romper / demoler",
+      "it": "rompere / demolire",
+      "de": "abbrechen",
+      "pt": "quebrar / demolir"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "afnemen",
+    "group": 1,
+    "groupName": "A-B Verbs",
+    "base": "afnemen",
+    "pastSimple": [
+      "nam af"
+    ],
+    "pastParticiple": [
+      "afgenomen"
+    ],
+    "display": "afnemen → nam af → afgenomen",
+    "translations": {
+      "en": "decrease / take away",
+      "fr": "diminuer / enlever",
+      "es": "disminuir / quitar",
+      "it": "diminuire / togliere",
+      "de": "abnehmen",
+      "pt": "diminuir / retirar"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "afspreken",
+    "group": 2,
+    "groupName": "B-D Verbs",
+    "base": "afspreken",
+    "pastSimple": [
+      "sprak af"
+    ],
+    "pastParticiple": [
+      "afgesproken"
+    ],
+    "display": "afspreken → sprak af → afgesproken",
+    "translations": {
+      "en": "arrange / agree",
+      "fr": "convenir / fixer",
+      "es": "quedar / acordar",
+      "it": "concordare / fissare",
+      "de": "absprechen / vereinbaren",
+      "pt": "combinar / marcar"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "afhangen",
+    "group": 2,
+    "groupName": "B-D Verbs",
+    "base": "afhangen",
+    "pastSimple": [
+      "hing af"
+    ],
+    "pastParticiple": [
+      "afgehangen"
+    ],
+    "display": "afhangen → hing af → afgehangen",
+    "translations": {
+      "en": "depend on",
+      "fr": "dépendre de",
+      "es": "depender de",
+      "it": "dipendere da",
+      "de": "abhängen",
+      "pt": "depender de"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "afsnijden",
+    "group": 2,
+    "groupName": "B-D Verbs",
+    "base": "afsnijden",
+    "pastSimple": [
+      "sneed af"
+    ],
+    "pastParticiple": [
+      "afgesneden"
+    ],
+    "display": "afsnijden → sneed af → afgesneden",
+    "translations": {
+      "en": "cut off",
+      "fr": "couper / sectionner",
+      "es": "cortar / aislar",
+      "it": "tagliare / recidere",
+      "de": "abschneiden",
+      "pt": "cortar / isolar"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "afstaan",
+    "group": 2,
+    "groupName": "B-D Verbs",
+    "base": "afstaan",
+    "pastSimple": [
+      "stond af"
+    ],
+    "pastParticiple": [
+      "afgestaan"
+    ],
+    "display": "afstaan → stond af → afgestaan",
+    "translations": {
+      "en": "give up / cede",
+      "fr": "céder / abandonner",
+      "es": "ceder / renunciar",
+      "it": "cedere / rinunciare",
+      "de": "abtreten / abgeben",
+      "pt": "ceder / renunciar"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "beginnen",
+    "group": 2,
+    "groupName": "B-D Verbs",
+    "base": "beginnen",
+    "pastSimple": [
+      "begon"
+    ],
+    "pastParticiple": [
+      "begonnen"
+    ],
+    "display": "beginnen → begon → begonnen",
+    "translations": {
+      "en": "begin",
+      "fr": "commencer",
+      "es": "empezar / comenzar",
+      "it": "cominciare / iniziare",
+      "de": "beginnen",
+      "pt": "começar"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "begrijpen",
+    "group": 2,
+    "groupName": "B-D Verbs",
+    "base": "begrijpen",
+    "pastSimple": [
+      "begreep"
+    ],
+    "pastParticiple": [
+      "begrepen"
+    ],
+    "display": "begrijpen → begreep → begrepen",
+    "translations": {
+      "en": "understand",
+      "fr": "comprendre",
+      "es": "entender / comprender",
+      "it": "capire / comprendere",
+      "de": "verstehen",
+      "pt": "entender / compreender"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "bevelen",
+    "group": 2,
+    "groupName": "B-D Verbs",
+    "base": "bevelen",
+    "pastSimple": [
+      "beval"
+    ],
+    "pastParticiple": [
+      "bevolen"
+    ],
+    "display": "bevelen → beval → bevolen",
+    "translations": {
+      "en": "command / order",
+      "fr": "ordonner / commander",
+      "es": "ordenar / mandar",
+      "it": "ordinare / comandare",
+      "de": "befehlen",
+      "pt": "ordenar / mandar"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "bezitten",
+    "group": 2,
+    "groupName": "B-D Verbs",
+    "base": "bezitten",
+    "pastSimple": [
+      "bezat"
+    ],
+    "pastParticiple": [
+      "bezeten"
+    ],
+    "display": "bezitten → bezat → bezeten",
+    "translations": {
+      "en": "possess / own",
+      "fr": "posséder",
+      "es": "poseer / tener",
+      "it": "possedere",
+      "de": "besitzen",
+      "pt": "possuir"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "bidden",
+    "group": 2,
+    "groupName": "B-D Verbs",
+    "base": "bidden",
+    "pastSimple": [
+      "bad"
+    ],
+    "pastParticiple": [
+      "gebeden"
+    ],
+    "display": "bidden → bad → gebeden",
+    "translations": {
+      "en": "pray",
+      "fr": "prier",
+      "es": "rezar",
+      "it": "pregare",
+      "de": "beten",
+      "pt": "rezar / orar"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "bieden",
+    "group": 2,
+    "groupName": "B-D Verbs",
+    "base": "bieden",
+    "pastSimple": [
+      "bood"
+    ],
+    "pastParticiple": [
+      "geboden"
+    ],
+    "display": "bieden → bood → geboden",
+    "translations": {
+      "en": "offer / bid",
+      "fr": "offrir / proposer",
+      "es": "ofrecer / pujar",
+      "it": "offrire / fare un'offerta",
+      "de": "bieten",
+      "pt": "oferecer / licitar"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "bijten",
+    "group": 3,
+    "groupName": "D-G Verbs",
+    "base": "bijten",
+    "pastSimple": [
+      "beet"
+    ],
+    "pastParticiple": [
+      "gebeten"
+    ],
+    "display": "bijten → beet → gebeten",
+    "translations": {
+      "en": "bite",
+      "fr": "mordre",
+      "es": "morder",
+      "it": "mordere",
+      "de": "beißen",
+      "pt": "morder"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "binden",
+    "group": 3,
+    "groupName": "D-G Verbs",
+    "base": "binden",
+    "pastSimple": [
+      "bond"
+    ],
+    "pastParticiple": [
+      "gebonden"
+    ],
+    "display": "binden → bond → gebonden",
+    "translations": {
+      "en": "bind / tie",
+      "fr": "lier / attacher",
+      "es": "atar / unir",
+      "it": "legare",
+      "de": "binden",
+      "pt": "atar / ligar"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "blijken",
+    "group": 3,
+    "groupName": "D-G Verbs",
+    "base": "blijken",
+    "pastSimple": [
+      "bleek"
+    ],
+    "pastParticiple": [
+      "gebleken"
+    ],
+    "display": "blijken → bleek → gebleken",
+    "translations": {
+      "en": "turn out / appear",
+      "fr": "s'avérer / sembler",
+      "es": "resultar / parecer",
+      "it": "risultare / sembrare",
+      "de": "sich herausstellen",
+      "pt": "revelar-se / parecer"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "blijven",
+    "group": 3,
+    "groupName": "D-G Verbs",
+    "base": "blijven",
+    "pastSimple": [
+      "bleef"
+    ],
+    "pastParticiple": [
+      "gebleven"
+    ],
+    "display": "blijven → bleef → gebleven",
+    "translations": {
+      "en": "stay / remain",
+      "fr": "rester",
+      "es": "quedarse / permanecer",
+      "it": "restare / rimanere",
+      "de": "bleiben",
+      "pt": "ficar / permanecer"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "breken",
+    "group": 3,
+    "groupName": "D-G Verbs",
+    "base": "breken",
+    "pastSimple": [
+      "brak"
+    ],
+    "pastParticiple": [
+      "gebroken"
+    ],
+    "display": "breken → brak → gebroken",
+    "translations": {
+      "en": "break",
+      "fr": "casser",
+      "es": "romper",
+      "it": "rompere",
+      "de": "brechen",
+      "pt": "quebrar / partir"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "brengen",
+    "group": 3,
+    "groupName": "D-G Verbs",
+    "base": "brengen",
+    "pastSimple": [
+      "bracht"
+    ],
+    "pastParticiple": [
+      "gebracht"
+    ],
+    "display": "brengen → bracht → gebracht",
+    "translations": {
+      "en": "bring",
+      "fr": "apporter",
+      "es": "traer",
+      "it": "portare",
+      "de": "bringen",
+      "pt": "trazer"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "buigen",
+    "group": 3,
+    "groupName": "D-G Verbs",
+    "base": "buigen",
+    "pastSimple": [
+      "boog"
+    ],
+    "pastParticiple": [
+      "gebogen"
+    ],
+    "display": "buigen → boog → gebogen",
+    "translations": {
+      "en": "bend / bow",
+      "fr": "plier / s'incliner",
+      "es": "doblar / inclinarse",
+      "it": "piegare / inchinarsi",
+      "de": "biegen / sich beugen",
+      "pt": "dobrar / inclinar-se"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "denken",
+    "group": 3,
+    "groupName": "D-G Verbs",
+    "base": "denken",
+    "pastSimple": [
+      "dacht"
+    ],
+    "pastParticiple": [
+      "gedacht"
+    ],
+    "display": "denken → dacht → gedacht",
+    "translations": {
+      "en": "think",
+      "fr": "penser",
+      "es": "pensar",
+      "it": "pensare",
+      "de": "denken",
+      "pt": "pensar"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "doen",
+    "group": 3,
+    "groupName": "D-G Verbs",
+    "base": "doen",
+    "pastSimple": [
+      "deed"
+    ],
+    "pastParticiple": [
+      "gedaan"
+    ],
+    "display": "doen → deed → gedaan",
+    "translations": {
+      "en": "do",
+      "fr": "faire",
+      "es": "hacer",
+      "it": "fare",
+      "de": "tun / machen",
+      "pt": "fazer"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "dragen",
+    "group": 3,
+    "groupName": "D-G Verbs",
+    "base": "dragen",
+    "pastSimple": [
+      "droeg"
+    ],
+    "pastParticiple": [
+      "gedragen"
+    ],
+    "display": "dragen → droeg → gedragen",
+    "translations": {
+      "en": "carry / wear",
+      "fr": "porter",
+      "es": "llevar / vestir",
+      "it": "portare / indossare",
+      "de": "tragen",
+      "pt": "carregar / vestir"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "drinken",
+    "group": 4,
+    "groupName": "G-H Verbs",
+    "base": "drinken",
+    "pastSimple": [
+      "dronk"
+    ],
+    "pastParticiple": [
+      "gedronken"
+    ],
+    "display": "drinken → dronk → gedronken",
+    "translations": {
+      "en": "drink",
+      "fr": "boire",
+      "es": "beber",
+      "it": "bere",
+      "de": "trinken",
+      "pt": "beber"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "dringen",
+    "group": 4,
+    "groupName": "G-H Verbs",
+    "base": "dringen",
+    "pastSimple": [
+      "drong"
+    ],
+    "pastParticiple": [
+      "gedrongen"
+    ],
+    "display": "dringen → drong → gedrongen",
+    "translations": {
+      "en": "push / urge",
+      "fr": "pousser / insister",
+      "es": "empujar / insistir",
+      "it": "spingere / insistere",
+      "de": "dringen",
+      "pt": "empurrar / insistir"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "dwingen",
+    "group": 4,
+    "groupName": "G-H Verbs",
+    "base": "dwingen",
+    "pastSimple": [
+      "dwong"
+    ],
+    "pastParticiple": [
+      "gedwongen"
+    ],
+    "display": "dwingen → dwong → gedwongen",
+    "translations": {
+      "en": "force / compel",
+      "fr": "forcer / contraindre",
+      "es": "obligar / forzar",
+      "it": "costringere",
+      "de": "zwingen",
+      "pt": "forçar / obrigar"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "eten",
+    "group": 4,
+    "groupName": "G-H Verbs",
+    "base": "eten",
+    "pastSimple": [
+      "at"
+    ],
+    "pastParticiple": [
+      "gegeten"
+    ],
+    "display": "eten → at → gegeten",
+    "translations": {
+      "en": "eat",
+      "fr": "manger",
+      "es": "comer",
+      "it": "mangiare",
+      "de": "essen",
+      "pt": "comer"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "fluiten",
+    "group": 4,
+    "groupName": "G-H Verbs",
+    "base": "fluiten",
+    "pastSimple": [
+      "floot"
+    ],
+    "pastParticiple": [
+      "gefloten"
+    ],
+    "display": "fluiten → floot → gefloten",
+    "translations": {
+      "en": "whistle",
+      "fr": "siffler",
+      "es": "silbar",
+      "it": "fischiare",
+      "de": "pfeifen",
+      "pt": "assobiar"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "gaan",
+    "group": 4,
+    "groupName": "G-H Verbs",
+    "base": "gaan",
+    "pastSimple": [
+      "ging"
+    ],
+    "pastParticiple": [
+      "gegaan"
+    ],
+    "display": "gaan → ging → gegaan",
+    "translations": {
+      "en": "go",
+      "fr": "aller",
+      "es": "ir",
+      "it": "andare",
+      "de": "gehen",
+      "pt": "ir"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "gebieden",
+    "group": 4,
+    "groupName": "G-H Verbs",
+    "base": "gebieden",
+    "pastSimple": [
+      "gebood"
+    ],
+    "pastParticiple": [
+      "geboden"
+    ],
+    "display": "gebieden → gebood → geboden",
+    "translations": {
+      "en": "command / order",
+      "fr": "ordonner",
+      "es": "ordenar",
+      "it": "ordinare / comandare",
+      "de": "gebieten",
+      "pt": "ordenar"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "gelden",
+    "group": 4,
+    "groupName": "G-H Verbs",
+    "base": "gelden",
+    "pastSimple": [
+      "gold"
+    ],
+    "pastParticiple": [
+      "gegolden"
+    ],
+    "display": "gelden → gold → gegolden",
+    "translations": {
+      "en": "be valid / count",
+      "fr": "être valable / compter",
+      "es": "ser válido / contar",
+      "it": "valere / contare",
+      "de": "gelten",
+      "pt": "ser válido / contar"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "genezen",
+    "group": 4,
+    "groupName": "G-H Verbs",
+    "base": "genezen",
+    "pastSimple": [
+      "genas"
+    ],
+    "pastParticiple": [
+      "genezen"
+    ],
+    "display": "genezen → genas → genezen",
+    "translations": {
+      "en": "heal / recover",
+      "fr": "guérir",
+      "es": "curar / recuperarse",
+      "it": "guarire",
+      "de": "heilen / genesen",
+      "pt": "curar / recuperar-se"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "genieten",
+    "group": 4,
+    "groupName": "G-H Verbs",
+    "base": "genieten",
+    "pastSimple": [
+      "genoot"
+    ],
+    "pastParticiple": [
+      "genoten"
+    ],
+    "display": "genieten → genoot → genoten",
+    "translations": {
+      "en": "enjoy",
+      "fr": "profiter / apprécier",
+      "es": "disfrutar",
+      "it": "godere / apprezzare",
+      "de": "genießen",
+      "pt": "aproveitar / desfrutar"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "geven",
+    "group": 5,
+    "groupName": "H-K Verbs",
+    "base": "geven",
+    "pastSimple": [
+      "gaf"
+    ],
+    "pastParticiple": [
+      "gegeven"
+    ],
+    "display": "geven → gaf → gegeven",
+    "translations": {
+      "en": "give",
+      "fr": "donner",
+      "es": "dar",
+      "it": "dare",
+      "de": "geben",
+      "pt": "dar"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "gieten",
+    "group": 5,
+    "groupName": "H-K Verbs",
+    "base": "gieten",
+    "pastSimple": [
+      "goot"
+    ],
+    "pastParticiple": [
+      "gegoten"
+    ],
+    "display": "gieten → goot → gegoten",
+    "translations": {
+      "en": "pour",
+      "fr": "verser",
+      "es": "verter / echar",
+      "it": "versare",
+      "de": "gießen",
+      "pt": "verter / despejar"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "grijpen",
+    "group": 5,
+    "groupName": "H-K Verbs",
+    "base": "grijpen",
+    "pastSimple": [
+      "greep"
+    ],
+    "pastParticiple": [
+      "gegrepen"
+    ],
+    "display": "grijpen → greep → gegrepen",
+    "translations": {
+      "en": "grab / seize",
+      "fr": "saisir / attraper",
+      "es": "agarrar / tomar",
+      "it": "afferrare",
+      "de": "greifen",
+      "pt": "agarrar / pegar"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "hebben",
+    "group": 5,
+    "groupName": "H-K Verbs",
+    "base": "hebben",
+    "pastSimple": [
+      "had"
+    ],
+    "pastParticiple": [
+      "gehad"
+    ],
+    "display": "hebben → had → gehad",
+    "translations": {
+      "en": "have",
+      "fr": "avoir",
+      "es": "tener / haber",
+      "it": "avere",
+      "de": "haben",
+      "pt": "ter / haver"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "hangen",
+    "group": 5,
+    "groupName": "H-K Verbs",
+    "base": "hangen",
+    "pastSimple": [
+      "hing"
+    ],
+    "pastParticiple": [
+      "gehangen"
+    ],
+    "display": "hangen → hing → gehangen",
+    "translations": {
+      "en": "hang",
+      "fr": "pendre / accrocher",
+      "es": "colgar",
+      "it": "appendere / pendere",
+      "de": "hängen",
+      "pt": "pendurar / estar pendurado"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "heffen",
+    "group": 5,
+    "groupName": "H-K Verbs",
+    "base": "heffen",
+    "pastSimple": [
+      "hief"
+    ],
+    "pastParticiple": [
+      "geheven"
+    ],
+    "display": "heffen → hief → geheven",
+    "translations": {
+      "en": "raise / lift",
+      "fr": "lever / élever",
+      "es": "levantar / elevar",
+      "it": "alzare / elevare",
+      "de": "heben",
+      "pt": "levantar / erguer"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "helpen",
+    "group": 5,
+    "groupName": "H-K Verbs",
+    "base": "helpen",
+    "pastSimple": [
+      "hielp"
+    ],
+    "pastParticiple": [
+      "geholpen"
+    ],
+    "display": "helpen → hielp → geholpen",
+    "translations": {
+      "en": "help",
+      "fr": "aider",
+      "es": "ayudar",
+      "it": "aiutare",
+      "de": "helfen",
+      "pt": "ajudar"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "houden",
+    "group": 5,
+    "groupName": "H-K Verbs",
+    "base": "houden",
+    "pastSimple": [
+      "hield"
+    ],
+    "pastParticiple": [
+      "gehouden"
+    ],
+    "display": "houden → hield → gehouden",
+    "translations": {
+      "en": "hold / keep",
+      "fr": "tenir / garder",
+      "es": "sostener / guardar",
+      "it": "tenere / conservare",
+      "de": "halten / behalten",
+      "pt": "segurar / guardar"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "kiezen",
+    "group": 5,
+    "groupName": "H-K Verbs",
+    "base": "kiezen",
+    "pastSimple": [
+      "koos"
+    ],
+    "pastParticiple": [
+      "gekozen"
+    ],
+    "display": "kiezen → koos → gekozen",
+    "translations": {
+      "en": "choose",
+      "fr": "choisir",
+      "es": "elegir / escoger",
+      "it": "scegliere",
+      "de": "wählen",
+      "pt": "escolher"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "kijken",
+    "group": 5,
+    "groupName": "H-K Verbs",
+    "base": "kijken",
+    "pastSimple": [
+      "keek"
+    ],
+    "pastParticiple": [
+      "gekeken"
+    ],
+    "display": "kijken → keek → gekeken",
+    "translations": {
+      "en": "look / watch",
+      "fr": "regarder",
+      "es": "mirar / ver",
+      "it": "guardare",
+      "de": "schauen / ansehen",
+      "pt": "olhar / assistir"
+    },
+    "difficulty": 2
+  }
+]

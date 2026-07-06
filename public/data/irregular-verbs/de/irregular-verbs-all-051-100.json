@@ -1,0 +1,1102 @@
+[
+  {
+    "id": "geben",
+    "group": 1,
+    "groupName": "Common Verbs",
+    "base": "geben",
+    "pastSimple": [
+      "gab"
+    ],
+    "pastParticiple": [
+      "gegeben"
+    ],
+    "display": "geben → gab → gegeben",
+    "translations": {
+      "en": "give",
+      "fr": "donner",
+      "es": "dar",
+      "it": "dare",
+      "nl": "geven",
+      "pt": "dar"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "gedeihen",
+    "group": 1,
+    "groupName": "Common Verbs",
+    "base": "gedeihen",
+    "pastSimple": [
+      "gedieh"
+    ],
+    "pastParticiple": [
+      "gediehen"
+    ],
+    "display": "gedeihen → gedieh → gediehen",
+    "translations": {
+      "en": "thrive",
+      "fr": "prospérer",
+      "es": "prosperar",
+      "it": "prosperare",
+      "nl": "gedijen",
+      "pt": "prosperar"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "gehen",
+    "group": 1,
+    "groupName": "Common Verbs",
+    "base": "gehen",
+    "pastSimple": [
+      "ging"
+    ],
+    "pastParticiple": [
+      "gegangen"
+    ],
+    "display": "gehen → ging → gegangen",
+    "translations": {
+      "en": "go",
+      "fr": "aller",
+      "es": "ir",
+      "it": "andare",
+      "nl": "gaan",
+      "pt": "ir"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "gelingen",
+    "group": 1,
+    "groupName": "Common Verbs",
+    "base": "gelingen",
+    "pastSimple": [
+      "gelang"
+    ],
+    "pastParticiple": [
+      "gelungen"
+    ],
+    "display": "gelingen → gelang → gelungen",
+    "translations": {
+      "en": "succeed",
+      "fr": "réussir",
+      "es": "salir bien / tener éxito",
+      "it": "riuscire",
+      "nl": "lukken",
+      "pt": "dar certo / conseguir"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "gelten",
+    "group": 1,
+    "groupName": "Common Verbs",
+    "base": "gelten",
+    "pastSimple": [
+      "galt"
+    ],
+    "pastParticiple": [
+      "gegolten"
+    ],
+    "display": "gelten → galt → gegolten",
+    "translations": {
+      "en": "be valid / apply",
+      "fr": "valoir / être valable",
+      "es": "valer / ser válido",
+      "it": "valere",
+      "nl": "gelden",
+      "pt": "valer / ser válido"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "genesen",
+    "group": 1,
+    "groupName": "Common Verbs",
+    "base": "genesen",
+    "pastSimple": [
+      "genas"
+    ],
+    "pastParticiple": [
+      "genesen"
+    ],
+    "display": "genesen → genas → genesen",
+    "translations": {
+      "en": "recover",
+      "fr": "guérir / se rétablir",
+      "es": "recuperarse",
+      "it": "guarire / ristabilirsi",
+      "nl": "genezen",
+      "pt": "recuperar-se"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "geniessen",
+    "group": 1,
+    "groupName": "Common Verbs",
+    "base": "genießen",
+    "pastSimple": [
+      "genoss"
+    ],
+    "pastParticiple": [
+      "genossen"
+    ],
+    "display": "genießen → genoss → genossen",
+    "translations": {
+      "en": "enjoy",
+      "fr": "profiter de / apprécier",
+      "es": "disfrutar",
+      "it": "godere / apprezzare",
+      "nl": "genieten",
+      "pt": "aproveitar / desfrutar"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "geschehen",
+    "group": 1,
+    "groupName": "Common Verbs",
+    "base": "geschehen",
+    "pastSimple": [
+      "geschah"
+    ],
+    "pastParticiple": [
+      "geschehen"
+    ],
+    "display": "geschehen → geschah → geschehen",
+    "translations": {
+      "en": "happen",
+      "fr": "arriver / se passer",
+      "es": "ocurrir / suceder",
+      "it": "accadere / succedere",
+      "nl": "gebeuren",
+      "pt": "acontecer"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "gewinnen",
+    "group": 1,
+    "groupName": "Common Verbs",
+    "base": "gewinnen",
+    "pastSimple": [
+      "gewann"
+    ],
+    "pastParticiple": [
+      "gewonnen"
+    ],
+    "display": "gewinnen → gewann → gewonnen",
+    "translations": {
+      "en": "win",
+      "fr": "gagner",
+      "es": "ganar",
+      "it": "vincere",
+      "nl": "winnen",
+      "pt": "ganhar"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "giessen",
+    "group": 1,
+    "groupName": "Common Verbs",
+    "base": "gießen",
+    "pastSimple": [
+      "goss"
+    ],
+    "pastParticiple": [
+      "gegossen"
+    ],
+    "display": "gießen → goss → gegossen",
+    "translations": {
+      "en": "pour / water",
+      "fr": "verser / arroser",
+      "es": "verter / regar",
+      "it": "versare / annaffiare",
+      "nl": "gieten",
+      "pt": "verter / regar"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "gleichen",
+    "group": 2,
+    "groupName": "Common Verbs",
+    "base": "gleichen",
+    "pastSimple": [
+      "glich"
+    ],
+    "pastParticiple": [
+      "geglichen"
+    ],
+    "display": "gleichen → glich → geglichen",
+    "translations": {
+      "en": "resemble / equal",
+      "fr": "ressembler / égaler",
+      "es": "parecerse / igualar",
+      "it": "somigliare / uguagliare",
+      "nl": "gelijken",
+      "pt": "parecer-se / igualar"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "gleiten",
+    "group": 2,
+    "groupName": "Common Verbs",
+    "base": "gleiten",
+    "pastSimple": [
+      "glitt"
+    ],
+    "pastParticiple": [
+      "geglitten"
+    ],
+    "display": "gleiten → glitt → geglitten",
+    "translations": {
+      "en": "glide / slide",
+      "fr": "glisser",
+      "es": "deslizarse",
+      "it": "scivolare",
+      "nl": "glijden",
+      "pt": "deslizar"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "glimmen",
+    "group": 2,
+    "groupName": "Common Verbs",
+    "base": "glimmen",
+    "pastSimple": [
+      "glomm"
+    ],
+    "pastParticiple": [
+      "geglommen"
+    ],
+    "display": "glimmen → glomm → geglommen",
+    "translations": {
+      "en": "glow / smoulder",
+      "fr": "luire / couver",
+      "es": "brillar débilmente",
+      "it": "ardere debolmente",
+      "nl": "gloeien",
+      "pt": "brilhar fracamente"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "graben",
+    "group": 2,
+    "groupName": "Common Verbs",
+    "base": "graben",
+    "pastSimple": [
+      "grub"
+    ],
+    "pastParticiple": [
+      "gegraben"
+    ],
+    "display": "graben → grub → gegraben",
+    "translations": {
+      "en": "dig",
+      "fr": "creuser",
+      "es": "cavar",
+      "it": "scavare",
+      "nl": "graven",
+      "pt": "cavar"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "greifen",
+    "group": 2,
+    "groupName": "Common Verbs",
+    "base": "greifen",
+    "pastSimple": [
+      "griff"
+    ],
+    "pastParticiple": [
+      "gegriffen"
+    ],
+    "display": "greifen → griff → gegriffen",
+    "translations": {
+      "en": "grip / grab",
+      "fr": "saisir",
+      "es": "agarrar",
+      "it": "afferrare",
+      "nl": "grijpen",
+      "pt": "agarrar"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "haben",
+    "group": 2,
+    "groupName": "Common Verbs",
+    "base": "haben",
+    "pastSimple": [
+      "hatte"
+    ],
+    "pastParticiple": [
+      "gehabt"
+    ],
+    "display": "haben → hatte → gehabt",
+    "translations": {
+      "en": "have",
+      "fr": "avoir",
+      "es": "tener / haber",
+      "it": "avere",
+      "nl": "hebben",
+      "pt": "ter / haver"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "halten",
+    "group": 2,
+    "groupName": "Common Verbs",
+    "base": "halten",
+    "pastSimple": [
+      "hielt"
+    ],
+    "pastParticiple": [
+      "gehalten"
+    ],
+    "display": "halten → hielt → gehalten",
+    "translations": {
+      "en": "hold / stop",
+      "fr": "tenir / s'arrêter",
+      "es": "sostener / parar",
+      "it": "tenere / fermarsi",
+      "nl": "houden / stoppen",
+      "pt": "segurar / parar"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "haengen",
+    "group": 2,
+    "groupName": "Common Verbs",
+    "base": "hängen",
+    "pastSimple": [
+      "hing"
+    ],
+    "pastParticiple": [
+      "gehangen"
+    ],
+    "display": "hängen → hing → gehangen",
+    "translations": {
+      "en": "hang",
+      "fr": "être accroché / pendre",
+      "es": "colgar / estar colgado",
+      "it": "pendere",
+      "nl": "hangen",
+      "pt": "pendurar / estar pendurado"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "hauen",
+    "group": 2,
+    "groupName": "Common Verbs",
+    "base": "hauen",
+    "pastSimple": [
+      "hieb"
+    ],
+    "pastParticiple": [
+      "gehauen"
+    ],
+    "display": "hauen → hieb → gehauen",
+    "translations": {
+      "en": "hit / chop",
+      "fr": "frapper / tailler",
+      "es": "golpear / cortar",
+      "it": "colpire / tagliare",
+      "nl": "hakken / slaan",
+      "pt": "bater / cortar"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "heben",
+    "group": 2,
+    "groupName": "Common Verbs",
+    "base": "heben",
+    "pastSimple": [
+      "hob"
+    ],
+    "pastParticiple": [
+      "gehoben"
+    ],
+    "display": "heben → hob → gehoben",
+    "translations": {
+      "en": "lift / raise",
+      "fr": "lever / soulever",
+      "es": "levantar",
+      "it": "sollevare",
+      "nl": "heffen / optillen",
+      "pt": "levantar"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "heissen",
+    "group": 3,
+    "groupName": "Action Verbs",
+    "base": "heißen",
+    "pastSimple": [
+      "hieß"
+    ],
+    "pastParticiple": [
+      "geheißen"
+    ],
+    "display": "heißen → hieß → geheißen",
+    "translations": {
+      "en": "be called / mean",
+      "fr": "s'appeler / signifier",
+      "es": "llamarse / significar",
+      "it": "chiamarsi / significare",
+      "nl": "heten / betekenen",
+      "pt": "chamar-se / significar"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "helfen",
+    "group": 3,
+    "groupName": "Action Verbs",
+    "base": "helfen",
+    "pastSimple": [
+      "half"
+    ],
+    "pastParticiple": [
+      "geholfen"
+    ],
+    "display": "helfen → half → geholfen",
+    "translations": {
+      "en": "help",
+      "fr": "aider",
+      "es": "ayudar",
+      "it": "aiutare",
+      "nl": "helpen",
+      "pt": "ajudar"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "kennen",
+    "group": 3,
+    "groupName": "Action Verbs",
+    "base": "kennen",
+    "pastSimple": [
+      "kannte"
+    ],
+    "pastParticiple": [
+      "gekannt"
+    ],
+    "display": "kennen → kannte → gekannt",
+    "translations": {
+      "en": "know / be familiar with",
+      "fr": "connaître",
+      "es": "conocer",
+      "it": "conoscere",
+      "nl": "kennen",
+      "pt": "conhecer"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "klingen",
+    "group": 3,
+    "groupName": "Action Verbs",
+    "base": "klingen",
+    "pastSimple": [
+      "klang"
+    ],
+    "pastParticiple": [
+      "geklungen"
+    ],
+    "display": "klingen → klang → geklungen",
+    "translations": {
+      "en": "sound / ring",
+      "fr": "sonner / résonner",
+      "es": "sonar",
+      "it": "suonare / risuonare",
+      "nl": "klinken",
+      "pt": "soar"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "kneifen",
+    "group": 3,
+    "groupName": "Action Verbs",
+    "base": "kneifen",
+    "pastSimple": [
+      "kniff"
+    ],
+    "pastParticiple": [
+      "gekniffen"
+    ],
+    "display": "kneifen → kniff → gekniffen",
+    "translations": {
+      "en": "pinch",
+      "fr": "pincer",
+      "es": "pellizcar",
+      "it": "pizzicare",
+      "nl": "knijpen",
+      "pt": "beliscar"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "kommen",
+    "group": 3,
+    "groupName": "Action Verbs",
+    "base": "kommen",
+    "pastSimple": [
+      "kam"
+    ],
+    "pastParticiple": [
+      "gekommen"
+    ],
+    "display": "kommen → kam → gekommen",
+    "translations": {
+      "en": "come",
+      "fr": "venir",
+      "es": "venir",
+      "it": "venire",
+      "nl": "komen",
+      "pt": "vir"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "koennen",
+    "group": 3,
+    "groupName": "Action Verbs",
+    "base": "können",
+    "pastSimple": [
+      "konnte"
+    ],
+    "pastParticiple": [
+      "gekonnt"
+    ],
+    "display": "können → konnte → gekonnt",
+    "translations": {
+      "en": "can / be able to",
+      "fr": "pouvoir",
+      "es": "poder",
+      "it": "potere",
+      "nl": "kunnen",
+      "pt": "poder"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "kriechen",
+    "group": 3,
+    "groupName": "Action Verbs",
+    "base": "kriechen",
+    "pastSimple": [
+      "kroch"
+    ],
+    "pastParticiple": [
+      "gekrochen"
+    ],
+    "display": "kriechen → kroch → gekrochen",
+    "translations": {
+      "en": "crawl / creep",
+      "fr": "ramper",
+      "es": "arrastrarse",
+      "it": "strisciare",
+      "nl": "kruipen",
+      "pt": "rastejar"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "laden",
+    "group": 3,
+    "groupName": "Action Verbs",
+    "base": "laden",
+    "pastSimple": [
+      "lud"
+    ],
+    "pastParticiple": [
+      "geladen"
+    ],
+    "display": "laden → lud → geladen",
+    "translations": {
+      "en": "load / invite",
+      "fr": "charger / inviter",
+      "es": "cargar / invitar",
+      "it": "caricare / invitare",
+      "nl": "laden / uitnodigen",
+      "pt": "carregar / convidar"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "lassen",
+    "group": 3,
+    "groupName": "Action Verbs",
+    "base": "lassen",
+    "pastSimple": [
+      "ließ"
+    ],
+    "pastParticiple": [
+      "gelassen"
+    ],
+    "display": "lassen → ließ → gelassen",
+    "translations": {
+      "en": "let / leave",
+      "fr": "laisser",
+      "es": "dejar / permitir",
+      "it": "lasciare / permettere",
+      "nl": "laten",
+      "pt": "deixar / permitir"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "laufen",
+    "group": 4,
+    "groupName": "Useful Verbs",
+    "base": "laufen",
+    "pastSimple": [
+      "lief"
+    ],
+    "pastParticiple": [
+      "gelaufen"
+    ],
+    "display": "laufen → lief → gelaufen",
+    "translations": {
+      "en": "run / walk",
+      "fr": "courir / marcher",
+      "es": "correr / andar",
+      "it": "correre / camminare",
+      "nl": "lopen / rennen",
+      "pt": "correr / andar"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "leiden",
+    "group": 4,
+    "groupName": "Useful Verbs",
+    "base": "leiden",
+    "pastSimple": [
+      "litt"
+    ],
+    "pastParticiple": [
+      "gelitten"
+    ],
+    "display": "leiden → litt → gelitten",
+    "translations": {
+      "en": "suffer",
+      "fr": "souffrir",
+      "es": "sufrir",
+      "it": "soffrire",
+      "nl": "lijden",
+      "pt": "sofrer"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "leihen",
+    "group": 4,
+    "groupName": "Useful Verbs",
+    "base": "leihen",
+    "pastSimple": [
+      "lieh"
+    ],
+    "pastParticiple": [
+      "geliehen"
+    ],
+    "display": "leihen → lieh → geliehen",
+    "translations": {
+      "en": "lend / borrow",
+      "fr": "prêter / emprunter",
+      "es": "prestar / pedir prestado",
+      "it": "prestare / prendere in prestito",
+      "nl": "lenen",
+      "pt": "emprestar / pedir emprestado"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "lesen",
+    "group": 4,
+    "groupName": "Useful Verbs",
+    "base": "lesen",
+    "pastSimple": [
+      "las"
+    ],
+    "pastParticiple": [
+      "gelesen"
+    ],
+    "display": "lesen → las → gelesen",
+    "translations": {
+      "en": "read",
+      "fr": "lire",
+      "es": "leer",
+      "it": "leggere",
+      "nl": "lezen",
+      "pt": "ler"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "liegen",
+    "group": 4,
+    "groupName": "Useful Verbs",
+    "base": "liegen",
+    "pastSimple": [
+      "lag"
+    ],
+    "pastParticiple": [
+      "gelegen"
+    ],
+    "display": "liegen → lag → gelegen",
+    "translations": {
+      "en": "lie / be located",
+      "fr": "être allongé / se trouver",
+      "es": "estar tumbado / estar situado",
+      "it": "stare sdraiato / trovarsi",
+      "nl": "liggen",
+      "pt": "estar deitado / situar-se"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "luegen",
+    "group": 4,
+    "groupName": "Useful Verbs",
+    "base": "lügen",
+    "pastSimple": [
+      "log"
+    ],
+    "pastParticiple": [
+      "gelogen"
+    ],
+    "display": "lügen → log → gelogen",
+    "translations": {
+      "en": "lie / tell a lie",
+      "fr": "mentir",
+      "es": "mentir",
+      "it": "mentire",
+      "nl": "liegen",
+      "pt": "mentir"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "meiden",
+    "group": 4,
+    "groupName": "Useful Verbs",
+    "base": "meiden",
+    "pastSimple": [
+      "mied"
+    ],
+    "pastParticiple": [
+      "gemieden"
+    ],
+    "display": "meiden → mied → gemieden",
+    "translations": {
+      "en": "avoid",
+      "fr": "éviter",
+      "es": "evitar",
+      "it": "evitare",
+      "nl": "mijden",
+      "pt": "evitar"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "melken",
+    "group": 4,
+    "groupName": "Useful Verbs",
+    "base": "melken",
+    "pastSimple": [
+      "molk"
+    ],
+    "pastParticiple": [
+      "gemolken"
+    ],
+    "display": "melken → molk → gemolken",
+    "translations": {
+      "en": "milk",
+      "fr": "traire",
+      "es": "ordeñar",
+      "it": "mungere",
+      "nl": "melken",
+      "pt": "ordenhar"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "messen",
+    "group": 4,
+    "groupName": "Useful Verbs",
+    "base": "messen",
+    "pastSimple": [
+      "maß"
+    ],
+    "pastParticiple": [
+      "gemessen"
+    ],
+    "display": "messen → maß → gemessen",
+    "translations": {
+      "en": "measure",
+      "fr": "mesurer",
+      "es": "medir",
+      "it": "misurare",
+      "nl": "meten",
+      "pt": "medir"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "misslingen",
+    "group": 4,
+    "groupName": "Useful Verbs",
+    "base": "misslingen",
+    "pastSimple": [
+      "misslang"
+    ],
+    "pastParticiple": [
+      "misslungen"
+    ],
+    "display": "misslingen → misslang → misslungen",
+    "translations": {
+      "en": "fail / go wrong",
+      "fr": "échouer / rater",
+      "es": "salir mal / fracasar",
+      "it": "fallire / andare male",
+      "nl": "mislukken",
+      "pt": "falhar / dar errado"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "moegen",
+    "group": 5,
+    "groupName": "Advanced Verbs",
+    "base": "mögen",
+    "pastSimple": [
+      "mochte"
+    ],
+    "pastParticiple": [
+      "gemocht"
+    ],
+    "display": "mögen → mochte → gemocht",
+    "translations": {
+      "en": "like",
+      "fr": "aimer bien",
+      "es": "gustar",
+      "it": "piacere",
+      "nl": "mogen / leuk vinden",
+      "pt": "gostar"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "muessen",
+    "group": 5,
+    "groupName": "Advanced Verbs",
+    "base": "müssen",
+    "pastSimple": [
+      "musste"
+    ],
+    "pastParticiple": [
+      "gemusst"
+    ],
+    "display": "müssen → musste → gemusst",
+    "translations": {
+      "en": "must / have to",
+      "fr": "devoir",
+      "es": "deber / tener que",
+      "it": "dovere",
+      "nl": "moeten",
+      "pt": "dever / ter que"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "nehmen",
+    "group": 5,
+    "groupName": "Advanced Verbs",
+    "base": "nehmen",
+    "pastSimple": [
+      "nahm"
+    ],
+    "pastParticiple": [
+      "genommen"
+    ],
+    "display": "nehmen → nahm → genommen",
+    "translations": {
+      "en": "take",
+      "fr": "prendre",
+      "es": "tomar / coger",
+      "it": "prendere",
+      "nl": "nemen",
+      "pt": "tomar / pegar"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "nennen",
+    "group": 5,
+    "groupName": "Advanced Verbs",
+    "base": "nennen",
+    "pastSimple": [
+      "nannte"
+    ],
+    "pastParticiple": [
+      "genannt"
+    ],
+    "display": "nennen → nannte → genannt",
+    "translations": {
+      "en": "name / call",
+      "fr": "nommer / appeler",
+      "es": "nombrar / llamar",
+      "it": "nominare / chiamare",
+      "nl": "noemen",
+      "pt": "nomear / chamar"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pfeifen",
+    "group": 5,
+    "groupName": "Advanced Verbs",
+    "base": "pfeifen",
+    "pastSimple": [
+      "pfiff"
+    ],
+    "pastParticiple": [
+      "gepfiffen"
+    ],
+    "display": "pfeifen → pfiff → gepfiffen",
+    "translations": {
+      "en": "whistle",
+      "fr": "siffler",
+      "es": "silbar",
+      "it": "fischiare",
+      "nl": "fluiten",
+      "pt": "assobiar"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "preisen",
+    "group": 5,
+    "groupName": "Advanced Verbs",
+    "base": "preisen",
+    "pastSimple": [
+      "pries"
+    ],
+    "pastParticiple": [
+      "gepriesen"
+    ],
+    "display": "preisen → pries → gepriesen",
+    "translations": {
+      "en": "praise",
+      "fr": "louer / vanter",
+      "es": "alabar",
+      "it": "lodare",
+      "nl": "prijzen",
+      "pt": "louvar"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "quellen",
+    "group": 5,
+    "groupName": "Advanced Verbs",
+    "base": "quellen",
+    "pastSimple": [
+      "quoll"
+    ],
+    "pastParticiple": [
+      "gequollen"
+    ],
+    "display": "quellen → quoll → gequollen",
+    "translations": {
+      "en": "swell / well up",
+      "fr": "gonfler / jaillir",
+      "es": "hincharse / brotar",
+      "it": "gonfiarsi / sgorgare",
+      "nl": "opzwellen",
+      "pt": "inchar / brotar"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "raten",
+    "group": 5,
+    "groupName": "Advanced Verbs",
+    "base": "raten",
+    "pastSimple": [
+      "riet"
+    ],
+    "pastParticiple": [
+      "geraten"
+    ],
+    "display": "raten → riet → geraten",
+    "translations": {
+      "en": "advise / guess",
+      "fr": "conseiller / deviner",
+      "es": "aconsejar / adivinar",
+      "it": "consigliare / indovinare",
+      "nl": "raden / adviseren",
+      "pt": "aconselhar / adivinhar"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "reiben",
+    "group": 5,
+    "groupName": "Advanced Verbs",
+    "base": "reiben",
+    "pastSimple": [
+      "rieb"
+    ],
+    "pastParticiple": [
+      "gerieben"
+    ],
+    "display": "reiben → rieb → gerieben",
+    "translations": {
+      "en": "rub / grate",
+      "fr": "frotter / râper",
+      "es": "frotar / rallar",
+      "it": "strofinare / grattugiare",
+      "nl": "wrijven / raspen",
+      "pt": "esfregar / ralar"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "reissen",
+    "group": 5,
+    "groupName": "Advanced Verbs",
+    "base": "reißen",
+    "pastSimple": [
+      "riss"
+    ],
+    "pastParticiple": [
+      "gerissen"
+    ],
+    "display": "reißen → riss → gerissen",
+    "translations": {
+      "en": "tear / rip",
+      "fr": "déchirer / arracher",
+      "es": "rasgar / arrancar",
+      "it": "strappare",
+      "nl": "scheuren / trekken",
+      "pt": "rasgar / arrancar"
+    },
+    "difficulty": 2
+  }
+]

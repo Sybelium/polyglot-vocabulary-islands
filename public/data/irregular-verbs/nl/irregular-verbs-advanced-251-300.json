@@ -1,0 +1,1152 @@
+[
+  {
+    "id": "overdragen",
+    "group": 1,
+    "groupName": "Advanced Verbs",
+    "base": "overdragen",
+    "pastSimple": [
+      "droeg over",
+      "droegen over"
+    ],
+    "pastParticiple": [
+      "overgedragen"
+    ],
+    "display": "overdragen → droeg over/droegen over → overgedragen",
+    "translations": {
+      "en": "transfer / hand over",
+      "fr": "transmettre / remettre",
+      "es": "transferir / entregar",
+      "it": "trasferire / consegnare",
+      "de": "übertragen / übergeben",
+      "pt": "transferir / entregar"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "overgaan",
+    "group": 1,
+    "groupName": "Advanced Verbs",
+    "base": "overgaan",
+    "pastSimple": [
+      "ging over",
+      "gingen over"
+    ],
+    "pastParticiple": [
+      "overgegaan"
+    ],
+    "display": "overgaan → ging over/gingen over → overgegaan",
+    "translations": {
+      "en": "move on / transfer / pass into",
+      "fr": "passer à / se transformer",
+      "es": "pasar a / transformarse",
+      "it": "passare a / trasformarsi",
+      "de": "übergehen / wechseln",
+      "pt": "passar a / transformar-se"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "overhouden",
+    "group": 1,
+    "groupName": "Advanced Verbs",
+    "base": "overhouden",
+    "pastSimple": [
+      "hield over",
+      "hielden over"
+    ],
+    "pastParticiple": [
+      "overgehouden"
+    ],
+    "display": "overhouden → hield over/hielden over → overgehouden",
+    "translations": {
+      "en": "keep left / have remaining",
+      "fr": "garder / rester avec",
+      "es": "conservar / sobrar",
+      "it": "conservare / rimanere con",
+      "de": "übrig behalten",
+      "pt": "ficar com / sobrar"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "overkomen",
+    "group": 1,
+    "groupName": "Advanced Verbs",
+    "base": "overkomen",
+    "pastSimple": [
+      "kwam over",
+      "kwamen over"
+    ],
+    "pastParticiple": [
+      "overgekomen"
+    ],
+    "display": "overkomen → kwam over/kwamen over → overgekomen",
+    "translations": {
+      "en": "happen to / come across",
+      "fr": "arriver à / passer pour",
+      "es": "ocurrirle a / parecer",
+      "it": "capitare a / sembrare",
+      "de": "passieren / herüberkommen",
+      "pt": "acontecer a / parecer"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "overnemen",
+    "group": 1,
+    "groupName": "Advanced Verbs",
+    "base": "overnemen",
+    "pastSimple": [
+      "nam over",
+      "namen over"
+    ],
+    "pastParticiple": [
+      "overgenomen"
+    ],
+    "display": "overnemen → nam over/namen over → overgenomen",
+    "translations": {
+      "en": "take over",
+      "fr": "reprendre / prendre le relais",
+      "es": "tomar el relevo / asumir",
+      "it": "rilevare / prendere in carico",
+      "de": "übernehmen",
+      "pt": "assumir / tomar conta"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "overslaan",
+    "group": 1,
+    "groupName": "Advanced Verbs",
+    "base": "overslaan",
+    "pastSimple": [
+      "sloeg over",
+      "sloegen over"
+    ],
+    "pastParticiple": [
+      "overgeslagen"
+    ],
+    "display": "overslaan → sloeg over/sloegen over → overgeslagen",
+    "translations": {
+      "en": "skip / miss out",
+      "fr": "sauter / omettre",
+      "es": "saltar / omitir",
+      "it": "saltare / omettere",
+      "de": "überspringen / auslassen",
+      "pt": "pular / omitir"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "oversteken",
+    "group": 1,
+    "groupName": "Advanced Verbs",
+    "base": "oversteken",
+    "pastSimple": [
+      "stak over",
+      "staken over"
+    ],
+    "pastParticiple": [
+      "overgestoken"
+    ],
+    "display": "oversteken → stak over/staken over → overgestoken",
+    "translations": {
+      "en": "cross",
+      "fr": "traverser",
+      "es": "cruzar",
+      "it": "attraversare",
+      "de": "überqueren",
+      "pt": "atravessar"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "overtreden",
+    "group": 1,
+    "groupName": "Advanced Verbs",
+    "base": "overtreden",
+    "pastSimple": [
+      "overtrad",
+      "overtraden"
+    ],
+    "pastParticiple": [
+      "overtreden"
+    ],
+    "display": "overtreden → overtrad/overtraden → overtreden",
+    "translations": {
+      "en": "violate / break a rule",
+      "fr": "enfreindre",
+      "es": "infringir",
+      "it": "violare",
+      "de": "übertreten / verletzen",
+      "pt": "infringir"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "overtrekken",
+    "group": 1,
+    "groupName": "Advanced Verbs",
+    "base": "overtrekken",
+    "pastSimple": [
+      "trok over",
+      "trokken over"
+    ],
+    "pastParticiple": [
+      "overgetrokken"
+    ],
+    "display": "overtrekken → trok over/trokken over → overgetrokken",
+    "translations": {
+      "en": "pull over / pass over",
+      "fr": "tirer par-dessus / passer",
+      "es": "cubrir / pasar por encima",
+      "it": "tirare sopra / passare",
+      "de": "überziehen / hinüberziehen",
+      "pt": "cobrir / passar por cima"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "overvallen",
+    "group": 1,
+    "groupName": "Advanced Verbs",
+    "base": "overvallen",
+    "pastSimple": [
+      "overviel",
+      "overvielen"
+    ],
+    "pastParticiple": [
+      "overvallen"
+    ],
+    "display": "overvallen → overviel/overvielen → overvallen",
+    "translations": {
+      "en": "attack / surprise",
+      "fr": "attaquer / surprendre",
+      "es": "asaltar / sorprender",
+      "it": "assalire / sorprendere",
+      "de": "überfallen / überraschen",
+      "pt": "assaltar / surpreender"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "overwinnen",
+    "group": 2,
+    "groupName": "Advanced Verbs",
+    "base": "overwinnen",
+    "pastSimple": [
+      "overwon",
+      "overwonnen"
+    ],
+    "pastParticiple": [
+      "overwonnen"
+    ],
+    "display": "overwinnen → overwon/overwonnen → overwonnen",
+    "translations": {
+      "en": "overcome / defeat",
+      "fr": "surmonter / vaincre",
+      "es": "superar / vencer",
+      "it": "superare / vincere",
+      "de": "überwinden / besiegen",
+      "pt": "superar / vencer"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "overzien",
+    "group": 2,
+    "groupName": "Advanced Verbs",
+    "base": "overzien",
+    "pastSimple": [
+      "overzag",
+      "overzagen"
+    ],
+    "pastParticiple": [
+      "overzien"
+    ],
+    "display": "overzien → overzag/overzagen → overzien",
+    "translations": {
+      "en": "oversee / survey",
+      "fr": "avoir une vue d'ensemble",
+      "es": "abarcar / supervisar",
+      "it": "avere una visione d'insieme",
+      "de": "überblicken",
+      "pt": "ter visão geral"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "rondrijden",
+    "group": 2,
+    "groupName": "Advanced Verbs",
+    "base": "rondrijden",
+    "pastSimple": [
+      "reed rond",
+      "reden rond"
+    ],
+    "pastParticiple": [
+      "rondgereden"
+    ],
+    "display": "rondrijden → reed rond/reden rond → rondgereden",
+    "translations": {
+      "en": "drive around",
+      "fr": "circuler en voiture",
+      "es": "conducir por ahí",
+      "it": "girare in auto",
+      "de": "herumfahren",
+      "pt": "andar de carro por aí"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "rondlopen",
+    "group": 2,
+    "groupName": "Advanced Verbs",
+    "base": "rondlopen",
+    "pastSimple": [
+      "liep rond",
+      "liepen rond"
+    ],
+    "pastParticiple": [
+      "rondgelopen"
+    ],
+    "display": "rondlopen → liep rond/liepen rond → rondgelopen",
+    "translations": {
+      "en": "walk around",
+      "fr": "se promener / circuler",
+      "es": "andar por ahí",
+      "it": "girare a piedi",
+      "de": "herumlaufen",
+      "pt": "andar por aí"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "rondtrekken",
+    "group": 2,
+    "groupName": "Advanced Verbs",
+    "base": "rondtrekken",
+    "pastSimple": [
+      "trok rond",
+      "trokken rond"
+    ],
+    "pastParticiple": [
+      "rondgetrokken"
+    ],
+    "display": "rondtrekken → trok rond/trokken rond → rondgetrokken",
+    "translations": {
+      "en": "travel around / roam",
+      "fr": "voyager / errer",
+      "es": "recorrer / vagar",
+      "it": "viaggiare / vagare",
+      "de": "umherziehen",
+      "pt": "viajar / vaguear"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "samengaan",
+    "group": 2,
+    "groupName": "Advanced Verbs",
+    "base": "samengaan",
+    "pastSimple": [
+      "ging samen",
+      "gingen samen"
+    ],
+    "pastParticiple": [
+      "samengegaan"
+    ],
+    "display": "samengaan → ging samen/gingen samen → samengegaan",
+    "translations": {
+      "en": "merge / go together",
+      "fr": "fusionner / aller ensemble",
+      "es": "fusionarse / ir juntos",
+      "it": "fondersi / andare insieme",
+      "de": "zusammengehen / fusionieren",
+      "pt": "fundir-se / ir juntos"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "samenvallen",
+    "group": 2,
+    "groupName": "Advanced Verbs",
+    "base": "samenvallen",
+    "pastSimple": [
+      "viel samen",
+      "vielen samen"
+    ],
+    "pastParticiple": [
+      "samengevallen"
+    ],
+    "display": "samenvallen → viel samen/vielen samen → samengevallen",
+    "translations": {
+      "en": "coincide",
+      "fr": "coïncider",
+      "es": "coincidir",
+      "it": "coincidere",
+      "de": "zusammenfallen",
+      "pt": "coincidir"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "samenwerken",
+    "group": 2,
+    "groupName": "Advanced Verbs",
+    "base": "samenwerken",
+    "pastSimple": [
+      "werkte samen",
+      "werkten samen"
+    ],
+    "pastParticiple": [
+      "samengewerkt"
+    ],
+    "display": "samenwerken → werkte samen/werkten samen → samengewerkt",
+    "translations": {
+      "en": "cooperate / collaborate",
+      "fr": "coopérer / collaborer",
+      "es": "cooperar / colaborar",
+      "it": "collaborare",
+      "de": "zusammenarbeiten",
+      "pt": "cooperar / colaborar"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "terugbrengen",
+    "group": 2,
+    "groupName": "Advanced Verbs",
+    "base": "terugbrengen",
+    "pastSimple": [
+      "bracht terug",
+      "brachten terug"
+    ],
+    "pastParticiple": [
+      "teruggebracht"
+    ],
+    "display": "terugbrengen → bracht terug/brachten terug → teruggebracht",
+    "translations": {
+      "en": "bring back",
+      "fr": "ramener / rapporter",
+      "es": "devolver / traer de vuelta",
+      "it": "riportare",
+      "de": "zurückbringen",
+      "pt": "trazer de volta / devolver"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "terugdenken",
+    "group": 2,
+    "groupName": "Advanced Verbs",
+    "base": "terugdenken",
+    "pastSimple": [
+      "dacht terug",
+      "dachten terug"
+    ],
+    "pastParticiple": [
+      "teruggedacht"
+    ],
+    "display": "terugdenken → dacht terug/dachten terug → teruggedacht",
+    "translations": {
+      "en": "think back",
+      "fr": "repenser à",
+      "es": "recordar / pensar atrás",
+      "it": "ripensare a",
+      "de": "zurückdenken",
+      "pt": "recordar / pensar de volta"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "terugdringen",
+    "group": 3,
+    "groupName": "Advanced Verbs",
+    "base": "terugdringen",
+    "pastSimple": [
+      "drong terug",
+      "drongen terug"
+    ],
+    "pastParticiple": [
+      "teruggedrongen"
+    ],
+    "display": "terugdringen → drong terug/drongen terug → teruggedrongen",
+    "translations": {
+      "en": "push back / reduce",
+      "fr": "repousser / réduire",
+      "es": "hacer retroceder / reducir",
+      "it": "respingere / ridurre",
+      "de": "zurückdrängen",
+      "pt": "empurrar de volta / reduzir"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "teruggaan",
+    "group": 3,
+    "groupName": "Advanced Verbs",
+    "base": "teruggaan",
+    "pastSimple": [
+      "ging terug",
+      "gingen terug"
+    ],
+    "pastParticiple": [
+      "teruggegaan"
+    ],
+    "display": "teruggaan → ging terug/gingen terug → teruggegaan",
+    "translations": {
+      "en": "go back",
+      "fr": "retourner",
+      "es": "volver",
+      "it": "tornare",
+      "de": "zurückgehen",
+      "pt": "voltar"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "teruggeven",
+    "group": 3,
+    "groupName": "Advanced Verbs",
+    "base": "teruggeven",
+    "pastSimple": [
+      "gaf terug",
+      "gaven terug"
+    ],
+    "pastParticiple": [
+      "teruggegeven"
+    ],
+    "display": "teruggeven → gaf terug/gaven terug → teruggegeven",
+    "translations": {
+      "en": "give back / return",
+      "fr": "rendre",
+      "es": "devolver",
+      "it": "restituire",
+      "de": "zurückgeben",
+      "pt": "devolver"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "terugkeren",
+    "group": 3,
+    "groupName": "Advanced Verbs",
+    "base": "terugkeren",
+    "pastSimple": [
+      "keerde terug",
+      "keerden terug"
+    ],
+    "pastParticiple": [
+      "teruggekeerd"
+    ],
+    "display": "terugkeren → keerde terug/keerden terug → teruggekeerd",
+    "translations": {
+      "en": "return",
+      "fr": "revenir / retourner",
+      "es": "regresar",
+      "it": "ritornare",
+      "de": "zurückkehren",
+      "pt": "regressar"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "terugkomen",
+    "group": 3,
+    "groupName": "Advanced Verbs",
+    "base": "terugkomen",
+    "pastSimple": [
+      "kwam terug",
+      "kwamen terug"
+    ],
+    "pastParticiple": [
+      "teruggekomen"
+    ],
+    "display": "terugkomen → kwam terug/kwamen terug → teruggekomen",
+    "translations": {
+      "en": "come back",
+      "fr": "revenir",
+      "es": "volver",
+      "it": "tornare",
+      "de": "zurückkommen",
+      "pt": "voltar"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "teruglopen",
+    "group": 3,
+    "groupName": "Advanced Verbs",
+    "base": "teruglopen",
+    "pastSimple": [
+      "liep terug",
+      "liepen terug"
+    ],
+    "pastParticiple": [
+      "teruggelopen"
+    ],
+    "display": "teruglopen → liep terug/liepen terug → teruggelopen",
+    "translations": {
+      "en": "walk back / decline",
+      "fr": "revenir à pied / diminuer",
+      "es": "volver caminando / disminuir",
+      "it": "tornare a piedi / diminuire",
+      "de": "zurücklaufen / zurückgehen",
+      "pt": "voltar andando / diminuir"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "terugnemen",
+    "group": 3,
+    "groupName": "Advanced Verbs",
+    "base": "terugnemen",
+    "pastSimple": [
+      "nam terug",
+      "namen terug"
+    ],
+    "pastParticiple": [
+      "teruggenomen"
+    ],
+    "display": "terugnemen → nam terug/namen terug → teruggenomen",
+    "translations": {
+      "en": "take back",
+      "fr": "reprendre",
+      "es": "retirar / recuperar",
+      "it": "riprendere",
+      "de": "zurücknehmen",
+      "pt": "retirar / recuperar"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "terugroepen",
+    "group": 3,
+    "groupName": "Advanced Verbs",
+    "base": "terugroepen",
+    "pastSimple": [
+      "riep terug",
+      "riepen terug"
+    ],
+    "pastParticiple": [
+      "teruggeroepen"
+    ],
+    "display": "terugroepen → riep terug/riepen terug → teruggeroepen",
+    "translations": {
+      "en": "call back / recall",
+      "fr": "rappeler",
+      "es": "llamar de vuelta / retirar",
+      "it": "richiamare",
+      "de": "zurückrufen",
+      "pt": "chamar de volta / retirar"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "terugschrijven",
+    "group": 3,
+    "groupName": "Advanced Verbs",
+    "base": "terugschrijven",
+    "pastSimple": [
+      "schreef terug",
+      "schreven terug"
+    ],
+    "pastParticiple": [
+      "teruggeschreven"
+    ],
+    "display": "terugschrijven → schreef terug/schreven terug → teruggeschreven",
+    "translations": {
+      "en": "write back",
+      "fr": "répondre par écrit",
+      "es": "responder por escrito",
+      "it": "rispondere per iscritto",
+      "de": "zurückschreiben",
+      "pt": "responder por escrito"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "terugslaan",
+    "group": 3,
+    "groupName": "Advanced Verbs",
+    "base": "terugslaan",
+    "pastSimple": [
+      "sloeg terug",
+      "sloegen terug"
+    ],
+    "pastParticiple": [
+      "teruggeslagen"
+    ],
+    "display": "terugslaan → sloeg terug/sloegen terug → teruggeslagen",
+    "translations": {
+      "en": "hit back / strike back",
+      "fr": "riposter",
+      "es": "contraatacar",
+      "it": "contrattaccare",
+      "de": "zurückschlagen",
+      "pt": "contra-atacar"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "terugvallen",
+    "group": 4,
+    "groupName": "Advanced Verbs",
+    "base": "terugvallen",
+    "pastSimple": [
+      "viel terug",
+      "vielen terug"
+    ],
+    "pastParticiple": [
+      "teruggevallen"
+    ],
+    "display": "terugvallen → viel terug/vielen terug → teruggevallen",
+    "translations": {
+      "en": "fall back / relapse",
+      "fr": "retomber / rechuter",
+      "es": "retroceder / recaer",
+      "it": "ricadere / arretrare",
+      "de": "zurückfallen / rückfällig werden",
+      "pt": "recuar / recair"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "terugvinden",
+    "group": 4,
+    "groupName": "Advanced Verbs",
+    "base": "terugvinden",
+    "pastSimple": [
+      "vond terug",
+      "vonden terug"
+    ],
+    "pastParticiple": [
+      "teruggevonden"
+    ],
+    "display": "terugvinden → vond terug/vonden terug → teruggevonden",
+    "translations": {
+      "en": "find again",
+      "fr": "retrouver",
+      "es": "reencontrar",
+      "it": "ritrovare",
+      "de": "wiederfinden",
+      "pt": "reencontrar"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "terugzien",
+    "group": 4,
+    "groupName": "Advanced Verbs",
+    "base": "terugzien",
+    "pastSimple": [
+      "zag terug",
+      "zagen terug"
+    ],
+    "pastParticiple": [
+      "teruggezien"
+    ],
+    "display": "terugzien → zag terug/zagen terug → teruggezien",
+    "translations": {
+      "en": "see again / look back",
+      "fr": "revoir / repenser",
+      "es": "volver a ver / mirar atrás",
+      "it": "rivedere / guardare indietro",
+      "de": "wiedersehen / zurückblicken",
+      "pt": "rever / olhar para trás"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "toebrengen",
+    "group": 4,
+    "groupName": "Advanced Verbs",
+    "base": "toebrengen",
+    "pastSimple": [
+      "bracht toe",
+      "brachten toe"
+    ],
+    "pastParticiple": [
+      "toegebracht"
+    ],
+    "display": "toebrengen → bracht toe/brachten toe → toegebracht",
+    "translations": {
+      "en": "inflict / cause",
+      "fr": "infliger / causer",
+      "es": "infligir / causar",
+      "it": "infliggere / causare",
+      "de": "zufügen",
+      "pt": "infligir / causar"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "toedringen",
+    "group": 4,
+    "groupName": "Advanced Verbs",
+    "base": "toedringen",
+    "pastSimple": [
+      "drong toe",
+      "drongen toe"
+    ],
+    "pastParticiple": [
+      "toegedrongen"
+    ],
+    "display": "toedringen → drong toe/drongen toe → toegedrongen",
+    "translations": {
+      "en": "press forward / crowd in",
+      "fr": "se presser / s'approcher",
+      "es": "abrirse paso / amontonarse",
+      "it": "farsi largo / affollarsi",
+      "de": "vordringen / sich drängen",
+      "pt": "avançar / amontoar-se"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "toegaan",
+    "group": 4,
+    "groupName": "Advanced Verbs",
+    "base": "toegaan",
+    "pastSimple": [
+      "ging toe",
+      "gingen toe"
+    ],
+    "pastParticiple": [
+      "toegegaan"
+    ],
+    "display": "toegaan → ging toe/gingen toe → toegegaan",
+    "translations": {
+      "en": "proceed / happen",
+      "fr": "se passer / procéder",
+      "es": "ocurrir / proceder",
+      "it": "svolgersi / procedere",
+      "de": "zugehen / ablaufen",
+      "pt": "acontecer / proceder"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "toekennen",
+    "group": 4,
+    "groupName": "Advanced Verbs",
+    "base": "toekennen",
+    "pastSimple": [
+      "kende toe",
+      "kenden toe"
+    ],
+    "pastParticiple": [
+      "toegekend"
+    ],
+    "display": "toekennen → kende toe/kenden toe → toegekend",
+    "translations": {
+      "en": "award / assign",
+      "fr": "attribuer",
+      "es": "conceder / asignar",
+      "it": "assegnare",
+      "de": "zuerkennen",
+      "pt": "atribuir / conceder"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "toekomen",
+    "group": 4,
+    "groupName": "Advanced Verbs",
+    "base": "toekomen",
+    "pastSimple": [
+      "kwam toe",
+      "kwamen toe"
+    ],
+    "pastParticiple": [
+      "toegekomen"
+    ],
+    "display": "toekomen → kwam toe/kwamen toe → toegekomen",
+    "translations": {
+      "en": "arrive / be entitled to",
+      "fr": "arriver / revenir à",
+      "es": "llegar / corresponder",
+      "it": "arrivare / spettare",
+      "de": "zukommen / ankommen",
+      "pt": "chegar / caber a"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "toelaten",
+    "group": 4,
+    "groupName": "Advanced Verbs",
+    "base": "toelaten",
+    "pastSimple": [
+      "liet toe",
+      "lieten toe"
+    ],
+    "pastParticiple": [
+      "toegelaten"
+    ],
+    "display": "toelaten → liet toe/lieten toe → toegelaten",
+    "translations": {
+      "en": "allow / admit",
+      "fr": "permettre / admettre",
+      "es": "permitir / admitir",
+      "it": "permettere / ammettere",
+      "de": "zulassen",
+      "pt": "permitir / admitir"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "toenemen",
+    "group": 4,
+    "groupName": "Advanced Verbs",
+    "base": "toenemen",
+    "pastSimple": [
+      "nam toe",
+      "namen toe"
+    ],
+    "pastParticiple": [
+      "toegenomen"
+    ],
+    "display": "toenemen → nam toe/namen toe → toegenomen",
+    "translations": {
+      "en": "increase",
+      "fr": "augmenter",
+      "es": "aumentar",
+      "it": "aumentare",
+      "de": "zunehmen",
+      "pt": "aumentar"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "toeslaan",
+    "group": 5,
+    "groupName": "Advanced Verbs",
+    "base": "toeslaan",
+    "pastSimple": [
+      "sloeg toe",
+      "sloegen toe"
+    ],
+    "pastParticiple": [
+      "toegeslagen"
+    ],
+    "display": "toeslaan → sloeg toe/sloegen toe → toegeslagen",
+    "translations": {
+      "en": "strike / hit suddenly",
+      "fr": "frapper / intervenir soudainement",
+      "es": "atacar / golpear de repente",
+      "it": "colpire improvvisamente",
+      "de": "zuschlagen",
+      "pt": "atacar / golpear de repente"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "toespreken",
+    "group": 5,
+    "groupName": "Advanced Verbs",
+    "base": "toespreken",
+    "pastSimple": [
+      "sprak toe",
+      "spraken toe"
+    ],
+    "pastParticiple": [
+      "toegesproken"
+    ],
+    "display": "toespreken → sprak toe/spraken toe → toegesproken",
+    "translations": {
+      "en": "address / speak to",
+      "fr": "s'adresser à",
+      "es": "dirigirse a",
+      "it": "rivolgersi a",
+      "de": "ansprechen",
+      "pt": "dirigir-se a"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "toestaan",
+    "group": 5,
+    "groupName": "Advanced Verbs",
+    "base": "toestaan",
+    "pastSimple": [
+      "stond toe",
+      "stonden toe"
+    ],
+    "pastParticiple": [
+      "toegestaan"
+    ],
+    "display": "toestaan → stond toe/stonden toe → toegestaan",
+    "translations": {
+      "en": "allow / permit",
+      "fr": "autoriser / permettre",
+      "es": "permitir",
+      "it": "permettere",
+      "de": "erlauben / gestatten",
+      "pt": "permitir"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "toetreden",
+    "group": 5,
+    "groupName": "Advanced Verbs",
+    "base": "toetreden",
+    "pastSimple": [
+      "trad toe",
+      "traden toe"
+    ],
+    "pastParticiple": [
+      "toegetreden"
+    ],
+    "display": "toetreden → trad toe/traden toe → toegetreden",
+    "translations": {
+      "en": "join / accede",
+      "fr": "adhérer / rejoindre",
+      "es": "unirse / adherirse",
+      "it": "aderire / unirsi",
+      "de": "beitreten",
+      "pt": "aderir / juntar-se"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "toevallen",
+    "group": 5,
+    "groupName": "Advanced Verbs",
+    "base": "toevallen",
+    "pastSimple": [
+      "viel toe",
+      "vielen toe"
+    ],
+    "pastParticiple": [
+      "toegevallen"
+    ],
+    "display": "toevallen → viel toe/vielen toe → toegevallen",
+    "translations": {
+      "en": "fall to / be allotted to",
+      "fr": "échoir à",
+      "es": "corresponder / tocar a",
+      "it": "toccare a / spettare",
+      "de": "zufallen",
+      "pt": "caber a / tocar a"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "toewijzen",
+    "group": 5,
+    "groupName": "Advanced Verbs",
+    "base": "toewijzen",
+    "pastSimple": [
+      "wees toe",
+      "wezen toe"
+    ],
+    "pastParticiple": [
+      "toegewezen"
+    ],
+    "display": "toewijzen → wees toe/wezen toe → toegewezen",
+    "translations": {
+      "en": "assign / allocate",
+      "fr": "attribuer / affecter",
+      "es": "asignar / adjudicar",
+      "it": "assegnare",
+      "de": "zuweisen",
+      "pt": "atribuir / designar"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "uitblijven",
+    "group": 5,
+    "groupName": "Advanced Verbs",
+    "base": "uitblijven",
+    "pastSimple": [
+      "bleef uit",
+      "bleven uit"
+    ],
+    "pastParticiple": [
+      "uitgebleven"
+    ],
+    "display": "uitblijven → bleef uit/bleven uit → uitgebleven",
+    "translations": {
+      "en": "fail to occur / stay away",
+      "fr": "ne pas arriver / rester absent",
+      "es": "no producirse / ausentarse",
+      "it": "non verificarsi / restare assente",
+      "de": "ausbleiben",
+      "pt": "não ocorrer / ficar ausente"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "uitbreken",
+    "group": 5,
+    "groupName": "Advanced Verbs",
+    "base": "uitbreken",
+    "pastSimple": [
+      "brak uit",
+      "braken uit"
+    ],
+    "pastParticiple": [
+      "uitgebroken"
+    ],
+    "display": "uitbreken → brak uit/braken uit → uitgebroken",
+    "translations": {
+      "en": "break out",
+      "fr": "éclater / s'évader",
+      "es": "estallar / escapar",
+      "it": "scoppiare / evadere",
+      "de": "ausbrechen",
+      "pt": "irromper / escapar"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "uitbrengen",
+    "group": 5,
+    "groupName": "Advanced Verbs",
+    "base": "uitbrengen",
+    "pastSimple": [
+      "bracht uit",
+      "brachten uit"
+    ],
+    "pastParticiple": [
+      "uitgebracht"
+    ],
+    "display": "uitbrengen → bracht uit/brachten uit → uitgebracht",
+    "translations": {
+      "en": "release / publish / cast",
+      "fr": "publier / émettre / exprimer",
+      "es": "publicar / emitir / votar",
+      "it": "pubblicare / emettere",
+      "de": "herausbringen / abgeben",
+      "pt": "publicar / emitir"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "uitdenken",
+    "group": 5,
+    "groupName": "Advanced Verbs",
+    "base": "uitdenken",
+    "pastSimple": [
+      "dacht uit",
+      "dachten uit"
+    ],
+    "pastParticiple": [
+      "uitgedacht"
+    ],
+    "display": "uitdenken → dacht uit/dachten uit → uitgedacht",
+    "translations": {
+      "en": "devise / think out",
+      "fr": "concevoir / imaginer",
+      "es": "idear / concebir",
+      "it": "ideare / concepire",
+      "de": "ausdenken",
+      "pt": "conceber / imaginar"
+    },
+    "difficulty": 3
+  }
+]

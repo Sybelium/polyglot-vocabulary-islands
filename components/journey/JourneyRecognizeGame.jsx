@@ -8,6 +8,7 @@ import {
   saveJourneyStepProgress,
 } from "@/lib/app/progress/saveJourneyStepProgress";
 import useVocabularyAudio from "@/components/journey/useVocabularyAudio";
+import VocabularyImage from "@/components/journey/VocabularyImage";
 
 const speechLangs = {
   en: "en-US",
@@ -21,6 +22,21 @@ const speechLangs = {
 
 function getWordText(word, lang) {
   return word[lang] || word.en || "";
+}
+
+function WordThumbnail({ word, fallback }) {
+  if (word?.imageSrc) {
+    return (
+      <img
+        src={word.imageSrc}
+        alt=""
+        className="h-full w-full rounded-2xl object-cover"
+        draggable="false"
+      />
+    );
+  }
+
+  return word?.image || fallback;
 }
 
 function shuffleArray(array) {
@@ -161,7 +177,7 @@ export default function JourneyRecognizeGame({ lang, island, words }) {
   expected: getWordText(currentQuestion.answer, lang),
   expectedWord: currentQuestion.answer,
   selected: getWordText(choice, lang),
-  image: currentQuestion.answer.image,
+  expectedWord: currentQuestion.answer,
 },
       ]);
     }
@@ -262,7 +278,9 @@ export default function JourneyRecognizeGame({ lang, island, words }) {
                   className="flex items-center justify-between gap-4 rounded-2xl bg-white p-4 shadow"
                 >
                   <div className="flex items-center gap-3">
-                    <div className="text-3xl">{mistake.image || "❔"}</div>
+                    <div className="grid h-14 w-14 shrink-0 place-items-center overflow-hidden rounded-2xl bg-yellow-100 text-3xl">
+  <WordThumbnail word={mistake.expectedWord} fallback="❔" />
+</div>
 
                     <div>
                       <div className="text-lg font-black text-blue-950">
@@ -374,7 +392,7 @@ export default function JourneyRecognizeGame({ lang, island, words }) {
         ].join(" ")}
       >
         <div className="grid h-12 w-12 shrink-0 place-items-center rounded-2xl bg-yellow-100 text-xl font-black text-yellow-700 sm:h-14 sm:w-14 sm:text-2xl lg:h-16 lg:w-16">
-          {choice.image || choice.id}
+          <WordThumbnail word={choice} fallback={choice.id} />
         </div>
 
         <div className="min-w-0 flex-1 truncate text-xl font-black text-blue-950 sm:mt-3 sm:flex-none sm:text-2xl">

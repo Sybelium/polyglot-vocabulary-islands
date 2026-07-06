@@ -1,0 +1,1125 @@
+[
+  {
+    "id": "sow",
+    "group": 1,
+    "groupName": "All Verbs 151-160",
+    "base": "sow",
+    "pastSimple": [
+      "sowed"
+    ],
+    "pastParticiple": [
+      "sown",
+      "sowed"
+    ],
+    "display": "sow → sowed → sown/sowed",
+    "translations": {
+      "fr": "semer",
+      "es": "sembrar",
+      "it": "seminare",
+      "de": "säen",
+      "nl": "zaaien",
+      "pt": "semear"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "speak",
+    "group": 1,
+    "groupName": "All Verbs 151-160",
+    "base": "speak",
+    "pastSimple": [
+      "spoke"
+    ],
+    "pastParticiple": [
+      "spoken"
+    ],
+    "display": "speak → spoke → spoken",
+    "translations": {
+      "fr": "parler",
+      "es": "hablar",
+      "it": "parlare",
+      "de": "sprechen",
+      "nl": "spreken",
+      "pt": "falar"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "speed",
+    "group": 1,
+    "groupName": "All Verbs 151-160",
+    "base": "speed",
+    "pastSimple": [
+      "sped",
+      "speeded"
+    ],
+    "pastParticiple": [
+      "sped",
+      "speeded"
+    ],
+    "display": "speed → sped/speeded → sped/speeded",
+    "translations": {
+      "fr": "accélérer / filer à toute vitesse",
+      "es": "acelerar",
+      "it": "accelerare",
+      "de": "rasen / beschleunigen",
+      "nl": "racen / versnellen",
+      "pt": "acelerar"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "spell",
+    "group": 1,
+    "groupName": "All Verbs 151-160",
+    "base": "spell",
+    "pastSimple": [
+      "spelled",
+      "spelt"
+    ],
+    "pastParticiple": [
+      "spelled",
+      "spelt"
+    ],
+    "display": "spell → spelled/spelt → spelled/spelt",
+    "translations": {
+      "fr": "épeler",
+      "es": "deletrear",
+      "it": "sillabare / fare lo spelling",
+      "de": "buchstabieren",
+      "nl": "spellen",
+      "pt": "soletrar"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "spend",
+    "group": 1,
+    "groupName": "All Verbs 151-160",
+    "base": "spend",
+    "pastSimple": [
+      "spent"
+    ],
+    "pastParticiple": [
+      "spent"
+    ],
+    "display": "spend → spent → spent",
+    "translations": {
+      "fr": "dépenser / passer du temps",
+      "es": "gastar / pasar tiempo",
+      "it": "spendere / passare tempo",
+      "de": "ausgeben / verbringen",
+      "nl": "uitgeven / doorbrengen",
+      "pt": "gastar / passar tempo"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "spill",
+    "group": 1,
+    "groupName": "All Verbs 151-160",
+    "base": "spill",
+    "pastSimple": [
+      "spilled",
+      "spilt"
+    ],
+    "pastParticiple": [
+      "spilled",
+      "spilt"
+    ],
+    "display": "spill → spilled/spilt → spilled/spilt",
+    "translations": {
+      "fr": "renverser",
+      "es": "derramar",
+      "it": "versare / rovesciare",
+      "de": "verschütten",
+      "nl": "morsen",
+      "pt": "derramar"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "spin",
+    "group": 1,
+    "groupName": "All Verbs 151-160",
+    "base": "spin",
+    "pastSimple": [
+      "spun"
+    ],
+    "pastParticiple": [
+      "spun"
+    ],
+    "display": "spin → spun → spun",
+    "translations": {
+      "fr": "tourner / filer",
+      "es": "girar / hilar",
+      "it": "girare / filare",
+      "de": "spinnen / drehen",
+      "nl": "spinnen / draaien",
+      "pt": "girar / fiar"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "spit",
+    "group": 1,
+    "groupName": "All Verbs 151-160",
+    "base": "spit",
+    "pastSimple": [
+      "spat",
+      "spit"
+    ],
+    "pastParticiple": [
+      "spat",
+      "spit"
+    ],
+    "display": "spit → spat/spit → spat/spit",
+    "translations": {
+      "fr": "cracher",
+      "es": "escupir",
+      "it": "sputare",
+      "de": "spucken",
+      "nl": "spugen",
+      "pt": "cuspir"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "split",
+    "group": 1,
+    "groupName": "All Verbs 151-160",
+    "base": "split",
+    "pastSimple": [
+      "split"
+    ],
+    "pastParticiple": [
+      "split"
+    ],
+    "display": "split → split → split",
+    "translations": {
+      "fr": "diviser / fendre",
+      "es": "dividir / partir",
+      "it": "dividere / spaccare",
+      "de": "teilen / spalten",
+      "nl": "splitsen / verdelen",
+      "pt": "dividir / partir"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "spoil",
+    "group": 1,
+    "groupName": "All Verbs 151-160",
+    "base": "spoil",
+    "pastSimple": [
+      "spoiled",
+      "spoilt"
+    ],
+    "pastParticiple": [
+      "spoiled",
+      "spoilt"
+    ],
+    "display": "spoil → spoiled/spoilt → spoiled/spoilt",
+    "translations": {
+      "fr": "gâcher / gâter",
+      "es": "estropear / mimar",
+      "it": "rovinare / viziare",
+      "de": "verderben / verwöhnen",
+      "nl": "bederven / verwennen",
+      "pt": "estragar / mimar"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "spread",
+    "group": 2,
+    "groupName": "All Verbs 161-170",
+    "base": "spread",
+    "pastSimple": [
+      "spread"
+    ],
+    "pastParticiple": [
+      "spread"
+    ],
+    "display": "spread → spread → spread",
+    "translations": {
+      "fr": "répandre / étaler",
+      "es": "extender / difundir",
+      "it": "diffondere / spalmare",
+      "de": "verbreiten / ausbreiten",
+      "nl": "verspreiden / uitsmeren",
+      "pt": "espalhar"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "spring",
+    "group": 2,
+    "groupName": "All Verbs 161-170",
+    "base": "spring",
+    "pastSimple": [
+      "sprang"
+    ],
+    "pastParticiple": [
+      "sprung"
+    ],
+    "display": "spring → sprang → sprung",
+    "translations": {
+      "fr": "sauter / jaillir",
+      "es": "saltar / surgir",
+      "it": "saltare / scaturire",
+      "de": "springen",
+      "nl": "springen",
+      "pt": "saltar / surgir"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "stand",
+    "group": 2,
+    "groupName": "All Verbs 161-170",
+    "base": "stand",
+    "pastSimple": [
+      "stood"
+    ],
+    "pastParticiple": [
+      "stood"
+    ],
+    "display": "stand → stood → stood",
+    "translations": {
+      "fr": "se tenir debout",
+      "es": "estar de pie",
+      "it": "stare in piedi",
+      "de": "stehen",
+      "nl": "staan",
+      "pt": "estar de pé"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "steal",
+    "group": 2,
+    "groupName": "All Verbs 161-170",
+    "base": "steal",
+    "pastSimple": [
+      "stole"
+    ],
+    "pastParticiple": [
+      "stolen"
+    ],
+    "display": "steal → stole → stolen",
+    "translations": {
+      "fr": "voler",
+      "es": "robar",
+      "it": "rubare",
+      "de": "stehlen",
+      "nl": "stelen",
+      "pt": "roubar"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "stick",
+    "group": 2,
+    "groupName": "All Verbs 161-170",
+    "base": "stick",
+    "pastSimple": [
+      "stuck"
+    ],
+    "pastParticiple": [
+      "stuck"
+    ],
+    "display": "stick → stuck → stuck",
+    "translations": {
+      "fr": "coller / rester coincé",
+      "es": "pegar / quedarse atascado",
+      "it": "attaccare / restare bloccato",
+      "de": "kleben / feststecken",
+      "nl": "plakken / vastzitten",
+      "pt": "colar / ficar preso"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "sting",
+    "group": 2,
+    "groupName": "All Verbs 161-170",
+    "base": "sting",
+    "pastSimple": [
+      "stung"
+    ],
+    "pastParticiple": [
+      "stung"
+    ],
+    "display": "sting → stung → stung",
+    "translations": {
+      "fr": "piquer",
+      "es": "picar",
+      "it": "pungere",
+      "de": "stechen",
+      "nl": "steken",
+      "pt": "picar"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "stink",
+    "group": 2,
+    "groupName": "All Verbs 161-170",
+    "base": "stink",
+    "pastSimple": [
+      "stank",
+      "stunk"
+    ],
+    "pastParticiple": [
+      "stunk"
+    ],
+    "display": "stink → stank/stunk → stunk",
+    "translations": {
+      "fr": "puer",
+      "es": "apestar",
+      "it": "puzzare",
+      "de": "stinken",
+      "nl": "stinken",
+      "pt": "feder"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "stride",
+    "group": 2,
+    "groupName": "All Verbs 161-170",
+    "base": "stride",
+    "pastSimple": [
+      "strode"
+    ],
+    "pastParticiple": [
+      "stridden"
+    ],
+    "display": "stride → strode → stridden",
+    "translations": {
+      "fr": "marcher à grands pas",
+      "es": "caminar a zancadas",
+      "it": "camminare a grandi passi",
+      "de": "schreiten",
+      "nl": "met grote passen lopen",
+      "pt": "andar a passos largos"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "strike",
+    "group": 2,
+    "groupName": "All Verbs 161-170",
+    "base": "strike",
+    "pastSimple": [
+      "struck"
+    ],
+    "pastParticiple": [
+      "struck",
+      "stricken"
+    ],
+    "display": "strike → struck → struck/stricken",
+    "translations": {
+      "fr": "frapper / faire grève",
+      "es": "golpear / hacer huelga",
+      "it": "colpire / scioperare",
+      "de": "schlagen / streiken",
+      "nl": "slaan / staken",
+      "pt": "atingir / fazer greve"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "string",
+    "group": 2,
+    "groupName": "All Verbs 161-170",
+    "base": "string",
+    "pastSimple": [
+      "strung"
+    ],
+    "pastParticiple": [
+      "strung"
+    ],
+    "display": "string → strung → strung",
+    "translations": {
+      "fr": "enfiler / tendre une corde",
+      "es": "ensartar / encordar",
+      "it": "infilare / accordare",
+      "de": "auffädeln / bespannen",
+      "nl": "rijgen / besnaren",
+      "pt": "enfiar / encordoar"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "strive",
+    "group": 3,
+    "groupName": "All Verbs 171-180",
+    "base": "strive",
+    "pastSimple": [
+      "strove",
+      "strived"
+    ],
+    "pastParticiple": [
+      "striven",
+      "strived"
+    ],
+    "display": "strive → strove/strived → striven/strived",
+    "translations": {
+      "fr": "s'efforcer",
+      "es": "esforzarse",
+      "it": "sforzarsi",
+      "de": "sich bemühen",
+      "nl": "streven",
+      "pt": "esforçar-se"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "swear",
+    "group": 3,
+    "groupName": "All Verbs 171-180",
+    "base": "swear",
+    "pastSimple": [
+      "swore"
+    ],
+    "pastParticiple": [
+      "sworn"
+    ],
+    "display": "swear → swore → sworn",
+    "translations": {
+      "fr": "jurer",
+      "es": "jurar / decir palabrotas",
+      "it": "giurare / imprecare",
+      "de": "schwören / fluchen",
+      "nl": "zweren / vloeken",
+      "pt": "jurar / praguejar"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "sweep",
+    "group": 3,
+    "groupName": "All Verbs 171-180",
+    "base": "sweep",
+    "pastSimple": [
+      "swept"
+    ],
+    "pastParticiple": [
+      "swept"
+    ],
+    "display": "sweep → swept → swept",
+    "translations": {
+      "fr": "balayer",
+      "es": "barrer",
+      "it": "spazzare",
+      "de": "fegen",
+      "nl": "vegen",
+      "pt": "varrer"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "swell",
+    "group": 3,
+    "groupName": "All Verbs 171-180",
+    "base": "swell",
+    "pastSimple": [
+      "swelled"
+    ],
+    "pastParticiple": [
+      "swollen",
+      "swelled"
+    ],
+    "display": "swell → swelled → swollen/swelled",
+    "translations": {
+      "fr": "gonfler",
+      "es": "hincharse",
+      "it": "gonfiarsi",
+      "de": "anschwellen",
+      "nl": "opzwellen",
+      "pt": "inchar"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "swim",
+    "group": 3,
+    "groupName": "All Verbs 171-180",
+    "base": "swim",
+    "pastSimple": [
+      "swam"
+    ],
+    "pastParticiple": [
+      "swum"
+    ],
+    "display": "swim → swam → swum",
+    "translations": {
+      "fr": "nager",
+      "es": "nadar",
+      "it": "nuotare",
+      "de": "schwimmen",
+      "nl": "zwemmen",
+      "pt": "nadar"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "swing",
+    "group": 3,
+    "groupName": "All Verbs 171-180",
+    "base": "swing",
+    "pastSimple": [
+      "swung"
+    ],
+    "pastParticiple": [
+      "swung"
+    ],
+    "display": "swing → swung → swung",
+    "translations": {
+      "fr": "se balancer / faire osciller",
+      "es": "balancear / columpiarse",
+      "it": "dondolare / oscillare",
+      "de": "schwingen",
+      "nl": "zwaaien / schommelen",
+      "pt": "balançar"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "take",
+    "group": 3,
+    "groupName": "All Verbs 171-180",
+    "base": "take",
+    "pastSimple": [
+      "took"
+    ],
+    "pastParticiple": [
+      "taken"
+    ],
+    "display": "take → took → taken",
+    "translations": {
+      "fr": "prendre",
+      "es": "tomar / llevar",
+      "it": "prendere",
+      "de": "nehmen",
+      "nl": "nemen",
+      "pt": "tomar / levar"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "teach",
+    "group": 3,
+    "groupName": "All Verbs 171-180",
+    "base": "teach",
+    "pastSimple": [
+      "taught"
+    ],
+    "pastParticiple": [
+      "taught"
+    ],
+    "display": "teach → taught → taught",
+    "translations": {
+      "fr": "enseigner",
+      "es": "enseñar",
+      "it": "insegnare",
+      "de": "lehren / unterrichten",
+      "nl": "onderwijzen / leren",
+      "pt": "ensinar"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "tear",
+    "group": 3,
+    "groupName": "All Verbs 171-180",
+    "base": "tear",
+    "pastSimple": [
+      "tore"
+    ],
+    "pastParticiple": [
+      "torn"
+    ],
+    "display": "tear → tore → torn",
+    "translations": {
+      "fr": "déchirer",
+      "es": "rasgar / romper",
+      "it": "strappare",
+      "de": "reißen",
+      "nl": "scheuren",
+      "pt": "rasgar"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "tell",
+    "group": 3,
+    "groupName": "All Verbs 171-180",
+    "base": "tell",
+    "pastSimple": [
+      "told"
+    ],
+    "pastParticiple": [
+      "told"
+    ],
+    "display": "tell → told → told",
+    "translations": {
+      "fr": "dire / raconter",
+      "es": "decir / contar",
+      "it": "dire / raccontare",
+      "de": "erzählen / sagen",
+      "nl": "vertellen / zeggen",
+      "pt": "dizer / contar"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "think",
+    "group": 4,
+    "groupName": "All Verbs 181-190",
+    "base": "think",
+    "pastSimple": [
+      "thought"
+    ],
+    "pastParticiple": [
+      "thought"
+    ],
+    "display": "think → thought → thought",
+    "translations": {
+      "fr": "penser",
+      "es": "pensar",
+      "it": "pensare",
+      "de": "denken",
+      "nl": "denken",
+      "pt": "pensar"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "thrive",
+    "group": 4,
+    "groupName": "All Verbs 181-190",
+    "base": "thrive",
+    "pastSimple": [
+      "thrived",
+      "throve"
+    ],
+    "pastParticiple": [
+      "thrived",
+      "thriven"
+    ],
+    "display": "thrive → thrived/throve → thrived/thriven",
+    "translations": {
+      "fr": "prospérer",
+      "es": "prosperar",
+      "it": "prosperare",
+      "de": "gedeihen / florieren",
+      "nl": "gedijen / bloeien",
+      "pt": "prosperar"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "throw",
+    "group": 4,
+    "groupName": "All Verbs 181-190",
+    "base": "throw",
+    "pastSimple": [
+      "threw"
+    ],
+    "pastParticiple": [
+      "thrown"
+    ],
+    "display": "throw → threw → thrown",
+    "translations": {
+      "fr": "jeter / lancer",
+      "es": "tirar / lanzar",
+      "it": "gettare / lanciare",
+      "de": "werfen",
+      "nl": "gooien / werpen",
+      "pt": "lançar / jogar"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "thrust",
+    "group": 4,
+    "groupName": "All Verbs 181-190",
+    "base": "thrust",
+    "pastSimple": [
+      "thrust"
+    ],
+    "pastParticiple": [
+      "thrust"
+    ],
+    "display": "thrust → thrust → thrust",
+    "translations": {
+      "fr": "pousser brusquement / enfoncer",
+      "es": "empujar con fuerza",
+      "it": "spingere con forza",
+      "de": "stoßen / schieben",
+      "nl": "stoten / duwen",
+      "pt": "empurrar com força"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "tread",
+    "group": 4,
+    "groupName": "All Verbs 181-190",
+    "base": "tread",
+    "pastSimple": [
+      "trod"
+    ],
+    "pastParticiple": [
+      "trodden",
+      "trod"
+    ],
+    "display": "tread → trod → trodden/trod",
+    "translations": {
+      "fr": "marcher sur / fouler",
+      "es": "pisar",
+      "it": "calpestare",
+      "de": "treten / schreiten",
+      "nl": "betreden / stappen",
+      "pt": "pisar"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "undergo",
+    "group": 4,
+    "groupName": "All Verbs 181-190",
+    "base": "undergo",
+    "pastSimple": [
+      "underwent"
+    ],
+    "pastParticiple": [
+      "undergone"
+    ],
+    "display": "undergo → underwent → undergone",
+    "translations": {
+      "fr": "subir / faire l'objet de",
+      "es": "someterse a / sufrir",
+      "it": "subire / sottoporsi a",
+      "de": "durchmachen / sich unterziehen",
+      "nl": "ondergaan",
+      "pt": "submeter-se a / sofrer"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "understand",
+    "group": 4,
+    "groupName": "All Verbs 181-190",
+    "base": "understand",
+    "pastSimple": [
+      "understood"
+    ],
+    "pastParticiple": [
+      "understood"
+    ],
+    "display": "understand → understood → understood",
+    "translations": {
+      "fr": "comprendre",
+      "es": "entender / comprender",
+      "it": "capire / comprendere",
+      "de": "verstehen",
+      "nl": "begrijpen / verstaan",
+      "pt": "entender / compreender"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "undertake",
+    "group": 4,
+    "groupName": "All Verbs 181-190",
+    "base": "undertake",
+    "pastSimple": [
+      "undertook"
+    ],
+    "pastParticiple": [
+      "undertaken"
+    ],
+    "display": "undertake → undertook → undertaken",
+    "translations": {
+      "fr": "entreprendre / s'engager à",
+      "es": "emprender / comprometerse a",
+      "it": "intraprendere / impegnarsi a",
+      "de": "unternehmen / übernehmen",
+      "nl": "ondernemen / op zich nemen",
+      "pt": "empreender / comprometer-se a"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "undo",
+    "group": 4,
+    "groupName": "All Verbs 181-190",
+    "base": "undo",
+    "pastSimple": [
+      "undid"
+    ],
+    "pastParticiple": [
+      "undone"
+    ],
+    "display": "undo → undid → undone",
+    "translations": {
+      "fr": "défaire / annuler",
+      "es": "deshacer / anular",
+      "it": "disfare / annullare",
+      "de": "rückgängig machen / lösen",
+      "nl": "ongedaan maken / losmaken",
+      "pt": "desfazer / anular"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "uphold",
+    "group": 4,
+    "groupName": "All Verbs 181-190",
+    "base": "uphold",
+    "pastSimple": [
+      "upheld"
+    ],
+    "pastParticiple": [
+      "upheld"
+    ],
+    "display": "uphold → upheld → upheld",
+    "translations": {
+      "fr": "maintenir / soutenir",
+      "es": "mantener / respaldar",
+      "it": "sostenere / confermare",
+      "de": "aufrechterhalten / bestätigen",
+      "nl": "handhaven / steunen",
+      "pt": "manter / defender"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "upset",
+    "group": 5,
+    "groupName": "All Verbs 191-200",
+    "base": "upset",
+    "pastSimple": [
+      "upset"
+    ],
+    "pastParticiple": [
+      "upset"
+    ],
+    "display": "upset → upset → upset",
+    "translations": {
+      "fr": "contrarier / bouleverser",
+      "es": "molestar / alterar",
+      "it": "turbare / sconvolgere",
+      "de": "verärgern / durcheinanderbringen",
+      "nl": "van streek maken / omgooien",
+      "pt": "perturbar / aborrecer"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "wake",
+    "group": 5,
+    "groupName": "All Verbs 191-200",
+    "base": "wake",
+    "pastSimple": [
+      "woke",
+      "waked"
+    ],
+    "pastParticiple": [
+      "woken",
+      "waked"
+    ],
+    "display": "wake → woke/waked → woken/waked",
+    "translations": {
+      "fr": "se réveiller / réveiller",
+      "es": "despertar / despertarse",
+      "it": "svegliare / svegliarsi",
+      "de": "aufwachen / wecken",
+      "nl": "wakker worden / wekken",
+      "pt": "acordar / despertar"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "wear",
+    "group": 5,
+    "groupName": "All Verbs 191-200",
+    "base": "wear",
+    "pastSimple": [
+      "wore"
+    ],
+    "pastParticiple": [
+      "worn"
+    ],
+    "display": "wear → wore → worn",
+    "translations": {
+      "fr": "porter / user",
+      "es": "llevar puesto / desgastar",
+      "it": "indossare / consumare",
+      "de": "tragen / abnutzen",
+      "nl": "dragen / verslijten",
+      "pt": "vestir / desgastar"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "weave",
+    "group": 5,
+    "groupName": "All Verbs 191-200",
+    "base": "weave",
+    "pastSimple": [
+      "wove",
+      "weaved"
+    ],
+    "pastParticiple": [
+      "woven",
+      "weaved"
+    ],
+    "display": "weave → wove/weaved → woven/weaved",
+    "translations": {
+      "fr": "tisser",
+      "es": "tejer",
+      "it": "tessere",
+      "de": "weben",
+      "nl": "weven",
+      "pt": "tecer"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "weep",
+    "group": 5,
+    "groupName": "All Verbs 191-200",
+    "base": "weep",
+    "pastSimple": [
+      "wept"
+    ],
+    "pastParticiple": [
+      "wept"
+    ],
+    "display": "weep → wept → wept",
+    "translations": {
+      "fr": "pleurer",
+      "es": "llorar",
+      "it": "piangere",
+      "de": "weinen",
+      "nl": "wenen / huilen",
+      "pt": "chorar"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "win",
+    "group": 5,
+    "groupName": "All Verbs 191-200",
+    "base": "win",
+    "pastSimple": [
+      "won"
+    ],
+    "pastParticiple": [
+      "won"
+    ],
+    "display": "win → won → won",
+    "translations": {
+      "fr": "gagner",
+      "es": "ganar",
+      "it": "vincere",
+      "de": "gewinnen",
+      "nl": "winnen",
+      "pt": "ganhar"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "withdraw",
+    "group": 5,
+    "groupName": "All Verbs 191-200",
+    "base": "withdraw",
+    "pastSimple": [
+      "withdrew"
+    ],
+    "pastParticiple": [
+      "withdrawn"
+    ],
+    "display": "withdraw → withdrew → withdrawn",
+    "translations": {
+      "fr": "retirer / se retirer",
+      "es": "retirar / retirarse",
+      "it": "ritirare / ritirarsi",
+      "de": "zurückziehen / abheben",
+      "nl": "terugtrekken / opnemen",
+      "pt": "retirar / retirar-se"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "withhold",
+    "group": 5,
+    "groupName": "All Verbs 191-200",
+    "base": "withhold",
+    "pastSimple": [
+      "withheld"
+    ],
+    "pastParticiple": [
+      "withheld"
+    ],
+    "display": "withhold → withheld → withheld",
+    "translations": {
+      "fr": "retenir / refuser de donner",
+      "es": "retener / no dar",
+      "it": "trattenere / negare",
+      "de": "zurückhalten / vorenthalten",
+      "nl": "inhouden / onthouden",
+      "pt": "reter / negar"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "withstand",
+    "group": 5,
+    "groupName": "All Verbs 191-200",
+    "base": "withstand",
+    "pastSimple": [
+      "withstood"
+    ],
+    "pastParticiple": [
+      "withstood"
+    ],
+    "display": "withstand → withstood → withstood",
+    "translations": {
+      "fr": "résister à",
+      "es": "resistir / soportar",
+      "it": "resistere / sopportare",
+      "de": "standhalten / widerstehen",
+      "nl": "weerstaan / standhouden",
+      "pt": "resistir / suportar"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "write",
+    "group": 5,
+    "groupName": "All Verbs 191-200",
+    "base": "write",
+    "pastSimple": [
+      "wrote"
+    ],
+    "pastParticiple": [
+      "written"
+    ],
+    "display": "write → wrote → written",
+    "translations": {
+      "fr": "écrire",
+      "es": "escribir",
+      "it": "scrivere",
+      "de": "schreiben",
+      "nl": "schrijven",
+      "pt": "escrever"
+    },
+    "difficulty": 2
+  }
+]

@@ -1,0 +1,1126 @@
+[
+  {
+    "id": "overhear",
+    "group": 1,
+    "groupName": "All Verbs 101–110",
+    "base": "overhear",
+    "pastSimple": [
+      "overheard"
+    ],
+    "pastParticiple": [
+      "overheard"
+    ],
+    "display": "overhear → overheard → overheard",
+    "translations": {
+      "fr": "entendre par hasard",
+      "es": "oír por casualidad",
+      "it": "sentire per caso",
+      "de": "mithören",
+      "nl": "per ongeluk horen",
+      "pt": "ouvir por acaso"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "overtake",
+    "group": 1,
+    "groupName": "All Verbs 101–110",
+    "base": "overtake",
+    "pastSimple": [
+      "overtook"
+    ],
+    "pastParticiple": [
+      "overtaken"
+    ],
+    "display": "overtake → overtook → overtaken",
+    "translations": {
+      "fr": "dépasser / rattraper",
+      "es": "adelantar / alcanzar",
+      "it": "superare / raggiungere",
+      "de": "überholen / einholen",
+      "nl": "inhalen",
+      "pt": "ultrapassar / alcançar"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pay",
+    "group": 1,
+    "groupName": "All Verbs 101–110",
+    "base": "pay",
+    "pastSimple": [
+      "paid"
+    ],
+    "pastParticiple": [
+      "paid"
+    ],
+    "display": "pay → paid → paid",
+    "translations": {
+      "fr": "payer",
+      "es": "pagar",
+      "it": "pagare",
+      "de": "bezahlen",
+      "nl": "betalen",
+      "pt": "pagar"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "plead",
+    "group": 1,
+    "groupName": "All Verbs 101–110",
+    "base": "plead",
+    "pastSimple": [
+      "pleaded",
+      "pled"
+    ],
+    "pastParticiple": [
+      "pleaded",
+      "pled"
+    ],
+    "display": "plead → pleaded/pled → pleaded/pled",
+    "translations": {
+      "fr": "plaider / supplier",
+      "es": "declararse / suplicar",
+      "it": "supplicare / dichiararsi",
+      "de": "plädieren / flehen",
+      "nl": "pleiten / smeken",
+      "pt": "declarar-se / suplicar"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "prove",
+    "group": 1,
+    "groupName": "All Verbs 101–110",
+    "base": "prove",
+    "pastSimple": [
+      "proved"
+    ],
+    "pastParticiple": [
+      "proved",
+      "proven"
+    ],
+    "display": "prove → proved → proved/proven",
+    "translations": {
+      "fr": "prouver",
+      "es": "probar / demostrar",
+      "it": "provare / dimostrare",
+      "de": "beweisen",
+      "nl": "bewijzen",
+      "pt": "provar / demonstrar"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "put",
+    "group": 1,
+    "groupName": "All Verbs 101–110",
+    "base": "put",
+    "pastSimple": [
+      "put"
+    ],
+    "pastParticiple": [
+      "put"
+    ],
+    "display": "put → put → put",
+    "translations": {
+      "fr": "mettre",
+      "es": "poner",
+      "it": "mettere",
+      "de": "legen / stellen / setzen",
+      "nl": "zetten / leggen",
+      "pt": "pôr / colocar"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "quit",
+    "group": 1,
+    "groupName": "All Verbs 101–110",
+    "base": "quit",
+    "pastSimple": [
+      "quit",
+      "quitted"
+    ],
+    "pastParticiple": [
+      "quit",
+      "quitted"
+    ],
+    "display": "quit → quit/quitted → quit/quitted",
+    "translations": {
+      "fr": "quitter / arrêter",
+      "es": "dejar / abandonar",
+      "it": "lasciare / smettere",
+      "de": "aufhören / verlassen",
+      "nl": "stoppen / verlaten",
+      "pt": "desistir / abandonar"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "read",
+    "group": 1,
+    "groupName": "All Verbs 101–110",
+    "base": "read",
+    "pastSimple": [
+      "read"
+    ],
+    "pastParticiple": [
+      "read"
+    ],
+    "display": "read → read → read",
+    "translations": {
+      "fr": "lire",
+      "es": "leer",
+      "it": "leggere",
+      "de": "lesen",
+      "nl": "lezen",
+      "pt": "ler"
+    },
+    "difficulty": 1,
+    "spokenText": "read, red, red",
+    "note": "Pronunciation changes: base /riːd/, past /red/."
+  },
+  {
+    "id": "rebuild",
+    "group": 1,
+    "groupName": "All Verbs 101–110",
+    "base": "rebuild",
+    "pastSimple": [
+      "rebuilt"
+    ],
+    "pastParticiple": [
+      "rebuilt"
+    ],
+    "display": "rebuild → rebuilt → rebuilt",
+    "translations": {
+      "fr": "reconstruire",
+      "es": "reconstruir",
+      "it": "ricostruire",
+      "de": "wiederaufbauen",
+      "nl": "herbouwen",
+      "pt": "reconstruir"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "redo",
+    "group": 1,
+    "groupName": "All Verbs 101–110",
+    "base": "redo",
+    "pastSimple": [
+      "redid"
+    ],
+    "pastParticiple": [
+      "redone"
+    ],
+    "display": "redo → redid → redone",
+    "translations": {
+      "fr": "refaire",
+      "es": "rehacer",
+      "it": "rifare",
+      "de": "wiederholen / neu machen",
+      "nl": "opnieuw doen",
+      "pt": "refazer"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "remake",
+    "group": 2,
+    "groupName": "All Verbs 111–120",
+    "base": "remake",
+    "pastSimple": [
+      "remade"
+    ],
+    "pastParticiple": [
+      "remade"
+    ],
+    "display": "remake → remade → remade",
+    "translations": {
+      "fr": "refaire / recréer",
+      "es": "rehacer",
+      "it": "rifare",
+      "de": "neu machen",
+      "nl": "opnieuw maken",
+      "pt": "refazer"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "rend",
+    "group": 2,
+    "groupName": "All Verbs 111–120",
+    "base": "rend",
+    "pastSimple": [
+      "rent",
+      "rended"
+    ],
+    "pastParticiple": [
+      "rent",
+      "rended"
+    ],
+    "display": "rend → rent/rended → rent/rended",
+    "translations": {
+      "fr": "déchirer",
+      "es": "rasgar",
+      "it": "lacerare",
+      "de": "zerreißen",
+      "nl": "scheuren",
+      "pt": "rasgar"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "repay",
+    "group": 2,
+    "groupName": "All Verbs 111–120",
+    "base": "repay",
+    "pastSimple": [
+      "repaid"
+    ],
+    "pastParticiple": [
+      "repaid"
+    ],
+    "display": "repay → repaid → repaid",
+    "translations": {
+      "fr": "rembourser",
+      "es": "devolver / reembolsar",
+      "it": "rimborsare",
+      "de": "zurückzahlen",
+      "nl": "terugbetalen",
+      "pt": "reembolsar / pagar de volta"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "rerun",
+    "group": 2,
+    "groupName": "All Verbs 111–120",
+    "base": "rerun",
+    "pastSimple": [
+      "reran"
+    ],
+    "pastParticiple": [
+      "rerun"
+    ],
+    "display": "rerun → reran → rerun",
+    "translations": {
+      "fr": "rediffuser / refaire tourner",
+      "es": "volver a ejecutar / repetir",
+      "it": "rieseguire / ritrasmettere",
+      "de": "erneut laufen lassen",
+      "nl": "opnieuw draaien / herhalen",
+      "pt": "executar novamente / reprisar"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "resell",
+    "group": 2,
+    "groupName": "All Verbs 111–120",
+    "base": "resell",
+    "pastSimple": [
+      "resold"
+    ],
+    "pastParticiple": [
+      "resold"
+    ],
+    "display": "resell → resold → resold",
+    "translations": {
+      "fr": "revendre",
+      "es": "revender",
+      "it": "rivendere",
+      "de": "weiterverkaufen",
+      "nl": "doorverkopen",
+      "pt": "revender"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "retake",
+    "group": 2,
+    "groupName": "All Verbs 111–120",
+    "base": "retake",
+    "pastSimple": [
+      "retook"
+    ],
+    "pastParticiple": [
+      "retaken"
+    ],
+    "display": "retake → retook → retaken",
+    "translations": {
+      "fr": "reprendre / repasser",
+      "es": "retomar / repetir",
+      "it": "riprendere / rifare",
+      "de": "wieder einnehmen / wiederholen",
+      "nl": "opnieuw doen / hernemen",
+      "pt": "retomar / refazer"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "rewrite",
+    "group": 2,
+    "groupName": "All Verbs 111–120",
+    "base": "rewrite",
+    "pastSimple": [
+      "rewrote"
+    ],
+    "pastParticiple": [
+      "rewritten"
+    ],
+    "display": "rewrite → rewrote → rewritten",
+    "translations": {
+      "fr": "réécrire",
+      "es": "reescribir",
+      "it": "riscrivere",
+      "de": "umschreiben / neu schreiben",
+      "nl": "herschrijven",
+      "pt": "reescrever"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "rid",
+    "group": 2,
+    "groupName": "All Verbs 111–120",
+    "base": "rid",
+    "pastSimple": [
+      "rid",
+      "ridded"
+    ],
+    "pastParticiple": [
+      "rid",
+      "ridded"
+    ],
+    "display": "rid → rid/ridded → rid/ridded",
+    "translations": {
+      "fr": "débarrasser",
+      "es": "librar / deshacerse de",
+      "it": "liberare",
+      "de": "befreien / loswerden",
+      "nl": "bevrijden / ontdoen",
+      "pt": "livrar"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "ride",
+    "group": 2,
+    "groupName": "All Verbs 111–120",
+    "base": "ride",
+    "pastSimple": [
+      "rode"
+    ],
+    "pastParticiple": [
+      "ridden"
+    ],
+    "display": "ride → rode → ridden",
+    "translations": {
+      "fr": "monter / aller à cheval ou vélo",
+      "es": "montar / ir en",
+      "it": "cavalcare / andare in",
+      "de": "reiten / fahren",
+      "nl": "rijden",
+      "pt": "andar de / montar"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "ring",
+    "group": 2,
+    "groupName": "All Verbs 111–120",
+    "base": "ring",
+    "pastSimple": [
+      "rang"
+    ],
+    "pastParticiple": [
+      "rung"
+    ],
+    "display": "ring → rang → rung",
+    "translations": {
+      "fr": "sonner",
+      "es": "sonar / llamar",
+      "it": "suonare",
+      "de": "klingeln / läuten",
+      "nl": "rinkelen / bellen",
+      "pt": "tocar / telefonar"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "rise",
+    "group": 3,
+    "groupName": "All Verbs 121–130",
+    "base": "rise",
+    "pastSimple": [
+      "rose"
+    ],
+    "pastParticiple": [
+      "risen"
+    ],
+    "display": "rise → rose → risen",
+    "translations": {
+      "fr": "monter / s'élever",
+      "es": "subir / elevarse",
+      "it": "salire / sorgere",
+      "de": "steigen / aufgehen",
+      "nl": "stijgen / opkomen",
+      "pt": "subir / erguer-se"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "run",
+    "group": 3,
+    "groupName": "All Verbs 121–130",
+    "base": "run",
+    "pastSimple": [
+      "ran"
+    ],
+    "pastParticiple": [
+      "run"
+    ],
+    "display": "run → ran → run",
+    "translations": {
+      "fr": "courir",
+      "es": "correr",
+      "it": "correre",
+      "de": "laufen / rennen",
+      "nl": "rennen / lopen",
+      "pt": "correr"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "saw",
+    "group": 3,
+    "groupName": "All Verbs 121–130",
+    "base": "saw",
+    "pastSimple": [
+      "sawed"
+    ],
+    "pastParticiple": [
+      "sawed",
+      "sawn"
+    ],
+    "display": "saw → sawed → sawed/sawn",
+    "translations": {
+      "fr": "scier",
+      "es": "serrar",
+      "it": "segare",
+      "de": "sägen",
+      "nl": "zagen",
+      "pt": "serrar"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "say",
+    "group": 3,
+    "groupName": "All Verbs 121–130",
+    "base": "say",
+    "pastSimple": [
+      "said"
+    ],
+    "pastParticiple": [
+      "said"
+    ],
+    "display": "say → said → said",
+    "translations": {
+      "fr": "dire",
+      "es": "decir",
+      "it": "dire",
+      "de": "sagen",
+      "nl": "zeggen",
+      "pt": "dizer"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "see",
+    "group": 3,
+    "groupName": "All Verbs 121–130",
+    "base": "see",
+    "pastSimple": [
+      "saw"
+    ],
+    "pastParticiple": [
+      "seen"
+    ],
+    "display": "see → saw → seen",
+    "translations": {
+      "fr": "voir",
+      "es": "ver",
+      "it": "vedere",
+      "de": "sehen",
+      "nl": "zien",
+      "pt": "ver"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "seek",
+    "group": 3,
+    "groupName": "All Verbs 121–130",
+    "base": "seek",
+    "pastSimple": [
+      "sought"
+    ],
+    "pastParticiple": [
+      "sought"
+    ],
+    "display": "seek → sought → sought",
+    "translations": {
+      "fr": "chercher",
+      "es": "buscar",
+      "it": "cercare",
+      "de": "suchen",
+      "nl": "zoeken",
+      "pt": "procurar / buscar"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "sell",
+    "group": 3,
+    "groupName": "All Verbs 121–130",
+    "base": "sell",
+    "pastSimple": [
+      "sold"
+    ],
+    "pastParticiple": [
+      "sold"
+    ],
+    "display": "sell → sold → sold",
+    "translations": {
+      "fr": "vendre",
+      "es": "vender",
+      "it": "vendere",
+      "de": "verkaufen",
+      "nl": "verkopen",
+      "pt": "vender"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "send",
+    "group": 3,
+    "groupName": "All Verbs 121–130",
+    "base": "send",
+    "pastSimple": [
+      "sent"
+    ],
+    "pastParticiple": [
+      "sent"
+    ],
+    "display": "send → sent → sent",
+    "translations": {
+      "fr": "envoyer",
+      "es": "enviar",
+      "it": "mandare / inviare",
+      "de": "senden / schicken",
+      "nl": "sturen / verzenden",
+      "pt": "enviar"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "set",
+    "group": 3,
+    "groupName": "All Verbs 121–130",
+    "base": "set",
+    "pastSimple": [
+      "set"
+    ],
+    "pastParticiple": [
+      "set"
+    ],
+    "display": "set → set → set",
+    "translations": {
+      "fr": "placer / régler",
+      "es": "poner / ajustar",
+      "it": "mettere / impostare",
+      "de": "setzen / einstellen",
+      "nl": "zetten / instellen",
+      "pt": "colocar / ajustar"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "sew",
+    "group": 3,
+    "groupName": "All Verbs 121–130",
+    "base": "sew",
+    "pastSimple": [
+      "sewed"
+    ],
+    "pastParticiple": [
+      "sewed",
+      "sewn"
+    ],
+    "display": "sew → sewed → sewed/sewn",
+    "translations": {
+      "fr": "coudre",
+      "es": "coser",
+      "it": "cucire",
+      "de": "nähen",
+      "nl": "naaien",
+      "pt": "costurar"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "shake",
+    "group": 4,
+    "groupName": "All Verbs 131–140",
+    "base": "shake",
+    "pastSimple": [
+      "shook"
+    ],
+    "pastParticiple": [
+      "shaken"
+    ],
+    "display": "shake → shook → shaken",
+    "translations": {
+      "fr": "secouer",
+      "es": "sacudir",
+      "it": "scuotere",
+      "de": "schütteln",
+      "nl": "schudden",
+      "pt": "sacudir"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "shave",
+    "group": 4,
+    "groupName": "All Verbs 131–140",
+    "base": "shave",
+    "pastSimple": [
+      "shaved"
+    ],
+    "pastParticiple": [
+      "shaved",
+      "shaven"
+    ],
+    "display": "shave → shaved → shaved/shaven",
+    "translations": {
+      "fr": "raser / se raser",
+      "es": "afeitar",
+      "it": "radere / farsi la barba",
+      "de": "rasieren",
+      "nl": "scheren",
+      "pt": "barbear / raspar"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "shear",
+    "group": 4,
+    "groupName": "All Verbs 131–140",
+    "base": "shear",
+    "pastSimple": [
+      "sheared"
+    ],
+    "pastParticiple": [
+      "sheared",
+      "shorn"
+    ],
+    "display": "shear → sheared → sheared/shorn",
+    "translations": {
+      "fr": "tondre",
+      "es": "esquilar",
+      "it": "tosare",
+      "de": "scheren",
+      "nl": "scheren",
+      "pt": "tosquiar"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "shed",
+    "group": 4,
+    "groupName": "All Verbs 131–140",
+    "base": "shed",
+    "pastSimple": [
+      "shed"
+    ],
+    "pastParticiple": [
+      "shed"
+    ],
+    "display": "shed → shed → shed",
+    "translations": {
+      "fr": "perdre / verser",
+      "es": "derramar / soltar",
+      "it": "perdere / versare",
+      "de": "abwerfen / vergießen",
+      "nl": "afwerpen / vergieten",
+      "pt": "derramar / soltar"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "shine",
+    "group": 4,
+    "groupName": "All Verbs 131–140",
+    "base": "shine",
+    "pastSimple": [
+      "shone",
+      "shined"
+    ],
+    "pastParticiple": [
+      "shone",
+      "shined"
+    ],
+    "display": "shine → shone/shined → shone/shined",
+    "translations": {
+      "fr": "briller",
+      "es": "brillar",
+      "it": "brillare",
+      "de": "scheinen / glänzen",
+      "nl": "schijnen / glanzen",
+      "pt": "brilhar"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "shoot",
+    "group": 4,
+    "groupName": "All Verbs 131–140",
+    "base": "shoot",
+    "pastSimple": [
+      "shot"
+    ],
+    "pastParticiple": [
+      "shot"
+    ],
+    "display": "shoot → shot → shot",
+    "translations": {
+      "fr": "tirer",
+      "es": "disparar",
+      "it": "sparare",
+      "de": "schießen",
+      "nl": "schieten",
+      "pt": "atirar"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "show",
+    "group": 4,
+    "groupName": "All Verbs 131–140",
+    "base": "show",
+    "pastSimple": [
+      "showed"
+    ],
+    "pastParticiple": [
+      "shown",
+      "showed"
+    ],
+    "display": "show → showed → shown/showed",
+    "translations": {
+      "fr": "montrer",
+      "es": "mostrar",
+      "it": "mostrare",
+      "de": "zeigen",
+      "nl": "tonen / laten zien",
+      "pt": "mostrar"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "shrink",
+    "group": 4,
+    "groupName": "All Verbs 131–140",
+    "base": "shrink",
+    "pastSimple": [
+      "shrank",
+      "shrunk"
+    ],
+    "pastParticiple": [
+      "shrunk"
+    ],
+    "display": "shrink → shrank/shrunk → shrunk",
+    "translations": {
+      "fr": "rétrécir",
+      "es": "encoger",
+      "it": "restringersi",
+      "de": "schrumpfen",
+      "nl": "krimpen",
+      "pt": "encolher"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "shut",
+    "group": 4,
+    "groupName": "All Verbs 131–140",
+    "base": "shut",
+    "pastSimple": [
+      "shut"
+    ],
+    "pastParticiple": [
+      "shut"
+    ],
+    "display": "shut → shut → shut",
+    "translations": {
+      "fr": "fermer",
+      "es": "cerrar",
+      "it": "chiudere",
+      "de": "schließen",
+      "nl": "sluiten",
+      "pt": "fechar"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "sing",
+    "group": 4,
+    "groupName": "All Verbs 131–140",
+    "base": "sing",
+    "pastSimple": [
+      "sang"
+    ],
+    "pastParticiple": [
+      "sung"
+    ],
+    "display": "sing → sang → sung",
+    "translations": {
+      "fr": "chanter",
+      "es": "cantar",
+      "it": "cantare",
+      "de": "singen",
+      "nl": "zingen",
+      "pt": "cantar"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "sink",
+    "group": 5,
+    "groupName": "All Verbs 141–150",
+    "base": "sink",
+    "pastSimple": [
+      "sank",
+      "sunk"
+    ],
+    "pastParticiple": [
+      "sunk"
+    ],
+    "display": "sink → sank/sunk → sunk",
+    "translations": {
+      "fr": "couler / sombrer",
+      "es": "hundirse",
+      "it": "affondare",
+      "de": "sinken",
+      "nl": "zinken",
+      "pt": "afundar"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "sit",
+    "group": 5,
+    "groupName": "All Verbs 141–150",
+    "base": "sit",
+    "pastSimple": [
+      "sat"
+    ],
+    "pastParticiple": [
+      "sat"
+    ],
+    "display": "sit → sat → sat",
+    "translations": {
+      "fr": "s'asseoir",
+      "es": "sentarse",
+      "it": "sedersi",
+      "de": "sitzen / sich setzen",
+      "nl": "zitten",
+      "pt": "sentar-se"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "slay",
+    "group": 5,
+    "groupName": "All Verbs 141–150",
+    "base": "slay",
+    "pastSimple": [
+      "slew",
+      "slayed"
+    ],
+    "pastParticiple": [
+      "slain",
+      "slayed"
+    ],
+    "display": "slay → slew/slayed → slain/slayed",
+    "translations": {
+      "fr": "tuer / massacrer",
+      "es": "matar",
+      "it": "uccidere",
+      "de": "erschlagen / töten",
+      "nl": "doden / verslaan",
+      "pt": "matar"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "sleep",
+    "group": 5,
+    "groupName": "All Verbs 141–150",
+    "base": "sleep",
+    "pastSimple": [
+      "slept"
+    ],
+    "pastParticiple": [
+      "slept"
+    ],
+    "display": "sleep → slept → slept",
+    "translations": {
+      "fr": "dormir",
+      "es": "dormir",
+      "it": "dormire",
+      "de": "schlafen",
+      "nl": "slapen",
+      "pt": "dormir"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "slide",
+    "group": 5,
+    "groupName": "All Verbs 141–150",
+    "base": "slide",
+    "pastSimple": [
+      "slid"
+    ],
+    "pastParticiple": [
+      "slid"
+    ],
+    "display": "slide → slid → slid",
+    "translations": {
+      "fr": "glisser",
+      "es": "deslizarse",
+      "it": "scivolare",
+      "de": "rutschen / gleiten",
+      "nl": "glijden",
+      "pt": "deslizar"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "sling",
+    "group": 5,
+    "groupName": "All Verbs 141–150",
+    "base": "sling",
+    "pastSimple": [
+      "slung"
+    ],
+    "pastParticiple": [
+      "slung"
+    ],
+    "display": "sling → slung → slung",
+    "translations": {
+      "fr": "lancer / suspendre",
+      "es": "lanzar / colgar",
+      "it": "lanciare / appendere",
+      "de": "schleudern / hängen",
+      "nl": "slingeren / ophangen",
+      "pt": "arremessar / pendurar"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "slink",
+    "group": 5,
+    "groupName": "All Verbs 141–150",
+    "base": "slink",
+    "pastSimple": [
+      "slunk"
+    ],
+    "pastParticiple": [
+      "slunk"
+    ],
+    "display": "slink → slunk → slunk",
+    "translations": {
+      "fr": "se faufiler",
+      "es": "escabullirse",
+      "it": "sgattaiolare",
+      "de": "schleichen",
+      "nl": "wegsluipen",
+      "pt": "esgueirar-se"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "slit",
+    "group": 5,
+    "groupName": "All Verbs 141–150",
+    "base": "slit",
+    "pastSimple": [
+      "slit"
+    ],
+    "pastParticiple": [
+      "slit"
+    ],
+    "display": "slit → slit → slit",
+    "translations": {
+      "fr": "fendre / entailler",
+      "es": "rajar / cortar",
+      "it": "tagliare / fendere",
+      "de": "aufschlitzen",
+      "nl": "opensnijden",
+      "pt": "fender / cortar"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "smell",
+    "group": 5,
+    "groupName": "All Verbs 141–150",
+    "base": "smell",
+    "pastSimple": [
+      "smelled",
+      "smelt"
+    ],
+    "pastParticiple": [
+      "smelled",
+      "smelt"
+    ],
+    "display": "smell → smelled/smelt → smelled/smelt",
+    "translations": {
+      "fr": "sentir",
+      "es": "oler",
+      "it": "odorare / sentire odore",
+      "de": "riechen",
+      "nl": "ruiken",
+      "pt": "cheirar"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "smite",
+    "group": 5,
+    "groupName": "All Verbs 141–150",
+    "base": "smite",
+    "pastSimple": [
+      "smote"
+    ],
+    "pastParticiple": [
+      "smitten"
+    ],
+    "display": "smite → smote → smitten",
+    "translations": {
+      "fr": "frapper / châtier",
+      "es": "golpear / castigar",
+      "it": "colpire",
+      "de": "schlagen / niederstrecken",
+      "nl": "slaan / treffen",
+      "pt": "golpear / castigar"
+    },
+    "difficulty": 3
+  }
+]

@@ -1,0 +1,1102 @@
+[
+  {
+    "id": "abbeissen",
+    "group": 1,
+    "groupName": "Advanced Verbs 201–210",
+    "base": "abbeißen",
+    "pastSimple": [
+      "biss ab"
+    ],
+    "pastParticiple": [
+      "abgebissen"
+    ],
+    "display": "abbeißen → biss ab → abgebissen",
+    "translations": {
+      "en": "bite off",
+      "fr": "mordre / arracher avec les dents",
+      "es": "morder / arrancar con los dientes",
+      "it": "mordere via",
+      "nl": "afbijten",
+      "pt": "morder / arrancar com os dentes"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "abfahren",
+    "group": 1,
+    "groupName": "Advanced Verbs 201–210",
+    "base": "abfahren",
+    "pastSimple": [
+      "fuhr ab"
+    ],
+    "pastParticiple": [
+      "abgefahren"
+    ],
+    "display": "abfahren → fuhr ab → abgefahren",
+    "translations": {
+      "en": "depart / drive off",
+      "fr": "partir / démarrer",
+      "es": "salir / partir en vehículo",
+      "it": "partire / andare via",
+      "nl": "vertrekken / wegrijden",
+      "pt": "partir / sair de veículo"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "abfallen",
+    "group": 1,
+    "groupName": "Advanced Verbs 201–210",
+    "base": "abfallen",
+    "pastSimple": [
+      "fiel ab"
+    ],
+    "pastParticiple": [
+      "abgefallen"
+    ],
+    "display": "abfallen → fiel ab → abgefallen",
+    "translations": {
+      "en": "fall off / decrease",
+      "fr": "tomber / diminuer",
+      "es": "caerse / disminuir",
+      "it": "cadere / diminuire",
+      "nl": "afvallen / afnemen",
+      "pt": "cair / diminuir"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "abheben",
+    "group": 1,
+    "groupName": "Advanced Verbs 201–210",
+    "base": "abheben",
+    "pastSimple": [
+      "hob ab"
+    ],
+    "pastParticiple": [
+      "abgehoben"
+    ],
+    "display": "abheben → hob ab → abgehoben",
+    "translations": {
+      "en": "take off / withdraw",
+      "fr": "décoller / retirer",
+      "es": "despegar / retirar",
+      "it": "decollare / prelevare",
+      "nl": "opstijgen / opnemen",
+      "pt": "decolar / retirar"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "abnehmen",
+    "group": 1,
+    "groupName": "Advanced Verbs 201–210",
+    "base": "abnehmen",
+    "pastSimple": [
+      "nahm ab"
+    ],
+    "pastParticiple": [
+      "abgenommen"
+    ],
+    "display": "abnehmen → nahm ab → abgenommen",
+    "translations": {
+      "en": "lose weight / take off",
+      "fr": "maigrir / enlever",
+      "es": "adelgazar / quitar",
+      "it": "dimagrire / togliere",
+      "nl": "afnemen / afvallen",
+      "pt": "emagrecer / tirar"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "abschliessen",
+    "group": 1,
+    "groupName": "Advanced Verbs 201–210",
+    "base": "abschließen",
+    "pastSimple": [
+      "schloss ab"
+    ],
+    "pastParticiple": [
+      "abgeschlossen"
+    ],
+    "display": "abschließen → schloss ab → abgeschlossen",
+    "translations": {
+      "en": "lock / finish",
+      "fr": "fermer à clé / terminer",
+      "es": "cerrar con llave / terminar",
+      "it": "chiudere a chiave / concludere",
+      "nl": "afsluiten",
+      "pt": "trancar / concluir"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "anschwellen",
+    "group": 1,
+    "groupName": "Advanced Verbs 201–210",
+    "base": "anschwellen",
+    "pastSimple": [
+      "schwoll an"
+    ],
+    "pastParticiple": [
+      "angeschwollen"
+    ],
+    "display": "anschwellen → schwoll an → angeschwollen",
+    "translations": {
+      "en": "swell up",
+      "fr": "gonfler",
+      "es": "hincharse",
+      "it": "gonfiarsi",
+      "nl": "opzwellen",
+      "pt": "inchar"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "aufbrechen",
+    "group": 1,
+    "groupName": "Advanced Verbs 201–210",
+    "base": "aufbrechen",
+    "pastSimple": [
+      "brach auf"
+    ],
+    "pastParticiple": [
+      "aufgebrochen"
+    ],
+    "display": "aufbrechen → brach auf → aufgebrochen",
+    "translations": {
+      "en": "break open / set off",
+      "fr": "forcer / partir",
+      "es": "forzar / ponerse en marcha",
+      "it": "forzare / partire",
+      "nl": "openbreken / vertrekken",
+      "pt": "arrombar / partir"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "auffallen",
+    "group": 1,
+    "groupName": "Advanced Verbs 201–210",
+    "base": "auffallen",
+    "pastSimple": [
+      "fiel auf"
+    ],
+    "pastParticiple": [
+      "aufgefallen"
+    ],
+    "display": "auffallen → fiel auf → aufgefallen",
+    "translations": {
+      "en": "stand out / be noticeable",
+      "fr": "se faire remarquer",
+      "es": "llamar la atención",
+      "it": "notarsi / colpire",
+      "nl": "opvallen",
+      "pt": "chamar a atenção"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "aufgeben",
+    "group": 1,
+    "groupName": "Advanced Verbs 201–210",
+    "base": "aufgeben",
+    "pastSimple": [
+      "gab auf"
+    ],
+    "pastParticiple": [
+      "aufgegeben"
+    ],
+    "display": "aufgeben → gab auf → aufgegeben",
+    "translations": {
+      "en": "give up / hand in",
+      "fr": "abandonner / remettre",
+      "es": "rendirse / entregar",
+      "it": "arrendersi / consegnare",
+      "nl": "opgeven / inleveren",
+      "pt": "desistir / entregar"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "aufhalten",
+    "group": 2,
+    "groupName": "Advanced Verbs 211–220",
+    "base": "aufhalten",
+    "pastSimple": [
+      "hielt auf"
+    ],
+    "pastParticiple": [
+      "aufgehalten"
+    ],
+    "display": "aufhalten → hielt auf → aufgehalten",
+    "translations": {
+      "en": "hold up / delay",
+      "fr": "retarder / retenir",
+      "es": "detener / retrasar",
+      "it": "trattenere / ritardare",
+      "nl": "ophouden / tegenhouden",
+      "pt": "deter / atrasar"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "aufheben",
+    "group": 2,
+    "groupName": "Advanced Verbs 211–220",
+    "base": "aufheben",
+    "pastSimple": [
+      "hob auf"
+    ],
+    "pastParticiple": [
+      "aufgehoben"
+    ],
+    "display": "aufheben → hob auf → aufgehoben",
+    "translations": {
+      "en": "pick up / cancel",
+      "fr": "ramasser / annuler",
+      "es": "recoger / anular",
+      "it": "raccogliere / annullare",
+      "nl": "opheffen / oprapen",
+      "pt": "apanhar / cancelar"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "aufkommen",
+    "group": 2,
+    "groupName": "Advanced Verbs 211–220",
+    "base": "aufkommen",
+    "pastSimple": [
+      "kam auf"
+    ],
+    "pastParticiple": [
+      "aufgekommen"
+    ],
+    "display": "aufkommen → kam auf → aufgekommen",
+    "translations": {
+      "en": "arise / come up",
+      "fr": "survenir / apparaître",
+      "es": "surgir",
+      "it": "sorgere / emergere",
+      "nl": "opkomen",
+      "pt": "surgir"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "aufladen",
+    "group": 2,
+    "groupName": "Advanced Verbs 211–220",
+    "base": "aufladen",
+    "pastSimple": [
+      "lud auf"
+    ],
+    "pastParticiple": [
+      "aufgeladen"
+    ],
+    "display": "aufladen → lud auf → aufgeladen",
+    "translations": {
+      "en": "charge / load up",
+      "fr": "charger / recharger",
+      "es": "cargar / recargar",
+      "it": "caricare / ricaricare",
+      "nl": "opladen",
+      "pt": "carregar / recarregar"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "aufstehen",
+    "group": 2,
+    "groupName": "Advanced Verbs 211–220",
+    "base": "aufstehen",
+    "pastSimple": [
+      "stand auf"
+    ],
+    "pastParticiple": [
+      "aufgestanden"
+    ],
+    "display": "aufstehen → stand auf → aufgestanden",
+    "translations": {
+      "en": "stand up / get up",
+      "fr": "se lever",
+      "es": "levantarse",
+      "it": "alzarsi",
+      "nl": "opstaan",
+      "pt": "levantar-se"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "ausbrechen",
+    "group": 2,
+    "groupName": "Advanced Verbs 211–220",
+    "base": "ausbrechen",
+    "pastSimple": [
+      "brach aus"
+    ],
+    "pastParticiple": [
+      "ausgebrochen"
+    ],
+    "display": "ausbrechen → brach aus → ausgebrochen",
+    "translations": {
+      "en": "break out / erupt",
+      "fr": "éclater / s'évader",
+      "es": "estallar / escapar",
+      "it": "scoppiare / evadere",
+      "nl": "uitbreken",
+      "pt": "irromper / escapar"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "ausfallen",
+    "group": 2,
+    "groupName": "Advanced Verbs 211–220",
+    "base": "ausfallen",
+    "pastSimple": [
+      "fiel aus"
+    ],
+    "pastParticiple": [
+      "ausgefallen"
+    ],
+    "display": "ausfallen → fiel aus → ausgefallen",
+    "translations": {
+      "en": "be cancelled / fail",
+      "fr": "être annulé / tomber en panne",
+      "es": "cancelarse / fallar",
+      "it": "essere annullato / guastarsi",
+      "nl": "uitvallen",
+      "pt": "ser cancelado / falhar"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "ausgeben",
+    "group": 2,
+    "groupName": "Advanced Verbs 211–220",
+    "base": "ausgeben",
+    "pastSimple": [
+      "gab aus"
+    ],
+    "pastParticiple": [
+      "ausgegeben"
+    ],
+    "display": "ausgeben → gab aus → ausgegeben",
+    "translations": {
+      "en": "spend / issue",
+      "fr": "dépenser / distribuer",
+      "es": "gastar / emitir",
+      "it": "spendere / emettere",
+      "nl": "uitgeven",
+      "pt": "gastar / emitir"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "ausgehen",
+    "group": 2,
+    "groupName": "Advanced Verbs 211–220",
+    "base": "ausgehen",
+    "pastSimple": [
+      "ging aus"
+    ],
+    "pastParticiple": [
+      "ausgegangen"
+    ],
+    "display": "ausgehen → ging aus → ausgegangen",
+    "translations": {
+      "en": "go out / run out",
+      "fr": "sortir / s'éteindre",
+      "es": "salir / agotarse",
+      "it": "uscire / spegnersi",
+      "nl": "uitgaan / opraken",
+      "pt": "sair / acabar"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "aushalten",
+    "group": 2,
+    "groupName": "Advanced Verbs 211–220",
+    "base": "aushalten",
+    "pastSimple": [
+      "hielt aus"
+    ],
+    "pastParticiple": [
+      "ausgehalten"
+    ],
+    "display": "aushalten → hielt aus → ausgehalten",
+    "translations": {
+      "en": "endure / stand",
+      "fr": "supporter / tenir bon",
+      "es": "aguantar / soportar",
+      "it": "sopportare / resistere",
+      "nl": "uithouden",
+      "pt": "aguentar / suportar"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "aussehen",
+    "group": 3,
+    "groupName": "Advanced Verbs 221–230",
+    "base": "aussehen",
+    "pastSimple": [
+      "sah aus"
+    ],
+    "pastParticiple": [
+      "ausgesehen"
+    ],
+    "display": "aussehen → sah aus → ausgesehen",
+    "translations": {
+      "en": "look / appear",
+      "fr": "avoir l'air",
+      "es": "parecer / verse",
+      "it": "sembrare / apparire",
+      "nl": "eruitzien",
+      "pt": "parecer"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "aussprechen",
+    "group": 3,
+    "groupName": "Advanced Verbs 221–230",
+    "base": "aussprechen",
+    "pastSimple": [
+      "sprach aus"
+    ],
+    "pastParticiple": [
+      "ausgesprochen"
+    ],
+    "display": "aussprechen → sprach aus → ausgesprochen",
+    "translations": {
+      "en": "pronounce / express",
+      "fr": "prononcer / exprimer",
+      "es": "pronunciar / expresar",
+      "it": "pronunciare / esprimere",
+      "nl": "uitspreken",
+      "pt": "pronunciar / expressar"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "aussteigen",
+    "group": 3,
+    "groupName": "Advanced Verbs 221–230",
+    "base": "aussteigen",
+    "pastSimple": [
+      "stieg aus"
+    ],
+    "pastParticiple": [
+      "ausgestiegen"
+    ],
+    "display": "aussteigen → stieg aus → ausgestiegen",
+    "translations": {
+      "en": "get out / get off",
+      "fr": "descendre / sortir",
+      "es": "bajarse / salir",
+      "it": "scendere / uscire",
+      "nl": "uitstappen",
+      "pt": "descer / sair"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "ausziehen",
+    "group": 3,
+    "groupName": "Advanced Verbs 221–230",
+    "base": "ausziehen",
+    "pastSimple": [
+      "zog aus"
+    ],
+    "pastParticiple": [
+      "ausgezogen"
+    ],
+    "display": "ausziehen → zog aus → ausgezogen",
+    "translations": {
+      "en": "move out / take off clothes",
+      "fr": "déménager / enlever",
+      "es": "mudarse / quitarse",
+      "it": "traslocare / togliersi",
+      "nl": "verhuizen / uittrekken",
+      "pt": "mudar-se / despir"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "beibehalten",
+    "group": 3,
+    "groupName": "Advanced Verbs 221–230",
+    "base": "beibehalten",
+    "pastSimple": [
+      "behielt bei"
+    ],
+    "pastParticiple": [
+      "beibehalten"
+    ],
+    "display": "beibehalten → behielt bei → beibehalten",
+    "translations": {
+      "en": "maintain / keep",
+      "fr": "maintenir / conserver",
+      "es": "mantener / conservar",
+      "it": "mantenere / conservare",
+      "nl": "behouden",
+      "pt": "manter / conservar"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "beibringen",
+    "group": 3,
+    "groupName": "Advanced Verbs 221–230",
+    "base": "beibringen",
+    "pastSimple": [
+      "brachte bei"
+    ],
+    "pastParticiple": [
+      "beigebracht"
+    ],
+    "display": "beibringen → brachte bei → beigebracht",
+    "translations": {
+      "en": "teach / bring about",
+      "fr": "enseigner / apprendre à quelqu'un",
+      "es": "enseñar",
+      "it": "insegnare",
+      "nl": "bijbrengen / leren",
+      "pt": "ensinar"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "beitreten",
+    "group": 3,
+    "groupName": "Advanced Verbs 221–230",
+    "base": "beitreten",
+    "pastSimple": [
+      "trat bei"
+    ],
+    "pastParticiple": [
+      "beigetreten"
+    ],
+    "display": "beitreten → trat bei → beigetreten",
+    "translations": {
+      "en": "join",
+      "fr": "adhérer / rejoindre",
+      "es": "unirse / afiliarse",
+      "it": "aderire / unirsi",
+      "nl": "toetreden / lid worden",
+      "pt": "aderir / juntar-se"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "einbrechen",
+    "group": 3,
+    "groupName": "Advanced Verbs 221–230",
+    "base": "einbrechen",
+    "pastSimple": [
+      "brach ein"
+    ],
+    "pastParticiple": [
+      "eingebrochen"
+    ],
+    "display": "einbrechen → brach ein → eingebrochen",
+    "translations": {
+      "en": "break in / collapse",
+      "fr": "cambrioler / s'effondrer",
+      "es": "allanar / derrumbarse",
+      "it": "irrompere / crollare",
+      "nl": "inbreken / instorten",
+      "pt": "invadir / desabar"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "einfallen",
+    "group": 3,
+    "groupName": "Advanced Verbs 221–230",
+    "base": "einfallen",
+    "pastSimple": [
+      "fiel ein"
+    ],
+    "pastParticiple": [
+      "eingefallen"
+    ],
+    "display": "einfallen → fiel ein → eingefallen",
+    "translations": {
+      "en": "occur to / collapse",
+      "fr": "venir à l'esprit / s'effondrer",
+      "es": "ocurrirse / hundirse",
+      "it": "venire in mente / crollare",
+      "nl": "te binnen schieten / invallen",
+      "pt": "ocorrer / desabar"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "eingeben",
+    "group": 3,
+    "groupName": "Advanced Verbs 221–230",
+    "base": "eingeben",
+    "pastSimple": [
+      "gab ein"
+    ],
+    "pastParticiple": [
+      "eingegeben"
+    ],
+    "display": "eingeben → gab ein → eingegeben",
+    "translations": {
+      "en": "enter / input",
+      "fr": "saisir / entrer",
+      "es": "introducir / ingresar",
+      "it": "inserire",
+      "nl": "invoeren",
+      "pt": "inserir / introduzir"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "eingehen",
+    "group": 4,
+    "groupName": "Advanced Verbs 231–240",
+    "base": "eingehen",
+    "pastSimple": [
+      "ging ein"
+    ],
+    "pastParticiple": [
+      "eingegangen"
+    ],
+    "display": "eingehen → ging ein → eingegangen",
+    "translations": {
+      "en": "enter into / arrive",
+      "fr": "entrer dans / arriver",
+      "es": "entrar en / llegar",
+      "it": "entrare in / arrivare",
+      "nl": "ingaan / binnenkomen",
+      "pt": "entrar em / chegar"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "einhalten",
+    "group": 4,
+    "groupName": "Advanced Verbs 231–240",
+    "base": "einhalten",
+    "pastSimple": [
+      "hielt ein"
+    ],
+    "pastParticiple": [
+      "eingehalten"
+    ],
+    "display": "einhalten → hielt ein → eingehalten",
+    "translations": {
+      "en": "observe / keep",
+      "fr": "respecter / tenir",
+      "es": "cumplir / respetar",
+      "it": "rispettare / mantenere",
+      "nl": "naleven / houden",
+      "pt": "cumprir / respeitar"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "einladen",
+    "group": 4,
+    "groupName": "Advanced Verbs 231–240",
+    "base": "einladen",
+    "pastSimple": [
+      "lud ein"
+    ],
+    "pastParticiple": [
+      "eingeladen"
+    ],
+    "display": "einladen → lud ein → eingeladen",
+    "translations": {
+      "en": "invite / load",
+      "fr": "inviter / charger",
+      "es": "invitar / cargar",
+      "it": "invitare / caricare",
+      "nl": "uitnodigen / inladen",
+      "pt": "convidar / carregar"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "einnehmen",
+    "group": 4,
+    "groupName": "Advanced Verbs 231–240",
+    "base": "einnehmen",
+    "pastSimple": [
+      "nahm ein"
+    ],
+    "pastParticiple": [
+      "eingenommen"
+    ],
+    "display": "einnehmen → nahm ein → eingenommen",
+    "translations": {
+      "en": "take in / take medicine",
+      "fr": "prendre / occuper",
+      "es": "tomar / ocupar",
+      "it": "prendere / occupare",
+      "nl": "innemen",
+      "pt": "tomar / ocupar"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "einschlafen",
+    "group": 4,
+    "groupName": "Advanced Verbs 231–240",
+    "base": "einschlafen",
+    "pastSimple": [
+      "schlief ein"
+    ],
+    "pastParticiple": [
+      "eingeschlafen"
+    ],
+    "display": "einschlafen → schlief ein → eingeschlafen",
+    "translations": {
+      "en": "fall asleep",
+      "fr": "s'endormir",
+      "es": "dormirse",
+      "it": "addormentarsi",
+      "nl": "in slaap vallen",
+      "pt": "adormecer"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "einsehen",
+    "group": 4,
+    "groupName": "Advanced Verbs 231–240",
+    "base": "einsehen",
+    "pastSimple": [
+      "sah ein"
+    ],
+    "pastParticiple": [
+      "eingesehen"
+    ],
+    "display": "einsehen → sah ein → eingesehen",
+    "translations": {
+      "en": "realize / inspect",
+      "fr": "comprendre / consulter",
+      "es": "darse cuenta / revisar",
+      "it": "capire / consultare",
+      "nl": "inzien",
+      "pt": "perceber / consultar"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "einsteigen",
+    "group": 4,
+    "groupName": "Advanced Verbs 231–240",
+    "base": "einsteigen",
+    "pastSimple": [
+      "stieg ein"
+    ],
+    "pastParticiple": [
+      "eingestiegen"
+    ],
+    "display": "einsteigen → stieg ein → eingestiegen",
+    "translations": {
+      "en": "get in / board",
+      "fr": "monter / embarquer",
+      "es": "subir / entrar",
+      "it": "salire / entrare",
+      "nl": "instappen",
+      "pt": "entrar / embarcar"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "eintreten",
+    "group": 4,
+    "groupName": "Advanced Verbs 231–240",
+    "base": "eintreten",
+    "pastSimple": [
+      "trat ein"
+    ],
+    "pastParticiple": [
+      "eingetreten"
+    ],
+    "display": "eintreten → trat ein → eingetreten",
+    "translations": {
+      "en": "enter / occur",
+      "fr": "entrer / se produire",
+      "es": "entrar / ocurrir",
+      "it": "entrare / verificarsi",
+      "nl": "binnentreden / optreden",
+      "pt": "entrar / ocorrer"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "empfangen",
+    "group": 4,
+    "groupName": "Advanced Verbs 231–240",
+    "base": "empfangen",
+    "pastSimple": [
+      "empfing"
+    ],
+    "pastParticiple": [
+      "empfangen"
+    ],
+    "display": "empfangen → empfing → empfangen",
+    "translations": {
+      "en": "receive",
+      "fr": "recevoir",
+      "es": "recibir",
+      "it": "ricevere",
+      "nl": "ontvangen",
+      "pt": "receber"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "enthalten",
+    "group": 4,
+    "groupName": "Advanced Verbs 231–240",
+    "base": "enthalten",
+    "pastSimple": [
+      "enthielt"
+    ],
+    "pastParticiple": [
+      "enthalten"
+    ],
+    "display": "enthalten → enthielt → enthalten",
+    "translations": {
+      "en": "contain",
+      "fr": "contenir",
+      "es": "contener",
+      "it": "contenere",
+      "nl": "bevatten",
+      "pt": "conter"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "entkommen",
+    "group": 5,
+    "groupName": "Advanced Verbs 241–250",
+    "base": "entkommen",
+    "pastSimple": [
+      "entkam"
+    ],
+    "pastParticiple": [
+      "entkommen"
+    ],
+    "display": "entkommen → entkam → entkommen",
+    "translations": {
+      "en": "escape",
+      "fr": "échapper",
+      "es": "escapar",
+      "it": "sfuggire / scappare",
+      "nl": "ontkomen",
+      "pt": "escapar"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "entnehmen",
+    "group": 5,
+    "groupName": "Advanced Verbs 241–250",
+    "base": "entnehmen",
+    "pastSimple": [
+      "entnahm"
+    ],
+    "pastParticiple": [
+      "entnommen"
+    ],
+    "display": "entnehmen → entnahm → entnommen",
+    "translations": {
+      "en": "take from / infer",
+      "fr": "prélever / déduire",
+      "es": "extraer / deducir",
+      "it": "prelevare / dedurre",
+      "nl": "ontnemen / afleiden",
+      "pt": "retirar / deduzir"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "entscheiden",
+    "group": 5,
+    "groupName": "Advanced Verbs 241–250",
+    "base": "entscheiden",
+    "pastSimple": [
+      "entschied"
+    ],
+    "pastParticiple": [
+      "entschieden"
+    ],
+    "display": "entscheiden → entschied → entschieden",
+    "translations": {
+      "en": "decide",
+      "fr": "décider",
+      "es": "decidir",
+      "it": "decidere",
+      "nl": "beslissen",
+      "pt": "decidir"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "entstehen",
+    "group": 5,
+    "groupName": "Advanced Verbs 241–250",
+    "base": "entstehen",
+    "pastSimple": [
+      "entstand"
+    ],
+    "pastParticiple": [
+      "entstanden"
+    ],
+    "display": "entstehen → entstand → entstanden",
+    "translations": {
+      "en": "arise / originate",
+      "fr": "naître / apparaître",
+      "es": "surgir / originarse",
+      "it": "nascere / sorgere",
+      "nl": "ontstaan",
+      "pt": "surgir / originar-se"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "erfinden",
+    "group": 5,
+    "groupName": "Advanced Verbs 241–250",
+    "base": "erfinden",
+    "pastSimple": [
+      "erfand"
+    ],
+    "pastParticiple": [
+      "erfunden"
+    ],
+    "display": "erfinden → erfand → erfunden",
+    "translations": {
+      "en": "invent",
+      "fr": "inventer",
+      "es": "inventar",
+      "it": "inventare",
+      "nl": "uitvinden",
+      "pt": "inventar"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "erhalten",
+    "group": 5,
+    "groupName": "Advanced Verbs 241–250",
+    "base": "erhalten",
+    "pastSimple": [
+      "erhielt"
+    ],
+    "pastParticiple": [
+      "erhalten"
+    ],
+    "display": "erhalten → erhielt → erhalten",
+    "translations": {
+      "en": "receive / preserve",
+      "fr": "recevoir / préserver",
+      "es": "recibir / conservar",
+      "it": "ricevere / conservare",
+      "nl": "ontvangen / behouden",
+      "pt": "receber / conservar"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "erheben",
+    "group": 5,
+    "groupName": "Advanced Verbs 241–250",
+    "base": "erheben",
+    "pastSimple": [
+      "erhob"
+    ],
+    "pastParticiple": [
+      "erhoben"
+    ],
+    "display": "erheben → erhob → erhoben",
+    "translations": {
+      "en": "raise / collect",
+      "fr": "élever / percevoir",
+      "es": "elevar / recaudar",
+      "it": "sollevare / riscuotere",
+      "nl": "verheffen / innen",
+      "pt": "levantar / cobrar"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "erloeschen",
+    "group": 5,
+    "groupName": "Advanced Verbs 241–250",
+    "base": "erlöschen",
+    "pastSimple": [
+      "erlosch"
+    ],
+    "pastParticiple": [
+      "erloschen"
+    ],
+    "display": "erlöschen → erlosch → erloschen",
+    "translations": {
+      "en": "go out / expire",
+      "fr": "s'éteindre / expirer",
+      "es": "apagarse / expirar",
+      "it": "spegnersi / scadere",
+      "nl": "uitgaan / vervallen",
+      "pt": "apagar-se / expirar"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "erschrecken",
+    "group": 5,
+    "groupName": "Advanced Verbs 241–250",
+    "base": "erschrecken",
+    "pastSimple": [
+      "erschrak"
+    ],
+    "pastParticiple": [
+      "erschrocken"
+    ],
+    "display": "erschrecken → erschrak → erschrocken",
+    "translations": {
+      "en": "be frightened",
+      "fr": "s'effrayer",
+      "es": "asustarse",
+      "it": "spaventarsi",
+      "nl": "schrikken",
+      "pt": "assustar-se"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "erwerben",
+    "group": 5,
+    "groupName": "Advanced Verbs 241–250",
+    "base": "erwerben",
+    "pastSimple": [
+      "erwarb"
+    ],
+    "pastParticiple": [
+      "erworben"
+    ],
+    "display": "erwerben → erwarb → erworben",
+    "translations": {
+      "en": "acquire",
+      "fr": "acquérir",
+      "es": "adquirir",
+      "it": "acquisire",
+      "nl": "verwerven",
+      "pt": "adquirir"
+    },
+    "difficulty": 3
+  }
+]

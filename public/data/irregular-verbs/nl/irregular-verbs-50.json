@@ -1,0 +1,902 @@
+[
+  {
+    "id": "zijn",
+    "group": 1,
+    "groupName": "Essential Verbs",
+    "base": "zijn",
+    "pastSimple": ["was", "waren"],
+    "pastParticiple": ["geweest"],
+    "display": "zijn → was/waren → geweest",
+    "translations": {
+      "en": "be",
+      "fr": "être",
+      "es": "ser / estar",
+      "it": "essere",
+      "de": "sein",
+      "pt": "ser / estar"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "hebben",
+    "group": 1,
+    "groupName": "Essential Verbs",
+    "base": "hebben",
+    "pastSimple": ["had", "hadden"],
+    "pastParticiple": ["gehad"],
+    "display": "hebben → had/hadden → gehad",
+    "translations": {
+      "en": "have",
+      "fr": "avoir",
+      "es": "tener / haber",
+      "it": "avere",
+      "de": "haben",
+      "pt": "ter / haver"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "worden",
+    "group": 1,
+    "groupName": "Essential Verbs",
+    "base": "worden",
+    "pastSimple": ["werd", "werden"],
+    "pastParticiple": ["geworden"],
+    "display": "worden → werd/werden → geworden",
+    "translations": {
+      "en": "become",
+      "fr": "devenir",
+      "es": "volverse / convertirse en",
+      "it": "diventare",
+      "de": "werden",
+      "pt": "tornar-se / virar"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "gaan",
+    "group": 1,
+    "groupName": "Essential Verbs",
+    "base": "gaan",
+    "pastSimple": ["ging", "gingen"],
+    "pastParticiple": ["gegaan"],
+    "display": "gaan → ging/gingen → gegaan",
+    "translations": {
+      "en": "go",
+      "fr": "aller",
+      "es": "ir",
+      "it": "andare",
+      "de": "gehen",
+      "pt": "ir"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "komen",
+    "group": 1,
+    "groupName": "Essential Verbs",
+    "base": "komen",
+    "pastSimple": ["kwam", "kwamen"],
+    "pastParticiple": ["gekomen"],
+    "display": "komen → kwam/kwamen → gekomen",
+    "translations": {
+      "en": "come",
+      "fr": "venir",
+      "es": "venir",
+      "it": "venire",
+      "de": "kommen",
+      "pt": "vir"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "zien",
+    "group": 1,
+    "groupName": "Essential Verbs",
+    "base": "zien",
+    "pastSimple": ["zag", "zagen"],
+    "pastParticiple": ["gezien"],
+    "display": "zien → zag/zagen → gezien",
+    "translations": {
+      "en": "see",
+      "fr": "voir",
+      "es": "ver",
+      "it": "vedere",
+      "de": "sehen",
+      "pt": "ver"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "doen",
+    "group": 1,
+    "groupName": "Essential Verbs",
+    "base": "doen",
+    "pastSimple": ["deed", "deden"],
+    "pastParticiple": ["gedaan"],
+    "display": "doen → deed/deden → gedaan",
+    "translations": {
+      "en": "do",
+      "fr": "faire",
+      "es": "hacer",
+      "it": "fare",
+      "de": "tun / machen",
+      "pt": "fazer"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "geven",
+    "group": 1,
+    "groupName": "Essential Verbs",
+    "base": "geven",
+    "pastSimple": ["gaf", "gaven"],
+    "pastParticiple": ["gegeven"],
+    "display": "geven → gaf/gaven → gegeven",
+    "translations": {
+      "en": "give",
+      "fr": "donner",
+      "es": "dar",
+      "it": "dare",
+      "de": "geben",
+      "pt": "dar"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "nemen",
+    "group": 1,
+    "groupName": "Essential Verbs",
+    "base": "nemen",
+    "pastSimple": ["nam", "namen"],
+    "pastParticiple": ["genomen"],
+    "display": "nemen → nam/namen → genomen",
+    "translations": {
+      "en": "take",
+      "fr": "prendre",
+      "es": "tomar / coger",
+      "it": "prendere",
+      "de": "nehmen",
+      "pt": "tomar / pegar"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "weten",
+    "group": 1,
+    "groupName": "Essential Verbs",
+    "base": "weten",
+    "pastSimple": ["wist", "wisten"],
+    "pastParticiple": ["geweten"],
+    "display": "weten → wist/wisten → geweten",
+    "translations": {
+      "en": "know",
+      "fr": "savoir",
+      "es": "saber",
+      "it": "sapere",
+      "de": "wissen",
+      "pt": "saber"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "zeggen",
+    "group": 2,
+    "groupName": "Daily Verbs",
+    "base": "zeggen",
+    "pastSimple": ["zei", "zeiden"],
+    "pastParticiple": ["gezegd"],
+    "display": "zeggen → zei/zeiden → gezegd",
+    "translations": {
+      "en": "say",
+      "fr": "dire",
+      "es": "decir",
+      "it": "dire",
+      "de": "sagen",
+      "pt": "dizer"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "denken",
+    "group": 2,
+    "groupName": "Daily Verbs",
+    "base": "denken",
+    "pastSimple": ["dacht", "dachten"],
+    "pastParticiple": ["gedacht"],
+    "display": "denken → dacht/dachten → gedacht",
+    "translations": {
+      "en": "think",
+      "fr": "penser",
+      "es": "pensar",
+      "it": "pensare",
+      "de": "denken",
+      "pt": "pensar"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "vinden",
+    "group": 2,
+    "groupName": "Daily Verbs",
+    "base": "vinden",
+    "pastSimple": ["vond", "vonden"],
+    "pastParticiple": ["gevonden"],
+    "display": "vinden → vond/vonden → gevonden",
+    "translations": {
+      "en": "find",
+      "fr": "trouver",
+      "es": "encontrar",
+      "it": "trovare",
+      "de": "finden",
+      "pt": "encontrar"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "krijgen",
+    "group": 2,
+    "groupName": "Daily Verbs",
+    "base": "krijgen",
+    "pastSimple": ["kreeg", "kregen"],
+    "pastParticiple": ["gekregen"],
+    "display": "krijgen → kreeg/kregen → gekregen",
+    "translations": {
+      "en": "get / receive",
+      "fr": "recevoir / obtenir",
+      "es": "recibir / obtener",
+      "it": "ricevere / ottenere",
+      "de": "bekommen / erhalten",
+      "pt": "receber / obter"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "blijven",
+    "group": 2,
+    "groupName": "Daily Verbs",
+    "base": "blijven",
+    "pastSimple": ["bleef", "bleven"],
+    "pastParticiple": ["gebleven"],
+    "display": "blijven → bleef/bleven → gebleven",
+    "translations": {
+      "en": "stay / remain",
+      "fr": "rester",
+      "es": "quedarse / permanecer",
+      "it": "restare / rimanere",
+      "de": "bleiben",
+      "pt": "ficar / permanecer"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "laten",
+    "group": 2,
+    "groupName": "Daily Verbs",
+    "base": "laten",
+    "pastSimple": ["liet", "lieten"],
+    "pastParticiple": ["gelaten"],
+    "display": "laten → liet/lieten → gelaten",
+    "translations": {
+      "en": "let / leave",
+      "fr": "laisser",
+      "es": "dejar / permitir",
+      "it": "lasciare / permettere",
+      "de": "lassen",
+      "pt": "deixar / permitir"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "houden",
+    "group": 2,
+    "groupName": "Daily Verbs",
+    "base": "houden",
+    "pastSimple": ["hield", "hielden"],
+    "pastParticiple": ["gehouden"],
+    "display": "houden → hield/hielden → gehouden",
+    "translations": {
+      "en": "hold / keep",
+      "fr": "tenir / garder",
+      "es": "sostener / guardar",
+      "it": "tenere / conservare",
+      "de": "halten / behalten",
+      "pt": "segurar / guardar"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "staan",
+    "group": 2,
+    "groupName": "Daily Verbs",
+    "base": "staan",
+    "pastSimple": ["stond", "stonden"],
+    "pastParticiple": ["gestaan"],
+    "display": "staan → stond/stonden → gestaan",
+    "translations": {
+      "en": "stand",
+      "fr": "être debout",
+      "es": "estar de pie",
+      "it": "stare in piedi",
+      "de": "stehen",
+      "pt": "estar de pé"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "zitten",
+    "group": 2,
+    "groupName": "Daily Verbs",
+    "base": "zitten",
+    "pastSimple": ["zat", "zaten"],
+    "pastParticiple": ["gezeten"],
+    "display": "zitten → zat/zaten → gezeten",
+    "translations": {
+      "en": "sit",
+      "fr": "être assis",
+      "es": "estar sentado",
+      "it": "stare seduto",
+      "de": "sitzen",
+      "pt": "estar sentado"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "liggen",
+    "group": 2,
+    "groupName": "Daily Verbs",
+    "base": "liggen",
+    "pastSimple": ["lag", "lagen"],
+    "pastParticiple": ["gelegen"],
+    "display": "liggen → lag/lagen → gelegen",
+    "translations": {
+      "en": "lie / be located",
+      "fr": "être allongé / se trouver",
+      "es": "estar tumbado / estar situado",
+      "it": "stare sdraiato / trovarsi",
+      "de": "liegen",
+      "pt": "estar deitado / situar-se"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "lopen",
+    "group": 3,
+    "groupName": "Movement Verbs",
+    "base": "lopen",
+    "pastSimple": ["liep", "liepen"],
+    "pastParticiple": ["gelopen"],
+    "display": "lopen → liep/liepen → gelopen",
+    "translations": {
+      "en": "walk / run",
+      "fr": "marcher / courir",
+      "es": "andar / correr",
+      "it": "camminare / correre",
+      "de": "laufen / rennen",
+      "pt": "andar / correr"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "rijden",
+    "group": 3,
+    "groupName": "Movement Verbs",
+    "base": "rijden",
+    "pastSimple": ["reed", "reden"],
+    "pastParticiple": ["gereden"],
+    "display": "rijden → reed/reden → gereden",
+    "translations": {
+      "en": "drive / ride",
+      "fr": "conduire / aller en véhicule",
+      "es": "conducir / ir en vehículo",
+      "it": "guidare / andare in veicolo",
+      "de": "fahren / reiten",
+      "pt": "dirigir / ir de veículo"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "vallen",
+    "group": 3,
+    "groupName": "Movement Verbs",
+    "base": "vallen",
+    "pastSimple": ["viel", "vielen"],
+    "pastParticiple": ["gevallen"],
+    "display": "vallen → viel/vielen → gevallen",
+    "translations": {
+      "en": "fall",
+      "fr": "tomber",
+      "es": "caer",
+      "it": "cadere",
+      "de": "fallen",
+      "pt": "cair"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "vliegen",
+    "group": 3,
+    "groupName": "Movement Verbs",
+    "base": "vliegen",
+    "pastSimple": ["vloog", "vlogen"],
+    "pastParticiple": ["gevlogen"],
+    "display": "vliegen → vloog/vlogen → gevlogen",
+    "translations": {
+      "en": "fly",
+      "fr": "voler",
+      "es": "volar",
+      "it": "volare",
+      "de": "fliegen",
+      "pt": "voar"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "trekken",
+    "group": 3,
+    "groupName": "Movement Verbs",
+    "base": "trekken",
+    "pastSimple": ["trok", "trokken"],
+    "pastParticiple": ["getrokken"],
+    "display": "trekken → trok/trokken → getrokken",
+    "translations": {
+      "en": "pull / move",
+      "fr": "tirer / déménager",
+      "es": "tirar / mudarse",
+      "it": "tirare / trasferirsi",
+      "de": "ziehen",
+      "pt": "puxar / mudar-se"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "dragen",
+    "group": 3,
+    "groupName": "Movement Verbs",
+    "base": "dragen",
+    "pastSimple": ["droeg", "droegen"],
+    "pastParticiple": ["gedragen"],
+    "display": "dragen → droeg/droegen → gedragen",
+    "translations": {
+      "en": "carry / wear",
+      "fr": "porter",
+      "es": "llevar / vestir",
+      "it": "portare / indossare",
+      "de": "tragen",
+      "pt": "carregar / vestir"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "slaan",
+    "group": 3,
+    "groupName": "Movement Verbs",
+    "base": "slaan",
+    "pastSimple": ["sloeg", "sloegen"],
+    "pastParticiple": ["geslagen"],
+    "display": "slaan → sloeg/sloegen → geslagen",
+    "translations": {
+      "en": "hit / beat",
+      "fr": "frapper / battre",
+      "es": "golpear / vencer",
+      "it": "colpire / battere",
+      "de": "schlagen",
+      "pt": "bater / vencer"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "schieten",
+    "group": 3,
+    "groupName": "Movement Verbs",
+    "base": "schieten",
+    "pastSimple": ["schoot", "schoten"],
+    "pastParticiple": ["geschoten"],
+    "display": "schieten → schoot/schoten → geschoten",
+    "translations": {
+      "en": "shoot",
+      "fr": "tirer",
+      "es": "disparar",
+      "it": "sparare",
+      "de": "schießen",
+      "pt": "atirar"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "zingen",
+    "group": 3,
+    "groupName": "Movement Verbs",
+    "base": "zingen",
+    "pastSimple": ["zong", "zongen"],
+    "pastParticiple": ["gezongen"],
+    "display": "zingen → zong/zongen → gezongen",
+    "translations": {
+      "en": "sing",
+      "fr": "chanter",
+      "es": "cantar",
+      "it": "cantare",
+      "de": "singen",
+      "pt": "cantar"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "zwemmen",
+    "group": 3,
+    "groupName": "Movement Verbs",
+    "base": "zwemmen",
+    "pastSimple": ["zwom", "zwommen"],
+    "pastParticiple": ["gezwommen"],
+    "display": "zwemmen → zwom/zwommen → gezwommen",
+    "translations": {
+      "en": "swim",
+      "fr": "nager",
+      "es": "nadar",
+      "it": "nuotare",
+      "de": "schwimmen",
+      "pt": "nadar"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "eten",
+    "group": 4,
+    "groupName": "Daily Action Verbs",
+    "base": "eten",
+    "pastSimple": ["at", "aten"],
+    "pastParticiple": ["gegeten"],
+    "display": "eten → at/aten → gegeten",
+    "translations": {
+      "en": "eat",
+      "fr": "manger",
+      "es": "comer",
+      "it": "mangiare",
+      "de": "essen",
+      "pt": "comer"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "drinken",
+    "group": 4,
+    "groupName": "Daily Action Verbs",
+    "base": "drinken",
+    "pastSimple": ["dronk", "dronken"],
+    "pastParticiple": ["gedronken"],
+    "display": "drinken → dronk/dronken → gedronken",
+    "translations": {
+      "en": "drink",
+      "fr": "boire",
+      "es": "beber",
+      "it": "bere",
+      "de": "trinken",
+      "pt": "beber"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "slapen",
+    "group": 4,
+    "groupName": "Daily Action Verbs",
+    "base": "slapen",
+    "pastSimple": ["sliep", "sliepen"],
+    "pastParticiple": ["geslapen"],
+    "display": "slapen → sliep/sliepen → geslapen",
+    "translations": {
+      "en": "sleep",
+      "fr": "dormir",
+      "es": "dormir",
+      "it": "dormire",
+      "de": "schlafen",
+      "pt": "dormir"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "lezen",
+    "group": 4,
+    "groupName": "Daily Action Verbs",
+    "base": "lezen",
+    "pastSimple": ["las", "lazen"],
+    "pastParticiple": ["gelezen"],
+    "display": "lezen → las/lazen → gelezen",
+    "translations": {
+      "en": "read",
+      "fr": "lire",
+      "es": "leer",
+      "it": "leggere",
+      "de": "lesen",
+      "pt": "ler"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "schrijven",
+    "group": 4,
+    "groupName": "Daily Action Verbs",
+    "base": "schrijven",
+    "pastSimple": ["schreef", "schreven"],
+    "pastParticiple": ["geschreven"],
+    "display": "schrijven → schreef/schreven → geschreven",
+    "translations": {
+      "en": "write",
+      "fr": "écrire",
+      "es": "escribir",
+      "it": "scrivere",
+      "de": "schreiben",
+      "pt": "escrever"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "spreken",
+    "group": 4,
+    "groupName": "Daily Action Verbs",
+    "base": "spreken",
+    "pastSimple": ["sprak", "spraken"],
+    "pastParticiple": ["gesproken"],
+    "display": "spreken → sprak/spraken → gesproken",
+    "translations": {
+      "en": "speak",
+      "fr": "parler",
+      "es": "hablar",
+      "it": "parlare",
+      "de": "sprechen",
+      "pt": "falar"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "begrijpen",
+    "group": 4,
+    "groupName": "Daily Action Verbs",
+    "base": "begrijpen",
+    "pastSimple": ["begreep", "begrepen"],
+    "pastParticiple": ["begrepen"],
+    "display": "begrijpen → begreep/begrepen → begrepen",
+    "translations": {
+      "en": "understand",
+      "fr": "comprendre",
+      "es": "entender / comprender",
+      "it": "capire / comprendere",
+      "de": "verstehen",
+      "pt": "entender / compreender"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "vergeten",
+    "group": 4,
+    "groupName": "Daily Action Verbs",
+    "base": "vergeten",
+    "pastSimple": ["vergat", "vergaten"],
+    "pastParticiple": ["vergeten"],
+    "display": "vergeten → vergat/vergaten → vergeten",
+    "translations": {
+      "en": "forget",
+      "fr": "oublier",
+      "es": "olvidar",
+      "it": "dimenticare",
+      "de": "vergessen",
+      "pt": "esquecer"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "helpen",
+    "group": 4,
+    "groupName": "Daily Action Verbs",
+    "base": "helpen",
+    "pastSimple": ["hielp", "hielpen"],
+    "pastParticiple": ["geholpen"],
+    "display": "helpen → hielp/hielpen → geholpen",
+    "translations": {
+      "en": "help",
+      "fr": "aider",
+      "es": "ayudar",
+      "it": "aiutare",
+      "de": "helfen",
+      "pt": "ajudar"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "roepen",
+    "group": 4,
+    "groupName": "Daily Action Verbs",
+    "base": "roepen",
+    "pastSimple": ["riep", "riepen"],
+    "pastParticiple": ["geroepen"],
+    "display": "roepen → riep/riepen → geroepen",
+    "translations": {
+      "en": "call / shout",
+      "fr": "appeler / crier",
+      "es": "llamar / gritar",
+      "it": "chiamare / gridare",
+      "de": "rufen",
+      "pt": "chamar / gritar"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "beginnen",
+    "group": 5,
+    "groupName": "Extra Common Verbs",
+    "base": "beginnen",
+    "pastSimple": ["begon", "begonnen"],
+    "pastParticiple": ["begonnen"],
+    "display": "beginnen → begon/begonnen → begonnen",
+    "translations": {
+      "en": "begin",
+      "fr": "commencer",
+      "es": "empezar / comenzar",
+      "it": "cominciare / iniziare",
+      "de": "beginnen",
+      "pt": "começar"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "winnen",
+    "group": 5,
+    "groupName": "Extra Common Verbs",
+    "base": "winnen",
+    "pastSimple": ["won", "wonnen"],
+    "pastParticiple": ["gewonnen"],
+    "display": "winnen → won/wonnen → gewonnen",
+    "translations": {
+      "en": "win",
+      "fr": "gagner",
+      "es": "ganar",
+      "it": "vincere",
+      "de": "gewinnen",
+      "pt": "ganhar"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "verliezen",
+    "group": 5,
+    "groupName": "Extra Common Verbs",
+    "base": "verliezen",
+    "pastSimple": ["verloor", "verloren"],
+    "pastParticiple": ["verloren"],
+    "display": "verliezen → verloor/verloren → verloren",
+    "translations": {
+      "en": "lose",
+      "fr": "perdre",
+      "es": "perder",
+      "it": "perdere",
+      "de": "verlieren",
+      "pt": "perder"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "kiezen",
+    "group": 5,
+    "groupName": "Extra Common Verbs",
+    "base": "kiezen",
+    "pastSimple": ["koos", "kozen"],
+    "pastParticiple": ["gekozen"],
+    "display": "kiezen → koos/kozen → gekozen",
+    "translations": {
+      "en": "choose",
+      "fr": "choisir",
+      "es": "elegir / escoger",
+      "it": "scegliere",
+      "de": "wählen",
+      "pt": "escolher"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "kijken",
+    "group": 5,
+    "groupName": "Extra Common Verbs",
+    "base": "kijken",
+    "pastSimple": ["keek", "keken"],
+    "pastParticiple": ["gekeken"],
+    "display": "kijken → keek/keken → gekeken",
+    "translations": {
+      "en": "look / watch",
+      "fr": "regarder",
+      "es": "mirar / ver",
+      "it": "guardare",
+      "de": "schauen / ansehen",
+      "pt": "olhar / assistir"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "vragen",
+    "group": 5,
+    "groupName": "Extra Common Verbs",
+    "base": "vragen",
+    "pastSimple": ["vroeg", "vroegen"],
+    "pastParticiple": ["gevraagd"],
+    "display": "vragen → vroeg/vroegen → gevraagd",
+    "translations": {
+      "en": "ask",
+      "fr": "demander",
+      "es": "preguntar / pedir",
+      "it": "chiedere",
+      "de": "fragen",
+      "pt": "perguntar / pedir"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "kopen",
+    "group": 5,
+    "groupName": "Extra Common Verbs",
+    "base": "kopen",
+    "pastSimple": ["kocht", "kochten"],
+    "pastParticiple": ["gekocht"],
+    "display": "kopen → kocht/kochten → gekocht",
+    "translations": {
+      "en": "buy",
+      "fr": "acheter",
+      "es": "comprar",
+      "it": "comprare",
+      "de": "kaufen",
+      "pt": "comprar"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "zoeken",
+    "group": 5,
+    "groupName": "Extra Common Verbs",
+    "base": "zoeken",
+    "pastSimple": ["zocht", "zochten"],
+    "pastParticiple": ["gezocht"],
+    "display": "zoeken → zocht/zochten → gezocht",
+    "translations": {
+      "en": "search / look for",
+      "fr": "chercher",
+      "es": "buscar",
+      "it": "cercare",
+      "de": "suchen",
+      "pt": "procurar / buscar"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "brengen",
+    "group": 5,
+    "groupName": "Extra Common Verbs",
+    "base": "brengen",
+    "pastSimple": ["bracht", "brachten"],
+    "pastParticiple": ["gebracht"],
+    "display": "brengen → bracht/brachten → gebracht",
+    "translations": {
+      "en": "bring",
+      "fr": "apporter",
+      "es": "traer",
+      "it": "portare",
+      "de": "bringen",
+      "pt": "trazer"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "snijden",
+    "group": 5,
+    "groupName": "Extra Common Verbs",
+    "base": "snijden",
+    "pastSimple": ["sneed", "sneden"],
+    "pastParticiple": ["gesneden"],
+    "display": "snijden → sneed/sneden → gesneden",
+    "translations": {
+      "en": "cut",
+      "fr": "couper",
+      "es": "cortar",
+      "it": "tagliare",
+      "de": "schneiden",
+      "pt": "cortar"
+    },
+    "difficulty": 2
+  }
+]

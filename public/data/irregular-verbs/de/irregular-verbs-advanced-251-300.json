@@ -1,0 +1,1102 @@
+[
+  {
+    "id": "fortfahren",
+    "group": 1,
+    "groupName": "Advanced Verbs",
+    "base": "fortfahren",
+    "pastSimple": [
+      "fuhr fort"
+    ],
+    "pastParticiple": [
+      "fortgefahren"
+    ],
+    "display": "fortfahren → fuhr fort → fortgefahren",
+    "translations": {
+      "en": "continue / drive away",
+      "fr": "continuer / partir en voiture",
+      "es": "continuar / marcharse en vehículo",
+      "it": "continuare / partire in veicolo",
+      "nl": "doorgaan / wegrijden",
+      "pt": "continuar / ir embora de veículo"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "fortgehen",
+    "group": 1,
+    "groupName": "Advanced Verbs",
+    "base": "fortgehen",
+    "pastSimple": [
+      "ging fort"
+    ],
+    "pastParticiple": [
+      "fortgegangen"
+    ],
+    "display": "fortgehen → ging fort → fortgegangen",
+    "translations": {
+      "en": "go away",
+      "fr": "partir / s’en aller",
+      "es": "marcharse",
+      "it": "andarsene",
+      "nl": "weggaan",
+      "pt": "ir embora"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "fortlaufen",
+    "group": 1,
+    "groupName": "Advanced Verbs",
+    "base": "fortlaufen",
+    "pastSimple": [
+      "lief fort"
+    ],
+    "pastParticiple": [
+      "fortgelaufen"
+    ],
+    "display": "fortlaufen → lief fort → fortgelaufen",
+    "translations": {
+      "en": "run away",
+      "fr": "s’enfuir",
+      "es": "escaparse / salir corriendo",
+      "it": "scappare",
+      "nl": "wegrennen",
+      "pt": "fugir / sair correndo"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "fortnehmen",
+    "group": 1,
+    "groupName": "Advanced Verbs",
+    "base": "fortnehmen",
+    "pastSimple": [
+      "nahm fort"
+    ],
+    "pastParticiple": [
+      "fortgenommen"
+    ],
+    "display": "fortnehmen → nahm fort → fortgenommen",
+    "translations": {
+      "en": "take away",
+      "fr": "enlever / retirer",
+      "es": "quitar / llevarse",
+      "it": "portare via",
+      "nl": "wegnemen",
+      "pt": "tirar / levar embora"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "fortschreiten",
+    "group": 1,
+    "groupName": "Advanced Verbs",
+    "base": "fortschreiten",
+    "pastSimple": [
+      "schritt fort"
+    ],
+    "pastParticiple": [
+      "fortgeschritten"
+    ],
+    "display": "fortschreiten → schritt fort → fortgeschritten",
+    "translations": {
+      "en": "progress / advance",
+      "fr": "progresser / avancer",
+      "es": "progresar / avanzar",
+      "it": "progredire / avanzare",
+      "nl": "vorderen / vooruitgaan",
+      "pt": "progredir / avançar"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "freisprechen",
+    "group": 1,
+    "groupName": "Advanced Verbs",
+    "base": "freisprechen",
+    "pastSimple": [
+      "sprach frei"
+    ],
+    "pastParticiple": [
+      "freigesprochen"
+    ],
+    "display": "freisprechen → sprach frei → freigesprochen",
+    "translations": {
+      "en": "acquit",
+      "fr": "acquitter",
+      "es": "absolver",
+      "it": "assolvere",
+      "nl": "vrijspreken",
+      "pt": "absolver"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "misslingen",
+    "group": 1,
+    "groupName": "Advanced Verbs",
+    "base": "misslingen",
+    "pastSimple": [
+      "misslang"
+    ],
+    "pastParticiple": [
+      "misslungen"
+    ],
+    "display": "misslingen → misslang → misslungen",
+    "translations": {
+      "en": "fail / go wrong",
+      "fr": "échouer / rater",
+      "es": "fracasar / salir mal",
+      "it": "fallire / andare male",
+      "nl": "mislukken",
+      "pt": "falhar / correr mal"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "nachdenken",
+    "group": 1,
+    "groupName": "Advanced Verbs",
+    "base": "nachdenken",
+    "pastSimple": [
+      "dachte nach"
+    ],
+    "pastParticiple": [
+      "nachgedacht"
+    ],
+    "display": "nachdenken → dachte nach → nachgedacht",
+    "translations": {
+      "en": "think / reflect",
+      "fr": "réfléchir",
+      "es": "reflexionar",
+      "it": "riflettere",
+      "nl": "nadenken",
+      "pt": "refletir"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "nachgeben",
+    "group": 1,
+    "groupName": "Advanced Verbs",
+    "base": "nachgeben",
+    "pastSimple": [
+      "gab nach"
+    ],
+    "pastParticiple": [
+      "nachgegeben"
+    ],
+    "display": "nachgeben → gab nach → nachgegeben",
+    "translations": {
+      "en": "give in / yield",
+      "fr": "céder",
+      "es": "ceder",
+      "it": "cedere",
+      "nl": "toegeven",
+      "pt": "ceder"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "nachkommen",
+    "group": 1,
+    "groupName": "Advanced Verbs",
+    "base": "nachkommen",
+    "pastSimple": [
+      "kam nach"
+    ],
+    "pastParticiple": [
+      "nachgekommen"
+    ],
+    "display": "nachkommen → kam nach → nachgekommen",
+    "translations": {
+      "en": "comply / follow",
+      "fr": "se conformer / suivre",
+      "es": "cumplir / seguir",
+      "it": "adempiere / seguire",
+      "nl": "nakomen / volgen",
+      "pt": "cumprir / seguir"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "nachlassen",
+    "group": 2,
+    "groupName": "Advanced Verbs",
+    "base": "nachlassen",
+    "pastSimple": [
+      "ließ nach"
+    ],
+    "pastParticiple": [
+      "nachgelassen"
+    ],
+    "display": "nachlassen → ließ nach → nachgelassen",
+    "translations": {
+      "en": "decrease / ease off",
+      "fr": "diminuer / faiblir",
+      "es": "disminuir / aflojar",
+      "it": "diminuire / calare",
+      "nl": "afnemen / verslappen",
+      "pt": "diminuir / abrandar"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "niederschlagen",
+    "group": 2,
+    "groupName": "Advanced Verbs",
+    "base": "niederschlagen",
+    "pastSimple": [
+      "schlug nieder"
+    ],
+    "pastParticiple": [
+      "niedergeschlagen"
+    ],
+    "display": "niederschlagen → schlug nieder → niedergeschlagen",
+    "translations": {
+      "en": "knock down / suppress",
+      "fr": "abattre / réprimer",
+      "es": "derribar / reprimir",
+      "it": "abbattere / reprimere",
+      "nl": "neerslaan / onderdrukken",
+      "pt": "derrubar / reprimir"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "teilnehmen",
+    "group": 2,
+    "groupName": "Advanced Verbs",
+    "base": "teilnehmen",
+    "pastSimple": [
+      "nahm teil"
+    ],
+    "pastParticiple": [
+      "teilgenommen"
+    ],
+    "display": "teilnehmen → nahm teil → teilgenommen",
+    "translations": {
+      "en": "take part",
+      "fr": "participer",
+      "es": "participar",
+      "it": "partecipare",
+      "nl": "deelnemen",
+      "pt": "participar"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "ueberbieten",
+    "group": 2,
+    "groupName": "Advanced Verbs",
+    "base": "überbieten",
+    "pastSimple": [
+      "überbot"
+    ],
+    "pastParticiple": [
+      "überboten"
+    ],
+    "display": "überbieten → überbot → überboten",
+    "translations": {
+      "en": "outbid / surpass",
+      "fr": "surenchérir / surpasser",
+      "es": "superar / pujar más",
+      "it": "superare / fare un’offerta maggiore",
+      "nl": "overbieden / overtreffen",
+      "pt": "superar / cobrir oferta"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "ueberfallen",
+    "group": 2,
+    "groupName": "Advanced Verbs",
+    "base": "überfallen",
+    "pastSimple": [
+      "überfiel"
+    ],
+    "pastParticiple": [
+      "überfallen"
+    ],
+    "display": "überfallen → überfiel → überfallen",
+    "translations": {
+      "en": "attack / raid",
+      "fr": "attaquer / agresser",
+      "es": "atacar / asaltar",
+      "it": "attaccare / assalire",
+      "nl": "overvallen",
+      "pt": "atacar / assaltar"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "uebergehen",
+    "group": 2,
+    "groupName": "Advanced Verbs",
+    "base": "übergehen",
+    "pastSimple": [
+      "überging"
+    ],
+    "pastParticiple": [
+      "übergangen"
+    ],
+    "display": "übergehen → überging → übergangen",
+    "translations": {
+      "en": "skip / ignore",
+      "fr": "omettre / ignorer",
+      "es": "pasar por alto / ignorar",
+      "it": "saltare / ignorare",
+      "nl": "overslaan / negeren",
+      "pt": "ignorar / passar por cima"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "uebernehmen",
+    "group": 2,
+    "groupName": "Advanced Verbs",
+    "base": "übernehmen",
+    "pastSimple": [
+      "übernahm"
+    ],
+    "pastParticiple": [
+      "übernommen"
+    ],
+    "display": "übernehmen → übernahm → übernommen",
+    "translations": {
+      "en": "take over",
+      "fr": "reprendre / assumer",
+      "es": "asumir / hacerse cargo",
+      "it": "assumere / rilevare",
+      "nl": "overnemen",
+      "pt": "assumir / tomar conta"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "uebersehen",
+    "group": 2,
+    "groupName": "Advanced Verbs",
+    "base": "übersehen",
+    "pastSimple": [
+      "übersah"
+    ],
+    "pastParticiple": [
+      "übersehen"
+    ],
+    "display": "übersehen → übersah → übersehen",
+    "translations": {
+      "en": "overlook / miss",
+      "fr": "ne pas voir / négliger",
+      "es": "pasar por alto",
+      "it": "non notare / trascurare",
+      "nl": "over het hoofd zien",
+      "pt": "não reparar / ignorar"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "ueberspringen",
+    "group": 2,
+    "groupName": "Advanced Verbs",
+    "base": "überspringen",
+    "pastSimple": [
+      "übersprang"
+    ],
+    "pastParticiple": [
+      "übersprungen"
+    ],
+    "display": "überspringen → übersprang → übersprungen",
+    "translations": {
+      "en": "skip / jump over",
+      "fr": "sauter / passer",
+      "es": "saltar / omitir",
+      "it": "saltare",
+      "nl": "overslaan / over springen",
+      "pt": "saltar / pular"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "uebertreffen",
+    "group": 2,
+    "groupName": "Advanced Verbs",
+    "base": "übertreffen",
+    "pastSimple": [
+      "übertraf"
+    ],
+    "pastParticiple": [
+      "übertroffen"
+    ],
+    "display": "übertreffen → übertraf → übertroffen",
+    "translations": {
+      "en": "surpass",
+      "fr": "surpasser",
+      "es": "superar",
+      "it": "superare",
+      "nl": "overtreffen",
+      "pt": "superar"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "ueberweisen",
+    "group": 3,
+    "groupName": "Advanced Verbs",
+    "base": "überweisen",
+    "pastSimple": [
+      "überwies"
+    ],
+    "pastParticiple": [
+      "überwiesen"
+    ],
+    "display": "überweisen → überwies → überwiesen",
+    "translations": {
+      "en": "transfer money",
+      "fr": "virer de l’argent",
+      "es": "transferir dinero",
+      "it": "bonificare / trasferire denaro",
+      "nl": "overmaken",
+      "pt": "transferir dinheiro"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "ueberwinden",
+    "group": 3,
+    "groupName": "Advanced Verbs",
+    "base": "überwinden",
+    "pastSimple": [
+      "überwand"
+    ],
+    "pastParticiple": [
+      "überwunden"
+    ],
+    "display": "überwinden → überwand → überwunden",
+    "translations": {
+      "en": "overcome",
+      "fr": "surmonter",
+      "es": "superar",
+      "it": "superare",
+      "nl": "overwinnen",
+      "pt": "superar"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "umsteigen",
+    "group": 3,
+    "groupName": "Advanced Verbs",
+    "base": "umsteigen",
+    "pastSimple": [
+      "stieg um"
+    ],
+    "pastParticiple": [
+      "umgestiegen"
+    ],
+    "display": "umsteigen → stieg um → umgestiegen",
+    "translations": {
+      "en": "change vehicles",
+      "fr": "changer de transport",
+      "es": "hacer transbordo",
+      "it": "cambiare mezzo",
+      "nl": "overstappen",
+      "pt": "fazer baldeação / trocar"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "umziehen",
+    "group": 3,
+    "groupName": "Advanced Verbs",
+    "base": "umziehen",
+    "pastSimple": [
+      "zog um"
+    ],
+    "pastParticiple": [
+      "umgezogen"
+    ],
+    "display": "umziehen → zog um → umgezogen",
+    "translations": {
+      "en": "move house / change clothes",
+      "fr": "déménager / se changer",
+      "es": "mudarse / cambiarse",
+      "it": "traslocare / cambiarsi",
+      "nl": "verhuizen / omkleden",
+      "pt": "mudar de casa / trocar de roupa"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "unterbrechen",
+    "group": 3,
+    "groupName": "Advanced Verbs",
+    "base": "unterbrechen",
+    "pastSimple": [
+      "unterbrach"
+    ],
+    "pastParticiple": [
+      "unterbrochen"
+    ],
+    "display": "unterbrechen → unterbrach → unterbrochen",
+    "translations": {
+      "en": "interrupt",
+      "fr": "interrompre",
+      "es": "interrumpir",
+      "it": "interrompere",
+      "nl": "onderbreken",
+      "pt": "interromper"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "untergehen",
+    "group": 3,
+    "groupName": "Advanced Verbs",
+    "base": "untergehen",
+    "pastSimple": [
+      "ging unter"
+    ],
+    "pastParticiple": [
+      "untergegangen"
+    ],
+    "display": "untergehen → ging unter → untergegangen",
+    "translations": {
+      "en": "sink / go down",
+      "fr": "sombrer / se coucher",
+      "es": "hundirse / ponerse",
+      "it": "affondare / tramontare",
+      "nl": "ondergaan / zinken",
+      "pt": "afundar / pôr-se"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "unterhalten",
+    "group": 3,
+    "groupName": "Advanced Verbs",
+    "base": "unterhalten",
+    "pastSimple": [
+      "unterhielt"
+    ],
+    "pastParticiple": [
+      "unterhalten"
+    ],
+    "display": "unterhalten → unterhielt → unterhalten",
+    "translations": {
+      "en": "entertain / converse",
+      "fr": "divertir / converser",
+      "es": "entretener / conversar",
+      "it": "intrattenere / conversare",
+      "nl": "vermaken / onderhouden",
+      "pt": "entreter / conversar"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "unterscheiden",
+    "group": 3,
+    "groupName": "Advanced Verbs",
+    "base": "unterscheiden",
+    "pastSimple": [
+      "unterschied"
+    ],
+    "pastParticiple": [
+      "unterschieden"
+    ],
+    "display": "unterscheiden → unterschied → unterschieden",
+    "translations": {
+      "en": "distinguish",
+      "fr": "distinguer",
+      "es": "distinguir",
+      "it": "distinguere",
+      "nl": "onderscheiden",
+      "pt": "distinguir"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "unterstreichen",
+    "group": 3,
+    "groupName": "Advanced Verbs",
+    "base": "unterstreichen",
+    "pastSimple": [
+      "unterstrich"
+    ],
+    "pastParticiple": [
+      "unterstrichen"
+    ],
+    "display": "unterstreichen → unterstrich → unterstrichen",
+    "translations": {
+      "en": "underline / emphasize",
+      "fr": "souligner",
+      "es": "subrayar",
+      "it": "sottolineare",
+      "nl": "onderstrepen",
+      "pt": "sublinhar"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "unternehmen",
+    "group": 3,
+    "groupName": "Advanced Verbs",
+    "base": "unternehmen",
+    "pastSimple": [
+      "unternahm"
+    ],
+    "pastParticiple": [
+      "unternommen"
+    ],
+    "display": "unternehmen → unternahm → unternommen",
+    "translations": {
+      "en": "undertake / do",
+      "fr": "entreprendre",
+      "es": "emprender / hacer",
+      "it": "intraprendere",
+      "nl": "ondernemen",
+      "pt": "empreender / fazer"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "unterziehen",
+    "group": 4,
+    "groupName": "Advanced Verbs",
+    "base": "unterziehen",
+    "pastSimple": [
+      "unterzog"
+    ],
+    "pastParticiple": [
+      "unterzogen"
+    ],
+    "display": "unterziehen → unterzog → unterzogen",
+    "translations": {
+      "en": "subject to / undergo",
+      "fr": "soumettre / subir",
+      "es": "someter / someterse",
+      "it": "sottoporre / sottoporsi",
+      "nl": "onderwerpen / ondergaan",
+      "pt": "submeter / submeter-se"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "verbieten",
+    "group": 4,
+    "groupName": "Advanced Verbs",
+    "base": "verbieten",
+    "pastSimple": [
+      "verbot"
+    ],
+    "pastParticiple": [
+      "verboten"
+    ],
+    "display": "verbieten → verbot → verboten",
+    "translations": {
+      "en": "forbid",
+      "fr": "interdire",
+      "es": "prohibir",
+      "it": "vietare",
+      "nl": "verbieden",
+      "pt": "proibir"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "verbleiben",
+    "group": 4,
+    "groupName": "Advanced Verbs",
+    "base": "verbleiben",
+    "pastSimple": [
+      "verblieb"
+    ],
+    "pastParticiple": [
+      "verblieben"
+    ],
+    "display": "verbleiben → verblieb → verblieben",
+    "translations": {
+      "en": "remain",
+      "fr": "rester",
+      "es": "permanecer",
+      "it": "rimanere",
+      "nl": "overblijven / blijven",
+      "pt": "permanecer"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "verbrennen",
+    "group": 4,
+    "groupName": "Advanced Verbs",
+    "base": "verbrennen",
+    "pastSimple": [
+      "verbrannte"
+    ],
+    "pastParticiple": [
+      "verbrannt"
+    ],
+    "display": "verbrennen → verbrannte → verbrannt",
+    "translations": {
+      "en": "burn",
+      "fr": "brûler",
+      "es": "quemar / arder",
+      "it": "bruciare",
+      "nl": "verbranden",
+      "pt": "queimar / arder"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "verbringen",
+    "group": 4,
+    "groupName": "Advanced Verbs",
+    "base": "verbringen",
+    "pastSimple": [
+      "verbrachte"
+    ],
+    "pastParticiple": [
+      "verbracht"
+    ],
+    "display": "verbringen → verbrachte → verbracht",
+    "translations": {
+      "en": "spend time",
+      "fr": "passer du temps",
+      "es": "pasar tiempo",
+      "it": "passare tempo",
+      "nl": "doorbrengen",
+      "pt": "passar tempo"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "verderben",
+    "group": 4,
+    "groupName": "Advanced Verbs",
+    "base": "verderben",
+    "pastSimple": [
+      "verdarb"
+    ],
+    "pastParticiple": [
+      "verdorben"
+    ],
+    "display": "verderben → verdarb → verdorben",
+    "translations": {
+      "en": "spoil / ruin",
+      "fr": "gâcher / pourrir",
+      "es": "estropear / echar a perder",
+      "it": "rovinare / andare a male",
+      "nl": "bederven",
+      "pt": "estragar"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "verdriessen",
+    "group": 4,
+    "groupName": "Advanced Verbs",
+    "base": "verdrießen",
+    "pastSimple": [
+      "verdross"
+    ],
+    "pastParticiple": [
+      "verdrossen"
+    ],
+    "display": "verdrießen → verdross → verdrossen",
+    "translations": {
+      "en": "annoy / vex",
+      "fr": "contrarier / fâcher",
+      "es": "molestar / fastidiar",
+      "it": "infastidire",
+      "nl": "verdrieten / ergeren",
+      "pt": "aborrecer / incomodar"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "vergessen",
+    "group": 4,
+    "groupName": "Advanced Verbs",
+    "base": "vergessen",
+    "pastSimple": [
+      "vergaß"
+    ],
+    "pastParticiple": [
+      "vergessen"
+    ],
+    "display": "vergessen → vergaß → vergessen",
+    "translations": {
+      "en": "forget",
+      "fr": "oublier",
+      "es": "olvidar",
+      "it": "dimenticare",
+      "nl": "vergeten",
+      "pt": "esquecer"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "vergleichen",
+    "group": 4,
+    "groupName": "Advanced Verbs",
+    "base": "vergleichen",
+    "pastSimple": [
+      "verglich"
+    ],
+    "pastParticiple": [
+      "verglichen"
+    ],
+    "display": "vergleichen → verglich → verglichen",
+    "translations": {
+      "en": "compare",
+      "fr": "comparer",
+      "es": "comparar",
+      "it": "confrontare / comparare",
+      "nl": "vergelijken",
+      "pt": "comparar"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "verhalten",
+    "group": 4,
+    "groupName": "Advanced Verbs",
+    "base": "verhalten",
+    "pastSimple": [
+      "verhielt"
+    ],
+    "pastParticiple": [
+      "verhalten"
+    ],
+    "display": "verhalten → verhielt → verhalten",
+    "translations": {
+      "en": "behave",
+      "fr": "se comporter",
+      "es": "comportarse",
+      "it": "comportarsi",
+      "nl": "zich gedragen",
+      "pt": "comportar-se"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "verlassen",
+    "group": 5,
+    "groupName": "Advanced Verbs",
+    "base": "verlassen",
+    "pastSimple": [
+      "verließ"
+    ],
+    "pastParticiple": [
+      "verlassen"
+    ],
+    "display": "verlassen → verließ → verlassen",
+    "translations": {
+      "en": "leave / abandon",
+      "fr": "quitter / abandonner",
+      "es": "dejar / abandonar",
+      "it": "lasciare / abbandonare",
+      "nl": "verlaten",
+      "pt": "deixar / abandonar"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "verlaufen",
+    "group": 5,
+    "groupName": "Advanced Verbs",
+    "base": "verlaufen",
+    "pastSimple": [
+      "verlief"
+    ],
+    "pastParticiple": [
+      "verlaufen"
+    ],
+    "display": "verlaufen → verlief → verlaufen",
+    "translations": {
+      "en": "proceed / get lost",
+      "fr": "se dérouler / se perdre",
+      "es": "desarrollarse / perderse",
+      "it": "svolgersi / perdersi",
+      "nl": "verlopen / verdwalen",
+      "pt": "decorrer / perder-se"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "verleihen",
+    "group": 5,
+    "groupName": "Advanced Verbs",
+    "base": "verleihen",
+    "pastSimple": [
+      "verlieh"
+    ],
+    "pastParticiple": [
+      "verliehen"
+    ],
+    "display": "verleihen → verlieh → verliehen",
+    "translations": {
+      "en": "lend / award",
+      "fr": "prêter / décerner",
+      "es": "prestar / conceder",
+      "it": "prestare / conferire",
+      "nl": "uitlenen / toekennen",
+      "pt": "emprestar / conceder"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "vermeiden",
+    "group": 5,
+    "groupName": "Advanced Verbs",
+    "base": "vermeiden",
+    "pastSimple": [
+      "vermied"
+    ],
+    "pastParticiple": [
+      "vermieden"
+    ],
+    "display": "vermeiden → vermied → vermieden",
+    "translations": {
+      "en": "avoid",
+      "fr": "éviter",
+      "es": "evitar",
+      "it": "evitare",
+      "nl": "vermijden",
+      "pt": "evitar"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "verschieben",
+    "group": 5,
+    "groupName": "Advanced Verbs",
+    "base": "verschieben",
+    "pastSimple": [
+      "verschob"
+    ],
+    "pastParticiple": [
+      "verschoben"
+    ],
+    "display": "verschieben → verschob → verschoben",
+    "translations": {
+      "en": "postpone / move",
+      "fr": "reporter / déplacer",
+      "es": "aplazar / mover",
+      "it": "rimandare / spostare",
+      "nl": "uitstellen / verschuiven",
+      "pt": "adiar / mover"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "verschwinden",
+    "group": 5,
+    "groupName": "Advanced Verbs",
+    "base": "verschwinden",
+    "pastSimple": [
+      "verschwand"
+    ],
+    "pastParticiple": [
+      "verschwunden"
+    ],
+    "display": "verschwinden → verschwand → verschwunden",
+    "translations": {
+      "en": "disappear",
+      "fr": "disparaître",
+      "es": "desaparecer",
+      "it": "sparire",
+      "nl": "verdwijnen",
+      "pt": "desaparecer"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "versprechen",
+    "group": 5,
+    "groupName": "Advanced Verbs",
+    "base": "versprechen",
+    "pastSimple": [
+      "versprach"
+    ],
+    "pastParticiple": [
+      "versprochen"
+    ],
+    "display": "versprechen → versprach → versprochen",
+    "translations": {
+      "en": "promise",
+      "fr": "promettre",
+      "es": "prometer",
+      "it": "promettere",
+      "nl": "beloven",
+      "pt": "prometer"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "verstehen",
+    "group": 5,
+    "groupName": "Advanced Verbs",
+    "base": "verstehen",
+    "pastSimple": [
+      "verstand"
+    ],
+    "pastParticiple": [
+      "verstanden"
+    ],
+    "display": "verstehen → verstand → verstanden",
+    "translations": {
+      "en": "understand",
+      "fr": "comprendre",
+      "es": "entender / comprender",
+      "it": "capire / comprendere",
+      "nl": "verstaan / begrijpen",
+      "pt": "entender / compreender"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "vertragen",
+    "group": 5,
+    "groupName": "Advanced Verbs",
+    "base": "vertragen",
+    "pastSimple": [
+      "vertrug"
+    ],
+    "pastParticiple": [
+      "vertragen"
+    ],
+    "display": "vertragen → vertrug → vertragen",
+    "translations": {
+      "en": "tolerate / get along",
+      "fr": "supporter / s’entendre",
+      "es": "tolerar / llevarse bien",
+      "it": "sopportare / andare d’accordo",
+      "nl": "verdragen / met elkaar opschieten",
+      "pt": "tolerar / dar-se bem"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "verzeihen",
+    "group": 5,
+    "groupName": "Advanced Verbs",
+    "base": "verzeihen",
+    "pastSimple": [
+      "verzieh"
+    ],
+    "pastParticiple": [
+      "verziehen"
+    ],
+    "display": "verzeihen → verzieh → verziehen",
+    "translations": {
+      "en": "forgive",
+      "fr": "pardonner",
+      "es": "perdonar",
+      "it": "perdonare",
+      "nl": "vergeven",
+      "pt": "perdoar"
+    },
+    "difficulty": 3
+  }
+]

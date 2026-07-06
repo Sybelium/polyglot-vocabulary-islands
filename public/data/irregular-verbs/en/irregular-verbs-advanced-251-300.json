@@ -1,0 +1,1157 @@
+[
+  {
+    "id": "outfly",
+    "group": 1,
+    "groupName": "Advanced Verbs 1",
+    "base": "outfly",
+    "pastSimple": [
+      "outflew"
+    ],
+    "pastParticiple": [
+      "outflown"
+    ],
+    "display": "outfly → outflew → outflown",
+    "translations": {
+      "en": "fly faster or farther than",
+      "fr": "voler plus vite/loin que",
+      "es": "volar más rápido/lejos que",
+      "it": "volare più veloce/lontano di",
+      "de": "schneller/weiter fliegen als",
+      "nl": "sneller/verder vliegen dan",
+      "pt": "voar mais rápido/longe que"
+    },
+    "difficulty": 4
+  },
+  {
+    "id": "outgrow",
+    "group": 1,
+    "groupName": "Advanced Verbs 1",
+    "base": "outgrow",
+    "pastSimple": [
+      "outgrew"
+    ],
+    "pastParticiple": [
+      "outgrown"
+    ],
+    "display": "outgrow → outgrew → outgrown",
+    "translations": {
+      "en": "grow too big for / grow out of",
+      "fr": "devenir trop grand pour",
+      "es": "quedarle pequeño",
+      "it": "diventare troppo grande per",
+      "de": "herauswachsen aus",
+      "nl": "ontgroeien",
+      "pt": "deixar de caber em"
+    },
+    "difficulty": 4
+  },
+  {
+    "id": "outleap",
+    "group": 1,
+    "groupName": "Advanced Verbs 1",
+    "base": "outleap",
+    "pastSimple": [
+      "outleaped",
+      "outleapt"
+    ],
+    "pastParticiple": [
+      "outleaped",
+      "outleapt"
+    ],
+    "display": "outleap → outleaped/outleapt → outleaped/outleapt",
+    "translations": {
+      "en": "leap farther than",
+      "fr": "sauter plus loin que",
+      "es": "saltar más lejos que",
+      "it": "saltare più lontano di",
+      "de": "weiter springen als",
+      "nl": "verder springen dan",
+      "pt": "saltar mais longe que"
+    },
+    "difficulty": 4
+  },
+  {
+    "id": "outride",
+    "group": 1,
+    "groupName": "Advanced Verbs 1",
+    "base": "outride",
+    "pastSimple": [
+      "outrode"
+    ],
+    "pastParticiple": [
+      "outridden"
+    ],
+    "display": "outride → outrode → outridden",
+    "translations": {
+      "en": "ride better or faster than",
+      "fr": "monter plus vite que",
+      "es": "cabalgar mejor que",
+      "it": "cavalcare meglio di",
+      "de": "besser/schneller reiten als",
+      "nl": "beter/sneller rijden dan",
+      "pt": "cavalgar melhor que"
+    },
+    "difficulty": 4
+  },
+  {
+    "id": "outrun",
+    "group": 1,
+    "groupName": "Advanced Verbs 1",
+    "base": "outrun",
+    "pastSimple": [
+      "outran"
+    ],
+    "pastParticiple": [
+      "outrun"
+    ],
+    "display": "outrun → outran → outrun",
+    "translations": {
+      "en": "run faster than",
+      "fr": "courir plus vite que",
+      "es": "correr más rápido que",
+      "it": "correre più veloce di",
+      "de": "schneller laufen als",
+      "nl": "sneller lopen dan",
+      "pt": "correr mais rápido que"
+    },
+    "difficulty": 4
+  },
+  {
+    "id": "outsell",
+    "group": 1,
+    "groupName": "Advanced Verbs 1",
+    "base": "outsell",
+    "pastSimple": [
+      "outsold"
+    ],
+    "pastParticiple": [
+      "outsold"
+    ],
+    "display": "outsell → outsold → outsold",
+    "translations": {
+      "en": "sell more than",
+      "fr": "vendre plus que",
+      "es": "vender más que",
+      "it": "vendere più di",
+      "de": "mehr verkaufen als",
+      "nl": "meer verkopen dan",
+      "pt": "vender mais que"
+    },
+    "difficulty": 4
+  },
+  {
+    "id": "outshine",
+    "group": 1,
+    "groupName": "Advanced Verbs 1",
+    "base": "outshine",
+    "pastSimple": [
+      "outshone"
+    ],
+    "pastParticiple": [
+      "outshone"
+    ],
+    "display": "outshine → outshone → outshone",
+    "translations": {
+      "en": "shine more than / surpass",
+      "fr": "éclipser",
+      "es": "eclipsar / superar",
+      "it": "eclissare",
+      "de": "überstrahlen",
+      "nl": "overtreffen",
+      "pt": "ofuscar / superar"
+    },
+    "difficulty": 4
+  },
+  {
+    "id": "outshoot",
+    "group": 1,
+    "groupName": "Advanced Verbs 1",
+    "base": "outshoot",
+    "pastSimple": [
+      "outshot"
+    ],
+    "pastParticiple": [
+      "outshot"
+    ],
+    "display": "outshoot → outshot → outshot",
+    "translations": {
+      "en": "shoot better than",
+      "fr": "tirer mieux que",
+      "es": "disparar mejor que",
+      "it": "tirare meglio di",
+      "de": "besser schießen als",
+      "nl": "beter schieten dan",
+      "pt": "atirar melhor que"
+    },
+    "difficulty": 4
+  },
+  {
+    "id": "outsing",
+    "group": 1,
+    "groupName": "Advanced Verbs 1",
+    "base": "outsing",
+    "pastSimple": [
+      "outsang"
+    ],
+    "pastParticiple": [
+      "outsung"
+    ],
+    "display": "outsing → outsang → outsung",
+    "translations": {
+      "en": "sing better than",
+      "fr": "chanter mieux que",
+      "es": "cantar mejor que",
+      "it": "cantare meglio di",
+      "de": "besser singen als",
+      "nl": "beter zingen dan",
+      "pt": "cantar melhor que"
+    },
+    "difficulty": 4
+  },
+  {
+    "id": "outsit",
+    "group": 1,
+    "groupName": "Advanced Verbs 1",
+    "base": "outsit",
+    "pastSimple": [
+      "outsat"
+    ],
+    "pastParticiple": [
+      "outsat"
+    ],
+    "display": "outsit → outsat → outsat",
+    "translations": {
+      "en": "sit longer than",
+      "fr": "rester assis plus longtemps que",
+      "es": "sentarse más tiempo que",
+      "it": "restare seduto più a lungo di",
+      "de": "länger sitzen als",
+      "nl": "langer zitten dan",
+      "pt": "ficar sentado mais tempo que"
+    },
+    "difficulty": 4
+  },
+  {
+    "id": "outspend",
+    "group": 2,
+    "groupName": "Advanced Verbs 2",
+    "base": "outspend",
+    "pastSimple": [
+      "outspent"
+    ],
+    "pastParticiple": [
+      "outspent"
+    ],
+    "display": "outspend → outspent → outspent",
+    "translations": {
+      "en": "spend more than",
+      "fr": "dépenser plus que",
+      "es": "gastar más que",
+      "it": "spendere più di",
+      "de": "mehr ausgeben als",
+      "nl": "meer uitgeven dan",
+      "pt": "gastar mais que"
+    },
+    "difficulty": 4
+  },
+  {
+    "id": "outswear",
+    "group": 2,
+    "groupName": "Advanced Verbs 2",
+    "base": "outswear",
+    "pastSimple": [
+      "outswore"
+    ],
+    "pastParticiple": [
+      "outsworn"
+    ],
+    "display": "outswear → outswore → outsworn",
+    "translations": {
+      "en": "swear more than",
+      "fr": "jurer plus que",
+      "es": "jurar más que",
+      "it": "giurare/imprecare più di",
+      "de": "mehr schwören/fluchen als",
+      "nl": "meer vloeken dan",
+      "pt": "jurar mais que"
+    },
+    "difficulty": 4
+  },
+  {
+    "id": "outswim",
+    "group": 2,
+    "groupName": "Advanced Verbs 2",
+    "base": "outswim",
+    "pastSimple": [
+      "outswam"
+    ],
+    "pastParticiple": [
+      "outswum"
+    ],
+    "display": "outswim → outswam → outswum",
+    "translations": {
+      "en": "swim faster than",
+      "fr": "nager plus vite que",
+      "es": "nadar más rápido que",
+      "it": "nuotare più veloce di",
+      "de": "schneller schwimmen als",
+      "nl": "sneller zwemmen dan",
+      "pt": "nadar mais rápido que"
+    },
+    "difficulty": 4
+  },
+  {
+    "id": "outthink",
+    "group": 2,
+    "groupName": "Advanced Verbs 2",
+    "base": "outthink",
+    "pastSimple": [
+      "outthought"
+    ],
+    "pastParticiple": [
+      "outthought"
+    ],
+    "display": "outthink → outthought → outthought",
+    "translations": {
+      "en": "think better than",
+      "fr": "penser plus finement que",
+      "es": "pensar mejor que",
+      "it": "pensare meglio di",
+      "de": "klüger denken als",
+      "nl": "slimmer denken dan",
+      "pt": "pensar melhor que"
+    },
+    "difficulty": 4
+  },
+  {
+    "id": "outthrow",
+    "group": 2,
+    "groupName": "Advanced Verbs 2",
+    "base": "outthrow",
+    "pastSimple": [
+      "outthrew"
+    ],
+    "pastParticiple": [
+      "outthrown"
+    ],
+    "display": "outthrow → outthrew → outthrown",
+    "translations": {
+      "en": "throw farther than",
+      "fr": "lancer plus loin que",
+      "es": "lanzar más lejos que",
+      "it": "lanciare più lontano di",
+      "de": "weiter werfen als",
+      "nl": "verder gooien dan",
+      "pt": "lançar mais longe que"
+    },
+    "difficulty": 4
+  },
+  {
+    "id": "outwear",
+    "group": 2,
+    "groupName": "Advanced Verbs 2",
+    "base": "outwear",
+    "pastSimple": [
+      "outwore"
+    ],
+    "pastParticiple": [
+      "outworn"
+    ],
+    "display": "outwear → outwore → outworn",
+    "translations": {
+      "en": "last longer than / wear out",
+      "fr": "durer plus longtemps que",
+      "es": "durar más que",
+      "it": "durare più di",
+      "de": "länger halten als",
+      "nl": "langer meegaan dan",
+      "pt": "durar mais que"
+    },
+    "difficulty": 4
+  },
+  {
+    "id": "outwrite",
+    "group": 2,
+    "groupName": "Advanced Verbs 2",
+    "base": "outwrite",
+    "pastSimple": [
+      "outwrote"
+    ],
+    "pastParticiple": [
+      "outwritten"
+    ],
+    "display": "outwrite → outwrote → outwritten",
+    "translations": {
+      "en": "write better or more than",
+      "fr": "écrire mieux/plus que",
+      "es": "escribir mejor/más que",
+      "it": "scrivere meglio/più di",
+      "de": "besser/mehr schreiben als",
+      "nl": "beter/meer schrijven dan",
+      "pt": "escrever melhor/mais que"
+    },
+    "difficulty": 4
+  },
+  {
+    "id": "overbear",
+    "group": 2,
+    "groupName": "Advanced Verbs 2",
+    "base": "overbear",
+    "pastSimple": [
+      "overbore"
+    ],
+    "pastParticiple": [
+      "overborne"
+    ],
+    "display": "overbear → overbore → overborne",
+    "translations": {
+      "en": "overwhelm / dominate",
+      "fr": "accabler / dominer",
+      "es": "abrumar / dominar",
+      "it": "opprimere / dominare",
+      "de": "überwältigen / beherrschen",
+      "nl": "overweldigen / domineren",
+      "pt": "sobrecarregar / dominar"
+    },
+    "difficulty": 4
+  },
+  {
+    "id": "overbid",
+    "group": 2,
+    "groupName": "Advanced Verbs 2",
+    "base": "overbid",
+    "pastSimple": [
+      "overbid"
+    ],
+    "pastParticiple": [
+      "overbid"
+    ],
+    "display": "overbid → overbid → overbid",
+    "translations": {
+      "en": "bid too high",
+      "fr": "surenchérir trop",
+      "es": "pujar demasiado",
+      "it": "offrire troppo",
+      "de": "zu hoch bieten",
+      "nl": "te hoog bieden",
+      "pt": "oferecer demais"
+    },
+    "difficulty": 4
+  },
+  {
+    "id": "overbreed",
+    "group": 2,
+    "groupName": "Advanced Verbs 2",
+    "base": "overbreed",
+    "pastSimple": [
+      "overbred"
+    ],
+    "pastParticiple": [
+      "overbred"
+    ],
+    "display": "overbreed → overbred → overbred",
+    "translations": {
+      "en": "breed too much",
+      "fr": "surproduire par élevage",
+      "es": "criar en exceso",
+      "it": "allevare troppo",
+      "de": "überzüchten",
+      "nl": "te veel fokken",
+      "pt": "criar em excesso"
+    },
+    "difficulty": 4
+  },
+  {
+    "id": "overbuild",
+    "group": 3,
+    "groupName": "Advanced Verbs 3",
+    "base": "overbuild",
+    "pastSimple": [
+      "overbuilt"
+    ],
+    "pastParticiple": [
+      "overbuilt"
+    ],
+    "display": "overbuild → overbuilt → overbuilt",
+    "translations": {
+      "en": "build too much",
+      "fr": "trop construire",
+      "es": "construir demasiado",
+      "it": "costruire troppo",
+      "de": "zu viel bauen",
+      "nl": "te veel bouwen",
+      "pt": "construir demais"
+    },
+    "difficulty": 4
+  },
+  {
+    "id": "overbuy",
+    "group": 3,
+    "groupName": "Advanced Verbs 3",
+    "base": "overbuy",
+    "pastSimple": [
+      "overbought"
+    ],
+    "pastParticiple": [
+      "overbought"
+    ],
+    "display": "overbuy → overbought → overbought",
+    "translations": {
+      "en": "buy too much",
+      "fr": "acheter trop",
+      "es": "comprar demasiado",
+      "it": "comprare troppo",
+      "de": "zu viel kaufen",
+      "nl": "te veel kopen",
+      "pt": "comprar demais"
+    },
+    "difficulty": 4
+  },
+  {
+    "id": "overdraw",
+    "group": 3,
+    "groupName": "Advanced Verbs 3",
+    "base": "overdraw",
+    "pastSimple": [
+      "overdrew"
+    ],
+    "pastParticiple": [
+      "overdrawn"
+    ],
+    "display": "overdraw → overdrew → overdrawn",
+    "translations": {
+      "en": "withdraw too much money",
+      "fr": "être à découvert",
+      "es": "sobregirar",
+      "it": "andare in scoperto",
+      "de": "überziehen",
+      "nl": "rood staan / te veel opnemen",
+      "pt": "ficar a descoberto"
+    },
+    "difficulty": 4
+  },
+  {
+    "id": "overdrink",
+    "group": 3,
+    "groupName": "Advanced Verbs 3",
+    "base": "overdrink",
+    "pastSimple": [
+      "overdrank"
+    ],
+    "pastParticiple": [
+      "overdrunk"
+    ],
+    "display": "overdrink → overdrank → overdrunk",
+    "translations": {
+      "en": "drink too much",
+      "fr": "boire trop",
+      "es": "beber demasiado",
+      "it": "bere troppo",
+      "de": "zu viel trinken",
+      "nl": "te veel drinken",
+      "pt": "beber demais"
+    },
+    "difficulty": 4
+  },
+  {
+    "id": "overeat",
+    "group": 3,
+    "groupName": "Advanced Verbs 3",
+    "base": "overeat",
+    "pastSimple": [
+      "overate"
+    ],
+    "pastParticiple": [
+      "overeaten"
+    ],
+    "display": "overeat → overate → overeaten",
+    "translations": {
+      "en": "eat too much",
+      "fr": "trop manger",
+      "es": "comer demasiado",
+      "it": "mangiare troppo",
+      "de": "zu viel essen",
+      "nl": "te veel eten",
+      "pt": "comer demais"
+    },
+    "difficulty": 4
+  },
+  {
+    "id": "overfeed",
+    "group": 3,
+    "groupName": "Advanced Verbs 3",
+    "base": "overfeed",
+    "pastSimple": [
+      "overfed"
+    ],
+    "pastParticiple": [
+      "overfed"
+    ],
+    "display": "overfeed → overfed → overfed",
+    "translations": {
+      "en": "feed too much",
+      "fr": "trop nourrir",
+      "es": "sobrealimentar",
+      "it": "nutrire troppo",
+      "de": "überfüttern",
+      "nl": "overvoeren",
+      "pt": "alimentar demais"
+    },
+    "difficulty": 4
+  },
+  {
+    "id": "overfly",
+    "group": 3,
+    "groupName": "Advanced Verbs 3",
+    "base": "overfly",
+    "pastSimple": [
+      "overflew"
+    ],
+    "pastParticiple": [
+      "overflown"
+    ],
+    "display": "overfly → overflew → overflown",
+    "translations": {
+      "en": "fly over",
+      "fr": "survoler",
+      "es": "sobrevolar",
+      "it": "sorvolare",
+      "de": "überfliegen",
+      "nl": "overvliegen",
+      "pt": "sobrevoar"
+    },
+    "difficulty": 4
+  },
+  {
+    "id": "overgrow",
+    "group": 3,
+    "groupName": "Advanced Verbs 3",
+    "base": "overgrow",
+    "pastSimple": [
+      "overgrew"
+    ],
+    "pastParticiple": [
+      "overgrown"
+    ],
+    "display": "overgrow → overgrew → overgrown",
+    "translations": {
+      "en": "grow over / cover with growth",
+      "fr": "envahir par la végétation",
+      "es": "cubrir de vegetación",
+      "it": "ricoprire di vegetazione",
+      "de": "überwuchern",
+      "nl": "overwoekeren",
+      "pt": "cobrir de vegetação"
+    },
+    "difficulty": 4
+  },
+  {
+    "id": "overhang",
+    "group": 3,
+    "groupName": "Advanced Verbs 3",
+    "base": "overhang",
+    "pastSimple": [
+      "overhung"
+    ],
+    "pastParticiple": [
+      "overhung"
+    ],
+    "display": "overhang → overhung → overhung",
+    "translations": {
+      "en": "hang over",
+      "fr": "surplomber",
+      "es": "sobresalir sobre",
+      "it": "sovrastare",
+      "de": "überhängen",
+      "nl": "overhangen",
+      "pt": "sobressair sobre"
+    },
+    "difficulty": 4
+  },
+  {
+    "id": "overlay",
+    "group": 3,
+    "groupName": "Advanced Verbs 3",
+    "base": "overlay",
+    "pastSimple": [
+      "overlaid"
+    ],
+    "pastParticiple": [
+      "overlaid"
+    ],
+    "display": "overlay → overlaid → overlaid",
+    "translations": {
+      "en": "cover with a layer",
+      "fr": "recouvrir",
+      "es": "recubrir",
+      "it": "ricoprire",
+      "de": "überlagern / überziehen",
+      "nl": "bedekken",
+      "pt": "recobrir"
+    },
+    "difficulty": 4
+  },
+  {
+    "id": "overpay",
+    "group": 4,
+    "groupName": "Advanced Verbs 4",
+    "base": "overpay",
+    "pastSimple": [
+      "overpaid"
+    ],
+    "pastParticiple": [
+      "overpaid"
+    ],
+    "display": "overpay → overpaid → overpaid",
+    "translations": {
+      "en": "pay too much",
+      "fr": "payer trop",
+      "es": "pagar de más",
+      "it": "pagare troppo",
+      "de": "zu viel bezahlen",
+      "nl": "te veel betalen",
+      "pt": "pagar demais"
+    },
+    "difficulty": 4
+  },
+  {
+    "id": "override",
+    "group": 4,
+    "groupName": "Advanced Verbs 4",
+    "base": "override",
+    "pastSimple": [
+      "overrode"
+    ],
+    "pastParticiple": [
+      "overridden"
+    ],
+    "display": "override → overrode → overridden",
+    "translations": {
+      "en": "overrule / ride over",
+      "fr": "annuler / passer outre",
+      "es": "invalidar / anular",
+      "it": "annullare / prevalere su",
+      "de": "außer Kraft setzen",
+      "nl": "terzijde schuiven",
+      "pt": "anular / prevalecer"
+    },
+    "difficulty": 4
+  },
+  {
+    "id": "overrun",
+    "group": 4,
+    "groupName": "Advanced Verbs 4",
+    "base": "overrun",
+    "pastSimple": [
+      "overran"
+    ],
+    "pastParticiple": [
+      "overrun"
+    ],
+    "display": "overrun → overran → overrun",
+    "translations": {
+      "en": "spread over / exceed",
+      "fr": "envahir / dépasser",
+      "es": "invadir / exceder",
+      "it": "invadere / superare",
+      "de": "überrennen / überschreiten",
+      "nl": "overspoelen / overschrijden",
+      "pt": "invadir / exceder"
+    },
+    "difficulty": 4
+  },
+  {
+    "id": "oversee",
+    "group": 4,
+    "groupName": "Advanced Verbs 4",
+    "base": "oversee",
+    "pastSimple": [
+      "oversaw"
+    ],
+    "pastParticiple": [
+      "overseen"
+    ],
+    "display": "oversee → oversaw → overseen",
+    "translations": {
+      "en": "supervise",
+      "fr": "superviser",
+      "es": "supervisar",
+      "it": "supervisionare",
+      "de": "beaufsichtigen",
+      "nl": "toezien op",
+      "pt": "supervisionar"
+    },
+    "difficulty": 4
+  },
+  {
+    "id": "oversell",
+    "group": 4,
+    "groupName": "Advanced Verbs 4",
+    "base": "oversell",
+    "pastSimple": [
+      "oversold"
+    ],
+    "pastParticiple": [
+      "oversold"
+    ],
+    "display": "oversell → oversold → oversold",
+    "translations": {
+      "en": "sell too much / exaggerate",
+      "fr": "survendre",
+      "es": "sobrevender",
+      "it": "sopravvalutare nella vendita",
+      "de": "überverkaufen",
+      "nl": "oversellen",
+      "pt": "sobrevender"
+    },
+    "difficulty": 4
+  },
+  {
+    "id": "overshoot",
+    "group": 4,
+    "groupName": "Advanced Verbs 4",
+    "base": "overshoot",
+    "pastSimple": [
+      "overshot"
+    ],
+    "pastParticiple": [
+      "overshot"
+    ],
+    "display": "overshoot → overshot → overshot",
+    "translations": {
+      "en": "go too far",
+      "fr": "dépasser",
+      "es": "pasarse / sobrepasar",
+      "it": "superare",
+      "de": "überschießen",
+      "nl": "voorbijschieten",
+      "pt": "ultrapassar"
+    },
+    "difficulty": 4
+  },
+  {
+    "id": "oversleep",
+    "group": 4,
+    "groupName": "Advanced Verbs 4",
+    "base": "oversleep",
+    "pastSimple": [
+      "overslept"
+    ],
+    "pastParticiple": [
+      "overslept"
+    ],
+    "display": "oversleep → overslept → overslept",
+    "translations": {
+      "en": "sleep too long",
+      "fr": "trop dormir / ne pas se réveiller",
+      "es": "quedarse dormido",
+      "it": "dormire troppo",
+      "de": "verschlafen",
+      "nl": "zich verslapen",
+      "pt": "dormir demais"
+    },
+    "difficulty": 4
+  },
+  {
+    "id": "overspend",
+    "group": 4,
+    "groupName": "Advanced Verbs 4",
+    "base": "overspend",
+    "pastSimple": [
+      "overspent"
+    ],
+    "pastParticiple": [
+      "overspent"
+    ],
+    "display": "overspend → overspent → overspent",
+    "translations": {
+      "en": "spend too much",
+      "fr": "trop dépenser",
+      "es": "gastar demasiado",
+      "it": "spendere troppo",
+      "de": "zu viel ausgeben",
+      "nl": "te veel uitgeven",
+      "pt": "gastar demais"
+    },
+    "difficulty": 4
+  },
+  {
+    "id": "overthrow",
+    "group": 4,
+    "groupName": "Advanced Verbs 4",
+    "base": "overthrow",
+    "pastSimple": [
+      "overthrew"
+    ],
+    "pastParticiple": [
+      "overthrown"
+    ],
+    "display": "overthrow → overthrew → overthrown",
+    "translations": {
+      "en": "topple / overthrow",
+      "fr": "renverser",
+      "es": "derrocar",
+      "it": "rovesciare",
+      "de": "stürzen",
+      "nl": "omverwerpen",
+      "pt": "derrubar"
+    },
+    "difficulty": 4
+  },
+  {
+    "id": "partake",
+    "group": 4,
+    "groupName": "Advanced Verbs 4",
+    "base": "partake",
+    "pastSimple": [
+      "partook"
+    ],
+    "pastParticiple": [
+      "partaken"
+    ],
+    "display": "partake → partook → partaken",
+    "translations": {
+      "en": "take part / share",
+      "fr": "prendre part",
+      "es": "participar",
+      "it": "partecipare",
+      "de": "teilnehmen",
+      "nl": "deelnemen",
+      "pt": "participar"
+    },
+    "difficulty": 4
+  },
+  {
+    "id": "proofread",
+    "group": 5,
+    "groupName": "Advanced Verbs 5",
+    "base": "proofread",
+    "pastSimple": [
+      "proofread"
+    ],
+    "pastParticiple": [
+      "proofread"
+    ],
+    "display": "proofread → proofread → proofread",
+    "translations": {
+      "en": "check a text for errors",
+      "fr": "relire / corriger",
+      "es": "corregir pruebas",
+      "it": "correggere bozze",
+      "de": "Korrektur lesen",
+      "nl": "proeflezen",
+      "pt": "revisar texto"
+    },
+    "difficulty": 4,
+    "spokenText": "proof reed, proof red, proof red"
+  },
+  {
+    "id": "rebind",
+    "group": 5,
+    "groupName": "Advanced Verbs 5",
+    "base": "rebind",
+    "pastSimple": [
+      "rebound"
+    ],
+    "pastParticiple": [
+      "rebound"
+    ],
+    "display": "rebind → rebound → rebound",
+    "translations": {
+      "en": "bind again",
+      "fr": "relier à nouveau",
+      "es": "volver a encuadernar",
+      "it": "rilegare di nuovo",
+      "de": "neu binden",
+      "nl": "opnieuw binden",
+      "pt": "encadernar novamente"
+    },
+    "difficulty": 4
+  },
+  {
+    "id": "rebroadcast",
+    "group": 5,
+    "groupName": "Advanced Verbs 5",
+    "base": "rebroadcast",
+    "pastSimple": [
+      "rebroadcast"
+    ],
+    "pastParticiple": [
+      "rebroadcast"
+    ],
+    "display": "rebroadcast → rebroadcast → rebroadcast",
+    "translations": {
+      "en": "broadcast again",
+      "fr": "rediffuser",
+      "es": "retransmitir",
+      "it": "ritrasmettere",
+      "de": "erneut senden",
+      "nl": "opnieuw uitzenden",
+      "pt": "retransmitir"
+    },
+    "difficulty": 4
+  },
+  {
+    "id": "recast",
+    "group": 5,
+    "groupName": "Advanced Verbs 5",
+    "base": "recast",
+    "pastSimple": [
+      "recast"
+    ],
+    "pastParticiple": [
+      "recast"
+    ],
+    "display": "recast → recast → recast",
+    "translations": {
+      "en": "cast again / reshape",
+      "fr": "refondre / redistribuer",
+      "es": "refundar / reasignar",
+      "it": "rifondere / riformulare",
+      "de": "umformen / neu besetzen",
+      "nl": "hergieten / herformuleren",
+      "pt": "reformular / refazer elenco"
+    },
+    "difficulty": 4
+  },
+  {
+    "id": "recut",
+    "group": 5,
+    "groupName": "Advanced Verbs 5",
+    "base": "recut",
+    "pastSimple": [
+      "recut"
+    ],
+    "pastParticiple": [
+      "recut"
+    ],
+    "display": "recut → recut → recut",
+    "translations": {
+      "en": "cut again",
+      "fr": "recouper",
+      "es": "volver a cortar",
+      "it": "tagliare di nuovo",
+      "de": "neu schneiden",
+      "nl": "opnieuw snijden",
+      "pt": "cortar novamente"
+    },
+    "difficulty": 4
+  },
+  {
+    "id": "regrind",
+    "group": 5,
+    "groupName": "Advanced Verbs 5",
+    "base": "regrind",
+    "pastSimple": [
+      "reground"
+    ],
+    "pastParticiple": [
+      "reground"
+    ],
+    "display": "regrind → reground → reground",
+    "translations": {
+      "en": "grind again",
+      "fr": "rebroyer / remoudre",
+      "es": "volver a moler",
+      "it": "rimacinare",
+      "de": "neu schleifen / mahlen",
+      "nl": "opnieuw malen",
+      "pt": "moer novamente"
+    },
+    "difficulty": 4
+  },
+  {
+    "id": "regrow",
+    "group": 5,
+    "groupName": "Advanced Verbs 5",
+    "base": "regrow",
+    "pastSimple": [
+      "regrew"
+    ],
+    "pastParticiple": [
+      "regrown"
+    ],
+    "display": "regrow → regrew → regrown",
+    "translations": {
+      "en": "grow again",
+      "fr": "repousser",
+      "es": "volver a crecer",
+      "it": "ricrescere",
+      "de": "nachwachsen",
+      "nl": "opnieuw groeien",
+      "pt": "voltar a crescer"
+    },
+    "difficulty": 4
+  },
+  {
+    "id": "rehang",
+    "group": 5,
+    "groupName": "Advanced Verbs 5",
+    "base": "rehang",
+    "pastSimple": [
+      "rehung"
+    ],
+    "pastParticiple": [
+      "rehung"
+    ],
+    "display": "rehang → rehung → rehung",
+    "translations": {
+      "en": "hang again",
+      "fr": "raccrocher",
+      "es": "volver a colgar",
+      "it": "riappendere",
+      "de": "wieder aufhängen",
+      "nl": "opnieuw ophangen",
+      "pt": "pendurar novamente"
+    },
+    "difficulty": 4
+  },
+  {
+    "id": "relay",
+    "group": 5,
+    "groupName": "Advanced Verbs 5",
+    "base": "relay",
+    "pastSimple": [
+      "relaid"
+    ],
+    "pastParticiple": [
+      "relaid"
+    ],
+    "display": "relay → relaid → relaid",
+    "translations": {
+      "en": "lay again",
+      "fr": "reposer / remettre en place",
+      "es": "volver a colocar",
+      "it": "posare di nuovo",
+      "de": "neu verlegen",
+      "nl": "opnieuw leggen",
+      "pt": "colocar novamente"
+    },
+    "difficulty": 4
+  },
+  {
+    "id": "relight",
+    "group": 5,
+    "groupName": "Advanced Verbs 5",
+    "base": "relight",
+    "pastSimple": [
+      "relit",
+      "relighted"
+    ],
+    "pastParticiple": [
+      "relit",
+      "relighted"
+    ],
+    "display": "relight → relit/relighted → relit/relighted",
+    "translations": {
+      "en": "light again",
+      "fr": "rallumer",
+      "es": "volver a encender",
+      "it": "riaccendere",
+      "de": "wieder anzünden",
+      "nl": "opnieuw aansteken",
+      "pt": "reacender"
+    },
+    "difficulty": 4
+  }
+]

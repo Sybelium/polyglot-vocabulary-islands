@@ -3,40 +3,38 @@ import Link from "next/link";
 const apps = [
   {
     title: "Vocabulary Islands",
-    subtitle: "Learn your first words through islands, songs, pictures and games.",
+    subtitle:
+      "Learn your first words through islands, songs, pictures and games.",
     href: "/vocabulary",
-    emoji: "🏝️",
+    image: "/images/vocabulary-Island-appPicker.webp",
     status: "Available",
     active: true,
-    gradient: "from-sky-400 to-emerald-400",
   },
   {
-  title: "Latin Conjugation",
-  subtitle:
-    "Practice regular and irregular verbs in French, Spanish, Italian and Portuguese.",
-  href: "/conjugation",
-  emoji: "🧩",
-  status: "Available",
-  active: true,
-  gradient: "from-indigo-400 to-sky-500",
-},
+    title: "Latin Conjugation",
+    subtitle:
+      "Practice regular and irregular verbs in French, Spanish, Italian and Portuguese.",
+    href: "/conjugation",
+    image: "/images/latin-conjugation-appPicker%20.webp",
+    status: "Available",
+    active: true,
+  },
   {
-    title: "Pronunciation Coach",
-    subtitle: "Train your speaking, listening and pronunciation skills.",
-    href: "/pronunciation",
-    emoji: "🎙️",
-    status: "Coming soon",
-    active: false,
-    gradient: "from-slate-300 to-slate-400",
+    title: "Germanic Conjugation",
+    subtitle:
+      "Train English, German and Dutch irregular verbs, with English tense tables.",
+    href: "/irregular-verbs/en",
+    image: "/images/germanic-conjugation-appPicker%20.webp",
+    status: "Available",
+    active: true,
   },
   {
     title: "Writing Systems",
     subtitle: "Explore alphabets, scripts and letter sounds around the world.",
     href: "/writing-systems",
-    emoji: "✍️",
-    status: "Coming soon",
+    image: "/images/writing-systems-appPicker.webp",
+    status: "Available",
     active: true,
-    gradient: "from-slate-300 to-slate-400",
   },
 ];
 
@@ -44,19 +42,33 @@ export default function HomePage() {
   return (
     <main className="min-h-screen bg-gradient-to-b from-sky-100 via-white to-emerald-50 px-4 py-8 text-slate-900">
       <section className="mx-auto flex max-w-6xl flex-col gap-8">
-        <header className="text-center">
-          <p className="text-sm font-bold uppercase tracking-[0.25em] text-sky-600">
-            Language Playground
-          </p>
+        <header
+          className="relative overflow-hidden rounded-[2rem] border border-white/80 bg-slate-900 shadow-xl"
+          style={{
+            backgroundImage: "url('/images/language-playground-hero.webp')",
+            backgroundSize: "cover",
+            backgroundPosition: "center",
+          }}
+        >
+          <div
+            className="relative z-10 px-6 py-16 text-left text-white sm:px-10 sm:py-20 lg:px-14"
+            style={{
+              textShadow: "0 3px 12px rgba(15, 23, 42, 0.75)",
+            }}
+          >
+            <p className="text-sm font-black uppercase tracking-[0.28em] text-sky-200">
+              Language Playground
+            </p>
 
-          <h1 className="mt-3 text-4xl font-black tracking-tight text-slate-950 sm:text-5xl">
-            Choose your language app
-          </h1>
+            <h1 className="mt-3 max-w-2xl text-4xl font-black tracking-tight sm:text-5xl lg:text-6xl">
+              Choose your language app
+            </h1>
 
-          <p className="mx-auto mt-4 max-w-2xl text-base font-medium text-slate-600 sm:text-lg">
-            Small, playful learning apps for vocabulary, pronunciation,
-            conjugation and writing systems.
-          </p>
+            <p className="mt-5 max-w-xl text-base font-semibold leading-relaxed text-sky-50 sm:text-lg">
+              Small, playful learning apps for vocabulary, conjugation and
+              writing systems.
+            </p>
+          </div>
         </header>
 
         <section className="grid gap-5 sm:grid-cols-2 lg:grid-cols-4">
@@ -64,7 +76,7 @@ export default function HomePage() {
             const card = (
               <article
                 className={[
-                  "relative flex min-h-[260px] flex-col overflow-hidden rounded-[2rem] border p-5 shadow-lg transition",
+                  "relative flex h-full min-h-[260px] flex-col overflow-hidden rounded-[2rem] border p-5 shadow-lg transition",
                   app.active
                     ? "border-white/80 bg-white hover:-translate-y-1 hover:shadow-2xl"
                     : "border-slate-200 bg-slate-100 opacity-70 grayscale",
@@ -76,10 +88,13 @@ export default function HomePage() {
                   </div>
                 )}
 
-                <div
-                  className={`flex h-24 items-center justify-center rounded-[1.5rem] bg-gradient-to-br ${app.gradient} text-5xl shadow-inner`}
-                >
-                  {app.emoji}
+                <div className="h-24 overflow-hidden rounded-[1.5rem] bg-slate-100 shadow-inner">
+                  <img
+                    src={app.image}
+                    alt=""
+                    className="h-full w-full object-cover"
+                    draggable="false"
+                  />
                 </div>
 
                 <div className="mt-5 flex flex-1 flex-col">
@@ -88,11 +103,6 @@ export default function HomePage() {
                       {app.title}
                     </h2>
 
-                    {app.active && (
-                      <span className="rounded-full bg-emerald-100 px-2.5 py-1 text-xs font-black text-emerald-700">
-                        Open
-                      </span>
-                    )}
                   </div>
 
                   <p className="mt-3 text-sm font-medium leading-relaxed text-slate-600">
@@ -115,7 +125,7 @@ export default function HomePage() {
             );
 
             return app.active ? (
-              <Link key={app.title} href={app.href} className="block">
+              <Link key={app.title} href={app.href} className="block h-full">
                 {card}
               </Link>
             ) : (
@@ -126,10 +136,10 @@ export default function HomePage() {
           })}
         </section>
 
-
         <footer className="text-center text-sm font-medium text-slate-500">
-  Vocabulary Islands, Writing Systems and Latin Conjugation are ready.
-</footer>
+          Vocabulary Islands, Latin Conjugation, Germanic Conjugation and
+          Writing Systems are ready.
+        </footer>
       </section>
     </main>
   );

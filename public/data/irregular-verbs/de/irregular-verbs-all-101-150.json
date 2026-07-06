@@ -1,0 +1,1105 @@
+[
+  {
+    "id": "reiten",
+    "group": 1,
+    "groupName": "All German Verbs 101–110",
+    "base": "reiten",
+    "pastSimple": [
+      "ritt"
+    ],
+    "pastParticiple": [
+      "geritten"
+    ],
+    "display": "reiten → ritt → geritten",
+    "translations": {
+      "en": "ride",
+      "fr": "monter à cheval",
+      "es": "montar",
+      "it": "cavalcare",
+      "nl": "rijden",
+      "pt": "cavalgar"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "rennen",
+    "group": 1,
+    "groupName": "All German Verbs 101–110",
+    "base": "rennen",
+    "pastSimple": [
+      "rannte"
+    ],
+    "pastParticiple": [
+      "gerannt"
+    ],
+    "display": "rennen → rannte → gerannt",
+    "translations": {
+      "en": "run",
+      "fr": "courir",
+      "es": "correr",
+      "it": "correre",
+      "nl": "rennen",
+      "pt": "correr"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "riechen",
+    "group": 1,
+    "groupName": "All German Verbs 101–110",
+    "base": "riechen",
+    "pastSimple": [
+      "roch"
+    ],
+    "pastParticiple": [
+      "gerochen"
+    ],
+    "display": "riechen → roch → gerochen",
+    "translations": {
+      "en": "smell",
+      "fr": "sentir / flairer",
+      "es": "oler",
+      "it": "annusare / odorare",
+      "nl": "ruiken",
+      "pt": "cheirar"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "ringen",
+    "group": 1,
+    "groupName": "All German Verbs 101–110",
+    "base": "ringen",
+    "pastSimple": [
+      "rang"
+    ],
+    "pastParticiple": [
+      "gerungen"
+    ],
+    "display": "ringen → rang → gerungen",
+    "translations": {
+      "en": "wrestle / struggle",
+      "fr": "lutter",
+      "es": "luchar",
+      "it": "lottare",
+      "nl": "worstelen",
+      "pt": "lutar"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "rinnen",
+    "group": 1,
+    "groupName": "All German Verbs 101–110",
+    "base": "rinnen",
+    "pastSimple": [
+      "rann"
+    ],
+    "pastParticiple": [
+      "geronnen"
+    ],
+    "display": "rinnen → rann → geronnen",
+    "translations": {
+      "en": "flow / trickle",
+      "fr": "couler",
+      "es": "fluir / gotear",
+      "it": "scorrere",
+      "nl": "stromen / druppelen",
+      "pt": "escorrer"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "rufen",
+    "group": 1,
+    "groupName": "All German Verbs 101–110",
+    "base": "rufen",
+    "pastSimple": [
+      "rief"
+    ],
+    "pastParticiple": [
+      "gerufen"
+    ],
+    "display": "rufen → rief → gerufen",
+    "translations": {
+      "en": "call / shout",
+      "fr": "appeler / crier",
+      "es": "llamar / gritar",
+      "it": "chiamare / gridare",
+      "nl": "roepen",
+      "pt": "chamar / gritar"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "saufen",
+    "group": 1,
+    "groupName": "All German Verbs 101–110",
+    "base": "saufen",
+    "pastSimple": [
+      "soff"
+    ],
+    "pastParticiple": [
+      "gesoffen"
+    ],
+    "display": "saufen → soff → gesoffen",
+    "translations": {
+      "en": "drink heavily",
+      "fr": "boire beaucoup",
+      "es": "beber en exceso",
+      "it": "bere troppo",
+      "nl": "zuipen",
+      "pt": "beber muito"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "saugen",
+    "group": 1,
+    "groupName": "All German Verbs 101–110",
+    "base": "saugen",
+    "pastSimple": [
+      "sog"
+    ],
+    "pastParticiple": [
+      "gesogen"
+    ],
+    "display": "saugen → sog → gesogen",
+    "translations": {
+      "en": "suck / vacuum",
+      "fr": "sucer / aspirer",
+      "es": "chupar / aspirar",
+      "it": "succhiare / aspirare",
+      "nl": "zuigen / stofzuigen",
+      "pt": "sugar / aspirar"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "schaffen",
+    "group": 1,
+    "groupName": "All German Verbs 101–110",
+    "base": "schaffen",
+    "pastSimple": [
+      "schuf"
+    ],
+    "pastParticiple": [
+      "geschaffen"
+    ],
+    "display": "schaffen → schuf → geschaffen",
+    "translations": {
+      "en": "create",
+      "fr": "créer",
+      "es": "crear",
+      "it": "creare",
+      "nl": "scheppen / creëren",
+      "pt": "criar"
+    },
+    "difficulty": 2,
+    "note": "For the meaning 'create', the strong forms are schuf → geschaffen. For 'manage', regular forms are schaffte → geschafft."
+  },
+  {
+    "id": "scheiden",
+    "group": 1,
+    "groupName": "All German Verbs 101–110",
+    "base": "scheiden",
+    "pastSimple": [
+      "schied"
+    ],
+    "pastParticiple": [
+      "geschieden"
+    ],
+    "display": "scheiden → schied → geschieden",
+    "translations": {
+      "en": "separate / divorce",
+      "fr": "séparer / divorcer",
+      "es": "separar / divorciarse",
+      "it": "separare / divorziare",
+      "nl": "scheiden",
+      "pt": "separar / divorciar-se"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "scheinen",
+    "group": 2,
+    "groupName": "All German Verbs 111–120",
+    "base": "scheinen",
+    "pastSimple": [
+      "schien"
+    ],
+    "pastParticiple": [
+      "geschienen"
+    ],
+    "display": "scheinen → schien → geschienen",
+    "translations": {
+      "en": "shine / seem",
+      "fr": "briller / sembler",
+      "es": "brillar / parecer",
+      "it": "brillare / sembrare",
+      "nl": "schijnen / lijken",
+      "pt": "brilhar / parecer"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "scheissen",
+    "group": 2,
+    "groupName": "All German Verbs 111–120",
+    "base": "scheißen",
+    "pastSimple": [
+      "schiss"
+    ],
+    "pastParticiple": [
+      "geschissen"
+    ],
+    "display": "scheißen → schiss → geschissen",
+    "translations": {
+      "en": "shit",
+      "fr": "chier",
+      "es": "cagar",
+      "it": "cagare",
+      "nl": "schijten",
+      "pt": "cagar"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "schelten",
+    "group": 2,
+    "groupName": "All German Verbs 111–120",
+    "base": "schelten",
+    "pastSimple": [
+      "schalt"
+    ],
+    "pastParticiple": [
+      "gescholten"
+    ],
+    "display": "schelten → schalt → gescholten",
+    "translations": {
+      "en": "scold",
+      "fr": "gronder",
+      "es": "regañar",
+      "it": "sgridare",
+      "nl": "schelden",
+      "pt": "repreender"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "scheren",
+    "group": 2,
+    "groupName": "All German Verbs 111–120",
+    "base": "scheren",
+    "pastSimple": [
+      "schor"
+    ],
+    "pastParticiple": [
+      "geschoren"
+    ],
+    "display": "scheren → schor → geschoren",
+    "translations": {
+      "en": "shear / shave",
+      "fr": "tondre / raser",
+      "es": "esquilar / afeitar",
+      "it": "tosare / radere",
+      "nl": "scheren",
+      "pt": "tosquiar / barbear"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "schieben",
+    "group": 2,
+    "groupName": "All German Verbs 111–120",
+    "base": "schieben",
+    "pastSimple": [
+      "schob"
+    ],
+    "pastParticiple": [
+      "geschoben"
+    ],
+    "display": "schieben → schob → geschoben",
+    "translations": {
+      "en": "push",
+      "fr": "pousser",
+      "es": "empujar",
+      "it": "spingere",
+      "nl": "duwen / schuiven",
+      "pt": "empurrar"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "schiessen",
+    "group": 2,
+    "groupName": "All German Verbs 111–120",
+    "base": "schießen",
+    "pastSimple": [
+      "schoss"
+    ],
+    "pastParticiple": [
+      "geschossen"
+    ],
+    "display": "schießen → schoss → geschossen",
+    "translations": {
+      "en": "shoot",
+      "fr": "tirer",
+      "es": "disparar",
+      "it": "sparare",
+      "nl": "schieten",
+      "pt": "atirar"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "schlafen",
+    "group": 2,
+    "groupName": "All German Verbs 111–120",
+    "base": "schlafen",
+    "pastSimple": [
+      "schlief"
+    ],
+    "pastParticiple": [
+      "geschlafen"
+    ],
+    "display": "schlafen → schlief → geschlafen",
+    "translations": {
+      "en": "sleep",
+      "fr": "dormir",
+      "es": "dormir",
+      "it": "dormire",
+      "nl": "slapen",
+      "pt": "dormir"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "schlagen",
+    "group": 2,
+    "groupName": "All German Verbs 111–120",
+    "base": "schlagen",
+    "pastSimple": [
+      "schlug"
+    ],
+    "pastParticiple": [
+      "geschlagen"
+    ],
+    "display": "schlagen → schlug → geschlagen",
+    "translations": {
+      "en": "hit / beat",
+      "fr": "frapper / battre",
+      "es": "golpear / vencer",
+      "it": "colpire / battere",
+      "nl": "slaan",
+      "pt": "bater / vencer"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "schleichen",
+    "group": 2,
+    "groupName": "All German Verbs 111–120",
+    "base": "schleichen",
+    "pastSimple": [
+      "schlich"
+    ],
+    "pastParticiple": [
+      "geschlichen"
+    ],
+    "display": "schleichen → schlich → geschlichen",
+    "translations": {
+      "en": "sneak",
+      "fr": "se faufiler",
+      "es": "escabullirse",
+      "it": "strisciare / sgattaiolare",
+      "nl": "sluipen",
+      "pt": "esgueirar-se"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "schleifen",
+    "group": 2,
+    "groupName": "All German Verbs 111–120",
+    "base": "schleifen",
+    "pastSimple": [
+      "schliff"
+    ],
+    "pastParticiple": [
+      "geschliffen"
+    ],
+    "display": "schleifen → schliff → geschliffen",
+    "translations": {
+      "en": "grind / polish",
+      "fr": "aiguiser / polir",
+      "es": "lijar / afilar",
+      "it": "levigare / affilare",
+      "nl": "slijpen",
+      "pt": "lixar / afiar"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "schliessen",
+    "group": 3,
+    "groupName": "All German Verbs 121–130",
+    "base": "schließen",
+    "pastSimple": [
+      "schloss"
+    ],
+    "pastParticiple": [
+      "geschlossen"
+    ],
+    "display": "schließen → schloss → geschlossen",
+    "translations": {
+      "en": "close",
+      "fr": "fermer",
+      "es": "cerrar",
+      "it": "chiudere",
+      "nl": "sluiten",
+      "pt": "fechar"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "schlingen",
+    "group": 3,
+    "groupName": "All German Verbs 121–130",
+    "base": "schlingen",
+    "pastSimple": [
+      "schlang"
+    ],
+    "pastParticiple": [
+      "geschlungen"
+    ],
+    "display": "schlingen → schlang → geschlungen",
+    "translations": {
+      "en": "devour / loop",
+      "fr": "engloutir / enlacer",
+      "es": "devorar / enlazar",
+      "it": "divorare / avvolgere",
+      "nl": "verslinden / slingeren",
+      "pt": "devorar / enlaçar"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "schmeissen",
+    "group": 3,
+    "groupName": "All German Verbs 121–130",
+    "base": "schmeißen",
+    "pastSimple": [
+      "schmiss"
+    ],
+    "pastParticiple": [
+      "geschmissen"
+    ],
+    "display": "schmeißen → schmiss → geschmissen",
+    "translations": {
+      "en": "throw / chuck",
+      "fr": "jeter",
+      "es": "tirar / lanzar",
+      "it": "buttare",
+      "nl": "gooien",
+      "pt": "jogar / atirar"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "schmelzen",
+    "group": 3,
+    "groupName": "All German Verbs 121–130",
+    "base": "schmelzen",
+    "pastSimple": [
+      "schmolz"
+    ],
+    "pastParticiple": [
+      "geschmolzen"
+    ],
+    "display": "schmelzen → schmolz → geschmolzen",
+    "translations": {
+      "en": "melt",
+      "fr": "fondre",
+      "es": "derretir",
+      "it": "sciogliere",
+      "nl": "smelten",
+      "pt": "derreter"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "schneiden",
+    "group": 3,
+    "groupName": "All German Verbs 121–130",
+    "base": "schneiden",
+    "pastSimple": [
+      "schnitt"
+    ],
+    "pastParticiple": [
+      "geschnitten"
+    ],
+    "display": "schneiden → schnitt → geschnitten",
+    "translations": {
+      "en": "cut",
+      "fr": "couper",
+      "es": "cortar",
+      "it": "tagliare",
+      "nl": "snijden",
+      "pt": "cortar"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "schrecken",
+    "group": 3,
+    "groupName": "All German Verbs 121–130",
+    "base": "schrecken",
+    "pastSimple": [
+      "schrak"
+    ],
+    "pastParticiple": [
+      "geschrocken"
+    ],
+    "display": "schrecken → schrak → geschrocken",
+    "translations": {
+      "en": "be startled",
+      "fr": "s'effrayer",
+      "es": "asustarse",
+      "it": "spaventarsi",
+      "nl": "schrikken",
+      "pt": "assustar-se"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "schreiben",
+    "group": 3,
+    "groupName": "All German Verbs 121–130",
+    "base": "schreiben",
+    "pastSimple": [
+      "schrieb"
+    ],
+    "pastParticiple": [
+      "geschrieben"
+    ],
+    "display": "schreiben → schrieb → geschrieben",
+    "translations": {
+      "en": "write",
+      "fr": "écrire",
+      "es": "escribir",
+      "it": "scrivere",
+      "nl": "schrijven",
+      "pt": "escrever"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "schreien",
+    "group": 3,
+    "groupName": "All German Verbs 121–130",
+    "base": "schreien",
+    "pastSimple": [
+      "schrie"
+    ],
+    "pastParticiple": [
+      "geschrien"
+    ],
+    "display": "schreien → schrie → geschrien",
+    "translations": {
+      "en": "scream / shout",
+      "fr": "crier",
+      "es": "gritar",
+      "it": "gridare",
+      "nl": "schreeuwen",
+      "pt": "gritar"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "schreiten",
+    "group": 3,
+    "groupName": "All German Verbs 121–130",
+    "base": "schreiten",
+    "pastSimple": [
+      "schritt"
+    ],
+    "pastParticiple": [
+      "geschritten"
+    ],
+    "display": "schreiten → schritt → geschritten",
+    "translations": {
+      "en": "stride / step",
+      "fr": "marcher / avancer",
+      "es": "avanzar / dar pasos",
+      "it": "avanzare / camminare",
+      "nl": "schrijden",
+      "pt": "avançar"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "schweigen",
+    "group": 3,
+    "groupName": "All German Verbs 121–130",
+    "base": "schweigen",
+    "pastSimple": [
+      "schwieg"
+    ],
+    "pastParticiple": [
+      "geschwiegen"
+    ],
+    "display": "schweigen → schwieg → geschwiegen",
+    "translations": {
+      "en": "be silent",
+      "fr": "se taire",
+      "es": "callar",
+      "it": "tacere",
+      "nl": "zwijgen",
+      "pt": "calar-se"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "schwellen",
+    "group": 4,
+    "groupName": "All German Verbs 131–140",
+    "base": "schwellen",
+    "pastSimple": [
+      "schwoll"
+    ],
+    "pastParticiple": [
+      "geschwollen"
+    ],
+    "display": "schwellen → schwoll → geschwollen",
+    "translations": {
+      "en": "swell",
+      "fr": "gonfler",
+      "es": "hincharse",
+      "it": "gonfiarsi",
+      "nl": "zwellen",
+      "pt": "inchar"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "schwimmen",
+    "group": 4,
+    "groupName": "All German Verbs 131–140",
+    "base": "schwimmen",
+    "pastSimple": [
+      "schwamm"
+    ],
+    "pastParticiple": [
+      "geschwommen"
+    ],
+    "display": "schwimmen → schwamm → geschwommen",
+    "translations": {
+      "en": "swim",
+      "fr": "nager",
+      "es": "nadar",
+      "it": "nuotare",
+      "nl": "zwemmen",
+      "pt": "nadar"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "schwinden",
+    "group": 4,
+    "groupName": "All German Verbs 131–140",
+    "base": "schwinden",
+    "pastSimple": [
+      "schwand"
+    ],
+    "pastParticiple": [
+      "geschwunden"
+    ],
+    "display": "schwinden → schwand → geschwunden",
+    "translations": {
+      "en": "vanish / dwindle",
+      "fr": "disparaître / diminuer",
+      "es": "desvanecerse / disminuir",
+      "it": "svanire / diminuire",
+      "nl": "verdwijnen / afnemen",
+      "pt": "desvanecer / diminuir"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "schwingen",
+    "group": 4,
+    "groupName": "All German Verbs 131–140",
+    "base": "schwingen",
+    "pastSimple": [
+      "schwang"
+    ],
+    "pastParticiple": [
+      "geschwungen"
+    ],
+    "display": "schwingen → schwang → geschwungen",
+    "translations": {
+      "en": "swing",
+      "fr": "balancer",
+      "es": "balancear",
+      "it": "oscillare",
+      "nl": "zwaaien / slingeren",
+      "pt": "balançar"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "schwoeren",
+    "group": 4,
+    "groupName": "All German Verbs 131–140",
+    "base": "schwören",
+    "pastSimple": [
+      "schwor"
+    ],
+    "pastParticiple": [
+      "geschworen"
+    ],
+    "display": "schwören → schwor → geschworen",
+    "translations": {
+      "en": "swear",
+      "fr": "jurer",
+      "es": "jurar",
+      "it": "giurare",
+      "nl": "zweren",
+      "pt": "jurar"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "sehen",
+    "group": 4,
+    "groupName": "All German Verbs 131–140",
+    "base": "sehen",
+    "pastSimple": [
+      "sah"
+    ],
+    "pastParticiple": [
+      "gesehen"
+    ],
+    "display": "sehen → sah → gesehen",
+    "translations": {
+      "en": "see",
+      "fr": "voir",
+      "es": "ver",
+      "it": "vedere",
+      "nl": "zien",
+      "pt": "ver"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "sein",
+    "group": 4,
+    "groupName": "All German Verbs 131–140",
+    "base": "sein",
+    "pastSimple": [
+      "war"
+    ],
+    "pastParticiple": [
+      "gewesen"
+    ],
+    "display": "sein → war → gewesen",
+    "translations": {
+      "en": "be",
+      "fr": "être",
+      "es": "ser / estar",
+      "it": "essere",
+      "nl": "zijn",
+      "pt": "ser / estar"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "senden",
+    "group": 4,
+    "groupName": "All German Verbs 131–140",
+    "base": "senden",
+    "pastSimple": [
+      "sandte",
+      "sendete"
+    ],
+    "pastParticiple": [
+      "gesandt",
+      "gesendet"
+    ],
+    "display": "senden → sandte/sendete → gesandt/gesendet",
+    "translations": {
+      "en": "send",
+      "fr": "envoyer",
+      "es": "enviar",
+      "it": "inviare",
+      "nl": "zenden",
+      "pt": "enviar"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "singen",
+    "group": 4,
+    "groupName": "All German Verbs 131–140",
+    "base": "singen",
+    "pastSimple": [
+      "sang"
+    ],
+    "pastParticiple": [
+      "gesungen"
+    ],
+    "display": "singen → sang → gesungen",
+    "translations": {
+      "en": "sing",
+      "fr": "chanter",
+      "es": "cantar",
+      "it": "cantare",
+      "nl": "zingen",
+      "pt": "cantar"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "sinken",
+    "group": 4,
+    "groupName": "All German Verbs 131–140",
+    "base": "sinken",
+    "pastSimple": [
+      "sank"
+    ],
+    "pastParticiple": [
+      "gesunken"
+    ],
+    "display": "sinken → sank → gesunken",
+    "translations": {
+      "en": "sink",
+      "fr": "couler / sombrer",
+      "es": "hundirse",
+      "it": "affondare",
+      "nl": "zinken",
+      "pt": "afundar"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "sinnen",
+    "group": 5,
+    "groupName": "All German Verbs 141–150",
+    "base": "sinnen",
+    "pastSimple": [
+      "sann"
+    ],
+    "pastParticiple": [
+      "gesonnen"
+    ],
+    "display": "sinnen → sann → gesonnen",
+    "translations": {
+      "en": "ponder / reflect",
+      "fr": "méditer / réfléchir",
+      "es": "reflexionar",
+      "it": "riflettere",
+      "nl": "zinnen / peinzen",
+      "pt": "refletir"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "sitzen",
+    "group": 5,
+    "groupName": "All German Verbs 141–150",
+    "base": "sitzen",
+    "pastSimple": [
+      "saß"
+    ],
+    "pastParticiple": [
+      "gesessen"
+    ],
+    "display": "sitzen → saß → gesessen",
+    "translations": {
+      "en": "sit",
+      "fr": "être assis",
+      "es": "estar sentado",
+      "it": "stare seduto",
+      "nl": "zitten",
+      "pt": "estar sentado"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "sollen",
+    "group": 5,
+    "groupName": "All German Verbs 141–150",
+    "base": "sollen",
+    "pastSimple": [
+      "sollte"
+    ],
+    "pastParticiple": [
+      "gesollt"
+    ],
+    "display": "sollen → sollte → gesollt",
+    "translations": {
+      "en": "should / be supposed to",
+      "fr": "devoir / être censé",
+      "es": "deber / se supone que",
+      "it": "dovere / essere supposto",
+      "nl": "zullen / moeten",
+      "pt": "dever / supostamente"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "speien",
+    "group": 5,
+    "groupName": "All German Verbs 141–150",
+    "base": "speien",
+    "pastSimple": [
+      "spie"
+    ],
+    "pastParticiple": [
+      "gespien"
+    ],
+    "display": "speien → spie → gespien",
+    "translations": {
+      "en": "spit / vomit",
+      "fr": "cracher / vomir",
+      "es": "escupir / vomitar",
+      "it": "sputare / vomitare",
+      "nl": "spuwen",
+      "pt": "cuspir / vomitar"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "spinnen",
+    "group": 5,
+    "groupName": "All German Verbs 141–150",
+    "base": "spinnen",
+    "pastSimple": [
+      "spann"
+    ],
+    "pastParticiple": [
+      "gesponnen"
+    ],
+    "display": "spinnen → spann → gesponnen",
+    "translations": {
+      "en": "spin",
+      "fr": "filer",
+      "es": "hilar",
+      "it": "filare",
+      "nl": "spinnen",
+      "pt": "fiar"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "sprechen",
+    "group": 5,
+    "groupName": "All German Verbs 141–150",
+    "base": "sprechen",
+    "pastSimple": [
+      "sprach"
+    ],
+    "pastParticiple": [
+      "gesprochen"
+    ],
+    "display": "sprechen → sprach → gesprochen",
+    "translations": {
+      "en": "speak",
+      "fr": "parler",
+      "es": "hablar",
+      "it": "parlare",
+      "nl": "spreken",
+      "pt": "falar"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "spriessen",
+    "group": 5,
+    "groupName": "All German Verbs 141–150",
+    "base": "sprießen",
+    "pastSimple": [
+      "spross"
+    ],
+    "pastParticiple": [
+      "gesprossen"
+    ],
+    "display": "sprießen → spross → gesprossen",
+    "translations": {
+      "en": "sprout",
+      "fr": "pousser / germer",
+      "es": "brotar",
+      "it": "germogliare",
+      "nl": "ontspruiten",
+      "pt": "brotar"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "springen",
+    "group": 5,
+    "groupName": "All German Verbs 141–150",
+    "base": "springen",
+    "pastSimple": [
+      "sprang"
+    ],
+    "pastParticiple": [
+      "gesprungen"
+    ],
+    "display": "springen → sprang → gesprungen",
+    "translations": {
+      "en": "jump",
+      "fr": "sauter",
+      "es": "saltar",
+      "it": "saltare",
+      "nl": "springen",
+      "pt": "saltar"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "stechen",
+    "group": 5,
+    "groupName": "All German Verbs 141–150",
+    "base": "stechen",
+    "pastSimple": [
+      "stach"
+    ],
+    "pastParticiple": [
+      "gestochen"
+    ],
+    "display": "stechen → stach → gestochen",
+    "translations": {
+      "en": "sting / stab",
+      "fr": "piquer / poignarder",
+      "es": "picar / apuñalar",
+      "it": "pungere / accoltellare",
+      "nl": "steken",
+      "pt": "picar / esfaquear"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "stehen",
+    "group": 5,
+    "groupName": "All German Verbs 141–150",
+    "base": "stehen",
+    "pastSimple": [
+      "stand"
+    ],
+    "pastParticiple": [
+      "gestanden"
+    ],
+    "display": "stehen → stand → gestanden",
+    "translations": {
+      "en": "stand",
+      "fr": "être debout",
+      "es": "estar de pie",
+      "it": "stare in piedi",
+      "nl": "staan",
+      "pt": "estar de pé"
+    },
+    "difficulty": 3
+  }
+]

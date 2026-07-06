@@ -81,15 +81,6 @@ export default function StartPortal() {
           className="h-screen w-full object-cover object-center"
         />
 
-        <div className="absolute left-1/2 top-8 z-30 w-[min(92%,720px)] -translate-x-1/2 rounded-[2rem] bg-white/90 px-6 py-4 text-center shadow-xl backdrop-blur">
-          <h1 className="text-4xl font-black text-blue-950">
-            Choose your language
-          </h1>
-          <p className="mt-2 text-base font-semibold text-slate-600">
-            Pick a language and start exploring vocabulary islands.
-          </p>
-        </div>
-
         {languageZones.map((zone) => (
           <Link
             key={zone.lang}
