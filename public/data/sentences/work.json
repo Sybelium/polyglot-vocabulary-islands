@@ -1,0 +1,266 @@
+{
+  "themeId": "work",
+  "name": "Work & Office",
+  "sentences": [
+    {
+      "id": "work-001",
+      "tags": ["basic"],
+      "text": {
+        "en": "I work here.",
+        "fr": "Je travaille ici.",
+        "es": "Trabajo aquí.",
+        "it": "Lavoro qui.",
+        "pt": "Trabalho aqui.",
+        "de": "Ich arbeite hier.",
+        "nl": "Ik werk hier."
+      }
+    },
+    {
+      "id": "work-002",
+      "tags": ["basic"],
+      "text": {
+        "en": "I work in IT.",
+        "fr": "Je travaille dans l’informatique.",
+        "es": "Trabajo en informática.",
+        "it": "Lavoro nell’informatica.",
+        "pt": "Trabalho em informática.",
+        "de": "Ich arbeite in der IT.",
+        "nl": "Ik werk in IT."
+      }
+    },
+    {
+      "id": "work-003",
+      "tags": ["question", "polite"],
+      "text": {
+        "en": "What do you do for work?",
+        "fr": "Tu fais quoi comme travail ?",
+        "es": "¿En qué trabajas?",
+        "it": "Che lavoro fai?",
+        "pt": "O que fazes no trabalho?",
+        "de": "Was machst du beruflich?",
+        "nl": "Wat doe je voor werk?"
+      }
+    },
+    {
+      "id": "work-004",
+      "tags": ["meeting", "time"],
+      "text": {
+        "en": "We have a meeting at two.",
+        "fr": "On a une réunion à deux heures.",
+        "es": "Tenemos una reunión a las dos.",
+        "it": "Abbiamo una riunione alle due.",
+        "pt": "Temos uma reunião às duas.",
+        "de": "Wir haben um zwei ein Meeting.",
+        "nl": "We hebben om twee uur een vergadering."
+      }
+    },
+    {
+      "id": "work-005",
+      "tags": ["meeting", "question"],
+      "text": {
+        "en": "Can we reschedule the meeting?",
+        "fr": "On peut reporter la réunion ?",
+        "es": "¿Podemos cambiar la reunión?",
+        "it": "Possiamo riprogrammare la riunione?",
+        "pt": "Podemos remarcar a reunião?",
+        "de": "Können wir das Meeting verschieben?",
+        "nl": "Kunnen we de vergadering verzetten?"
+      }
+    },
+    {
+      "id": "work-006",
+      "tags": ["meeting", "polite"],
+      "text": {
+        "en": "Could you send me the agenda?",
+        "fr": "Peux-tu m’envoyer l’ordre du jour ?",
+        "es": "¿Puedes enviarme el orden del día?",
+        "it": "Puoi mandarmi l’ordine del giorno?",
+        "pt": "Podes enviar-me a agenda?",
+        "de": "Kannst du mir die Agenda schicken?",
+        "nl": "Kun je me de agenda sturen?"
+      }
+    },
+    {
+      "id": "work-007",
+      "tags": ["email", "polite"],
+      "text": {
+        "en": "I'll send you an email.",
+        "fr": "Je t’envoie un e-mail.",
+        "es": "Te mando un correo.",
+        "it": "Ti mando un’email.",
+        "pt": "Vou enviar-te um email.",
+        "de": "Ich schicke dir eine E-Mail.",
+        "nl": "Ik stuur je een e-mail."
+      }
+    },
+    {
+      "id": "work-008",
+      "tags": ["email", "polite"],
+      "text": {
+        "en": "Could you please reply by tomorrow?",
+        "fr": "Peux-tu répondre d’ici demain, s’il te plaît ?",
+        "es": "¿Podrías responder para mañana, por favor?",
+        "it": "Potresti rispondere entro domani, per favore?",
+        "pt": "Podes responder até amanhã, por favor?",
+        "de": "Könntest du bitte bis morgen antworten?",
+        "nl": "Kun je uiterlijk morgen antwoorden, alsjeblieft?"
+      }
+    },
+    {
+      "id": "work-009",
+      "tags": ["deadline"],
+      "text": {
+        "en": "We have a deadline.",
+        "fr": "On a une échéance.",
+        "es": "Tenemos una fecha límite.",
+        "it": "Abbiamo una scadenza.",
+        "pt": "Temos um prazo.",
+        "de": "Wir haben eine Frist.",
+        "nl": "We hebben een deadline."
+      }
+    },
+    {
+      "id": "work-010",
+      "tags": ["deadline"],
+      "text": {
+        "en": "This is urgent.",
+        "fr": "C’est urgent.",
+        "es": "Es urgente.",
+        "it": "È urgente.",
+        "pt": "Isto é urgente.",
+        "de": "Das ist dringend.",
+        "nl": "Dit is dringend."
+      }
+    },
+    {
+      "id": "work-011",
+      "tags": ["polite", "request"],
+      "text": {
+        "en": "Could you help me with this?",
+        "fr": "Tu peux m’aider avec ça ?",
+        "es": "¿Puedes ayudarme con esto?",
+        "it": "Puoi aiutarmi con questo?",
+        "pt": "Podes ajudar-me com isto?",
+        "de": "Kannst du mir damit helfen?",
+        "nl": "Kun je me hiermee helpen?"
+      }
+    },
+    {
+      "id": "work-012",
+      "tags": ["polite", "request"],
+      "text": {
+        "en": "Could you take a look at this?",
+        "fr": "Tu peux jeter un œil à ça ?",
+        "es": "¿Puedes echarle un vistazo a esto?",
+        "it": "Puoi dare un’occhiata a questo?",
+        "pt": "Podes dar uma vista de olhos a isto?",
+        "de": "Kannst du dir das bitte anschauen?",
+        "nl": "Kun je hier even naar kijken?"
+      }
+    },
+    {
+      "id": "work-013",
+      "tags": ["workplace"],
+      "text": {
+        "en": "I work from home today.",
+        "fr": "Je travaille de chez moi aujourd’hui.",
+        "es": "Hoy trabajo desde casa.",
+        "it": "Oggi lavoro da casa.",
+        "pt": "Hoje trabalho a partir de casa.",
+        "de": "Ich arbeite heute von zu Hause.",
+        "nl": "Ik werk vandaag vanuit huis."
+      }
+    },
+    {
+      "id": "work-014",
+      "tags": ["workplace"],
+      "text": {
+        "en": "I'm in the office.",
+        "fr": "Je suis au bureau.",
+        "es": "Estoy en la oficina.",
+        "it": "Sono in ufficio.",
+        "pt": "Estou no escritório.",
+        "de": "Ich bin im Büro.",
+        "nl": "Ik ben op kantoor."
+      }
+    },
+    {
+      "id": "work-015",
+      "tags": ["problem"],
+      "text": {
+        "en": "I have a problem with my computer.",
+        "fr": "J’ai un problème avec mon ordinateur.",
+        "es": "Tengo un problema con mi ordenador.",
+        "it": "Ho un problema con il computer.",
+        "pt": "Tenho um problema com o meu computador.",
+        "de": "Ich habe ein Problem mit meinem Computer.",
+        "nl": "Ik heb een probleem met mijn computer."
+      }
+    },
+    {
+      "id": "work-016",
+      "tags": ["problem"],
+      "text": {
+        "en": "The internet isn't working.",
+        "fr": "Internet ne marche pas.",
+        "es": "No funciona internet.",
+        "it": "Internet non funziona.",
+        "pt": "A internet não está a funcionar.",
+        "de": "Das Internet funktioniert nicht.",
+        "nl": "Het internet doet het niet."
+      }
+    },
+    {
+      "id": "work-017",
+      "tags": ["meeting"],
+      "text": {
+        "en": "Let's discuss this later.",
+        "fr": "On en reparle plus tard.",
+        "es": "Hablemos de esto más tarde.",
+        "it": "Ne parliamo più tardi.",
+        "pt": "Falamos disso mais tarde.",
+        "de": "Lass uns später darüber sprechen.",
+        "nl": "Laten we dit later bespreken."
+      }
+    },
+    {
+      "id": "work-018",
+      "tags": ["meeting"],
+      "text": {
+        "en": "Let's take a break.",
+        "fr": "On fait une pause.",
+        "es": "Tomemos un descanso.",
+        "it": "Facciamo una pausa.",
+        "pt": "Vamos fazer uma pausa.",
+        "de": "Machen wir eine Pause.",
+        "nl": "Laten we even pauze nemen."
+      }
+    },
+    {
+      "id": "work-019",
+      "tags": ["formal", "polite"],
+      "text": {
+        "en": "Thank you for your time.",
+        "fr": "Merci pour votre temps.",
+        "es": "Gracias por su tiempo.",
+        "it": "Grazie per il suo tempo.",
+        "pt": "Obrigado/a pelo seu tempo.",
+        "de": "Vielen Dank für Ihre Zeit.",
+        "nl": "Dank u voor uw tijd."
+      }
+    },
+    {
+      "id": "work-020",
+      "tags": ["formal", "polite"],
+      "text": {
+        "en": "Looking forward to your reply.",
+        "fr": "Dans l’attente de votre réponse.",
+        "es": "Quedo a la espera de su respuesta.",
+        "it": "Resto in attesa di una sua risposta.",
+        "pt": "Fico a aguardar a sua resposta.",
+        "de": "Ich freue mich auf Ihre Rückmeldung.",
+        "nl": "Ik zie uw reactie graag tegemoet."
+      }
+    }
+  ]
+}

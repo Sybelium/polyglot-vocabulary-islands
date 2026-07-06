@@ -1,0 +1,136 @@
+{
+  "themeId": "appointments",
+  "name": "Appointments",
+  "sentences": [
+    {
+      "id": "appt-001",
+      "tags": ["basic"],
+      "text": {
+        "en": "I have an appointment.",
+        "fr": "J’ai un rendez-vous.",
+        "es": "Tengo una cita.",
+        "it": "Ho un appuntamento.",
+        "pt": "Tenho um compromisso.",
+        "de": "Ich habe einen Termin.",
+        "nl": "Ik heb een afspraak."
+      }
+    },
+    {
+      "id": "appt-002",
+      "tags": ["question"],
+      "text": {
+        "en": "What time is my appointment?",
+        "fr": "À quelle heure est mon rendez-vous ?",
+        "es": "¿A qué hora es mi cita?",
+        "it": "A che ora è il mio appuntamento?",
+        "pt": "A que horas é o meu compromisso?",
+        "de": "Um wie viel Uhr ist mein Termin?",
+        "nl": "Hoe laat is mijn afspraak?"
+      }
+    },
+    {
+      "id": "appt-003",
+      "tags": ["question"],
+      "text": {
+        "en": "Can I make an appointment?",
+        "fr": "Puis-je prendre un rendez-vous ?",
+        "es": "¿Puedo pedir una cita?",
+        "it": "Posso prendere un appuntamento?",
+        "pt": "Posso marcar um compromisso?",
+        "de": "Kann ich einen Termin vereinbaren?",
+        "nl": "Kan ik een afspraak maken?"
+      }
+    },
+    {
+      "id": "appt-004",
+      "tags": ["schedule"],
+      "text": {
+        "en": "I would like to book an appointment.",
+        "fr": "Je voudrais prendre un rendez-vous.",
+        "es": "Me gustaría reservar una cita.",
+        "it": "Vorrei fissare un appuntamento.",
+        "pt": "Gostaria de marcar um compromisso.",
+        "de": "Ich möchte einen Termin buchen.",
+        "nl": "Ik wil graag een afspraak maken."
+      }
+    },
+    {
+      "id": "appt-005",
+      "tags": ["reschedule"],
+      "text": {
+        "en": "I need to reschedule.",
+        "fr": "Je dois reporter le rendez-vous.",
+        "es": "Necesito cambiar la cita.",
+        "it": "Devo riprogrammare l’appuntamento.",
+        "pt": "Preciso de remarcar.",
+        "de": "Ich muss den Termin verschieben.",
+        "nl": "Ik moet de afspraak verzetten."
+      }
+    },
+    {
+      "id": "appt-006",
+      "tags": ["cancel"],
+      "text": {
+        "en": "I need to cancel my appointment.",
+        "fr": "Je dois annuler mon rendez-vous.",
+        "es": "Necesito cancelar mi cita.",
+        "it": "Devo cancellare il mio appuntamento.",
+        "pt": "Preciso de cancelar o meu compromisso.",
+        "de": "Ich muss meinen Termin absagen.",
+        "nl": "Ik moet mijn afspraak annuleren."
+      }
+    },
+    {
+      "id": "appt-007",
+      "tags": ["late"],
+      "text": {
+        "en": "I will be ten minutes late.",
+        "fr": "Je serai en retard de dix minutes.",
+        "es": "Llegaré diez minutos tarde.",
+        "it": "Arriverò con dieci minuti di ritardo.",
+        "pt": "Vou chegar com dez minutos de atraso.",
+        "de": "Ich komme zehn Minuten zu spät.",
+        "nl": "Ik kom tien minuten te laat."
+      }
+    },
+    {
+      "id": "appt-008",
+      "tags": ["question"],
+      "text": {
+        "en": "Is it possible to come earlier?",
+        "fr": "Est-il possible de venir plus tôt ?",
+        "es": "¿Es posible venir antes?",
+        "it": "È possibile venire prima?",
+        "pt": "É possível vir mais cedo?",
+        "de": "Ist es möglich, früher zu kommen?",
+        "nl": "Is het mogelijk om eerder te komen?"
+      }
+    },
+    {
+      "id": "appt-009",
+      "tags": ["confirmation"],
+      "text": {
+        "en": "I’m here for my appointment.",
+        "fr": "Je suis là pour mon rendez-vous.",
+        "es": "Estoy aquí para mi cita.",
+        "it": "Sono qui per il mio appuntamento.",
+        "pt": "Estou aqui para o meu compromisso.",
+        "de": "Ich bin hier für meinen Termin.",
+        "nl": "Ik ben hier voor mijn afspraak."
+      }
+    },
+    {
+      "id": "appt-010",
+      "tags": ["confirmation"],
+      "text": {
+        "en": "Can you confirm my appointment?",
+        "fr": "Pouvez-vous confirmer mon rendez-vous ?",
+        "es": "¿Puede confirmar mi cita?",
+        "it": "Può confermare il mio appuntamento?",
+        "pt": "Pode confirmar o meu compromisso?",
+        "de": "Können Sie meinen Termin bestätigen?",
+        "nl": "Kunt u mijn afspraak bevestigen?"
+      }
+    }
+  ]
+}

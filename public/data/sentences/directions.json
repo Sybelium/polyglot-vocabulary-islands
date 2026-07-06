@@ -1,0 +1,331 @@
+{
+  "themeId": "directions",
+  "name": "Directions & Navigation",
+  "sentences": [
+    {
+      "id": "direc-001",
+      "tags": ["question", "basic", "travel"],
+      "text": {
+        "en": "Where is the train station?",
+        "fr": "Où est la gare ?",
+        "es": "¿Dónde está la estación?",
+        "it": "Dov'è la stazione?",
+        "pt": "Onde fica a estação?",
+        "de": "Wo ist der Bahnhof?",
+        "nl": "Waar is het station?"
+      }
+    },
+    {
+      "id": "direc-002",
+      "tags": ["question", "travel"],
+      "text": {
+        "en": "Where is the nearest bus stop?",
+        "fr": "Où est l'arrêt de bus le plus proche ?",
+        "es": "¿Dónde está la parada de autobús más cercana?",
+        "it": "Dov'è la fermata dell'autobus più vicina?",
+        "pt": "Onde fica a paragem de autocarro mais próxima?",
+        "de": "Wo ist die nächste Bushaltestelle?",
+        "nl": "Waar is de dichtstbijzijnde bushalte?"
+      }
+    },
+    {
+      "id": "direc-003",
+      "tags": ["question", "travel"],
+      "text": {
+        "en": "How do I get to the city center?",
+        "fr": "Comment aller au centre-ville ?",
+        "es": "¿Cómo llego al centro?",
+        "it": "Come arrivo al centro?",
+        "pt": "Como chego ao centro?",
+        "de": "Wie komme ich ins Stadtzentrum?",
+        "nl": "Hoe kom ik in het centrum?"
+      }
+    },
+    {
+      "id": "direc-004",
+      "tags": ["basic", "answer"],
+      "text": {
+        "en": "Go straight ahead.",
+        "fr": "Allez tout droit.",
+        "es": "Siga recto.",
+        "it": "Vai dritto.",
+        "pt": "Siga em frente.",
+        "de": "Gehen Sie geradeaus.",
+        "nl": "Ga rechtdoor."
+      }
+    },
+    {
+      "id": "direc-005",
+      "tags": ["basic", "answer"],
+      "text": {
+        "en": "Turn left.",
+        "fr": "Tournez à gauche.",
+        "es": "Gire a la izquierda.",
+        "it": "Gira a sinistra.",
+        "pt": "Vire à esquerda.",
+        "de": "Biegen Sie links ab.",
+        "nl": "Sla linksaf."
+      }
+    },
+    {
+      "id": "direc-006",
+      "tags": ["basic", "answer"],
+      "text": {
+        "en": "Turn right.",
+        "fr": "Tournez à droite.",
+        "es": "Gire a la derecha.",
+        "it": "Gira a destra.",
+        "pt": "Vire à direita.",
+        "de": "Biegen Sie rechts ab.",
+        "nl": "Sla rechtsaf."
+      }
+    },
+    {
+      "id": "direc-007",
+      "tags": ["answer", "travel"],
+      "text": {
+        "en": "It's on the left.",
+        "fr": "C'est à gauche.",
+        "es": "Está a la izquierda.",
+        "it": "È sulla sinistra.",
+        "pt": "Fica à esquerda.",
+        "de": "Es ist links.",
+        "nl": "Het is links."
+      }
+    },
+    {
+      "id": "direc-008",
+      "tags": ["answer", "travel"],
+      "text": {
+        "en": "It's on the right.",
+        "fr": "C'est à droite.",
+        "es": "Está a la derecha.",
+        "it": "È sulla destra.",
+        "pt": "Fica à direita.",
+        "de": "Es ist rechts.",
+        "nl": "Het is rechts."
+      }
+    },
+    {
+      "id": "direc-009",
+      "tags": ["answer", "travel"],
+      "text": {
+        "en": "It's near here.",
+        "fr": "C'est près d'ici.",
+        "es": "Está cerca de aquí.",
+        "it": "È vicino a qui.",
+        "pt": "Fica perto daqui.",
+        "de": "Es ist in der Nähe.",
+        "nl": "Het is dichtbij."
+      }
+    },
+    {
+      "id": "direc-010",
+      "tags": ["answer", "travel"],
+      "text": {
+        "en": "It's far from here.",
+        "fr": "C'est loin d'ici.",
+        "es": "Está lejos de aquí.",
+        "it": "È lontano da qui.",
+        "pt": "Fica longe daqui.",
+        "de": "Es ist weit von hier.",
+        "nl": "Het is ver van hier."
+      }
+    },
+    {
+      "id": "direc-011",
+      "tags": ["question", "travel"],
+      "text": {
+        "en": "Is it far?",
+        "fr": "C'est loin ?",
+        "es": "¿Está lejos?",
+        "it": "È lontano?",
+        "pt": "É longe?",
+        "de": "Ist es weit?",
+        "nl": "Is het ver?"
+      }
+    },
+    {
+      "id": "direc-012",
+      "tags": ["question", "travel"],
+      "text": {
+        "en": "Is it within walking distance?",
+        "fr": "C'est à distance de marche ?",
+        "es": "¿Está a poca distancia a pie?",
+        "it": "È raggiungibile a piedi?",
+        "pt": "Fica a uma curta distância a pé?",
+        "de": "Ist es zu Fuß erreichbar?",
+        "nl": "Is het op loopafstand?"
+      }
+    },
+    {
+      "id": "direc-013",
+      "tags": ["question", "travel"],
+      "text": {
+        "en": "How long does it take?",
+        "fr": "Combien de temps ça prend ?",
+        "es": "¿Cuánto tiempo tarda?",
+        "it": "Quanto tempo ci vuole?",
+        "pt": "Quanto tempo demora?",
+        "de": "Wie lange dauert es?",
+        "nl": "Hoe lang duurt het?"
+      }
+    },
+    {
+      "id": "direc-014",
+      "tags": ["answer", "time"],
+      "text": {
+        "en": "It takes about ten minutes.",
+        "fr": "Ça prend environ dix minutes.",
+        "es": "Tarda unos diez minutos.",
+        "it": "Ci vogliono circa dieci minuti.",
+        "pt": "Demora cerca de dez minutos.",
+        "de": "Es dauert ungefähr zehn Minuten.",
+        "nl": "Het duurt ongeveer tien minuten."
+      }
+    },
+    {
+      "id": "direc-015",
+      "tags": ["travel"],
+      "text": {
+        "en": "Next to the bank.",
+        "fr": "À côté de la banque.",
+        "es": "Al lado del banco.",
+        "it": "Accanto alla banca.",
+        "pt": "Ao lado do banco.",
+        "de": "Neben der Bank.",
+        "nl": "Naast de bank."
+      }
+    },
+    {
+      "id": "direc-016",
+      "tags": ["travel"],
+      "text": {
+        "en": "Opposite the supermarket.",
+        "fr": "En face du supermarché.",
+        "es": "Enfrente del supermercado.",
+        "it": "Di fronte al supermercato.",
+        "pt": "Em frente ao supermercado.",
+        "de": "Gegenüber dem Supermarkt.",
+        "nl": "Tegenover de supermarkt."
+      }
+    },
+    {
+      "id": "direc-017",
+      "tags": ["travel"],
+      "text": {
+        "en": "At the corner.",
+        "fr": "Au coin.",
+        "es": "En la esquina.",
+        "it": "All'angolo.",
+        "pt": "Na esquina.",
+        "de": "An der Ecke.",
+        "nl": "Op de hoek."
+      }
+    },
+    {
+      "id": "direc-018",
+      "tags": ["question", "travel"],
+      "text": {
+        "en": "Which bus goes to the airport?",
+        "fr": "Quel bus va à l'aéroport ?",
+        "es": "¿Qué autobús va al aeropuerto?",
+        "it": "Quale autobus va all'aeroporto?",
+        "pt": "Que autocarro vai para o aeroporto?",
+        "de": "Welcher Bus fährt zum Flughafen?",
+        "nl": "Welke bus gaat naar de luchthaven?"
+      }
+    },
+    {
+      "id": "direc-019",
+      "tags": ["question", "travel"],
+      "text": {
+        "en": "Where can I buy a ticket?",
+        "fr": "Où puis-je acheter un billet ?",
+        "es": "¿Dónde puedo comprar un billete?",
+        "it": "Dove posso comprare un biglietto?",
+        "pt": "Onde posso comprar um bilhete?",
+        "de": "Wo kann ich ein Ticket kaufen?",
+        "nl": "Waar kan ik een kaartje kopen?"
+      }
+    },
+    {
+      "id": "direc-020",
+      "tags": ["repair", "polite"],
+      "text": {
+        "en": "Can you show me on the map?",
+        "fr": "Pouvez-vous me montrer sur la carte ?",
+        "es": "¿Puede mostrarme en el mapa?",
+        "it": "Può mostrarmi sulla mappa?",
+        "pt": "Pode mostrar-me no mapa?",
+        "de": "Können Sie es mir auf der Karte zeigen?",
+        "nl": "Kunt u het op de kaart aanwijzen?"
+      }
+    },
+    {
+      "id": "direc-021",
+      "tags": ["repair"],
+      "text": {
+        "en": "I am lost.",
+        "fr": "Je suis perdu(e).",
+        "es": "Estoy perdido/a.",
+        "it": "Mi sono perso/a.",
+        "pt": "Estou perdido/a.",
+        "de": "Ich habe mich verlaufen.",
+        "nl": "Ik ben verdwaald."
+      }
+    },
+    {
+      "id": "direc-022",
+      "tags": ["emergency"],
+      "text": {
+        "en": "I need help.",
+        "fr": "J'ai besoin d'aide.",
+        "es": "Necesito ayuda.",
+        "it": "Ho bisogno di aiuto.",
+        "pt": "Preciso de ajuda.",
+        "de": "Ich brauche Hilfe.",
+        "nl": "Ik heb hulp nodig."
+      }
+    },
+    {
+      "id": "direc-023",
+      "tags": ["question", "travel"],
+      "text": {
+        "en": "Is this the right way?",
+        "fr": "Est-ce le bon chemin ?",
+        "es": "¿Es el camino correcto?",
+        "it": "È la strada giusta?",
+        "pt": "É o caminho certo?",
+        "de": "Ist das der richtige Weg?",
+        "nl": "Is dit de juiste weg?"
+      }
+    },
+    {
+      "id": "direc-024",
+      "tags": ["travel"],
+      "text": {
+        "en": "Go past the traffic lights.",
+        "fr": "Passez les feux.",
+        "es": "Pase los semáforos.",
+        "it": "Supera il semaforo.",
+        "pt": "Passe os semáforos.",
+        "de": "Gehen Sie an der Ampel vorbei.",
+        "nl": "Ga voorbij het verkeerslicht."
+      }
+    },
+    {
+      "id": "direc-025",
+      "tags": ["travel"],
+      "text": {
+        "en": "It's across the street.",
+        "fr": "C'est de l'autre côté de la rue.",
+        "es": "Está al otro lado de la calle.",
+        "it": "È dall'altra parte della strada.",
+        "pt": "Fica do outro lado da rua.",
+        "de": "Es ist auf der anderen Straßenseite.",
+        "nl": "Het is aan de overkant van de straat."
+      }
+    }
+  ]
+}

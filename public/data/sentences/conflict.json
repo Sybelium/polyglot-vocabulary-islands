@@ -1,0 +1,201 @@
+{
+  "themeId": "conflict",
+  "name": "Conflict & Constructive Disagreement",
+  "sentences": [
+    {
+      "id": "conf-001",
+      "tags": ["disagreement"],
+      "text": {
+        "en": "I see it differently.",
+        "fr": "Je vois les choses différemment.",
+        "es": "Lo veo de otra manera.",
+        "it": "La vedo in modo diverso.",
+        "pt": "Vejo a situação de forma diferente.",
+        "de": "Ich sehe das anders.",
+        "nl": "Ik zie dat anders."
+      }
+    },
+    {
+      "id": "conf-002",
+      "tags": ["disagreement"],
+      "text": {
+        "en": "I understand your point, but I have a different opinion.",
+        "fr": "Je comprends ton point de vue, mais j’ai une opinion différente.",
+        "es": "Entiendo tu punto, pero tengo una opinión diferente.",
+        "it": "Capisco il tuo punto di vista, ma ho un'opinione diversa.",
+        "pt": "Compreendo o teu ponto de vista, mas tenho uma opinião diferente.",
+        "de": "Ich verstehe deinen Standpunkt, aber ich habe eine andere Meinung.",
+        "nl": "Ik begrijp je standpunt, maar ik heb een andere mening."
+      }
+    },
+    {
+      "id": "conf-003",
+      "tags": ["clarification"],
+      "text": {
+        "en": "Let me explain my position.",
+        "fr": "Laisse-moi expliquer ma position.",
+        "es": "Déjame explicar mi postura.",
+        "it": "Lascia che spieghi la mia posizione.",
+        "pt": "Deixa-me explicar a minha posição.",
+        "de": "Lass mich meine Position erklären.",
+        "nl": "Laat me mijn standpunt uitleggen."
+      }
+    },
+    {
+      "id": "conf-004",
+      "tags": ["boundary"],
+      "text": {
+        "en": "I’m not comfortable with that.",
+        "fr": "Je ne suis pas à l’aise avec ça.",
+        "es": "No me siento cómodo/a con eso.",
+        "it": "Non mi sento a mio agio con questo.",
+        "pt": "Não me sinto confortável com isso.",
+        "de": "Damit fühle ich mich nicht wohl.",
+        "nl": "Daar voel ik me niet prettig bij."
+      }
+    },
+    {
+      "id": "conf-005",
+      "tags": ["boundary"],
+      "text": {
+        "en": "That doesn’t work for me.",
+        "fr": "Ça ne me convient pas.",
+        "es": "Eso no me funciona.",
+        "it": "Questo non va bene per me.",
+        "pt": "Isso não funciona para mim.",
+        "de": "Das funktioniert für mich nicht.",
+        "nl": "Dat werkt voor mij niet."
+      }
+    },
+    {
+      "id": "conf-006",
+      "tags": ["assertive"],
+      "text": {
+        "en": "I need more time to think about it.",
+        "fr": "J’ai besoin de plus de temps pour y réfléchir.",
+        "es": "Necesito más tiempo para pensarlo.",
+        "it": "Ho bisogno di più tempo per pensarci.",
+        "pt": "Preciso de mais tempo para pensar nisso.",
+        "de": "Ich brauche mehr Zeit, um darüber nachzudenken.",
+        "nl": "Ik heb meer tijd nodig om erover na te denken."
+      }
+    },
+    {
+      "id": "conf-007",
+      "tags": ["calm"],
+      "text": {
+        "en": "Let’s discuss this calmly.",
+        "fr": "Discutons-en calmement.",
+        "es": "Hablemos de esto con calma.",
+        "it": "Parliamone con calma.",
+        "pt": "Vamos discutir isto com calma.",
+        "de": "Lass uns das ruhig besprechen.",
+        "nl": "Laten we dit rustig bespreken."
+      }
+    },
+    {
+      "id": "conf-008",
+      "tags": ["solution"],
+      "text": {
+        "en": "What solution would you suggest?",
+        "fr": "Quelle solution proposes-tu ?",
+        "es": "¿Qué solución propones?",
+        "it": "Quale soluzione proponi?",
+        "pt": "Que solução sugeres?",
+        "de": "Welche Lösung schlägst du vor?",
+        "nl": "Welke oplossing stel je voor?"
+      }
+    },
+    {
+      "id": "conf-009",
+      "tags": ["solution"],
+      "text": {
+        "en": "Let’s try to find common ground.",
+        "fr": "Essayons de trouver un terrain d’entente.",
+        "es": "Intentemos encontrar un punto en común.",
+        "it": "Cerchiamo un punto d’incontro.",
+        "pt": "Vamos tentar encontrar um ponto em comum.",
+        "de": "Lass uns einen gemeinsamen Nenner finden.",
+        "nl": "Laten we een gemeenschappelijk punt vinden."
+      }
+    },
+    {
+      "id": "conf-010",
+      "tags": ["assertive"],
+      "text": {
+        "en": "I stand by my decision.",
+        "fr": "Je maintiens ma décision.",
+        "es": "Mantengo mi decisión.",
+        "it": "Mantengo la mia decisione.",
+        "pt": "Mantenho a minha decisão.",
+        "de": "Ich bleibe bei meiner Entscheidung.",
+        "nl": "Ik blijf bij mijn beslissing."
+      }
+    },
+    {
+      "id": "conf-011",
+      "tags": ["respect"],
+      "text": {
+        "en": "I respect your opinion.",
+        "fr": "Je respecte ton opinion.",
+        "es": "Respeto tu opinión.",
+        "it": "Rispetto la tua opinione.",
+        "pt": "Respeito a tua opinião.",
+        "de": "Ich respektiere deine Meinung.",
+        "nl": "Ik respecteer je mening."
+      }
+    },
+    {
+      "id": "conf-012",
+      "tags": ["deescalation"],
+      "text": {
+        "en": "Let’s focus on solving the problem.",
+        "fr": "Concentrons-nous sur la résolution du problème.",
+        "es": "Centrémonos en resolver el problema.",
+        "it": "Concentriamoci sulla soluzione del problema.",
+        "pt": "Vamos concentrar-nos na solução do problema.",
+        "de": "Lass uns uns auf die Lösung konzentrieren.",
+        "nl": "Laten we ons richten op de oplossing."
+      }
+    },
+    {
+      "id": "conf-013",
+      "tags": ["clarification"],
+      "text": {
+        "en": "Can you clarify what you mean?",
+        "fr": "Peux-tu préciser ce que tu veux dire ?",
+        "es": "¿Puedes aclarar lo que quieres decir?",
+        "it": "Puoi chiarire cosa intendi?",
+        "pt": "Podes esclarecer o que queres dizer?",
+        "de": "Kannst du klarstellen, was du meinst?",
+        "nl": "Kun je verduidelijken wat je bedoelt?"
+      }
+    },
+    {
+      "id": "conf-014",
+      "tags": ["assertive"],
+      "text": {
+        "en": "I cannot accept that.",
+        "fr": "Je ne peux pas accepter cela.",
+        "es": "No puedo aceptar eso.",
+        "it": "Non posso accettarlo.",
+        "pt": "Não posso aceitar isso.",
+        "de": "Das kann ich nicht akzeptieren.",
+        "nl": "Dat kan ik niet accepteren."
+      }
+    },
+    {
+      "id": "conf-015",
+      "tags": ["resolution"],
+      "text": {
+        "en": "Let’s move forward.",
+        "fr": "Avançons.",
+        "es": "Sigamos adelante.",
+        "it": "Andiamo avanti.",
+        "pt": "Vamos seguir em frente.",
+        "de": "Lass uns weitermachen.",
+        "nl": "Laten we verdergaan."
+      }
+    }
+  ]
+}

@@ -1,0 +1,201 @@
+{
+  "themeId": "hobbies",
+  "name": "Hobbies & Free Time",
+  "sentences": [
+    {
+      "id": "hobby-001",
+      "tags": ["basic"],
+      "text": {
+        "en": "In my free time, I like to read.",
+        "fr": "Pendant mon temps libre, j’aime lire.",
+        "es": "En mi tiempo libre, me gusta leer.",
+        "it": "Nel tempo libero mi piace leggere.",
+        "pt": "No meu tempo livre, gosto de ler.",
+        "de": "In meiner Freizeit lese ich gern.",
+        "nl": "In mijn vrije tijd lees ik graag."
+      }
+    },
+    {
+      "id": "hobby-002",
+      "tags": ["basic"],
+      "text": {
+        "en": "I enjoy listening to music.",
+        "fr": "J’aime écouter de la musique.",
+        "es": "Me gusta escuchar música.",
+        "it": "Mi piace ascoltare musica.",
+        "pt": "Gosto de ouvir música.",
+        "de": "Ich höre gern Musik.",
+        "nl": "Ik luister graag naar muziek."
+      }
+    },
+    {
+      "id": "hobby-003",
+      "tags": ["basic"],
+      "text": {
+        "en": "I play football on weekends.",
+        "fr": "Je joue au football le week-end.",
+        "es": "Juego al fútbol los fines de semana.",
+        "it": "Gioco a calcio nel fine settimana.",
+        "pt": "Jogo futebol ao fim de semana.",
+        "de": "Ich spiele am Wochenende Fußball.",
+        "nl": "Ik speel in het weekend voetbal."
+      }
+    },
+    {
+      "id": "hobby-004",
+      "tags": ["basic"],
+      "text": {
+        "en": "I go to the gym twice a week.",
+        "fr": "Je vais à la salle de sport deux fois par semaine.",
+        "es": "Voy al gimnasio dos veces por semana.",
+        "it": "Vado in palestra due volte a settimana.",
+        "pt": "Vou ao ginásio duas vezes por semana.",
+        "de": "Ich gehe zweimal pro Woche ins Fitnessstudio.",
+        "nl": "Ik ga twee keer per week naar de sportschool."
+      }
+    },
+    {
+      "id": "hobby-005",
+      "tags": ["basic"],
+      "text": {
+        "en": "I like watching movies.",
+        "fr": "J’aime regarder des films.",
+        "es": "Me gusta ver películas.",
+        "it": "Mi piace guardare film.",
+        "pt": "Gosto de ver filmes.",
+        "de": "Ich schaue gern Filme.",
+        "nl": "Ik kijk graag films."
+      }
+    },
+    {
+      "id": "hobby-006",
+      "tags": ["basic"],
+      "text": {
+        "en": "I love traveling.",
+        "fr": "J’adore voyager.",
+        "es": "Me encanta viajar.",
+        "it": "Adoro viaggiare.",
+        "pt": "Adoro viajar.",
+        "de": "Ich liebe es zu reisen.",
+        "nl": "Ik hou ervan om te reizen."
+      }
+    },
+    {
+      "id": "hobby-007",
+      "tags": ["basic"],
+      "text": {
+        "en": "I enjoy cooking.",
+        "fr": "J’aime cuisiner.",
+        "es": "Me gusta cocinar.",
+        "it": "Mi piace cucinare.",
+        "pt": "Gosto de cozinhar.",
+        "de": "Ich koche gern.",
+        "nl": "Ik kook graag."
+      }
+    },
+    {
+      "id": "hobby-008",
+      "tags": ["basic"],
+      "text": {
+        "en": "I like drawing and painting.",
+        "fr": "J’aime dessiner et peindre.",
+        "es": "Me gusta dibujar y pintar.",
+        "it": "Mi piace disegnare e dipingere.",
+        "pt": "Gosto de desenhar e pintar.",
+        "de": "Ich zeichne und male gern.",
+        "nl": "Ik teken en schilder graag."
+      }
+    },
+    {
+      "id": "hobby-009",
+      "tags": ["basic"],
+      "text": {
+        "en": "I play the guitar.",
+        "fr": "Je joue de la guitare.",
+        "es": "Toco la guitarra.",
+        "it": "Suono la chitarra.",
+        "pt": "Toco guitarra.",
+        "de": "Ich spiele Gitarre.",
+        "nl": "Ik speel gitaar."
+      }
+    },
+    {
+      "id": "hobby-010",
+      "tags": ["basic"],
+      "text": {
+        "en": "I like learning languages.",
+        "fr": "J’aime apprendre des langues.",
+        "es": "Me gusta aprender idiomas.",
+        "it": "Mi piace imparare lingue.",
+        "pt": "Gosto de aprender línguas.",
+        "de": "Ich lerne gern Sprachen.",
+        "nl": "Ik leer graag talen."
+      }
+    },
+    {
+      "id": "hobby-011",
+      "tags": ["question"],
+      "text": {
+        "en": "What do you like to do in your free time?",
+        "fr": "Qu’est-ce que tu aimes faire pendant ton temps libre ?",
+        "es": "¿Qué te gusta hacer en tu tiempo libre?",
+        "it": "Cosa ti piace fare nel tempo libero?",
+        "pt": "O que gostas de fazer no teu tempo livre?",
+        "de": "Was machst du gern in deiner Freizeit?",
+        "nl": "Wat doe je graag in je vrije tijd?"
+      }
+    },
+    {
+      "id": "hobby-012",
+      "tags": ["question"],
+      "text": {
+        "en": "Do you play any sports?",
+        "fr": "Tu fais du sport ?",
+        "es": "¿Practicas algún deporte?",
+        "it": "Pratichi qualche sport?",
+        "pt": "Praticas algum desporto?",
+        "de": "Treibst du Sport?",
+        "nl": "Doe je aan sport?"
+      }
+    },
+    {
+      "id": "hobby-013",
+      "tags": ["question"],
+      "text": {
+        "en": "What kind of music do you like?",
+        "fr": "Quel genre de musique aimes-tu ?",
+        "es": "¿Qué tipo de música te gusta?",
+        "it": "Che tipo di musica ti piace?",
+        "pt": "Que tipo de música gostas?",
+        "de": "Welche Art von Musik magst du?",
+        "nl": "Wat voor muziek vind je leuk?"
+      }
+    },
+    {
+      "id": "hobby-014",
+      "tags": ["frequency"],
+      "text": {
+        "en": "I practice every day.",
+        "fr": "Je m’entraîne tous les jours.",
+        "es": "Practico todos los días.",
+        "it": "Mi alleno ogni giorno.",
+        "pt": "Pratico todos os dias.",
+        "de": "Ich übe jeden Tag.",
+        "nl": "Ik oefen elke dag."
+      }
+    },
+    {
+      "id": "hobby-015",
+      "tags": ["invitation"],
+      "text": {
+        "en": "Would you like to join me?",
+        "fr": "Tu veux te joindre à moi ?",
+        "es": "¿Te gustaría unirte a mí?",
+        "it": "Ti piacerebbe unirti a me?",
+        "pt": "Queres juntar-te a mim?",
+        "de": "Möchtest du mitmachen?",
+        "nl": "Wil je meedoen?"
+      }
+    }
+  ]
+}

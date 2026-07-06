@@ -1,0 +1,201 @@
+{
+  "themeId": "money",
+  "name": "Money & Payments",
+  "sentences": [
+    {
+      "id": "money-001",
+      "tags": ["payment"],
+      "text": {
+        "en": "How much does it cost?",
+        "fr": "Combien ça coûte ?",
+        "es": "¿Cuánto cuesta?",
+        "it": "Quanto costa?",
+        "pt": "Quanto custa?",
+        "de": "Wie viel kostet das?",
+        "nl": "Hoeveel kost het?"
+      }
+    },
+    {
+      "id": "money-002",
+      "tags": ["payment"],
+      "text": {
+        "en": "Can I pay by card?",
+        "fr": "Puis-je payer par carte ?",
+        "es": "¿Puedo pagar con tarjeta?",
+        "it": "Posso pagare con carta?",
+        "pt": "Posso pagar com cartão?",
+        "de": "Kann ich mit Karte bezahlen?",
+        "nl": "Kan ik met kaart betalen?"
+      }
+    },
+    {
+      "id": "money-003",
+      "tags": ["payment"],
+      "text": {
+        "en": "I will pay in cash.",
+        "fr": "Je vais payer en espèces.",
+        "es": "Pagaré en efectivo.",
+        "it": "Pago in contanti.",
+        "pt": "Pago em dinheiro.",
+        "de": "Ich bezahle bar.",
+        "nl": "Ik betaal contant."
+      }
+    },
+    {
+      "id": "money-004",
+      "tags": ["payment"],
+      "text": {
+        "en": "Can we split the bill?",
+        "fr": "On peut partager l’addition ?",
+        "es": "¿Podemos dividir la cuenta?",
+        "it": "Possiamo dividere il conto?",
+        "pt": "Podemos dividir a conta?",
+        "de": "Können wir die Rechnung teilen?",
+        "nl": "Kunnen we de rekening splitsen?"
+      }
+    },
+    {
+      "id": "money-005",
+      "tags": ["payment"],
+      "text": {
+        "en": "This is too expensive.",
+        "fr": "C’est trop cher.",
+        "es": "Es demasiado caro.",
+        "it": "È troppo caro.",
+        "pt": "É demasiado caro.",
+        "de": "Das ist zu teuer.",
+        "nl": "Dat is te duur."
+      }
+    },
+    {
+      "id": "money-006",
+      "tags": ["banking"],
+      "text": {
+        "en": "I need to withdraw money.",
+        "fr": "Je dois retirer de l’argent.",
+        "es": "Necesito retirar dinero.",
+        "it": "Devo prelevare denaro.",
+        "pt": "Preciso de levantar dinheiro.",
+        "de": "Ich muss Geld abheben.",
+        "nl": "Ik moet geld opnemen."
+      }
+    },
+    {
+      "id": "money-007",
+      "tags": ["banking"],
+      "text": {
+        "en": "Where is the nearest ATM?",
+        "fr": "Où est le distributeur le plus proche ?",
+        "es": "¿Dónde está el cajero más cercano?",
+        "it": "Dov’è il bancomat più vicino?",
+        "pt": "Onde fica o multibanco mais próximo?",
+        "de": "Wo ist der nächste Geldautomat?",
+        "nl": "Waar is de dichtstbijzijnde geldautomaat?"
+      }
+    },
+    {
+      "id": "money-008",
+      "tags": ["salary"],
+      "text": {
+        "en": "What is the salary?",
+        "fr": "Quel est le salaire ?",
+        "es": "¿Cuál es el salario?",
+        "it": "Qual è lo stipendio?",
+        "pt": "Qual é o salário?",
+        "de": "Wie hoch ist das Gehalt?",
+        "nl": "Wat is het salaris?"
+      }
+    },
+    {
+      "id": "money-009",
+      "tags": ["salary"],
+      "text": {
+        "en": "Is this salary negotiable?",
+        "fr": "Ce salaire est-il négociable ?",
+        "es": "¿Es negociable este salario?",
+        "it": "È negoziabile questo stipendio?",
+        "pt": "Este salário é negociável?",
+        "de": "Ist dieses Gehalt verhandelbar?",
+        "nl": "Is dit salaris onderhandelbaar?"
+      }
+    },
+    {
+      "id": "money-010",
+      "tags": ["salary"],
+      "text": {
+        "en": "I was expecting a higher offer.",
+        "fr": "Je m’attendais à une offre plus élevée.",
+        "es": "Esperaba una oferta más alta.",
+        "it": "Mi aspettavo un’offerta più alta.",
+        "pt": "Esperava uma proposta mais elevada.",
+        "de": "Ich hatte ein höheres Angebot erwartet.",
+        "nl": "Ik had een hoger aanbod verwacht."
+      }
+    },
+    {
+      "id": "money-011",
+      "tags": ["finance"],
+      "text": {
+        "en": "I need to save money.",
+        "fr": "Je dois économiser de l’argent.",
+        "es": "Necesito ahorrar dinero.",
+        "it": "Devo risparmiare denaro.",
+        "pt": "Preciso de poupar dinheiro.",
+        "de": "Ich muss Geld sparen.",
+        "nl": "Ik moet geld besparen."
+      }
+    },
+    {
+      "id": "money-012",
+      "tags": ["finance"],
+      "text": {
+        "en": "I’m on a budget.",
+        "fr": "J’ai un budget limité.",
+        "es": "Tengo un presupuesto limitado.",
+        "it": "Ho un budget limitato.",
+        "pt": "Tenho um orçamento limitado.",
+        "de": "Ich habe ein begrenztes Budget.",
+        "nl": "Ik heb een beperkt budget."
+      }
+    },
+    {
+      "id": "money-013",
+      "tags": ["refund"],
+      "text": {
+        "en": "I would like a refund.",
+        "fr": "Je voudrais un remboursement.",
+        "es": "Quisiera un reembolso.",
+        "it": "Vorrei un rimborso.",
+        "pt": "Gostaria de um reembolso.",
+        "de": "Ich hätte gern eine Rückerstattung.",
+        "nl": "Ik wil graag een terugbetaling."
+      }
+    },
+    {
+      "id": "money-014",
+      "tags": ["refund"],
+      "text": {
+        "en": "There was a mistake in the bill.",
+        "fr": "Il y a une erreur dans l’addition.",
+        "es": "Hay un error en la cuenta.",
+        "it": "C’è un errore nel conto.",
+        "pt": "Há um erro na conta.",
+        "de": "Es gibt einen Fehler auf der Rechnung.",
+        "nl": "Er zit een fout in de rekening."
+      }
+    },
+    {
+      "id": "money-015",
+      "tags": ["transfer"],
+      "text": {
+        "en": "I will transfer the money today.",
+        "fr": "Je transférerai l’argent aujourd’hui.",
+        "es": "Transferiré el dinero hoy.",
+        "it": "Trasferirò il denaro oggi.",
+        "pt": "Vou transferir o dinheiro hoje.",
+        "de": "Ich werde das Geld heute überweisen.",
+        "nl": "Ik zal het geld vandaag overmaken."
+      }
+    }
+  ]
+}

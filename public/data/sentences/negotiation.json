@@ -1,0 +1,188 @@
+{
+  "themeId": "negotiation",
+  "name": "Negotiation & Agreement",
+  "sentences": [
+    {
+      "id": "nego-001",
+      "tags": ["proposal"],
+      "text": {
+        "en": "Let me make a proposal.",
+        "fr": "Permettez-moi de faire une proposition.",
+        "es": "Permítame hacer una propuesta.",
+        "it": "Mi permetta di fare una proposta.",
+        "pt": "Permita-me fazer uma proposta.",
+        "de": "Lassen Sie mich einen Vorschlag machen.",
+        "nl": "Laat me een voorstel doen."
+      }
+    },
+    {
+      "id": "nego-002",
+      "tags": ["proposal"],
+      "text": {
+        "en": "Here is what I suggest.",
+        "fr": "Voici ce que je propose.",
+        "es": "Esto es lo que propongo.",
+        "it": "Ecco cosa propongo.",
+        "pt": "Eis o que proponho.",
+        "de": "Folgendes schlage ich vor.",
+        "nl": "Dit stel ik voor."
+      }
+    },
+    {
+      "id": "nego-003",
+      "tags": ["conditions"],
+      "text": {
+        "en": "Under these conditions, we can move forward.",
+        "fr": "Dans ces conditions, nous pouvons avancer.",
+        "es": "En estas condiciones, podemos avanzar.",
+        "it": "In queste condizioni, possiamo andare avanti.",
+        "pt": "Nestas condições, podemos avançar.",
+        "de": "Unter diesen Bedingungen können wir fortfahren.",
+        "nl": "Onder deze voorwaarden kunnen we doorgaan."
+      }
+    },
+    {
+      "id": "nego-004",
+      "tags": ["clarification"],
+      "text": {
+        "en": "Could you clarify your expectations?",
+        "fr": "Pourriez-vous préciser vos attentes ?",
+        "es": "¿Podría aclarar sus expectativas?",
+        "it": "Potrebbe chiarire le sue aspettative?",
+        "pt": "Poderia esclarecer as suas expectativas?",
+        "de": "Könnten Sie Ihre Erwartungen präzisieren?",
+        "nl": "Kunt u uw verwachtingen verduidelijken?"
+      }
+    },
+    {
+      "id": "nego-005",
+      "tags": ["pricing"],
+      "text": {
+        "en": "The price is too high for us.",
+        "fr": "Le prix est trop élevé pour nous.",
+        "es": "El precio es demasiado alto para nosotros.",
+        "it": "Il prezzo è troppo alto per noi.",
+        "pt": "O preço é demasiado elevado para nós.",
+        "de": "Der Preis ist für uns zu hoch.",
+        "nl": "De prijs is voor ons te hoog."
+      }
+    },
+    {
+      "id": "nego-006",
+      "tags": ["pricing"],
+      "text": {
+        "en": "Can you offer a better rate?",
+        "fr": "Pouvez-vous proposer un meilleur tarif ?",
+        "es": "¿Puede ofrecer una mejor tarifa?",
+        "it": "Può offrire una tariffa migliore?",
+        "pt": "Pode oferecer um preço melhor?",
+        "de": "Können Sie einen besseren Preis anbieten?",
+        "nl": "Kunt u een betere prijs aanbieden?"
+      }
+    },
+    {
+      "id": "nego-007",
+      "tags": ["compromise"],
+      "text": {
+        "en": "We are willing to compromise.",
+        "fr": "Nous sommes prêts à faire un compromis.",
+        "es": "Estamos dispuestos a llegar a un compromiso.",
+        "it": "Siamo disposti a trovare un compromesso.",
+        "pt": "Estamos dispostos a chegar a um compromisso.",
+        "de": "Wir sind bereit, einen Kompromiss einzugehen.",
+        "nl": "We zijn bereid een compromis te sluiten."
+      }
+    },
+    {
+      "id": "nego-008",
+      "tags": ["timeline"],
+      "text": {
+        "en": "We need a clear timeline.",
+        "fr": "Nous avons besoin d’un calendrier clair.",
+        "es": "Necesitamos un calendario claro.",
+        "it": "Abbiamo bisogno di una tempistica chiara.",
+        "pt": "Precisamos de um calendário claro.",
+        "de": "Wir brauchen einen klaren Zeitplan.",
+        "nl": "We hebben een duidelijke planning nodig."
+      }
+    },
+    {
+      "id": "nego-009",
+      "tags": ["agreement"],
+      "text": {
+        "en": "That sounds reasonable.",
+        "fr": "Cela semble raisonnable.",
+        "es": "Eso suena razonable.",
+        "it": "Sembra ragionevole.",
+        "pt": "Isso parece razoável.",
+        "de": "Das klingt vernünftig.",
+        "nl": "Dat klinkt redelijk."
+      }
+    },
+    {
+      "id": "nego-010",
+      "tags": ["agreement"],
+      "text": {
+        "en": "We have an agreement.",
+        "fr": "Nous avons un accord.",
+        "es": "Tenemos un acuerdo.",
+        "it": "Abbiamo un accordo.",
+        "pt": "Temos um acordo.",
+        "de": "Wir haben eine Vereinbarung.",
+        "nl": "We hebben een overeenkomst."
+      }
+    },
+    {
+      "id": "nego-011",
+      "tags": ["formal"],
+      "text": {
+        "en": "Let’s put this in writing.",
+        "fr": "Mettons cela par écrit.",
+        "es": "Pongámoslo por escrito.",
+        "it": "Mettiamolo per iscritto.",
+        "pt": "Vamos colocar isto por escrito.",
+        "de": "Lassen Sie uns das schriftlich festhalten.",
+        "nl": "Laten we dit schriftelijk vastleggen."
+      }
+    },
+    {
+      "id": "nego-012",
+      "tags": ["formal"],
+      "text": {
+        "en": "We will review the contract carefully.",
+        "fr": "Nous examinerons le contrat attentivement.",
+        "es": "Revisaremos el contrato cuidadosamente.",
+        "it": "Esamineremo attentamente il contratto.",
+        "pt": "Analisaremos o contrato com atenção.",
+        "de": "Wir werden den Vertrag sorgfältig prüfen.",
+        "nl": "We zullen het contract zorgvuldig bekijken."
+      }
+    },
+    {
+      "id": "nego-013",
+      "tags": ["closing"],
+      "text": {
+        "en": "Thank you for your flexibility.",
+        "fr": "Merci pour votre flexibilité.",
+        "es": "Gracias por su flexibilidad.",
+        "it": "Grazie per la sua flessibilità.",
+        "pt": "Obrigado/a pela sua flexibilidade.",
+        "de": "Vielen Dank für Ihre Flexibilität.",
+        "nl": "Dank u voor uw flexibiliteit."
+      }
+    },
+    {
+      "id": "nego-014",
+      "tags": ["closing"],
+      "text": {
+        "en": "I look forward to our collaboration.",
+        "fr": "Je me réjouis de notre collaboration.",
+        "es": "Espero con interés nuestra colaboración.",
+        "it": "Attendo con interesse la nostra collaborazione.",
+        "pt": "Aguardo com interesse a nossa colaboração.",
+        "de": "Ich freue mich auf unsere Zusammenarbeit.",
+        "nl": "Ik kijk uit naar onze samenwerking."
+      }
+    }
+  ]
+}

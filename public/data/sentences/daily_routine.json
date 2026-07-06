@@ -1,0 +1,201 @@
+{
+  "themeId": "daily_routine",
+  "name": "Daily Routine",
+  "sentences": [
+    {
+      "id": "routine-001",
+      "tags": ["morning"],
+      "text": {
+        "en": "I wake up at seven.",
+        "fr": "Je me réveille à sept heures.",
+        "es": "Me despierto a las siete.",
+        "it": "Mi sveglio alle sette.",
+        "pt": "Acordo às sete.",
+        "de": "Ich wache um sieben auf.",
+        "nl": "Ik word om zeven uur wakker."
+      }
+    },
+    {
+      "id": "routine-002",
+      "tags": ["morning"],
+      "text": {
+        "en": "I get up and take a shower.",
+        "fr": "Je me lève et je prends une douche.",
+        "es": "Me levanto y me ducho.",
+        "it": "Mi alzo e faccio la doccia.",
+        "pt": "Levanto-me e tomo um duche.",
+        "de": "Ich stehe auf und dusche.",
+        "nl": "Ik sta op en neem een douche."
+      }
+    },
+    {
+      "id": "routine-003",
+      "tags": ["morning"],
+      "text": {
+        "en": "I have breakfast at home.",
+        "fr": "Je prends le petit-déjeuner à la maison.",
+        "es": "Desayuno en casa.",
+        "it": "Faccio colazione a casa.",
+        "pt": "Tomo o pequeno-almoço em casa.",
+        "de": "Ich frühstücke zu Hause.",
+        "nl": "Ik ontbijt thuis."
+      }
+    },
+    {
+      "id": "routine-004",
+      "tags": ["work", "school"],
+      "text": {
+        "en": "I go to work by car.",
+        "fr": "Je vais au travail en voiture.",
+        "es": "Voy al trabajo en coche.",
+        "it": "Vado al lavoro in macchina.",
+        "pt": "Vou para o trabalho de carro.",
+        "de": "Ich fahre mit dem Auto zur Arbeit.",
+        "nl": "Ik ga met de auto naar het werk."
+      }
+    },
+    {
+      "id": "routine-005",
+      "tags": ["work", "school"],
+      "text": {
+        "en": "I go to school by bus.",
+        "fr": "Je vais à l’école en bus.",
+        "es": "Voy a la escuela en autobús.",
+        "it": "Vado a scuola in autobus.",
+        "pt": "Vou para a escola de autocarro.",
+        "de": "Ich fahre mit dem Bus zur Schule.",
+        "nl": "Ik ga met de bus naar school."
+      }
+    },
+    {
+      "id": "routine-006",
+      "tags": ["work"],
+      "text": {
+        "en": "I start work at nine.",
+        "fr": "Je commence le travail à neuf heures.",
+        "es": "Empiezo a trabajar a las nueve.",
+        "it": "Inizio a lavorare alle nove.",
+        "pt": "Começo a trabalhar às nove.",
+        "de": "Ich fange um neun an zu arbeiten.",
+        "nl": "Ik begin om negen uur te werken."
+      }
+    },
+    {
+      "id": "routine-007",
+      "tags": ["school"],
+      "text": {
+        "en": "Classes start at eight.",
+        "fr": "Les cours commencent à huit heures.",
+        "es": "Las clases empiezan a las ocho.",
+        "it": "Le lezioni iniziano alle otto.",
+        "pt": "As aulas começam às oito.",
+        "de": "Der Unterricht beginnt um acht.",
+        "nl": "De lessen beginnen om acht uur."
+      }
+    },
+    {
+      "id": "routine-008",
+      "tags": ["daytime"],
+      "text": {
+        "en": "I have lunch at noon.",
+        "fr": "Je déjeune à midi.",
+        "es": "Almuerzo al mediodía.",
+        "it": "Pranzo a mezzogiorno.",
+        "pt": "Almoço ao meio-dia.",
+        "de": "Ich esse um zwölf zu Mittag.",
+        "nl": "Ik lunch om twaalf uur."
+      }
+    },
+    {
+      "id": "routine-009",
+      "tags": ["daytime"],
+      "text": {
+        "en": "I usually finish at five.",
+        "fr": "Je finis généralement à cinq heures.",
+        "es": "Normalmente termino a las cinco.",
+        "it": "Di solito finisco alle cinque.",
+        "pt": "Normalmente acabo às cinco.",
+        "de": "Normalerweise höre ich um fünf auf.",
+        "nl": "Meestal stop ik om vijf uur."
+      }
+    },
+    {
+      "id": "routine-010",
+      "tags": ["evening"],
+      "text": {
+        "en": "I go home after work.",
+        "fr": "Je rentre à la maison après le travail.",
+        "es": "Vuelvo a casa después del trabajo.",
+        "it": "Torno a casa dopo il lavoro.",
+        "pt": "Vou para casa depois do trabalho.",
+        "de": "Ich gehe nach der Arbeit nach Hause.",
+        "nl": "Ik ga na het werk naar huis."
+      }
+    },
+    {
+      "id": "routine-011",
+      "tags": ["evening"],
+      "text": {
+        "en": "I cook dinner in the evening.",
+        "fr": "Je prépare le dîner le soir.",
+        "es": "Cocino la cena por la noche.",
+        "it": "Preparo la cena la sera.",
+        "pt": "Cozinho o jantar à noite.",
+        "de": "Ich koche abends Abendessen.",
+        "nl": "Ik kook 's avonds het avondeten."
+      }
+    },
+    {
+      "id": "routine-012",
+      "tags": ["evening"],
+      "text": {
+        "en": "I watch TV before bed.",
+        "fr": "Je regarde la télévision avant de dormir.",
+        "es": "Veo la televisión antes de dormir.",
+        "it": "Guardo la televisione prima di dormire.",
+        "pt": "Vejo televisão antes de dormir.",
+        "de": "Ich sehe vor dem Schlafengehen fern.",
+        "nl": "Ik kijk televisie voordat ik ga slapen."
+      }
+    },
+    {
+      "id": "routine-013",
+      "tags": ["night"],
+      "text": {
+        "en": "I go to bed at eleven.",
+        "fr": "Je me couche à onze heures.",
+        "es": "Me acuesto a las once.",
+        "it": "Vado a letto alle undici.",
+        "pt": "Deito-me às onze.",
+        "de": "Ich gehe um elf ins Bett.",
+        "nl": "Ik ga om elf uur naar bed."
+      }
+    },
+    {
+      "id": "routine-014",
+      "tags": ["frequency"],
+      "text": {
+        "en": "I exercise three times a week.",
+        "fr": "Je fais du sport trois fois par semaine.",
+        "es": "Hago ejercicio tres veces por semana.",
+        "it": "Faccio esercizio tre volte a settimana.",
+        "pt": "Faço exercício três vezes por semana.",
+        "de": "Ich trainiere dreimal pro Woche.",
+        "nl": "Ik sport drie keer per week."
+      }
+    },
+    {
+      "id": "routine-015",
+      "tags": ["frequency"],
+      "text": {
+        "en": "I don't work on Sundays.",
+        "fr": "Je ne travaille pas le dimanche.",
+        "es": "No trabajo los domingos.",
+        "it": "Non lavoro la domenica.",
+        "pt": "Não trabalho ao domingo.",
+        "de": "Ich arbeite sonntags nicht.",
+        "nl": "Ik werk niet op zondag."
+      }
+    }
+  ]
+}

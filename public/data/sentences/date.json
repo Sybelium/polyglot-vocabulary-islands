@@ -1,0 +1,305 @@
+{
+  "themeId": "date",
+  "name": "Dates & Calendar",
+  "sentences": [
+    {
+      "id": "date-001",
+      "tags": ["question", "date", "basic"],
+      "text": {
+        "en": "What is today's date?",
+        "fr": "Quelle est la date d’aujourd’hui ?",
+        "es": "¿Cuál es la fecha de hoy?",
+        "it": "Qual è la data di oggi?",
+        "pt": "Qual é a data de hoje?",
+        "de": "Welches Datum haben wir heute?",
+        "nl": "Wat is de datum van vandaag?"
+      }
+    },
+    {
+      "id": "date-002",
+      "tags": ["date", "basic"],
+      "text": {
+        "en": "Today is May 5th.",
+        "fr": "Aujourd’hui, c’est le 5 mai.",
+        "es": "Hoy es 5 de mayo.",
+        "it": "Oggi è il 5 maggio.",
+        "pt": "Hoje é dia 5 de maio.",
+        "de": "Heute ist der 5. Mai.",
+        "nl": "Vandaag is het 5 mei."
+      }
+    },
+    {
+      "id": "date-003",
+      "tags": ["question", "date"],
+      "text": {
+        "en": "What day is it today?",
+        "fr": "Quel jour sommes-nous ?",
+        "es": "¿Qué día es hoy?",
+        "it": "Che giorno è oggi?",
+        "pt": "Que dia é hoje?",
+        "de": "Welcher Tag ist heute?",
+        "nl": "Welke dag is het vandaag?"
+      }
+    },
+    {
+      "id": "date-004",
+      "tags": ["date"],
+      "text": {
+        "en": "Today is Monday.",
+        "fr": "Aujourd’hui, c’est lundi.",
+        "es": "Hoy es lunes.",
+        "it": "Oggi è lunedì.",
+        "pt": "Hoje é segunda-feira.",
+        "de": "Heute ist Montag.",
+        "nl": "Vandaag is het maandag."
+      }
+    },
+    {
+      "id": "date-005",
+      "tags": ["date", "time"],
+      "text": {
+        "en": "On Monday.",
+        "fr": "Lundi.",
+        "es": "El lunes.",
+        "it": "Lunedì.",
+        "pt": "Na segunda-feira.",
+        "de": "Am Montag.",
+        "nl": "Op maandag."
+      }
+    },
+    {
+      "id": "date-006",
+      "tags": ["date"],
+      "text": {
+        "en": "This week.",
+        "fr": "Cette semaine.",
+        "es": "Esta semana.",
+        "it": "Questa settimana.",
+        "pt": "Esta semana.",
+        "de": "Diese Woche.",
+        "nl": "Deze week."
+      }
+    },
+    {
+      "id": "date-007",
+      "tags": ["date"],
+      "text": {
+        "en": "Next week.",
+        "fr": "La semaine prochaine.",
+        "es": "La próxima semana.",
+        "it": "La settimana prossima.",
+        "pt": "Na próxima semana.",
+        "de": "Nächste Woche.",
+        "nl": "Volgende week."
+      }
+    },
+    {
+      "id": "date-008",
+      "tags": ["date"],
+      "text": {
+        "en": "Last week.",
+        "fr": "La semaine dernière.",
+        "es": "La semana pasada.",
+        "it": "La settimana scorsa.",
+        "pt": "Na semana passada.",
+        "de": "Letzte Woche.",
+        "nl": "Vorige week."
+      }
+    },
+    {
+      "id": "date-009",
+      "tags": ["date"],
+      "text": {
+        "en": "This month.",
+        "fr": "Ce mois-ci.",
+        "es": "Este mes.",
+        "it": "Questo mese.",
+        "pt": "Este mês.",
+        "de": "Diesen Monat.",
+        "nl": "Deze maand."
+      }
+    },
+    {
+      "id": "date-010",
+      "tags": ["date"],
+      "text": {
+        "en": "Next month.",
+        "fr": "Le mois prochain.",
+        "es": "El mes que viene.",
+        "it": "Il mese prossimo.",
+        "pt": "No próximo mês.",
+        "de": "Nächsten Monat.",
+        "nl": "Volgende maand."
+      }
+    },
+    {
+      "id": "date-011",
+      "tags": ["date"],
+      "text": {
+        "en": "Last month.",
+        "fr": "Le mois dernier.",
+        "es": "El mes pasado.",
+        "it": "Il mese scorso.",
+        "pt": "No mês passado.",
+        "de": "Letzten Monat.",
+        "nl": "Vorige maand."
+      }
+    },
+    {
+      "id": "date-012",
+      "tags": ["date"],
+      "text": {
+        "en": "This year.",
+        "fr": "Cette année.",
+        "es": "Este año.",
+        "it": "Quest’anno.",
+        "pt": "Este ano.",
+        "de": "Dieses Jahr.",
+        "nl": "Dit jaar."
+      }
+    },
+    {
+      "id": "date-013",
+      "tags": ["date"],
+      "text": {
+        "en": "Next year.",
+        "fr": "L’année prochaine.",
+        "es": "El año que viene.",
+        "it": "L’anno prossimo.",
+        "pt": "No próximo ano.",
+        "de": "Nächstes Jahr.",
+        "nl": "Volgend jaar."
+      }
+    },
+    {
+      "id": "date-014",
+      "tags": ["date"],
+      "text": {
+        "en": "Last year.",
+        "fr": "L’année dernière.",
+        "es": "El año pasado.",
+        "it": "L’anno scorso.",
+        "pt": "No ano passado.",
+        "de": "Letztes Jahr.",
+        "nl": "Vorig jaar."
+      }
+    },
+    {
+      "id": "date-015",
+      "tags": ["date", "time", "question"],
+      "text": {
+        "en": "Are you free tomorrow?",
+        "fr": "Tu es libre demain ?",
+        "es": "¿Estás libre mañana?",
+        "it": "Sei libero/a domani?",
+        "pt": "Estás livre amanhã?",
+        "de": "Hast du morgen Zeit?",
+        "nl": "Heb je morgen tijd?"
+      }
+    },
+    {
+      "id": "date-016",
+      "tags": ["date", "time"],
+      "text": {
+        "en": "I'm free on Friday.",
+        "fr": "Je suis libre vendredi.",
+        "es": "Estoy libre el viernes.",
+        "it": "Sono libero/a venerdì.",
+        "pt": "Estou livre na sexta-feira.",
+        "de": "Ich habe am Freitag Zeit.",
+        "nl": "Ik heb vrijdag tijd."
+      }
+    },
+    {
+      "id": "date-017",
+      "tags": ["date", "time"],
+      "text": {
+        "en": "Let's meet next week.",
+        "fr": "On se voit la semaine prochaine.",
+        "es": "Quedamos la próxima semana.",
+        "it": "Ci vediamo la prossima settimana.",
+        "pt": "Encontramo-nos na próxima semana.",
+        "de": "Treffen wir uns nächste Woche.",
+        "nl": "Laten we volgende week afspreken."
+      }
+    },
+    {
+      "id": "date-018",
+      "tags": ["date", "time", "question"],
+      "text": {
+        "en": "What date works for you?",
+        "fr": "Quelle date te convient ?",
+        "es": "¿Qué fecha te viene bien?",
+        "it": "Che data ti va bene?",
+        "pt": "Que data te dá jeito?",
+        "de": "Welches Datum passt dir?",
+        "nl": "Welke datum past voor jou?"
+      }
+    },
+    {
+      "id": "date-019",
+      "tags": ["date"],
+      "text": {
+        "en": "My birthday is on May 5th.",
+        "fr": "Mon anniversaire est le 5 mai.",
+        "es": "Mi cumpleaños es el 5 de mayo.",
+        "it": "Il mio compleanno è il 5 maggio.",
+        "pt": "O meu aniversário é a 5 de maio.",
+        "de": "Mein Geburtstag ist am 5. Mai.",
+        "nl": "Mijn verjaardag is op 5 mei."
+      }
+    },
+    {
+      "id": "date-020",
+      "tags": ["date", "basic"],
+      "text": {
+        "en": "Today is the 5th.",
+        "fr": "Aujourd’hui, c’est le 5.",
+        "es": "Hoy es día 5.",
+        "it": "Oggi è il 5.",
+        "pt": "Hoje é dia 5.",
+        "de": "Heute ist der 5.",
+        "nl": "Vandaag is het de 5e."
+      }
+    },
+    {
+      "id": "date-021",
+      "tags": ["date", "writing"],
+      "text": {
+        "en": "Please write the date here.",
+        "fr": "Veuillez écrire la date ici.",
+        "es": "Por favor, escriba la fecha aquí.",
+        "it": "Per favore, scriva la data qui.",
+        "pt": "Por favor, escreva a data aqui.",
+        "de": "Bitte schreiben Sie hier das Datum.",
+        "nl": "Schrijf de datum hier alstublieft."
+      }
+    },
+    {
+      "id": "date-022",
+      "tags": ["date", "writing"],
+      "text": {
+        "en": "The date is written day/month/year.",
+        "fr": "La date s’écrit jour/mois/année.",
+        "es": "La fecha se escribe día/mes/año.",
+        "it": "La data si scrive giorno/mese/anno.",
+        "pt": "A data escreve-se dia/mês/ano.",
+        "de": "Das Datum schreibt man Tag/Monat/Jahr.",
+        "nl": "De datum schrijf je dag/maand/jaar."
+      }
+    },
+    {
+      "id": "date-023",
+      "tags": ["date", "writing"],
+      "text": {
+        "en": "Today is 05/05/2026.",
+        "fr": "Aujourd’hui, c’est le 05/05/2026.",
+        "es": "Hoy es 05/05/2026.",
+        "it": "Oggi è 05/05/2026.",
+        "pt": "Hoje é 05/05/2026.",
+        "de": "Heute ist der 05.05.2026.",
+        "nl": "Vandaag is het 05-05-2026."
+      }
+    }
+  ]
+}

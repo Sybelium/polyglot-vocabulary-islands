@@ -1,0 +1,201 @@
+{
+  "themeId": "travel_problems",
+  "name": "Travel Problems",
+  "sentences": [
+    {
+      "id": "tprob-001",
+      "tags": ["airport"],
+      "text": {
+        "en": "My flight has been cancelled.",
+        "fr": "Mon vol a été annulé.",
+        "es": "Mi vuelo ha sido cancelado.",
+        "it": "Il mio volo è stato cancellato.",
+        "pt": "O meu voo foi cancelado.",
+        "de": "Mein Flug wurde annulliert.",
+        "nl": "Mijn vlucht is geannuleerd."
+      }
+    },
+    {
+      "id": "tprob-002",
+      "tags": ["airport"],
+      "text": {
+        "en": "My flight is delayed.",
+        "fr": "Mon vol est retardé.",
+        "es": "Mi vuelo está retrasado.",
+        "it": "Il mio volo è in ritardo.",
+        "pt": "O meu voo está atrasado.",
+        "de": "Mein Flug hat Verspätung.",
+        "nl": "Mijn vlucht heeft vertraging."
+      }
+    },
+    {
+      "id": "tprob-003",
+      "tags": ["airport"],
+      "text": {
+        "en": "I missed my flight.",
+        "fr": "J’ai raté mon vol.",
+        "es": "Perdí mi vuelo.",
+        "it": "Ho perso il volo.",
+        "pt": "Perdi o voo.",
+        "de": "Ich habe meinen Flug verpasst.",
+        "nl": "Ik heb mijn vlucht gemist."
+      }
+    },
+    {
+      "id": "tprob-004",
+      "tags": ["luggage"],
+      "text": {
+        "en": "My luggage is missing.",
+        "fr": "Mes bagages ont disparu.",
+        "es": "Mi equipaje está perdido.",
+        "it": "Il mio bagaglio è smarrito.",
+        "pt": "A minha bagagem está desaparecida.",
+        "de": "Mein Gepäck ist verschwunden.",
+        "nl": "Mijn bagage is verdwenen."
+      }
+    },
+    {
+      "id": "tprob-005",
+      "tags": ["luggage"],
+      "text": {
+        "en": "My suitcase has been damaged.",
+        "fr": "Ma valise a été endommagée.",
+        "es": "Mi maleta ha sido dañada.",
+        "it": "La mia valigia è stata danneggiata.",
+        "pt": "A minha mala foi danificada.",
+        "de": "Mein Koffer wurde beschädigt.",
+        "nl": "Mijn koffer is beschadigd."
+      }
+    },
+    {
+      "id": "tprob-006",
+      "tags": ["booking"],
+      "text": {
+        "en": "There is a problem with my reservation.",
+        "fr": "Il y a un problème avec ma réservation.",
+        "es": "Hay un problema con mi reserva.",
+        "it": "C’è un problema con la mia prenotazione.",
+        "pt": "Há um problema com a minha reserva.",
+        "de": "Es gibt ein Problem mit meiner Reservierung.",
+        "nl": "Er is een probleem met mijn reservering."
+      }
+    },
+    {
+      "id": "tprob-007",
+      "tags": ["hotel"],
+      "text": {
+        "en": "The room is not as described.",
+        "fr": "La chambre ne correspond pas à la description.",
+        "es": "La habitación no es como se describía.",
+        "it": "La camera non corrisponde alla descrizione.",
+        "pt": "O quarto não corresponde à descrição.",
+        "de": "Das Zimmer entspricht nicht der Beschreibung.",
+        "nl": "De kamer komt niet overeen met de beschrijving."
+      }
+    },
+    {
+      "id": "tprob-008",
+      "tags": ["hotel"],
+      "text": {
+        "en": "The air conditioning isn't working.",
+        "fr": "La climatisation ne fonctionne pas.",
+        "es": "El aire acondicionado no funciona.",
+        "it": "L’aria condizionata non funziona.",
+        "pt": "O ar condicionado não está a funcionar.",
+        "de": "Die Klimaanlage funktioniert nicht.",
+        "nl": "De airconditioning werkt niet."
+      }
+    },
+    {
+      "id": "tprob-009",
+      "tags": ["documents"],
+      "text": {
+        "en": "I lost my passport.",
+        "fr": "J’ai perdu mon passeport.",
+        "es": "He perdido mi pasaporte.",
+        "it": "Ho perso il mio passaporto.",
+        "pt": "Perdi o meu passaporte.",
+        "de": "Ich habe meinen Reisepass verloren.",
+        "nl": "Ik ben mijn paspoort kwijt."
+      }
+    },
+    {
+      "id": "tprob-010",
+      "tags": ["documents"],
+      "text": {
+        "en": "Where is the nearest embassy?",
+        "fr": "Où est l’ambassade la plus proche ?",
+        "es": "¿Dónde está la embajada más cercana?",
+        "it": "Dov’è l’ambasciata più vicina?",
+        "pt": "Onde fica a embaixada mais próxima?",
+        "de": "Wo ist die nächste Botschaft?",
+        "nl": "Waar is de dichtstbijzijnde ambassade?"
+      }
+    },
+    {
+      "id": "tprob-011",
+      "tags": ["money"],
+      "text": {
+        "en": "My card is not working.",
+        "fr": "Ma carte ne fonctionne pas.",
+        "es": "Mi tarjeta no funciona.",
+        "it": "La mia carta non funziona.",
+        "pt": "O meu cartão não está a funcionar.",
+        "de": "Meine Karte funktioniert nicht.",
+        "nl": "Mijn kaart werkt niet."
+      }
+    },
+    {
+      "id": "tprob-012",
+      "tags": ["money"],
+      "text": {
+        "en": "I was charged twice.",
+        "fr": "On m’a facturé deux fois.",
+        "es": "Me cobraron dos veces.",
+        "it": "Mi hanno addebitato due volte.",
+        "pt": "Fui cobrado duas vezes.",
+        "de": "Mir wurde zweimal berechnet.",
+        "nl": "Er is twee keer geld afgeschreven."
+      }
+    },
+    {
+      "id": "tprob-013",
+      "tags": ["communication"],
+      "text": {
+        "en": "I don't speak the language well.",
+        "fr": "Je ne parle pas bien la langue.",
+        "es": "No hablo bien el idioma.",
+        "it": "Non parlo bene la lingua.",
+        "pt": "Não falo bem a língua.",
+        "de": "Ich spreche die Sprache nicht gut.",
+        "nl": "Ik spreek de taal niet goed."
+      }
+    },
+    {
+      "id": "tprob-014",
+      "tags": ["solution"],
+      "text": {
+        "en": "What can we do to solve this?",
+        "fr": "Que pouvons-nous faire pour résoudre cela ?",
+        "es": "¿Qué podemos hacer para resolver esto?",
+        "it": "Cosa possiamo fare per risolvere questo?",
+        "pt": "O que podemos fazer para resolver isto?",
+        "de": "Was können wir tun, um das zu lösen?",
+        "nl": "Wat kunnen we doen om dit op te lossen?"
+      }
+    },
+    {
+      "id": "tprob-015",
+      "tags": ["solution"],
+      "text": {
+        "en": "I would like a solution as soon as possible.",
+        "fr": "Je souhaiterais une solution dès que possible.",
+        "es": "Quisiera una solución lo antes posible.",
+        "it": "Vorrei una soluzione il prima possibile.",
+        "pt": "Gostaria de uma solução o mais rapidamente possível.",
+        "de": "Ich hätte gern so schnell wie möglich eine Lösung.",
+        "nl": "Ik wil zo snel mogelijk een oplossing."
+      }
+    }
+  ]
+}

@@ -1,0 +1,201 @@
+{
+  "themeId": "relationships",
+  "name": "Relationships",
+  "sentences": [
+    {
+      "id": "rel-001",
+      "tags": ["basic"],
+      "text": {
+        "en": "We are just friends.",
+        "fr": "Nous sommes juste amis.",
+        "es": "Solo somos amigos.",
+        "it": "Siamo solo amici.",
+        "pt": "Somos apenas amigos.",
+        "de": "Wir sind nur Freunde.",
+        "nl": "We zijn gewoon vrienden."
+      }
+    },
+    {
+      "id": "rel-002",
+      "tags": ["basic"],
+      "text": {
+        "en": "We are in a relationship.",
+        "fr": "Nous sommes en couple.",
+        "es": "Estamos en una relación.",
+        "it": "Siamo in una relazione.",
+        "pt": "Estamos numa relação.",
+        "de": "Wir sind in einer Beziehung.",
+        "nl": "We hebben een relatie."
+      }
+    },
+    {
+      "id": "rel-003",
+      "tags": ["basic"],
+      "text": {
+        "en": "I'm in love.",
+        "fr": "Je suis amoureux/amoureuse.",
+        "es": "Estoy enamorado/a.",
+        "it": "Sono innamorato/a.",
+        "pt": "Estou apaixonado/a.",
+        "de": "Ich bin verliebt.",
+        "nl": "Ik ben verliefd."
+      }
+    },
+    {
+      "id": "rel-004",
+      "tags": ["affection"],
+      "text": {
+        "en": "I love you.",
+        "fr": "Je t’aime.",
+        "es": "Te quiero.",
+        "it": "Ti amo.",
+        "pt": "Amo-te.",
+        "de": "Ich liebe dich.",
+        "nl": "Ik hou van je."
+      }
+    },
+    {
+      "id": "rel-005",
+      "tags": ["affection"],
+      "text": {
+        "en": "I miss you.",
+        "fr": "Tu me manques.",
+        "es": "Te echo de menos.",
+        "it": "Mi manchi.",
+        "pt": "Tenho saudades tuas.",
+        "de": "Ich vermisse dich.",
+        "nl": "Ik mis je."
+      }
+    },
+    {
+      "id": "rel-006",
+      "tags": ["affection"],
+      "text": {
+        "en": "You mean a lot to me.",
+        "fr": "Tu comptes beaucoup pour moi.",
+        "es": "Significas mucho para mí.",
+        "it": "Sei molto importante per me.",
+        "pt": "Significas muito para mim.",
+        "de": "Du bedeutest mir viel.",
+        "nl": "Je betekent veel voor mij."
+      }
+    },
+    {
+      "id": "rel-007",
+      "tags": ["emotion"],
+      "text": {
+        "en": "I trust you.",
+        "fr": "Je te fais confiance.",
+        "es": "Confío en ti.",
+        "it": "Mi fido di te.",
+        "pt": "Confio em ti.",
+        "de": "Ich vertraue dir.",
+        "nl": "Ik vertrouw je."
+      }
+    },
+    {
+      "id": "rel-008",
+      "tags": ["emotion"],
+      "text": {
+        "en": "I'm jealous.",
+        "fr": "Je suis jaloux/jalouse.",
+        "es": "Estoy celoso/a.",
+        "it": "Sono geloso/a.",
+        "pt": "Estou com ciúmes.",
+        "de": "Ich bin eifersüchtig.",
+        "nl": "Ik ben jaloers."
+      }
+    },
+    {
+      "id": "rel-009",
+      "tags": ["conflict"],
+      "text": {
+        "en": "We need to talk.",
+        "fr": "Il faut qu’on parle.",
+        "es": "Tenemos que hablar.",
+        "it": "Dobbiamo parlare.",
+        "pt": "Temos de falar.",
+        "de": "Wir müssen reden.",
+        "nl": "We moeten praten."
+      }
+    },
+    {
+      "id": "rel-010",
+      "tags": ["conflict"],
+      "text": {
+        "en": "I'm sorry.",
+        "fr": "Je suis désolé(e).",
+        "es": "Lo siento.",
+        "it": "Mi dispiace.",
+        "pt": "Desculpa.",
+        "de": "Es tut mir leid.",
+        "nl": "Het spijt me."
+      }
+    },
+    {
+      "id": "rel-011",
+      "tags": ["conflict"],
+      "text": {
+        "en": "I forgive you.",
+        "fr": "Je te pardonne.",
+        "es": "Te perdono.",
+        "it": "Ti perdono.",
+        "pt": "Perdoo-te.",
+        "de": "Ich vergebe dir.",
+        "nl": "Ik vergeef je."
+      }
+    },
+    {
+      "id": "rel-012",
+      "tags": ["conflict"],
+      "text": {
+        "en": "I need some space.",
+        "fr": "J’ai besoin d’espace.",
+        "es": "Necesito espacio.",
+        "it": "Ho bisogno di spazio.",
+        "pt": "Preciso de espaço.",
+        "de": "Ich brauche etwas Abstand.",
+        "nl": "Ik heb wat ruimte nodig."
+      }
+    },
+    {
+      "id": "rel-013",
+      "tags": ["relationship"],
+      "text": {
+        "en": "We broke up.",
+        "fr": "On s’est séparés.",
+        "es": "Rompimos.",
+        "it": "Ci siamo lasciati.",
+        "pt": "Terminámos.",
+        "de": "Wir haben uns getrennt.",
+        "nl": "We zijn uit elkaar."
+      }
+    },
+    {
+      "id": "rel-014",
+      "tags": ["relationship"],
+      "text": {
+        "en": "We are engaged.",
+        "fr": "Nous sommes fiancés.",
+        "es": "Estamos comprometidos.",
+        "it": "Siamo fidanzati.",
+        "pt": "Estamos noivos.",
+        "de": "Wir sind verlobt.",
+        "nl": "We zijn verloofd."
+      }
+    },
+    {
+      "id": "rel-015",
+      "tags": ["relationship"],
+      "text": {
+        "en": "We're getting married next year.",
+        "fr": "On se marie l’année prochaine.",
+        "es": "Nos casamos el próximo año.",
+        "it": "Ci sposiamo l’anno prossimo.",
+        "pt": "Vamos casar-nos no próximo ano.",
+        "de": "Wir heiraten nächstes Jahr.",
+        "nl": "We gaan volgend jaar trouwen."
+      }
+    }
+  ]
+}

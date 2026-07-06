@@ -1,0 +1,201 @@
+{
+  "themeId": "home",
+  "name": "Home & Living",
+  "sentences": [
+    {
+      "id": "home-001",
+      "tags": ["basic"],
+      "text": {
+        "en": "I live in an apartment.",
+        "fr": "Je vis dans un appartement.",
+        "es": "Vivo en un apartamento.",
+        "it": "Vivo in un appartamento.",
+        "pt": "Vivo num apartamento.",
+        "de": "Ich wohne in einer Wohnung.",
+        "nl": "Ik woon in een appartement."
+      }
+    },
+    {
+      "id": "home-002",
+      "tags": ["basic"],
+      "text": {
+        "en": "I live in a house.",
+        "fr": "Je vis dans une maison.",
+        "es": "Vivo en una casa.",
+        "it": "Vivo in una casa.",
+        "pt": "Vivo numa casa.",
+        "de": "Ich wohne in einem Haus.",
+        "nl": "Ik woon in een huis."
+      }
+    },
+    {
+      "id": "home-003",
+      "tags": ["description"],
+      "text": {
+        "en": "My apartment is small but comfortable.",
+        "fr": "Mon appartement est petit mais confortable.",
+        "es": "Mi apartamento es pequeño pero cómodo.",
+        "it": "Il mio appartamento è piccolo ma confortevole.",
+        "pt": "O meu apartamento é pequeno mas confortável.",
+        "de": "Meine Wohnung ist klein, aber gemütlich.",
+        "nl": "Mijn appartement is klein maar comfortabel."
+      }
+    },
+    {
+      "id": "home-004",
+      "tags": ["description"],
+      "text": {
+        "en": "There are three rooms.",
+        "fr": "Il y a trois pièces.",
+        "es": "Hay tres habitaciones.",
+        "it": "Ci sono tre stanze.",
+        "pt": "Há três divisões.",
+        "de": "Es gibt drei Zimmer.",
+        "nl": "Er zijn drie kamers."
+      }
+    },
+    {
+      "id": "home-005",
+      "tags": ["description"],
+      "text": {
+        "en": "The kitchen is next to the living room.",
+        "fr": "La cuisine est à côté du salon.",
+        "es": "La cocina está al lado del salón.",
+        "it": "La cucina è accanto al soggiorno.",
+        "pt": "A cozinha fica ao lado da sala.",
+        "de": "Die Küche ist neben dem Wohnzimmer.",
+        "nl": "De keuken is naast de woonkamer."
+      }
+    },
+    {
+      "id": "home-006",
+      "tags": ["chores"],
+      "text": {
+        "en": "I need to clean the house.",
+        "fr": "Je dois nettoyer la maison.",
+        "es": "Necesito limpiar la casa.",
+        "it": "Devo pulire la casa.",
+        "pt": "Preciso de limpar a casa.",
+        "de": "Ich muss das Haus putzen.",
+        "nl": "Ik moet het huis schoonmaken."
+      }
+    },
+    {
+      "id": "home-007",
+      "tags": ["chores"],
+      "text": {
+        "en": "Can you take out the trash?",
+        "fr": "Peux-tu sortir les poubelles ?",
+        "es": "¿Puedes sacar la basura?",
+        "it": "Puoi portare fuori la spazzatura?",
+        "pt": "Podes levar o lixo?",
+        "de": "Kannst du den Müll rausbringen?",
+        "nl": "Kun je het afval buiten zetten?"
+      }
+    },
+    {
+      "id": "home-008",
+      "tags": ["chores"],
+      "text": {
+        "en": "I'll wash the dishes.",
+        "fr": "Je vais faire la vaisselle.",
+        "es": "Lavaré los platos.",
+        "it": "Laverò i piatti.",
+        "pt": "Vou lavar a loiça.",
+        "de": "Ich spüle das Geschirr.",
+        "nl": "Ik doe de afwas."
+      }
+    },
+    {
+      "id": "home-009",
+      "tags": ["problem"],
+      "text": {
+        "en": "There is a problem with the heating.",
+        "fr": "Il y a un problème avec le chauffage.",
+        "es": "Hay un problema con la calefacción.",
+        "it": "C’è un problema con il riscaldamento.",
+        "pt": "Há um problema com o aquecimento.",
+        "de": "Es gibt ein Problem mit der Heizung.",
+        "nl": "Er is een probleem met de verwarming."
+      }
+    },
+    {
+      "id": "home-010",
+      "tags": ["problem"],
+      "text": {
+        "en": "The water isn't working.",
+        "fr": "L’eau ne fonctionne pas.",
+        "es": "El agua no funciona.",
+        "it": "L’acqua non funziona.",
+        "pt": "A água não está a funcionar.",
+        "de": "Das Wasser funktioniert nicht.",
+        "nl": "Het water werkt niet."
+      }
+    },
+    {
+      "id": "home-011",
+      "tags": ["request"],
+      "text": {
+        "en": "Please close the door.",
+        "fr": "Ferme la porte, s’il te plaît.",
+        "es": "Por favor, cierra la puerta.",
+        "it": "Per favore, chiudi la porta.",
+        "pt": "Fecha a porta, por favor.",
+        "de": "Bitte schließ die Tür.",
+        "nl": "Doe alsjeblieft de deur dicht."
+      }
+    },
+    {
+      "id": "home-012",
+      "tags": ["request"],
+      "text": {
+        "en": "Can you open the window?",
+        "fr": "Peux-tu ouvrir la fenêtre ?",
+        "es": "¿Puedes abrir la ventana?",
+        "it": "Puoi aprire la finestra?",
+        "pt": "Podes abrir a janela?",
+        "de": "Kannst du das Fenster öffnen?",
+        "nl": "Kun je het raam openen?"
+      }
+    },
+    {
+      "id": "home-013",
+      "tags": ["comfort"],
+      "text": {
+        "en": "Make yourself at home.",
+        "fr": "Fais comme chez toi.",
+        "es": "Siéntete como en casa.",
+        "it": "Fai come se fossi a casa tua.",
+        "pt": "Sente-te em casa.",
+        "de": "Fühl dich wie zu Hause.",
+        "nl": "Voel je thuis."
+      }
+    },
+    {
+      "id": "home-014",
+      "tags": ["comfort"],
+      "text": {
+        "en": "Would you like something to drink?",
+        "fr": "Tu veux quelque chose à boire ?",
+        "es": "¿Quieres algo de beber?",
+        "it": "Vuoi qualcosa da bere?",
+        "pt": "Queres alguma coisa para beber?",
+        "de": "Möchtest du etwas trinken?",
+        "nl": "Wil je iets drinken?"
+      }
+    },
+    {
+      "id": "home-015",
+      "tags": ["housing"],
+      "text": {
+        "en": "The rent is due next week.",
+        "fr": "Le loyer est dû la semaine prochaine.",
+        "es": "El alquiler vence la próxima semana.",
+        "it": "L’affitto scade la prossima settimana.",
+        "pt": "A renda vence na próxima semana.",
+        "de": "Die Miete ist nächste Woche fällig.",
+        "nl": "De huur is volgende week verschuldigd."
+      }
+    }
+  ]
+}

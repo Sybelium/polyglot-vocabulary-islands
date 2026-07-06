@@ -1,0 +1,195 @@
+{
+  "version": 1,
+  "updatedAt": "2026-02-22",
+  "themes": [
+    {
+      "id": "greetings",
+      "name": "Greetings",
+      "icon": "👋",
+      "description": "Hello, goodbye, and basic polite expressions",
+      "tags": ["basic", "polite", "smalltalk"]
+    },
+    {
+      "id": "smalltalk",
+      "name": "Small Talk",
+      "icon": "💬",
+      "description": "Simple conversation starters and everyday chat",
+      "tags": ["basic", "polite", "conversation"]
+    },
+    {
+      "id": "directions",
+      "name": "Directions",
+      "icon": "🧭",
+      "description": "Asking for and understanding directions",
+      "tags": ["travel", "navigation"]
+    },
+    {
+      "id": "transport",
+      "name": "Transport",
+      "icon": "🚆",
+      "description": "Public transport, taxis, tickets, and stations",
+      "tags": ["travel", "tickets", "time"]
+    },
+    {
+      "id": "hotel",
+      "name": "Hotel & Accommodation",
+      "icon": "🏨",
+      "description": "Booking, check-in, and common hotel requests",
+      "tags": ["travel", "stay"]
+    },
+    {
+      "id": "travel_problems",
+      "name": "Travel Problems",
+      "icon": "🧳",
+      "description": "Delays, missing luggage, reservation issues, and documents",
+      "tags": ["travel", "problems", "solution"]
+    },
+    {
+      "id": "restaurant",
+      "name": "Restaurant",
+      "icon": "🍽️",
+      "description": "Ordering food, asking questions, and paying",
+      "tags": ["food", "travel", "payment"]
+    },
+    {
+      "id": "shopping",
+      "name": "Shopping",
+      "icon": "🛍️",
+      "description": "Buying things, sizes, prices, and returns",
+      "tags": ["payment", "everyday"]
+    },
+    {
+      "id": "time",
+      "name": "Time",
+      "icon": "⏰",
+      "description": "Asking the time, schedules, and simple timing phrases",
+      "tags": ["time", "basic"]
+    },
+    {
+      "id": "date",
+      "name": "Date",
+      "icon": "📅",
+      "description": "Dates and planning (not days/months vocabulary)",
+      "tags": ["time", "planning"]
+    },
+    {
+      "id": "weather",
+      "name": "Weather",
+      "icon": "🌦️",
+      "description": "Weather descriptions and forecast talk",
+      "tags": ["smalltalk", "daily"]
+    },
+    {
+      "id": "emotions",
+      "name": "Emotions & Feelings",
+      "icon": "😊",
+      "description": "Expressing how you feel",
+      "tags": ["personal", "basic"]
+    },
+    {
+      "id": "opinions",
+      "name": "Opinions & Preferences",
+      "icon": "🗣️",
+      "description": "Saying what you think, like, and prefer",
+      "tags": ["conversation", "basic"]
+    },
+    {
+      "id": "family",
+      "name": "Family",
+      "icon": "👨‍👩‍👧‍👦",
+      "description": "Talking about family and relatives",
+      "tags": ["personal", "basic"]
+    },
+    {
+      "id": "relationships",
+      "name": "Relationships",
+      "icon": "❤️",
+      "description": "Friendship and romantic relationship basics",
+      "tags": ["personal", "conversation"]
+    },
+    {
+      "id": "home",
+      "name": "Home & Living",
+      "icon": "🏠",
+      "description": "Home life, chores, and basic household issues",
+      "tags": ["daily", "everyday"]
+    },
+    {
+      "id": "daily_routine",
+      "name": "Daily Routine",
+      "icon": "🧼",
+      "description": "Waking up, meals, work/school day, and habits",
+      "tags": ["daily", "time"]
+    },
+    {
+      "id": "school",
+      "name": "School & Classroom",
+      "icon": "🏫",
+      "description": "Classroom phrases, homework, and understanding",
+      "tags": ["learning", "daily"]
+    },
+    {
+      "id": "work",
+      "name": "Work & Office",
+      "icon": "💼",
+      "description": "Meetings, emails, deadlines, and office basics",
+      "tags": ["professional", "time"]
+    },
+    {
+      "id": "appointments",
+      "name": "Appointments",
+      "icon": "📌",
+      "description": "Booking, rescheduling, cancelling, and arriving for appointments",
+      "tags": ["planning", "time", "daily"]
+    },
+    {
+      "id": "phone_internet",
+      "name": "Phone & Internet",
+      "icon": "📱",
+      "description": "Wi-Fi, SIM cards, calls, messages, and connection problems",
+      "tags": ["daily", "communication"]
+    },
+    {
+      "id": "medical",
+      "name": "Medical Appointment",
+      "icon": "🩺",
+      "description": "Doctor visit basics and health needs",
+      "tags": ["health", "care"]
+    },
+    {
+      "id": "emergency",
+      "name": "Emergency",
+      "icon": "🚨",
+      "description": "Urgent situations and getting help",
+      "tags": ["safety", "urgent"]
+    },
+    {
+      "id": "conflict",
+      "name": "Conflict & Constructive Disagreement",
+      "icon": "🤝",
+      "description": "Diplomatic boundaries and respectful disagreement",
+      "tags": ["communication", "resolution"]
+    },
+    {
+      "id": "negotiation",
+      "name": "Negotiation & Agreement",
+      "icon": "📈",
+      "description": "Proposals, terms, and reaching an agreement",
+      "tags": ["professional", "agreement"]
+    },
+    {
+      "id": "money",
+      "name": "Money & Payments",
+      "icon": "💳",
+      "description": "Paying, banking basics, salary, and refunds",
+      "tags": ["payment", "finance"]
+    },
+    {
+      "id": "hobbies",
+      "name": "Hobbies & Free Time",
+      "icon": "🎨",
+      "description": "Talking about interests and what you do for fun",
+      "tags": ["smalltalk", "personal"]
+    }
+  ]
+}

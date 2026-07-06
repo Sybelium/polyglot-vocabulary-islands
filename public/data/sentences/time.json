@@ -1,0 +1,331 @@
+{
+  "themeId": "time",
+  "name": "Time & Scheduling",
+  "sentences": [
+    {
+      "id": "time-001",
+      "tags": ["question", "basic", "time"],
+      "text": {
+        "en": "What time is it?",
+        "fr": "Quelle heure est-il ?",
+        "es": "¿Qué hora es?",
+        "it": "Che ore sono?",
+        "pt": "Que horas são?",
+        "de": "Wie spät ist es?",
+        "nl": "Hoe laat is het?"
+      }
+    },
+    {
+      "id": "time-002",
+      "tags": ["basic", "time"],
+      "text": {
+        "en": "It's one o'clock.",
+        "fr": "Il est une heure.",
+        "es": "Es la una.",
+        "it": "È l’una.",
+        "pt": "É uma hora.",
+        "de": "Es ist ein Uhr.",
+        "nl": "Het is één uur."
+      }
+    },
+    {
+      "id": "time-003",
+      "tags": ["time"],
+      "text": {
+        "en": "It's two thirty.",
+        "fr": "Il est deux heures et demie.",
+        "es": "Son las dos y media.",
+        "it": "Sono le due e mezza.",
+        "pt": "São duas e meia.",
+        "de": "Es ist halb drei.",
+        "nl": "Het is half drie."
+      }
+    },
+    {
+      "id": "time-004",
+      "tags": ["time"],
+      "text": {
+        "en": "It's quarter past three.",
+        "fr": "Il est trois heures et quart.",
+        "es": "Son las tres y cuarto.",
+        "it": "Sono le tre e un quarto.",
+        "pt": "São três e um quarto.",
+        "de": "Es ist Viertel nach drei.",
+        "nl": "Het is kwart over drie."
+      }
+    },
+    {
+      "id": "time-005",
+      "tags": ["time"],
+      "text": {
+        "en": "It's quarter to four.",
+        "fr": "Il est quatre heures moins le quart.",
+        "es": "Son las cuatro menos cuarto.",
+        "it": "Sono le quattro meno un quarto.",
+        "pt": "São quatro menos um quarto.",
+        "de": "Es ist Viertel vor vier.",
+        "nl": "Het is kwart voor vier."
+      }
+    },
+    {
+      "id": "time-006",
+      "tags": ["question", "time"],
+      "text": {
+        "en": "What time does it start?",
+        "fr": "À quelle heure ça commence ?",
+        "es": "¿A qué hora empieza?",
+        "it": "A che ora comincia?",
+        "pt": "A que horas começa?",
+        "de": "Wann fängt es an?",
+        "nl": "Hoe laat begint het?"
+      }
+    },
+    {
+      "id": "time-007",
+      "tags": ["answer", "time"],
+      "text": {
+        "en": "It starts at seven.",
+        "fr": "Ça commence à sept heures.",
+        "es": "Empieza a las siete.",
+        "it": "Comincia alle sette.",
+        "pt": "Começa às sete.",
+        "de": "Es fängt um sieben an.",
+        "nl": "Het begint om zeven uur."
+      }
+    },
+    {
+      "id": "time-008",
+      "tags": ["question", "time", "travel"],
+      "text": {
+        "en": "What time does the train leave?",
+        "fr": "À quelle heure part le train ?",
+        "es": "¿A qué hora sale el tren?",
+        "it": "A che ora parte il treno?",
+        "pt": "A que horas parte o comboio?",
+        "de": "Wann fährt der Zug ab?",
+        "nl": "Hoe laat vertrekt de trein?"
+      }
+    },
+    {
+      "id": "time-009",
+      "tags": ["question", "time"],
+      "text": {
+        "en": "What time do you open?",
+        "fr": "À quelle heure ouvrez-vous ?",
+        "es": "¿A qué hora abren?",
+        "it": "A che ora aprite?",
+        "pt": "A que horas abrem?",
+        "de": "Wann öffnen Sie?",
+        "nl": "Hoe laat gaan jullie open?"
+      }
+    },
+    {
+      "id": "time-010",
+      "tags": ["question", "time"],
+      "text": {
+        "en": "What time do you close?",
+        "fr": "À quelle heure fermez-vous ?",
+        "es": "¿A qué hora cierran?",
+        "it": "A che ora chiudete?",
+        "pt": "A que horas fecham?",
+        "de": "Wann schließen Sie?",
+        "nl": "Hoe laat sluiten jullie?"
+      }
+    },
+    {
+      "id": "time-011",
+      "tags": ["question", "time"],
+      "text": {
+        "en": "Are you open on Sundays?",
+        "fr": "Vous êtes ouvert le dimanche ?",
+        "es": "¿Abren los domingos?",
+        "it": "Siete aperti la domenica?",
+        "pt": "Estão abertos ao domingo?",
+        "de": "Haben Sie sonntags geöffnet?",
+        "nl": "Zijn jullie op zondag open?"
+      }
+    },
+    {
+      "id": "time-012",
+      "tags": ["time", "basic"],
+      "text": {
+        "en": "Today.",
+        "fr": "Aujourd’hui.",
+        "es": "Hoy.",
+        "it": "Oggi.",
+        "pt": "Hoje.",
+        "de": "Heute.",
+        "nl": "Vandaag."
+      }
+    },
+    {
+      "id": "time-013",
+      "tags": ["time", "basic"],
+      "text": {
+        "en": "Tomorrow.",
+        "fr": "Demain.",
+        "es": "Mañana.",
+        "it": "Domani.",
+        "pt": "Amanhã.",
+        "de": "Morgen.",
+        "nl": "Morgen."
+      }
+    },
+    {
+      "id": "time-014",
+      "tags": ["time", "basic"],
+      "text": {
+        "en": "Now.",
+        "fr": "Maintenant.",
+        "es": "Ahora.",
+        "it": "Adesso.",
+        "pt": "Agora.",
+        "de": "Jetzt.",
+        "nl": "Nu."
+      }
+    },
+    {
+      "id": "time-015",
+      "tags": ["time"],
+      "text": {
+        "en": "Later.",
+        "fr": "Plus tard.",
+        "es": "Más tarde.",
+        "it": "Più tardi.",
+        "pt": "Mais tarde.",
+        "de": "Später.",
+        "nl": "Later."
+      }
+    },
+    {
+      "id": "time-016",
+      "tags": ["time"],
+      "text": {
+        "en": "In ten minutes.",
+        "fr": "Dans dix minutes.",
+        "es": "En diez minutos.",
+        "it": "Tra dieci minuti.",
+        "pt": "Daqui a dez minutos.",
+        "de": "In zehn Minuten.",
+        "nl": "Over tien minuten."
+      }
+    },
+    {
+      "id": "time-017",
+      "tags": ["time"],
+      "text": {
+        "en": "In half an hour.",
+        "fr": "Dans une demi-heure.",
+        "es": "En media hora.",
+        "it": "Tra mezz’ora.",
+        "pt": "Daqui a meia hora.",
+        "de": "In einer halben Stunde.",
+        "nl": "Over een half uur."
+      }
+    },
+    {
+      "id": "time-018",
+      "tags": ["time"],
+      "text": {
+        "en": "In an hour.",
+        "fr": "Dans une heure.",
+        "es": "En una hora.",
+        "it": "Tra un’ora.",
+        "pt": "Daqui a uma hora.",
+        "de": "In einer Stunde.",
+        "nl": "Over een uur."
+      }
+    },
+    {
+      "id": "time-019",
+      "tags": ["question", "time"],
+      "text": {
+        "en": "Do you have time?",
+        "fr": "Vous avez le temps ?",
+        "es": "¿Tienes tiempo?",
+        "it": "Hai tempo?",
+        "pt": "Tens tempo?",
+        "de": "Hast du Zeit?",
+        "nl": "Heb je tijd?"
+      }
+    },
+    {
+      "id": "time-020",
+      "tags": ["question", "time", "polite"],
+      "text": {
+        "en": "When are you available?",
+        "fr": "Quand êtes-vous disponible ?",
+        "es": "¿Cuándo está disponible?",
+        "it": "Quando è disponibile?",
+        "pt": "Quando está disponível?",
+        "de": "Wann sind Sie verfügbar?",
+        "nl": "Wanneer bent u beschikbaar?"
+      }
+    },
+    {
+      "id": "time-021",
+      "tags": ["time", "basic"],
+      "text": {
+        "en": "Let's meet at six.",
+        "fr": "On se voit à six heures.",
+        "es": "Quedamos a las seis.",
+        "it": "Ci vediamo alle sei.",
+        "pt": "Encontramo-nos às seis.",
+        "de": "Treffen wir uns um sechs.",
+        "nl": "Laten we om zes uur afspreken."
+      }
+    },
+    {
+      "id": "time-022",
+      "tags": ["time", "basic"],
+      "text": {
+        "en": "I'm late.",
+        "fr": "Je suis en retard.",
+        "es": "Llego tarde.",
+        "it": "Sono in ritardo.",
+        "pt": "Estou atrasado/a.",
+        "de": "Ich bin spät dran.",
+        "nl": "Ik ben te laat."
+      }
+    },
+    {
+      "id": "time-023",
+      "tags": ["time", "polite"],
+      "text": {
+        "en": "Sorry, I'm running late.",
+        "fr": "Désolé(e), je vais être en retard.",
+        "es": "Perdón, voy a llegar tarde.",
+        "it": "Scusa, sto arrivando in ritardo.",
+        "pt": "Desculpe, vou chegar atrasado/a.",
+        "de": "Entschuldigung, ich komme später.",
+        "nl": "Sorry, ik ben wat later."
+      }
+    },
+    {
+      "id": "time-024",
+      "tags": ["time"],
+      "text": {
+        "en": "I'm on my way.",
+        "fr": "Je suis en route.",
+        "es": "Ya voy de camino.",
+        "it": "Sto arrivando.",
+        "pt": "Já vou a caminho.",
+        "de": "Ich bin unterwegs.",
+        "nl": "Ik ben onderweg."
+      }
+    },
+    {
+      "id": "time-025",
+      "tags": ["time"],
+      "text": {
+        "en": "See you soon.",
+        "fr": "À tout à l’heure.",
+        "es": "Hasta pronto.",
+        "it": "A presto.",
+        "pt": "Até já.",
+        "de": "Bis gleich.",
+        "nl": "Tot zo."
+      }
+    }
+  ]
+}

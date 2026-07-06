@@ -1,0 +1,201 @@
+{
+  "themeId": "family",
+  "name": "Family",
+  "sentences": [
+    {
+      "id": "family-001",
+      "tags": ["basic"],
+      "text": {
+        "en": "I have a big family.",
+        "fr": "J’ai une grande famille.",
+        "es": "Tengo una familia grande.",
+        "it": "Ho una famiglia grande.",
+        "pt": "Tenho uma família grande.",
+        "de": "Ich habe eine große Familie.",
+        "nl": "Ik heb een grote familie."
+      }
+    },
+    {
+      "id": "family-002",
+      "tags": ["basic"],
+      "text": {
+        "en": "I have two brothers and one sister.",
+        "fr": "J’ai deux frères et une sœur.",
+        "es": "Tengo dos hermanos y una hermana.",
+        "it": "Ho due fratelli e una sorella.",
+        "pt": "Tenho dois irmãos e uma irmã.",
+        "de": "Ich habe zwei Brüder und eine Schwester.",
+        "nl": "Ik heb twee broers en één zus."
+      }
+    },
+    {
+      "id": "family-003",
+      "tags": ["basic"],
+      "text": {
+        "en": "I am an only child.",
+        "fr": "Je suis enfant unique.",
+        "es": "Soy hijo/hija único/a.",
+        "it": "Sono figlio/a unico/a.",
+        "pt": "Sou filho/a único/a.",
+        "de": "Ich bin Einzelkind.",
+        "nl": "Ik ben enig kind."
+      }
+    },
+    {
+      "id": "family-004",
+      "tags": ["basic"],
+      "text": {
+        "en": "I live with my parents.",
+        "fr": "Je vis avec mes parents.",
+        "es": "Vivo con mis padres.",
+        "it": "Vivo con i miei genitori.",
+        "pt": "Vivo com os meus pais.",
+        "de": "Ich wohne bei meinen Eltern.",
+        "nl": "Ik woon bij mijn ouders."
+      }
+    },
+    {
+      "id": "family-005",
+      "tags": ["basic"],
+      "text": {
+        "en": "I live with my partner.",
+        "fr": "Je vis avec mon/ma partenaire.",
+        "es": "Vivo con mi pareja.",
+        "it": "Vivo con il/la mio/a partner.",
+        "pt": "Vivo com o/a meu/minha companheiro/a.",
+        "de": "Ich lebe mit meinem/meiner Partner/in.",
+        "nl": "Ik woon samen met mijn partner."
+      }
+    },
+    {
+      "id": "family-006",
+      "tags": ["basic"],
+      "text": {
+        "en": "I am married.",
+        "fr": "Je suis marié(e).",
+        "es": "Estoy casado/a.",
+        "it": "Sono sposato/a.",
+        "pt": "Sou casado/a.",
+        "de": "Ich bin verheiratet.",
+        "nl": "Ik ben getrouwd."
+      }
+    },
+    {
+      "id": "family-007",
+      "tags": ["basic"],
+      "text": {
+        "en": "I am single.",
+        "fr": "Je suis célibataire.",
+        "es": "Estoy soltero/a.",
+        "it": "Sono single.",
+        "pt": "Sou solteiro/a.",
+        "de": "Ich bin ledig.",
+        "nl": "Ik ben vrijgezel."
+      }
+    },
+    {
+      "id": "family-008",
+      "tags": ["basic"],
+      "text": {
+        "en": "I have two children.",
+        "fr": "J’ai deux enfants.",
+        "es": "Tengo dos hijos.",
+        "it": "Ho due figli.",
+        "pt": "Tenho dois filhos.",
+        "de": "Ich habe zwei Kinder.",
+        "nl": "Ik heb twee kinderen."
+      }
+    },
+    {
+      "id": "family-009",
+      "tags": ["description"],
+      "text": {
+        "en": "My brother is older than me.",
+        "fr": "Mon frère est plus âgé que moi.",
+        "es": "Mi hermano es mayor que yo.",
+        "it": "Mio fratello è più grande di me.",
+        "pt": "O meu irmão é mais velho do que eu.",
+        "de": "Mein Bruder ist älter als ich.",
+        "nl": "Mijn broer is ouder dan ik."
+      }
+    },
+    {
+      "id": "family-010",
+      "tags": ["description"],
+      "text": {
+        "en": "My sister is younger than me.",
+        "fr": "Ma sœur est plus jeune que moi.",
+        "es": "Mi hermana es menor que yo.",
+        "it": "Mia sorella è più giovane di me.",
+        "pt": "A minha irmã é mais nova do que eu.",
+        "de": "Meine Schwester ist jünger als ich.",
+        "nl": "Mijn zus is jonger dan ik."
+      }
+    },
+    {
+      "id": "family-011",
+      "tags": ["question"],
+      "text": {
+        "en": "Do you have any siblings?",
+        "fr": "Tu as des frères et sœurs ?",
+        "es": "¿Tienes hermanos?",
+        "it": "Hai fratelli o sorelle?",
+        "pt": "Tens irmãos?",
+        "de": "Hast du Geschwister?",
+        "nl": "Heb je broers of zussen?"
+      }
+    },
+    {
+      "id": "family-012",
+      "tags": ["question"],
+      "text": {
+        "en": "How many children do you have?",
+        "fr": "Combien d’enfants as-tu ?",
+        "es": "¿Cuántos hijos tienes?",
+        "it": "Quanti figli hai?",
+        "pt": "Quantos filhos tens?",
+        "de": "Wie viele Kinder hast du?",
+        "nl": "Hoeveel kinderen heb je?"
+      }
+    },
+    {
+      "id": "family-013",
+      "tags": ["description"],
+      "text": {
+        "en": "My parents live in another city.",
+        "fr": "Mes parents vivent dans une autre ville.",
+        "es": "Mis padres viven en otra ciudad.",
+        "it": "I miei genitori vivono in un’altra città.",
+        "pt": "Os meus pais vivem noutra cidade.",
+        "de": "Meine Eltern leben in einer anderen Stadt.",
+        "nl": "Mijn ouders wonen in een andere stad."
+      }
+    },
+    {
+      "id": "family-014",
+      "tags": ["description"],
+      "text": {
+        "en": "I visit my grandparents every weekend.",
+        "fr": "Je rends visite à mes grands-parents chaque week-end.",
+        "es": "Visito a mis abuelos cada fin de semana.",
+        "it": "Visito i miei nonni ogni fine settimana.",
+        "pt": "Visito os meus avós todos os fins de semana.",
+        "de": "Ich besuche meine Großeltern jedes Wochenende.",
+        "nl": "Ik bezoek mijn grootouders elk weekend."
+      }
+    },
+    {
+      "id": "family-015",
+      "tags": ["emotion"],
+      "text": {
+        "en": "Family is very important to me.",
+        "fr": "La famille est très importante pour moi.",
+        "es": "La familia es muy importante para mí.",
+        "it": "La famiglia è molto importante per me.",
+        "pt": "A família é muito importante para mim.",
+        "de": "Familie ist mir sehr wichtig.",
+        "nl": "Familie is erg belangrijk voor mij."
+      }
+    }
+  ]
+}

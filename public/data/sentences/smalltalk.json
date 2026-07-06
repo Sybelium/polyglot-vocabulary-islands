@@ -1,0 +1,331 @@
+{
+  "themeId": "smalltalk",
+  "name": "Small Talk",
+  "sentences": [
+    {
+      "id": "talk-001",
+      "tags": ["basic", "polite"],
+      "text": {
+        "en": "How are you?",
+        "fr": "Comment ça va ?",
+        "es": "¿Cómo estás?",
+        "it": "Come stai?",
+        "pt": "Como estás?",
+        "de": "Wie geht’s?",
+        "nl": "Hoe gaat het?"
+      }
+    },
+    {
+      "id": "talk-002",
+      "tags": ["answer", "basic"],
+      "text": {
+        "en": "I'm fine, thanks. And you?",
+        "fr": "Ça va bien, merci. Et toi ?",
+        "es": "Estoy bien, gracias. ¿Y tú?",
+        "it": "Sto bene, grazie. E tu?",
+        "pt": "Estou bem, obrigado/a. E tu?",
+        "de": "Mir geht’s gut, danke. Und dir?",
+        "nl": "Het gaat goed, dank je. En met jou?"
+      }
+    },
+    {
+      "id": "talk-003",
+      "tags": ["answer", "basic"],
+      "text": {
+        "en": "Not bad.",
+        "fr": "Pas mal.",
+        "es": "No está mal.",
+        "it": "Non male.",
+        "pt": "Nada mal.",
+        "de": "Nicht schlecht.",
+        "nl": "Niet slecht."
+      }
+    },
+    {
+      "id": "talk-004",
+      "tags": ["answer", "casual"],
+      "text": {
+        "en": "I'm a bit tired.",
+        "fr": "Je suis un peu fatigué(e).",
+        "es": "Estoy un poco cansado/a.",
+        "it": "Sono un po’ stanco/a.",
+        "pt": "Estou um pouco cansado/a.",
+        "de": "Ich bin ein bisschen müde.",
+        "nl": "Ik ben een beetje moe."
+      }
+    },
+    {
+      "id": "talk-005",
+      "tags": ["basic"],
+      "text": {
+        "en": "Nice to see you.",
+        "fr": "Content(e) de te voir.",
+        "es": "Me alegro de verte.",
+        "it": "Piacere di vederti.",
+        "pt": "Que bom ver-te.",
+        "de": "Schön, dich zu sehen.",
+        "nl": "Leuk je te zien."
+      }
+    },
+    {
+      "id": "talk-006",
+      "tags": ["polite"],
+      "text": {
+        "en": "How was your day?",
+        "fr": "Comment s’est passée ta journée ?",
+        "es": "¿Cómo te fue el día?",
+        "it": "Com’è andata la tua giornata?",
+        "pt": "Como foi o teu dia?",
+        "de": "Wie war dein Tag?",
+        "nl": "Hoe was je dag?"
+      }
+    },
+    {
+      "id": "talk-007",
+      "tags": ["answer"],
+      "text": {
+        "en": "It was good.",
+        "fr": "C’était bien.",
+        "es": "Fue bien.",
+        "it": "È andata bene.",
+        "pt": "Foi bom.",
+        "de": "Es war gut.",
+        "nl": "Het was goed."
+      }
+    },
+    {
+      "id": "talk-008",
+      "tags": ["answer"],
+      "text": {
+        "en": "It was busy.",
+        "fr": "C’était chargé.",
+        "es": "Estuvo ajetreado.",
+        "it": "È stata una giornata intensa.",
+        "pt": "Foi um dia cheio.",
+        "de": "Es war stressig.",
+        "nl": "Het was druk."
+      }
+    },
+    {
+      "id": "talk-009",
+      "tags": ["question", "basic"],
+      "text": {
+        "en": "Where are you from?",
+        "fr": "Tu viens d’où ?",
+        "es": "¿De dónde eres?",
+        "it": "Di dove sei?",
+        "pt": "De onde és?",
+        "de": "Woher kommst du?",
+        "nl": "Waar kom je vandaan?"
+      }
+    },
+    {
+      "id": "talk-010",
+      "tags": ["answer"],
+      "text": {
+        "en": "I'm from Belgium.",
+        "fr": "Je viens de Belgique.",
+        "es": "Soy de Bélgica.",
+        "it": "Sono del Belgio.",
+        "pt": "Sou da Bélgica.",
+        "de": "Ich komme aus Belgien.",
+        "nl": "Ik kom uit België."
+      }
+    },
+    {
+      "id": "talk-011",
+      "tags": ["question"],
+      "text": {
+        "en": "Do you live here?",
+        "fr": "Tu habites ici ?",
+        "es": "¿Vives aquí?",
+        "it": "Abiti qui?",
+        "pt": "Moras aqui?",
+        "de": "Wohnst du hier?",
+        "nl": "Woon je hier?"
+      }
+    },
+    {
+      "id": "talk-012",
+      "tags": ["answer"],
+      "text": {
+        "en": "Yes, I live nearby.",
+        "fr": "Oui, j’habite pas loin.",
+        "es": "Sí, vivo cerca.",
+        "it": "Sì, abito qui vicino.",
+        "pt": "Sim, moro aqui perto.",
+        "de": "Ja, ich wohne in der Nähe.",
+        "nl": "Ja, ik woon dichtbij."
+      }
+    },
+    {
+      "id": "talk-013",
+      "tags": ["question"],
+      "text": {
+        "en": "What do you do?",
+        "fr": "Tu fais quoi dans la vie ?",
+        "es": "¿A qué te dedicas?",
+        "it": "Che lavoro fai?",
+        "pt": "O que fazes?",
+        "de": "Was machst du beruflich?",
+        "nl": "Wat doe je?"
+      }
+    },
+    {
+      "id": "talk-014",
+      "tags": ["answer"],
+      "text": {
+        "en": "I study.",
+        "fr": "J’étudie.",
+        "es": "Estudio.",
+        "it": "Studio.",
+        "pt": "Estudo.",
+        "de": "Ich studiere.",
+        "nl": "Ik studeer."
+      }
+    },
+    {
+      "id": "talk-015",
+      "tags": ["answer"],
+      "text": {
+        "en": "I work in IT.",
+        "fr": "Je travaille dans l’informatique.",
+        "es": "Trabajo en informática.",
+        "it": "Lavoro nell’informatica.",
+        "pt": "Trabalho em informática.",
+        "de": "Ich arbeite in der IT.",
+        "nl": "Ik werk in IT."
+      }
+    },
+    {
+      "id": "talk-016",
+      "tags": ["question", "languages"],
+      "text": {
+        "en": "Do you speak English?",
+        "fr": "Tu parles anglais ?",
+        "es": "¿Hablas inglés?",
+        "it": "Parli inglese?",
+        "pt": "Falas inglês?",
+        "de": "Sprichst du Englisch?",
+        "nl": "Spreek je Engels?"
+      }
+    },
+    {
+      "id": "talk-017",
+      "tags": ["answer", "languages"],
+      "text": {
+        "en": "A little.",
+        "fr": "Un peu.",
+        "es": "Un poco.",
+        "it": "Un po’.",
+        "pt": "Um pouco.",
+        "de": "Ein bisschen.",
+        "nl": "Een beetje."
+      }
+    },
+    {
+      "id": "talk-018",
+      "tags": ["question", "languages"],
+      "text": {
+        "en": "I'm learning your language.",
+        "fr": "J’apprends ta langue.",
+        "es": "Estoy aprendiendo tu idioma.",
+        "it": "Sto imparando la tua lingua.",
+        "pt": "Estou a aprender a tua língua.",
+        "de": "Ich lerne deine Sprache.",
+        "nl": "Ik leer jouw taal."
+      }
+    },
+    {
+      "id": "talk-019",
+      "tags": ["polite", "languages"],
+      "text": {
+        "en": "Could you speak a bit more slowly?",
+        "fr": "Tu peux parler un peu plus lentement ?",
+        "es": "¿Puedes hablar un poco más despacio?",
+        "it": "Puoi parlare un po’ più lentamente?",
+        "pt": "Podes falar um pouco mais devagar?",
+        "de": "Kannst du ein bisschen langsamer sprechen?",
+        "nl": "Kun je iets langzamer spreken?"
+      }
+    },
+    {
+      "id": "talk-020",
+      "tags": ["question", "plans"],
+      "text": {
+        "en": "What are you doing this weekend?",
+        "fr": "Tu fais quoi ce week-end ?",
+        "es": "¿Qué haces este fin de semana?",
+        "it": "Che fai questo weekend?",
+        "pt": "O que vais fazer este fim de semana?",
+        "de": "Was machst du dieses Wochenende?",
+        "nl": "Wat doe je dit weekend?"
+      }
+    },
+    {
+      "id": "talk-021",
+      "tags": ["answer", "plans"],
+      "text": {
+        "en": "I don't know yet.",
+        "fr": "Je ne sais pas encore.",
+        "es": "Todavía no lo sé.",
+        "it": "Non lo so ancora.",
+        "pt": "Ainda não sei.",
+        "de": "Ich weiß es noch nicht.",
+        "nl": "Ik weet het nog niet."
+      }
+    },
+    {
+      "id": "talk-022",
+      "tags": ["answer", "plans"],
+      "text": {
+        "en": "I'm meeting some friends.",
+        "fr": "Je vois des amis.",
+        "es": "Voy a ver a unos amigos.",
+        "it": "Vedo degli amici.",
+        "pt": "Vou encontrar-me com uns amigos.",
+        "de": "Ich treffe mich mit Freunden.",
+        "nl": "Ik ga met vrienden afspreken."
+      }
+    },
+    {
+      "id": "talk-023",
+      "tags": ["question", "smalltalk"],
+      "text": {
+        "en": "Do you like it here?",
+        "fr": "Tu aimes bien ici ?",
+        "es": "¿Te gusta aquí?",
+        "it": "Ti piace qui?",
+        "pt": "Gostas daqui?",
+        "de": "Gefällt es dir hier?",
+        "nl": "Vind je het hier leuk?"
+      }
+    },
+    {
+      "id": "talk-024",
+      "tags": ["answer", "smalltalk"],
+      "text": {
+        "en": "Yes, it's really nice.",
+        "fr": "Oui, c’est vraiment sympa.",
+        "es": "Sí, es muy bonito.",
+        "it": "Sì, è davvero bello.",
+        "pt": "Sim, é mesmo giro.",
+        "de": "Ja, es ist wirklich schön.",
+        "nl": "Ja, het is echt leuk."
+      }
+    },
+    {
+      "id": "talk-025",
+      "tags": ["polite"],
+      "text": {
+        "en": "It was nice talking to you.",
+        "fr": "C’était sympa de parler avec toi.",
+        "es": "Fue un gusto hablar contigo.",
+        "it": "È stato un piacere parlare con te.",
+        "pt": "Foi um prazer falar contigo.",
+        "de": "Es war schön, mit dir zu reden.",
+        "nl": "Leuk om met je te praten."
+      }
+    }
+  ]
+}

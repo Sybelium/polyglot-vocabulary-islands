@@ -1,0 +1,266 @@
+{
+  "themeId": "emergency",
+  "name": "Emergencies & Safety",
+  "sentences": [
+    {
+      "id": "emer-001",
+      "tags": ["emergency", "urgent"],
+      "text": {
+        "en": "Help!",
+        "fr": "Au secours !",
+        "es": "¡Ayuda!",
+        "it": "Aiuto!",
+        "pt": "Ajuda!",
+        "de": "Hilfe!",
+        "nl": "Help!"
+      }
+    },
+    {
+      "id": "emer-002",
+      "tags": ["emergency", "urgent"],
+      "text": {
+        "en": "Call the police!",
+        "fr": "Appelez la police !",
+        "es": "¡Llame a la policía!",
+        "it": "Chiami la polizia!",
+        "pt": "Chame a polícia!",
+        "de": "Rufen Sie die Polizei!",
+        "nl": "Bel de politie!"
+      }
+    },
+    {
+      "id": "emer-003",
+      "tags": ["emergency", "urgent"],
+      "text": {
+        "en": "Call an ambulance!",
+        "fr": "Appelez une ambulance !",
+        "es": "¡Llame a una ambulancia!",
+        "it": "Chiami un’ambulanza!",
+        "pt": "Chame uma ambulância!",
+        "de": "Rufen Sie einen Krankenwagen!",
+        "nl": "Bel een ambulance!"
+      }
+    },
+    {
+      "id": "emer-004",
+      "tags": ["emergency", "urgent"],
+      "text": {
+        "en": "Call the fire department!",
+        "fr": "Appelez les pompiers !",
+        "es": "¡Llame a los bomberos!",
+        "it": "Chiami i vigili del fuoco!",
+        "pt": "Chame os bombeiros!",
+        "de": "Rufen Sie die Feuerwehr!",
+        "nl": "Bel de brandweer!"
+      }
+    },
+    {
+      "id": "emer-005",
+      "tags": ["emergency"],
+      "text": {
+        "en": "There has been an accident.",
+        "fr": "Il y a eu un accident.",
+        "es": "Ha habido un accidente.",
+        "it": "C’è stato un incidente.",
+        "pt": "Houve um acidente.",
+        "de": "Es gab einen Unfall.",
+        "nl": "Er is een ongeluk gebeurd."
+      }
+    },
+    {
+      "id": "emer-006",
+      "tags": ["emergency"],
+      "text": {
+        "en": "Someone is injured.",
+        "fr": "Quelqu’un est blessé.",
+        "es": "Alguien está herido/a.",
+        "it": "Qualcuno è ferito.",
+        "pt": "Alguém está ferido.",
+        "de": "Jemand ist verletzt.",
+        "nl": "Iemand is gewond."
+      }
+    },
+    {
+      "id": "emer-007",
+      "tags": ["emergency"],
+      "text": {
+        "en": "I have been robbed.",
+        "fr": "Je me suis fait voler.",
+        "es": "Me han robado.",
+        "it": "Sono stato/a derubato/a.",
+        "pt": "Fui assaltado/a.",
+        "de": "Ich wurde ausgeraubt.",
+        "nl": "Ik ben beroofd."
+      }
+    },
+    {
+      "id": "emer-008",
+      "tags": ["emergency"],
+      "text": {
+        "en": "My wallet was stolen.",
+        "fr": "On m’a volé mon portefeuille.",
+        "es": "Me robaron la cartera.",
+        "it": "Mi hanno rubato il portafoglio.",
+        "pt": "Roubaram-me a carteira.",
+        "de": "Meine Geldbörse wurde gestohlen.",
+        "nl": "Mijn portemonnee is gestolen."
+      }
+    },
+    {
+      "id": "emer-009",
+      "tags": ["emergency"],
+      "text": {
+        "en": "My passport was stolen.",
+        "fr": "On m’a volé mon passeport.",
+        "es": "Me robaron el pasaporte.",
+        "it": "Mi hanno rubato il passaporto.",
+        "pt": "Roubaram-me o passaporte.",
+        "de": "Mein Reisepass wurde gestohlen.",
+        "nl": "Mijn paspoort is gestolen."
+      }
+    },
+    {
+      "id": "emer-010",
+      "tags": ["emergency"],
+      "text": {
+        "en": "I lost my phone.",
+        "fr": "J’ai perdu mon téléphone.",
+        "es": "He perdido mi teléfono.",
+        "it": "Ho perso il telefono.",
+        "pt": "Perdi o meu telemóvel.",
+        "de": "Ich habe mein Handy verloren.",
+        "nl": "Ik ben mijn telefoon kwijt."
+      }
+    },
+    {
+      "id": "emer-011",
+      "tags": ["emergency", "urgent"],
+      "text": {
+        "en": "I am in danger.",
+        "fr": "Je suis en danger.",
+        "es": "Estoy en peligro.",
+        "it": "Sono in pericolo.",
+        "pt": "Estou em perigo.",
+        "de": "Ich bin in Gefahr.",
+        "nl": "Ik ben in gevaar."
+      }
+    },
+    {
+      "id": "emer-012",
+      "tags": ["emergency", "urgent"],
+      "text": {
+        "en": "Leave me alone!",
+        "fr": "Laissez-moi tranquille !",
+        "es": "¡Déjeme en paz!",
+        "it": "Mi lasci in pace!",
+        "pt": "Deixe-me em paz!",
+        "de": "Lassen Sie mich in Ruhe!",
+        "nl": "Laat me met rust!"
+      }
+    },
+    {
+      "id": "emer-013",
+      "tags": ["emergency"],
+      "text": {
+        "en": "I need help immediately.",
+        "fr": "J’ai besoin d’aide immédiatement.",
+        "es": "Necesito ayuda inmediatamente.",
+        "it": "Ho bisogno di aiuto immediatamente.",
+        "pt": "Preciso de ajuda imediatamente.",
+        "de": "Ich brauche sofort Hilfe.",
+        "nl": "Ik heb onmiddellijk hulp nodig."
+      }
+    },
+    {
+      "id": "emer-014",
+      "tags": ["emergency"],
+      "text": {
+        "en": "Where is the nearest police station?",
+        "fr": "Où est le poste de police le plus proche ?",
+        "es": "¿Dónde está la comisaría más cercana?",
+        "it": "Dov’è la stazione di polizia più vicina?",
+        "pt": "Onde fica a esquadra mais próxima?",
+        "de": "Wo ist die nächste Polizeistation?",
+        "nl": "Waar is het dichtstbijzijnde politiebureau?"
+      }
+    },
+    {
+      "id": "emer-015",
+      "tags": ["emergency"],
+      "text": {
+        "en": "I need to report a theft.",
+        "fr": "Je dois signaler un vol.",
+        "es": "Necesito denunciar un robo.",
+        "it": "Devo denunciare un furto.",
+        "pt": "Preciso de denunciar um roubo.",
+        "de": "Ich muss einen Diebstahl melden.",
+        "nl": "Ik moet een diefstal melden."
+      }
+    },
+    {
+      "id": "emer-016",
+      "tags": ["emergency"],
+      "text": {
+        "en": "It happened here.",
+        "fr": "C’est arrivé ici.",
+        "es": "Ocurrió aquí.",
+        "it": "È successo qui.",
+        "pt": "Aconteceu aqui.",
+        "de": "Es ist hier passiert.",
+        "nl": "Het is hier gebeurd."
+      }
+    },
+    {
+      "id": "emer-017",
+      "tags": ["emergency"],
+      "text": {
+        "en": "He ran that way.",
+        "fr": "Il est parti par là.",
+        "es": "Corrió por allí.",
+        "it": "È scappato da quella parte.",
+        "pt": "Ele fugiu por ali.",
+        "de": "Er ist in diese Richtung gerannt.",
+        "nl": "Hij is die kant op gerend."
+      }
+    },
+    {
+      "id": "emer-018",
+      "tags": ["emergency"],
+      "text": {
+        "en": "I don't feel safe.",
+        "fr": "Je ne me sens pas en sécurité.",
+        "es": "No me siento seguro/a.",
+        "it": "Non mi sento al sicuro.",
+        "pt": "Não me sinto seguro/a.",
+        "de": "Ich fühle mich nicht sicher.",
+        "nl": "Ik voel me niet veilig."
+      }
+    },
+    {
+      "id": "emer-019",
+      "tags": ["emergency"],
+      "text": {
+        "en": "Please stay with me.",
+        "fr": "Restez avec moi, s’il vous plaît.",
+        "es": "Quédese conmigo, por favor.",
+        "it": "Rimanga con me, per favore.",
+        "pt": "Fique comigo, por favor.",
+        "de": "Bitte bleiben Sie bei mir.",
+        "nl": "Blijf alstublieft bij mij."
+      }
+    },
+    {
+      "id": "emer-020",
+      "tags": ["emergency"],
+      "text": {
+        "en": "Can you call for help?",
+        "fr": "Pouvez-vous appeler à l’aide ?",
+        "es": "¿Puede pedir ayuda?",
+        "it": "Può chiamare aiuto?",
+        "pt": "Pode chamar ajuda?",
+        "de": "Können Sie Hilfe rufen?",
+        "nl": "Kunt u hulp roepen?"
+      }
+    }
+  ]
+}

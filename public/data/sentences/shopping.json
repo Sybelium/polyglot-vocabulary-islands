@@ -1,0 +1,266 @@
+{
+  "themeId": "shopping",
+  "name": "Shopping & Services",
+  "sentences": [
+    {
+      "id": "shop-001",
+      "tags": ["question", "basic"],
+      "text": {
+        "en": "How much is this?",
+        "fr": "Combien ça coûte ?",
+        "es": "¿Cuánto cuesta esto?",
+        "it": "Quanto costa questo?",
+        "pt": "Quanto custa isto?",
+        "de": "Wie viel kostet das?",
+        "nl": "Hoeveel kost dit?"
+      }
+    },
+    {
+      "id": "shop-002",
+      "tags": ["question", "money"],
+      "text": {
+        "en": "Do you have anything cheaper?",
+        "fr": "Vous avez quelque chose de moins cher ?",
+        "es": "¿Tiene algo más barato?",
+        "it": "Ha qualcosa di più economico?",
+        "pt": "Tem algo mais barato?",
+        "de": "Haben Sie etwas Günstigeres?",
+        "nl": "Heeft u iets goedkopers?"
+      }
+    },
+    {
+      "id": "shop-003",
+      "tags": ["basic"],
+      "text": {
+        "en": "I'm just looking.",
+        "fr": "Je regarde seulement.",
+        "es": "Solo estoy mirando.",
+        "it": "Sto solo guardando.",
+        "pt": "Estou só a ver.",
+        "de": "Ich schaue nur.",
+        "nl": "Ik kijk alleen maar."
+      }
+    },
+    {
+      "id": "shop-004",
+      "tags": ["polite", "basic"],
+      "text": {
+        "en": "I would like to buy this.",
+        "fr": "Je voudrais acheter ça.",
+        "es": "Quisiera comprar esto.",
+        "it": "Vorrei comprare questo.",
+        "pt": "Queria comprar isto.",
+        "de": "Ich möchte das kaufen.",
+        "nl": "Ik wil dit graag kopen."
+      }
+    },
+    {
+      "id": "shop-005",
+      "tags": ["question"],
+      "text": {
+        "en": "Do you have this in another size?",
+        "fr": "Vous l’avez dans une autre taille ?",
+        "es": "¿Lo tiene en otra talla?",
+        "it": "Ce l’ha in un’altra taglia?",
+        "pt": "Tem isto noutro tamanho?",
+        "de": "Haben Sie das in einer anderen Größe?",
+        "nl": "Heeft u dit in een andere maat?"
+      }
+    },
+    {
+      "id": "shop-006",
+      "tags": ["question"],
+      "text": {
+        "en": "Do you have this in another color?",
+        "fr": "Vous l’avez dans une autre couleur ?",
+        "es": "¿Lo tiene en otro color?",
+        "it": "Ce l’ha in un altro colore?",
+        "pt": "Tem isto noutra cor?",
+        "de": "Haben Sie das in einer anderen Farbe?",
+        "nl": "Heeft u dit in een andere kleur?"
+      }
+    },
+    {
+      "id": "shop-007",
+      "tags": ["question", "polite"],
+      "text": {
+        "en": "Can I try it on?",
+        "fr": "Je peux l’essayer ?",
+        "es": "¿Puedo probármelo?",
+        "it": "Posso provarlo?",
+        "pt": "Posso experimentar?",
+        "de": "Kann ich das anprobieren?",
+        "nl": "Mag ik dit passen?"
+      }
+    },
+    {
+      "id": "shop-008",
+      "tags": ["question"],
+      "text": {
+        "en": "Where is the fitting room?",
+        "fr": "Où sont les cabines d’essayage ?",
+        "es": "¿Dónde están los probadores?",
+        "it": "Dov’è il camerino?",
+        "pt": "Onde ficam os provadores?",
+        "de": "Wo ist die Umkleidekabine?",
+        "nl": "Waar is het pashokje?"
+      }
+    },
+    {
+      "id": "shop-009",
+      "tags": ["question"],
+      "text": {
+        "en": "Where can I find…?",
+        "fr": "Où puis-je trouver… ?",
+        "es": "¿Dónde puedo encontrar…?",
+        "it": "Dove posso trovare…?",
+        "pt": "Onde posso encontrar…?",
+        "de": "Wo finde ich…?",
+        "nl": "Waar kan ik … vinden?"
+      }
+    },
+    {
+      "id": "shop-010",
+      "tags": ["question"],
+      "text": {
+        "en": "Is this on sale?",
+        "fr": "C’est en promotion ?",
+        "es": "¿Está en oferta?",
+        "it": "È in saldo?",
+        "pt": "Isto está em promoção?",
+        "de": "Ist das im Angebot?",
+        "nl": "Is dit in de aanbieding?"
+      }
+    },
+    {
+      "id": "shop-011",
+      "tags": ["question", "money"],
+      "text": {
+        "en": "Can I pay by card?",
+        "fr": "Je peux payer par carte ?",
+        "es": "¿Puedo pagar con tarjeta?",
+        "it": "Posso pagare con carta?",
+        "pt": "Posso pagar com cartão?",
+        "de": "Kann ich mit Karte bezahlen?",
+        "nl": "Kan ik met kaart betalen?"
+      }
+    },
+    {
+      "id": "shop-012",
+      "tags": ["money"],
+      "text": {
+        "en": "I would like a receipt, please.",
+        "fr": "Je voudrais un ticket, s’il vous plaît.",
+        "es": "Quisiera un recibo, por favor.",
+        "it": "Vorrei una ricevuta, per favore.",
+        "pt": "Queria o recibo, por favor.",
+        "de": "Ich hätte gern eine Quittung, bitte.",
+        "nl": "Ik wil graag een bonnetje, alstublieft."
+      }
+    },
+    {
+      "id": "shop-013",
+      "tags": ["question", "problem"],
+      "text": {
+        "en": "Can I return this?",
+        "fr": "Je peux le retourner ?",
+        "es": "¿Puedo devolver esto?",
+        "it": "Posso restituirlo?",
+        "pt": "Posso devolver isto?",
+        "de": "Kann ich das zurückgeben?",
+        "nl": "Kan ik dit terugbrengen?"
+      }
+    },
+    {
+      "id": "shop-014",
+      "tags": ["question", "problem"],
+      "text": {
+        "en": "I would like a refund.",
+        "fr": "Je voudrais un remboursement.",
+        "es": "Quisiera un reembolso.",
+        "it": "Vorrei un rimborso.",
+        "pt": "Queria um reembolso.",
+        "de": "Ich möchte eine Rückerstattung.",
+        "nl": "Ik wil graag mijn geld terug."
+      }
+    },
+    {
+      "id": "shop-015",
+      "tags": ["problem"],
+      "text": {
+        "en": "This is defective.",
+        "fr": "C’est défectueux.",
+        "es": "Esto está defectuoso.",
+        "it": "È difettoso.",
+        "pt": "Isto está defeituoso.",
+        "de": "Das ist defekt.",
+        "nl": "Dit is kapot."
+      }
+    },
+    {
+      "id": "shop-016",
+      "tags": ["problem"],
+      "text": {
+        "en": "It doesn't work.",
+        "fr": "Ça ne marche pas.",
+        "es": "No funciona.",
+        "it": "Non funziona.",
+        "pt": "Não funciona.",
+        "de": "Es funktioniert nicht.",
+        "nl": "Het werkt niet."
+      }
+    },
+    {
+      "id": "shop-017",
+      "tags": ["polite"],
+      "text": {
+        "en": "Can you help me, please?",
+        "fr": "Pouvez-vous m’aider, s’il vous plaît ?",
+        "es": "¿Puede ayudarme, por favor?",
+        "it": "Può aiutarmi, per favore?",
+        "pt": "Pode ajudar-me, por favor?",
+        "de": "Können Sie mir bitte helfen?",
+        "nl": "Kunt u mij alstublieft helpen?"
+      }
+    },
+    {
+      "id": "shop-018",
+      "tags": ["question"],
+      "text": {
+        "en": "What time do you close?",
+        "fr": "À quelle heure fermez-vous ?",
+        "es": "¿A qué hora cierran?",
+        "it": "A che ora chiudete?",
+        "pt": "A que horas fecham?",
+        "de": "Wann schließen Sie?",
+        "nl": "Hoe laat sluiten jullie?"
+      }
+    },
+    {
+      "id": "shop-019",
+      "tags": ["question", "money"],
+      "text": {
+        "en": "Is there a discount?",
+        "fr": "Il y a une réduction ?",
+        "es": "¿Hay descuento?",
+        "it": "C’è uno sconto?",
+        "pt": "Há desconto?",
+        "de": "Gibt es Rabatt?",
+        "nl": "Is er korting?"
+      }
+    },
+    {
+      "id": "shop-020",
+      "tags": ["basic", "polite"],
+      "text": {
+        "en": "That's all, thank you.",
+        "fr": "C’est tout, merci.",
+        "es": "Eso es todo, gracias.",
+        "it": "È tutto, grazie.",
+        "pt": "É só, obrigado/a.",
+        "de": "Das ist alles, danke.",
+        "nl": "Dat is alles, dank je."
+      }
+    }
+  ]
+}

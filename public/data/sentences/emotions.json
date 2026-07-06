@@ -1,0 +1,201 @@
+{
+  "themeId": "emotions",
+  "name": "Emotions & Feelings",
+  "sentences": [
+    {
+      "id": "emo-001",
+      "tags": ["basic"],
+      "text": {
+        "en": "I am happy.",
+        "fr": "Je suis heureux/heureuse.",
+        "es": "Estoy feliz.",
+        "it": "Sono felice.",
+        "pt": "Estou feliz.",
+        "de": "Ich bin glücklich.",
+        "nl": "Ik ben blij."
+      }
+    },
+    {
+      "id": "emo-002",
+      "tags": ["basic"],
+      "text": {
+        "en": "I am sad.",
+        "fr": "Je suis triste.",
+        "es": "Estoy triste.",
+        "it": "Sono triste.",
+        "pt": "Estou triste.",
+        "de": "Ich bin traurig.",
+        "nl": "Ik ben verdrietig."
+      }
+    },
+    {
+      "id": "emo-003",
+      "tags": ["basic"],
+      "text": {
+        "en": "I am tired.",
+        "fr": "Je suis fatigué(e).",
+        "es": "Estoy cansado/a.",
+        "it": "Sono stanco/a.",
+        "pt": "Estou cansado/a.",
+        "de": "Ich bin müde.",
+        "nl": "Ik ben moe."
+      }
+    },
+    {
+      "id": "emo-004",
+      "tags": ["basic"],
+      "text": {
+        "en": "I am stressed.",
+        "fr": "Je suis stressé(e).",
+        "es": "Estoy estresado/a.",
+        "it": "Sono stressato/a.",
+        "pt": "Estou stressado/a.",
+        "de": "Ich bin gestresst.",
+        "nl": "Ik ben gestrest."
+      }
+    },
+    {
+      "id": "emo-005",
+      "tags": ["basic"],
+      "text": {
+        "en": "I am excited.",
+        "fr": "Je suis enthousiaste.",
+        "es": "Estoy emocionado/a.",
+        "it": "Sono entusiasta.",
+        "pt": "Estou entusiasmado/a.",
+        "de": "Ich bin aufgeregt.",
+        "nl": "Ik ben enthousiast."
+      }
+    },
+    {
+      "id": "emo-006",
+      "tags": ["basic"],
+      "text": {
+        "en": "I am nervous.",
+        "fr": "Je suis nerveux/nerveuse.",
+        "es": "Estoy nervioso/a.",
+        "it": "Sono nervoso/a.",
+        "pt": "Estou nervoso/a.",
+        "de": "Ich bin nervös.",
+        "nl": "Ik ben zenuwachtig."
+      }
+    },
+    {
+      "id": "emo-007",
+      "tags": ["basic"],
+      "text": {
+        "en": "I am worried.",
+        "fr": "Je suis inquiet/inquiète.",
+        "es": "Estoy preocupado/a.",
+        "it": "Sono preoccupato/a.",
+        "pt": "Estou preocupado/a.",
+        "de": "Ich bin besorgt.",
+        "nl": "Ik maak me zorgen."
+      }
+    },
+    {
+      "id": "emo-008",
+      "tags": ["basic"],
+      "text": {
+        "en": "I am angry.",
+        "fr": "Je suis en colère.",
+        "es": "Estoy enfadado/a.",
+        "it": "Sono arrabbiato/a.",
+        "pt": "Estou zangado/a.",
+        "de": "Ich bin wütend.",
+        "nl": "Ik ben boos."
+      }
+    },
+    {
+      "id": "emo-009",
+      "tags": ["basic"],
+      "text": {
+        "en": "I am surprised.",
+        "fr": "Je suis surpris(e).",
+        "es": "Estoy sorprendido/a.",
+        "it": "Sono sorpreso/a.",
+        "pt": "Estou surpreendido/a.",
+        "de": "Ich bin überrascht.",
+        "nl": "Ik ben verrast."
+      }
+    },
+    {
+      "id": "emo-010",
+      "tags": ["basic"],
+      "text": {
+        "en": "I feel good.",
+        "fr": "Je me sens bien.",
+        "es": "Me siento bien.",
+        "it": "Mi sento bene.",
+        "pt": "Sinto-me bem.",
+        "de": "Ich fühle mich gut.",
+        "nl": "Ik voel me goed."
+      }
+    },
+    {
+      "id": "emo-011",
+      "tags": ["basic"],
+      "text": {
+        "en": "I feel bad.",
+        "fr": "Je me sens mal.",
+        "es": "Me siento mal.",
+        "it": "Mi sento male.",
+        "pt": "Sinto-me mal.",
+        "de": "Ich fühle mich schlecht.",
+        "nl": "Ik voel me slecht."
+      }
+    },
+    {
+      "id": "emo-012",
+      "tags": ["reaction"],
+      "text": {
+        "en": "That makes me happy.",
+        "fr": "Ça me rend heureux/heureuse.",
+        "es": "Eso me hace feliz.",
+        "it": "Questo mi rende felice.",
+        "pt": "Isso deixa-me feliz.",
+        "de": "Das macht mich glücklich.",
+        "nl": "Dat maakt me blij."
+      }
+    },
+    {
+      "id": "emo-013",
+      "tags": ["reaction"],
+      "text": {
+        "en": "That makes me sad.",
+        "fr": "Ça me rend triste.",
+        "es": "Eso me pone triste.",
+        "it": "Questo mi rende triste.",
+        "pt": "Isso deixa-me triste.",
+        "de": "Das macht mich traurig.",
+        "nl": "Dat maakt me verdrietig."
+      }
+    },
+    {
+      "id": "emo-014",
+      "tags": ["reaction"],
+      "text": {
+        "en": "That makes me angry.",
+        "fr": "Ça me met en colère.",
+        "es": "Eso me enfada.",
+        "it": "Questo mi fa arrabbiare.",
+        "pt": "Isso deixa-me zangado/a.",
+        "de": "Das macht mich wütend.",
+        "nl": "Dat maakt me boos."
+      }
+    },
+    {
+      "id": "emo-015",
+      "tags": ["question"],
+      "text": {
+        "en": "How do you feel?",
+        "fr": "Comment te sens-tu ?",
+        "es": "¿Cómo te sientes?",
+        "it": "Come ti senti?",
+        "pt": "Como te sentes?",
+        "de": "Wie fühlst du dich?",
+        "nl": "Hoe voel je je?"
+      }
+    }
+  ]
+}

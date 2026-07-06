@@ -1,0 +1,266 @@
+{
+  "themeId": "restaurant",
+  "name": "Restaurant & Café",
+  "sentences": [
+    {
+      "id": "rest-001",
+      "tags": ["basic", "polite"],
+      "text": {
+        "en": "A table for two, please.",
+        "fr": "Une table pour deux, s’il vous plaît.",
+        "es": "Una mesa para dos, por favor.",
+        "it": "Un tavolo per due, per favore.",
+        "pt": "Uma mesa para dois, por favor.",
+        "de": "Einen Tisch für zwei, bitte.",
+        "nl": "Een tafel voor twee, alstublieft."
+      }
+    },
+    {
+      "id": "rest-002",
+      "tags": ["polite"],
+      "text": {
+        "en": "Can we sit outside?",
+        "fr": "Peut-on s’asseoir dehors ?",
+        "es": "¿Podemos sentarnos afuera?",
+        "it": "Possiamo sederci fuori?",
+        "pt": "Podemos sentar-nos lá fora?",
+        "de": "Können wir draußen sitzen?",
+        "nl": "Kunnen we buiten zitten?"
+      }
+    },
+    {
+      "id": "rest-003",
+      "tags": ["polite"],
+      "text": {
+        "en": "The menu, please.",
+        "fr": "La carte, s’il vous plaît.",
+        "es": "La carta, por favor.",
+        "it": "Il menù, per favore.",
+        "pt": "O menu, por favor.",
+        "de": "Die Speisekarte, bitte.",
+        "nl": "De menukaart, alstublieft."
+      }
+    },
+    {
+      "id": "rest-004",
+      "tags": ["question"],
+      "text": {
+        "en": "What do you recommend?",
+        "fr": "Que recommandez-vous ?",
+        "es": "¿Qué recomienda?",
+        "it": "Cosa consiglia?",
+        "pt": "O que recomenda?",
+        "de": "Was empfehlen Sie?",
+        "nl": "Wat raadt u aan?"
+      }
+    },
+    {
+      "id": "rest-005",
+      "tags": ["order"],
+      "text": {
+        "en": "I would like this.",
+        "fr": "Je voudrais ceci.",
+        "es": "Quisiera esto.",
+        "it": "Vorrei questo.",
+        "pt": "Queria isto.",
+        "de": "Ich hätte gern das hier.",
+        "nl": "Ik zou dit graag willen."
+      }
+    },
+    {
+      "id": "rest-006",
+      "tags": ["order"],
+      "text": {
+        "en": "I would like a coffee.",
+        "fr": "Je voudrais un café.",
+        "es": "Quisiera un café.",
+        "it": "Vorrei un caffè.",
+        "pt": "Queria um café.",
+        "de": "Ich hätte gern einen Kaffee.",
+        "nl": "Ik zou graag een koffie willen."
+      }
+    },
+    {
+      "id": "rest-007",
+      "tags": ["order"],
+      "text": {
+        "en": "A bottle of water, please.",
+        "fr": "Une bouteille d’eau, s’il vous plaît.",
+        "es": "Una botella de agua, por favor.",
+        "it": "Una bottiglia d’acqua, per favore.",
+        "pt": "Uma garrafa de água, por favor.",
+        "de": "Eine Flasche Wasser, bitte.",
+        "nl": "Een fles water, alstublieft."
+      }
+    },
+    {
+      "id": "rest-008",
+      "tags": ["question"],
+      "text": {
+        "en": "Is this dish spicy?",
+        "fr": "Ce plat est-il épicé ?",
+        "es": "¿Este plato es picante?",
+        "it": "Questo piatto è piccante?",
+        "pt": "Este prato é picante?",
+        "de": "Ist dieses Gericht scharf?",
+        "nl": "Is dit gerecht pittig?"
+      }
+    },
+    {
+      "id": "rest-009",
+      "tags": ["diet"],
+      "text": {
+        "en": "I'm vegetarian.",
+        "fr": "Je suis végétarien(ne).",
+        "es": "Soy vegetariano/a.",
+        "it": "Sono vegetariano/a.",
+        "pt": "Sou vegetariano/a.",
+        "de": "Ich bin Vegetarier/in.",
+        "nl": "Ik ben vegetariër."
+      }
+    },
+    {
+      "id": "rest-010",
+      "tags": ["diet", "medical"],
+      "text": {
+        "en": "I am allergic to nuts.",
+        "fr": "Je suis allergique aux noix.",
+        "es": "Soy alérgico/a a los frutos secos.",
+        "it": "Sono allergico/a alla frutta secca.",
+        "pt": "Sou alérgico/a a frutos secos.",
+        "de": "Ich bin allergisch gegen Nüsse.",
+        "nl": "Ik ben allergisch voor noten."
+      }
+    },
+    {
+      "id": "rest-011",
+      "tags": ["problem"],
+      "text": {
+        "en": "This is not what I ordered.",
+        "fr": "Ce n’est pas ce que j’ai commandé.",
+        "es": "Esto no es lo que pedí.",
+        "it": "Non è quello che ho ordinato.",
+        "pt": "Isto não é o que pedi.",
+        "de": "Das habe ich nicht bestellt.",
+        "nl": "Dit is niet wat ik besteld heb."
+      }
+    },
+    {
+      "id": "rest-012",
+      "tags": ["problem"],
+      "text": {
+        "en": "This is cold.",
+        "fr": "C’est froid.",
+        "es": "Está frío.",
+        "it": "È freddo.",
+        "pt": "Está frio.",
+        "de": "Das ist kalt.",
+        "nl": "Dit is koud."
+      }
+    },
+    {
+      "id": "rest-013",
+      "tags": ["polite", "problem"],
+      "text": {
+        "en": "Can you heat it up, please?",
+        "fr": "Pouvez-vous le réchauffer, s’il vous plaît ?",
+        "es": "¿Puede calentarlo, por favor?",
+        "it": "Può riscaldarlo, per favore?",
+        "pt": "Pode aquecê-lo, por favor?",
+        "de": "Können Sie es bitte aufwärmen?",
+        "nl": "Kunt u het alstublieft opwarmen?"
+      }
+    },
+    {
+      "id": "rest-014",
+      "tags": ["polite"],
+      "text": {
+        "en": "The bill, please.",
+        "fr": "L’addition, s’il vous plaît.",
+        "es": "La cuenta, por favor.",
+        "it": "Il conto, per favore.",
+        "pt": "A conta, por favor.",
+        "de": "Die Rechnung, bitte.",
+        "nl": "De rekening, alstublieft."
+      }
+    },
+    {
+      "id": "rest-015",
+      "tags": ["question", "money"],
+      "text": {
+        "en": "Can I pay by card?",
+        "fr": "Puis-je payer par carte ?",
+        "es": "¿Puedo pagar con tarjeta?",
+        "it": "Posso pagare con carta?",
+        "pt": "Posso pagar com cartão?",
+        "de": "Kann ich mit Karte bezahlen?",
+        "nl": "Kan ik met kaart betalen?"
+      }
+    },
+    {
+      "id": "rest-016",
+      "tags": ["money"],
+      "text": {
+        "en": "Do you accept cash?",
+        "fr": "Acceptez-vous les espèces ?",
+        "es": "¿Aceptan efectivo?",
+        "it": "Accettate contanti?",
+        "pt": "Aceitam dinheiro?",
+        "de": "Akzeptieren Sie Bargeld?",
+        "nl": "Accepteert u contant geld?"
+      }
+    },
+    {
+      "id": "rest-017",
+      "tags": ["question"],
+      "text": {
+        "en": "Is service included?",
+        "fr": "Le service est-il compris ?",
+        "es": "¿El servicio está incluido?",
+        "it": "Il servizio è incluso?",
+        "pt": "O serviço está incluído?",
+        "de": "Ist der Service inbegriffen?",
+        "nl": "Is de service inbegrepen?"
+      }
+    },
+    {
+      "id": "rest-018",
+      "tags": ["polite"],
+      "text": {
+        "en": "Everything was delicious.",
+        "fr": "Tout était délicieux.",
+        "es": "Todo estaba delicioso.",
+        "it": "Era tutto delizioso.",
+        "pt": "Estava tudo delicioso.",
+        "de": "Es war alles sehr lecker.",
+        "nl": "Alles was heerlijk."
+      }
+    },
+    {
+      "id": "rest-019",
+      "tags": ["polite"],
+      "text": {
+        "en": "Compliments to the chef.",
+        "fr": "Compliments au chef.",
+        "es": "Mis felicitaciones al chef.",
+        "it": "Complimenti allo chef.",
+        "pt": "Os meus cumprimentos ao chefe.",
+        "de": "Ein Kompliment an den Koch.",
+        "nl": "Complimenten aan de chef."
+      }
+    },
+    {
+      "id": "rest-020",
+      "tags": ["basic"],
+      "text": {
+        "en": "I'm ready to order.",
+        "fr": "Je suis prêt(e) à commander.",
+        "es": "Estoy listo/a para pedir.",
+        "it": "Sono pronto/a per ordinare.",
+        "pt": "Estou pronto/a para pedir.",
+        "de": "Ich bin bereit zu bestellen.",
+        "nl": "Ik ben klaar om te bestellen."
+      }
+    }
+  ]
+}

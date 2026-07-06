@@ -1,0 +1,266 @@
+{
+  "themeId": "school",
+  "name": "School & Classroom",
+  "sentences": [
+    {
+      "id": "school-001",
+      "tags": ["basic"],
+      "text": {
+        "en": "I'm a student.",
+        "fr": "Je suis étudiant(e).",
+        "es": "Soy estudiante.",
+        "it": "Sono studente/studentessa.",
+        "pt": "Sou estudante.",
+        "de": "Ich bin Schüler/Student.",
+        "nl": "Ik ben leerling/student."
+      }
+    },
+    {
+      "id": "school-002",
+      "tags": ["question"],
+      "text": {
+        "en": "Which class are we in?",
+        "fr": "Dans quelle salle sommes-nous ?",
+        "es": "¿En qué aula estamos?",
+        "it": "In quale aula siamo?",
+        "pt": "Em que sala estamos?",
+        "de": "In welchem Klassenzimmer sind wir?",
+        "nl": "In welk lokaal zijn we?"
+      }
+    },
+    {
+      "id": "school-003",
+      "tags": ["polite"],
+      "text": {
+        "en": "May I come in?",
+        "fr": "Puis-je entrer ?",
+        "es": "¿Puedo entrar?",
+        "it": "Posso entrare?",
+        "pt": "Posso entrar?",
+        "de": "Darf ich reinkommen?",
+        "nl": "Mag ik binnenkomen?"
+      }
+    },
+    {
+      "id": "school-004",
+      "tags": ["polite"],
+      "text": {
+        "en": "May I go to the bathroom?",
+        "fr": "Puis-je aller aux toilettes ?",
+        "es": "¿Puedo ir al baño?",
+        "it": "Posso andare in bagno?",
+        "pt": "Posso ir à casa de banho?",
+        "de": "Darf ich auf die Toilette?",
+        "nl": "Mag ik naar het toilet?"
+      }
+    },
+    {
+      "id": "school-005",
+      "tags": ["understanding"],
+      "text": {
+        "en": "I don't understand.",
+        "fr": "Je ne comprends pas.",
+        "es": "No entiendo.",
+        "it": "Non capisco.",
+        "pt": "Não percebo.",
+        "de": "Ich verstehe nicht.",
+        "nl": "Ik begrijp het niet."
+      }
+    },
+    {
+      "id": "school-006",
+      "tags": ["polite", "understanding"],
+      "text": {
+        "en": "Could you repeat that, please?",
+        "fr": "Pouvez-vous répéter, s’il vous plaît ?",
+        "es": "¿Puede repetir, por favor?",
+        "it": "Può ripetere, per favore?",
+        "pt": "Pode repetir, por favor?",
+        "de": "Könnten Sie das bitte wiederholen?",
+        "nl": "Kunt u dat alstublieft herhalen?"
+      }
+    },
+    {
+      "id": "school-007",
+      "tags": ["polite", "understanding"],
+      "text": {
+        "en": "Could you explain that again?",
+        "fr": "Pouvez-vous expliquer encore une fois ?",
+        "es": "¿Puede explicarlo otra vez?",
+        "it": "Può spiegare ancora una volta?",
+        "pt": "Pode explicar outra vez?",
+        "de": "Könnten Sie das noch einmal erklären?",
+        "nl": "Kunt u dat nog eens uitleggen?"
+      }
+    },
+    {
+      "id": "school-008",
+      "tags": ["basic"],
+      "text": {
+        "en": "I have a question.",
+        "fr": "J’ai une question.",
+        "es": "Tengo una pregunta.",
+        "it": "Ho una domanda.",
+        "pt": "Tenho uma pergunta.",
+        "de": "Ich habe eine Frage.",
+        "nl": "Ik heb een vraag."
+      }
+    },
+    {
+      "id": "school-009",
+      "tags": ["polite"],
+      "text": {
+        "en": "Can you help me?",
+        "fr": "Pouvez-vous m’aider ?",
+        "es": "¿Puede ayudarme?",
+        "it": "Può aiutarmi?",
+        "pt": "Pode ajudar-me?",
+        "de": "Können Sie mir helfen?",
+        "nl": "Kunt u mij helpen?"
+      }
+    },
+    {
+      "id": "school-010",
+      "tags": ["homework"],
+      "text": {
+        "en": "What is the homework?",
+        "fr": "Quels sont les devoirs ?",
+        "es": "¿Cuáles son los deberes?",
+        "it": "Quali sono i compiti?",
+        "pt": "Quais são os trabalhos de casa?",
+        "de": "Was sind die Hausaufgaben?",
+        "nl": "Wat is het huiswerk?"
+      }
+    },
+    {
+      "id": "school-011",
+      "tags": ["homework"],
+      "text": {
+        "en": "I forgot my homework.",
+        "fr": "J’ai oublié mes devoirs.",
+        "es": "Olvidé mi tarea.",
+        "it": "Ho dimenticato i compiti.",
+        "pt": "Esqueci-me dos trabalhos de casa.",
+        "de": "Ich habe meine Hausaufgaben vergessen.",
+        "nl": "Ik ben mijn huiswerk vergeten."
+      }
+    },
+    {
+      "id": "school-012",
+      "tags": ["exam"],
+      "text": {
+        "en": "We have a test today.",
+        "fr": "Nous avons un contrôle aujourd’hui.",
+        "es": "Tenemos un examen hoy.",
+        "it": "Abbiamo un test oggi.",
+        "pt": "Temos um teste hoje.",
+        "de": "Wir haben heute einen Test.",
+        "nl": "We hebben vandaag een toets."
+      }
+    },
+    {
+      "id": "school-013",
+      "tags": ["exam"],
+      "text": {
+        "en": "I'm nervous about the exam.",
+        "fr": "Je suis stressé(e) pour l’examen.",
+        "es": "Estoy nervioso/a por el examen.",
+        "it": "Sono nervoso/a per l’esame.",
+        "pt": "Estou nervoso/a por causa do exame.",
+        "de": "Ich bin nervös wegen der Prüfung.",
+        "nl": "Ik ben zenuwachtig voor het examen."
+      }
+    },
+    {
+      "id": "school-014",
+      "tags": ["exam"],
+      "text": {
+        "en": "I passed the exam.",
+        "fr": "J’ai réussi l’examen.",
+        "es": "Aprobé el examen.",
+        "it": "Ho superato l’esame.",
+        "pt": "Passei no exame.",
+        "de": "Ich habe die Prüfung bestanden.",
+        "nl": "Ik ben geslaagd voor het examen."
+      }
+    },
+    {
+      "id": "school-015",
+      "tags": ["exam"],
+      "text": {
+        "en": "I failed the exam.",
+        "fr": "J’ai échoué à l’examen.",
+        "es": "Suspendí el examen.",
+        "it": "Non ho superato l’esame.",
+        "pt": "Chumbei no exame.",
+        "de": "Ich bin durch die Prüfung gefallen.",
+        "nl": "Ik ben gezakt voor het examen."
+      }
+    },
+    {
+      "id": "school-016",
+      "tags": ["basic"],
+      "text": {
+        "en": "What page are we on?",
+        "fr": "On est à quelle page ?",
+        "es": "¿En qué página estamos?",
+        "it": "A che pagina siamo?",
+        "pt": "Em que página estamos?",
+        "de": "Auf welcher Seite sind wir?",
+        "nl": "Op welke pagina zijn we?"
+      }
+    },
+    {
+      "id": "school-017",
+      "tags": ["basic"],
+      "text": {
+        "en": "Please open your books.",
+        "fr": "Ouvrez vos livres, s’il vous plaît.",
+        "es": "Abran sus libros, por favor.",
+        "it": "Aprite i libri, per favore.",
+        "pt": "Abram os livros, por favor.",
+        "de": "Öffnet bitte eure Bücher.",
+        "nl": "Open jullie boeken, alstublieft."
+      }
+    },
+    {
+      "id": "school-018",
+      "tags": ["basic"],
+      "text": {
+        "en": "Please close your books.",
+        "fr": "Fermez vos livres, s’il vous plaît.",
+        "es": "Cierren sus libros, por favor.",
+        "it": "Chiudete i libri, per favore.",
+        "pt": "Fechem os livros, por favor.",
+        "de": "Schließt bitte eure Bücher.",
+        "nl": "Sluit jullie boeken, alstublieft."
+      }
+    },
+    {
+      "id": "school-019",
+      "tags": ["languages"],
+      "text": {
+        "en": "How do you say this in English?",
+        "fr": "Comment dit-on ça en anglais ?",
+        "es": "¿Cómo se dice esto en inglés?",
+        "it": "Come si dice questo in inglese?",
+        "pt": "Como se diz isto em inglês?",
+        "de": "Wie sagt man das auf Englisch?",
+        "nl": "Hoe zeg je dit in het Engels?"
+      }
+    },
+    {
+      "id": "school-020",
+      "tags": ["languages"],
+      "text": {
+        "en": "How do you spell that?",
+        "fr": "Comment ça s’écrit ?",
+        "es": "¿Cómo se escribe?",
+        "it": "Come si scrive?",
+        "pt": "Como se escreve?",
+        "de": "Wie schreibt man das?",
+        "nl": "Hoe schrijf je dat?"
+      }
+    }
+  ]
+}

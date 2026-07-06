@@ -1,0 +1,266 @@
+{
+  "themeId": "medical",
+  "name": "Medical & Pharmacy",
+  "sentences": [
+    {
+      "id": "med-001",
+      "tags": ["emergency", "medical"],
+      "text": {
+        "en": "I need a doctor.",
+        "fr": "J’ai besoin d’un médecin.",
+        "es": "Necesito un médico.",
+        "it": "Ho bisogno di un medico.",
+        "pt": "Preciso de um médico.",
+        "de": "Ich brauche einen Arzt.",
+        "nl": "Ik heb een dokter nodig."
+      }
+    },
+    {
+      "id": "med-002",
+      "tags": ["question", "medical"],
+      "text": {
+        "en": "Where is the nearest hospital?",
+        "fr": "Où est l’hôpital le plus proche ?",
+        "es": "¿Dónde está el hospital más cercano?",
+        "it": "Dov’è l’ospedale più vicino?",
+        "pt": "Onde fica o hospital mais próximo?",
+        "de": "Wo ist das nächste Krankenhaus?",
+        "nl": "Waar is het dichtstbijzijnde ziekenhuis?"
+      }
+    },
+    {
+      "id": "med-003",
+      "tags": ["question", "medical"],
+      "text": {
+        "en": "Where is the pharmacy?",
+        "fr": "Où est la pharmacie ?",
+        "es": "¿Dónde está la farmacia?",
+        "it": "Dov’è la farmacia?",
+        "pt": "Onde fica a farmácia?",
+        "de": "Wo ist die Apotheke?",
+        "nl": "Waar is de apotheek?"
+      }
+    },
+    {
+      "id": "med-004",
+      "tags": ["medical"],
+      "text": {
+        "en": "I feel sick.",
+        "fr": "Je me sens malade.",
+        "es": "Me siento mal.",
+        "it": "Mi sento male.",
+        "pt": "Sinto-me mal.",
+        "de": "Mir ist schlecht.",
+        "nl": "Ik voel me ziek."
+      }
+    },
+    {
+      "id": "med-005",
+      "tags": ["medical"],
+      "text": {
+        "en": "I have a fever.",
+        "fr": "J’ai de la fièvre.",
+        "es": "Tengo fiebre.",
+        "it": "Ho la febbre.",
+        "pt": "Tenho febre.",
+        "de": "Ich habe Fieber.",
+        "nl": "Ik heb koorts."
+      }
+    },
+    {
+      "id": "med-006",
+      "tags": ["medical"],
+      "text": {
+        "en": "I have a headache.",
+        "fr": "J’ai mal à la tête.",
+        "es": "Tengo dolor de cabeza.",
+        "it": "Ho mal di testa.",
+        "pt": "Tenho dor de cabeça.",
+        "de": "Ich habe Kopfschmerzen.",
+        "nl": "Ik heb hoofdpijn."
+      }
+    },
+    {
+      "id": "med-007",
+      "tags": ["medical"],
+      "text": {
+        "en": "I have a stomach ache.",
+        "fr": "J’ai mal au ventre.",
+        "es": "Me duele el estómago.",
+        "it": "Ho mal di stomaco.",
+        "pt": "Tenho dor de estômago.",
+        "de": "Ich habe Bauchschmerzen.",
+        "nl": "Ik heb buikpijn."
+      }
+    },
+    {
+      "id": "med-008",
+      "tags": ["medical"],
+      "text": {
+        "en": "It hurts here.",
+        "fr": "J’ai mal ici.",
+        "es": "Me duele aquí.",
+        "it": "Mi fa male qui.",
+        "pt": "Dói-me aqui.",
+        "de": "Hier tut es weh.",
+        "nl": "Het doet hier pijn."
+      }
+    },
+    {
+      "id": "med-009",
+      "tags": ["medical"],
+      "text": {
+        "en": "It hurts a lot.",
+        "fr": "Ça fait très mal.",
+        "es": "Duele mucho.",
+        "it": "Fa molto male.",
+        "pt": "Dói muito.",
+        "de": "Es tut sehr weh.",
+        "nl": "Het doet erg pijn."
+      }
+    },
+    {
+      "id": "med-010",
+      "tags": ["medical"],
+      "text": {
+        "en": "I feel dizzy.",
+        "fr": "J’ai des vertiges.",
+        "es": "Me siento mareado/a.",
+        "it": "Mi sento stordito/a.",
+        "pt": "Sinto tonturas.",
+        "de": "Mir ist schwindelig.",
+        "nl": "Ik ben duizelig."
+      }
+    },
+    {
+      "id": "med-011",
+      "tags": ["medical"],
+      "text": {
+        "en": "I feel tired.",
+        "fr": "Je me sens fatigué(e).",
+        "es": "Me siento cansado/a.",
+        "it": "Mi sento stanco/a.",
+        "pt": "Sinto-me cansado/a.",
+        "de": "Ich fühle mich müde.",
+        "nl": "Ik voel me moe."
+      }
+    },
+    {
+      "id": "med-012",
+      "tags": ["medical"],
+      "text": {
+        "en": "I have a cough.",
+        "fr": "J’ai une toux.",
+        "es": "Tengo tos.",
+        "it": "Ho la tosse.",
+        "pt": "Tenho tosse.",
+        "de": "Ich habe Husten.",
+        "nl": "Ik heb hoest."
+      }
+    },
+    {
+      "id": "med-013",
+      "tags": ["medical"],
+      "text": {
+        "en": "I have a sore throat.",
+        "fr": "J’ai mal à la gorge.",
+        "es": "Me duele la garganta.",
+        "it": "Ho mal di gola.",
+        "pt": "Tenho dor de garganta.",
+        "de": "Ich habe Halsschmerzen.",
+        "nl": "Ik heb keelpijn."
+      }
+    },
+    {
+      "id": "med-014",
+      "tags": ["medical"],
+      "text": {
+        "en": "I am allergic to penicillin.",
+        "fr": "Je suis allergique à la pénicilline.",
+        "es": "Soy alérgico/a a la penicilina.",
+        "it": "Sono allergico/a alla penicillina.",
+        "pt": "Sou alérgico/a à penicilina.",
+        "de": "Ich bin allergisch gegen Penicillin.",
+        "nl": "Ik ben allergisch voor penicilline."
+      }
+    },
+    {
+      "id": "med-015",
+      "tags": ["medical"],
+      "text": {
+        "en": "I take this medication.",
+        "fr": "Je prends ce médicament.",
+        "es": "Tomo este medicamento.",
+        "it": "Prendo questo medicinale.",
+        "pt": "Tomo este medicamento.",
+        "de": "Ich nehme dieses Medikament.",
+        "nl": "Ik neem dit medicijn."
+      }
+    },
+    {
+      "id": "med-016",
+      "tags": ["question", "medical"],
+      "text": {
+        "en": "Do I need a prescription?",
+        "fr": "Ai-je besoin d’une ordonnance ?",
+        "es": "¿Necesito receta?",
+        "it": "Ho bisogno di una ricetta?",
+        "pt": "Preciso de receita médica?",
+        "de": "Brauche ich ein Rezept?",
+        "nl": "Heb ik een recept nodig?"
+      }
+    },
+    {
+      "id": "med-017",
+      "tags": ["question", "medical"],
+      "text": {
+        "en": "How often should I take it?",
+        "fr": "À quelle fréquence dois-je le prendre ?",
+        "es": "¿Con qué frecuencia debo tomarlo?",
+        "it": "Con che frequenza devo prenderlo?",
+        "pt": "Com que frequência devo tomá-lo?",
+        "de": "Wie oft soll ich es einnehmen?",
+        "nl": "Hoe vaak moet ik het innemen?"
+      }
+    },
+    {
+      "id": "med-018",
+      "tags": ["question", "medical"],
+      "text": {
+        "en": "Are there any side effects?",
+        "fr": "Y a-t-il des effets secondaires ?",
+        "es": "¿Hay efectos secundarios?",
+        "it": "Ci sono effetti collaterali?",
+        "pt": "Há efeitos secundários?",
+        "de": "Gibt es Nebenwirkungen?",
+        "nl": "Zijn er bijwerkingen?"
+      }
+    },
+    {
+      "id": "med-019",
+      "tags": ["emergency", "medical"],
+      "text": {
+        "en": "Call an ambulance!",
+        "fr": "Appelez une ambulance !",
+        "es": "¡Llame a una ambulancia!",
+        "it": "Chiami un’ambulanza!",
+        "pt": "Chame uma ambulância!",
+        "de": "Rufen Sie einen Krankenwagen!",
+        "nl": "Bel een ambulance!"
+      }
+    },
+    {
+      "id": "med-020",
+      "tags": ["emergency", "medical"],
+      "text": {
+        "en": "It's urgent.",
+        "fr": "C’est urgent.",
+        "es": "Es urgente.",
+        "it": "È urgente.",
+        "pt": "É urgente.",
+        "de": "Es ist dringend.",
+        "nl": "Het is dringend."
+      }
+    }
+  ]
+}

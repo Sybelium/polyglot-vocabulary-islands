@@ -1,0 +1,266 @@
+{
+  "themeId": "transport",
+  "name": "Transport",
+  "sentences": [
+    {
+      "id": "trans-001",
+      "tags": ["question", "travel"],
+      "text": {
+        "en": "Where is the train station?",
+        "fr": "Où est la gare ?",
+        "es": "¿Dónde está la estación de tren?",
+        "it": "Dov’è la stazione?",
+        "pt": "Onde fica a estação de comboios?",
+        "de": "Wo ist der Bahnhof?",
+        "nl": "Waar is het treinstation?"
+      }
+    },
+    {
+      "id": "trans-002",
+      "tags": ["question", "travel"],
+      "text": {
+        "en": "Where is the метро station?",
+        "fr": "Où est la station de métro ?",
+        "es": "¿Dónde está la estación de metro?",
+        "it": "Dov’è la stazione della metro?",
+        "pt": "Onde fica a estação de metro?",
+        "de": "Wo ist die U-Bahn-Station?",
+        "nl": "Waar is het metrostation?"
+      }
+    },
+    {
+      "id": "trans-003",
+      "tags": ["question", "travel"],
+      "text": {
+        "en": "Where is the bus stop?",
+        "fr": "Où est l’arrêt de bus ?",
+        "es": "¿Dónde está la parada de autobús?",
+        "it": "Dov’è la fermata dell’autobus?",
+        "pt": "Onde fica a paragem de autocarro?",
+        "de": "Wo ist die Bushaltestelle?",
+        "nl": "Waar is de bushalte?"
+      }
+    },
+    {
+      "id": "trans-004",
+      "tags": ["question", "travel", "money"],
+      "text": {
+        "en": "Where can I buy a ticket?",
+        "fr": "Où puis-je acheter un billet ?",
+        "es": "¿Dónde puedo comprar un billete?",
+        "it": "Dove posso comprare un biglietto?",
+        "pt": "Onde posso comprar um bilhete?",
+        "de": "Wo kann ich ein Ticket kaufen?",
+        "nl": "Waar kan ik een kaartje kopen?"
+      }
+    },
+    {
+      "id": "trans-005",
+      "tags": ["question", "travel", "money"],
+      "text": {
+        "en": "One ticket to the city center, please.",
+        "fr": "Un billet pour le centre-ville, s’il vous plaît.",
+        "es": "Un billete al centro, por favor.",
+        "it": "Un biglietto per il centro, per favore.",
+        "pt": "Um bilhete para o centro, por favor.",
+        "de": "Eine Fahrkarte ins Zentrum, bitte.",
+        "nl": "Eén kaartje naar het centrum, alstublieft."
+      }
+    },
+    {
+      "id": "trans-006",
+      "tags": ["question", "travel", "money"],
+      "text": {
+        "en": "Is this a one-way ticket?",
+        "fr": "C’est un aller simple ?",
+        "es": "¿Es un billete de ida?",
+        "it": "È un biglietto di sola andata?",
+        "pt": "É bilhete só de ida?",
+        "de": "Ist das eine Einzelfahrt?",
+        "nl": "Is dit een enkele reis?"
+      }
+    },
+    {
+      "id": "trans-007",
+      "tags": ["travel", "money"],
+      "text": {
+        "en": "I need a return ticket.",
+        "fr": "J’ai besoin d’un aller-retour.",
+        "es": "Necesito un billete de ida y vuelta.",
+        "it": "Mi serve un biglietto di andata e ritorno.",
+        "pt": "Preciso de um bilhete de ida e volta.",
+        "de": "Ich brauche ein Hin- und Rückfahrtticket.",
+        "nl": "Ik heb een retour nodig."
+      }
+    },
+    {
+      "id": "trans-008",
+      "tags": ["question", "travel", "time"],
+      "text": {
+        "en": "What time does the next train leave?",
+        "fr": "À quelle heure part le prochain train ?",
+        "es": "¿A qué hora sale el próximo tren?",
+        "it": "A che ora parte il prossimo treno?",
+        "pt": "A que horas parte o próximo comboio?",
+        "de": "Wann fährt der nächste Zug ab?",
+        "nl": "Hoe laat vertrekt de volgende trein?"
+      }
+    },
+    {
+      "id": "trans-009",
+      "tags": ["question", "travel"],
+      "text": {
+        "en": "Which platform is it?",
+        "fr": "C’est quel quai ?",
+        "es": "¿De qué andén sale?",
+        "it": "Da quale binario parte?",
+        "pt": "De que plataforma é?",
+        "de": "Von welchem Gleis?",
+        "nl": "Van welk perron?"
+      }
+    },
+    {
+      "id": "trans-010",
+      "tags": ["travel"],
+      "text": {
+        "en": "The train is delayed.",
+        "fr": "Le train a du retard.",
+        "es": "El tren está retrasado.",
+        "it": "Il treno è in ritardo.",
+        "pt": "O comboio está atrasado.",
+        "de": "Der Zug hat Verspätung.",
+        "nl": "De trein heeft vertraging."
+      }
+    },
+    {
+      "id": "trans-011",
+      "tags": ["question", "travel"],
+      "text": {
+        "en": "Does this train stop at the airport?",
+        "fr": "Ce train s’arrête à l’aéroport ?",
+        "es": "¿Este tren para en el aeropuerto?",
+        "it": "Questo treno ferma all’aeroporto?",
+        "pt": "Este comboio pára no aeroporto?",
+        "de": "Hält dieser Zug am Flughafen?",
+        "nl": "Stopt deze trein bij de luchthaven?"
+      }
+    },
+    {
+      "id": "trans-012",
+      "tags": ["question", "travel"],
+      "text": {
+        "en": "Which line should I take?",
+        "fr": "Quelle ligne dois-je prendre ?",
+        "es": "¿Qué línea debo tomar?",
+        "it": "Che linea devo prendere?",
+        "pt": "Que linha devo apanhar?",
+        "de": "Welche Linie soll ich nehmen?",
+        "nl": "Welke lijn moet ik nemen?"
+      }
+    },
+    {
+      "id": "trans-013",
+      "tags": ["travel"],
+      "text": {
+        "en": "Where do I get off?",
+        "fr": "Où dois-je descendre ?",
+        "es": "¿Dónde me bajo?",
+        "it": "Dove devo scendere?",
+        "pt": "Onde devo sair?",
+        "de": "Wo muss ich aussteigen?",
+        "nl": "Waar moet ik uitstappen?"
+      }
+    },
+    {
+      "id": "trans-014",
+      "tags": ["travel"],
+      "text": {
+        "en": "This is my stop.",
+        "fr": "C’est mon arrêt.",
+        "es": "Esta es mi parada.",
+        "it": "Questa è la mia fermata.",
+        "pt": "Esta é a minha paragem.",
+        "de": "Das ist meine Haltestelle.",
+        "nl": "Dit is mijn halte."
+      }
+    },
+    {
+      "id": "trans-015",
+      "tags": ["question", "travel"],
+      "text": {
+        "en": "Does this bus go to the city center?",
+        "fr": "Ce bus va au centre-ville ?",
+        "es": "¿Este autobús va al centro?",
+        "it": "Questo autobus va in centro?",
+        "pt": "Este autocarro vai para o centro?",
+        "de": "Fährt dieser Bus ins Stadtzentrum?",
+        "nl": "Gaat deze bus naar het centrum?"
+      }
+    },
+    {
+      "id": "trans-016",
+      "tags": ["travel"],
+      "text": {
+        "en": "I need a taxi.",
+        "fr": "J’ai besoin d’un taxi.",
+        "es": "Necesito un taxi.",
+        "it": "Ho bisogno di un taxi.",
+        "pt": "Preciso de um táxi.",
+        "de": "Ich brauche ein Taxi.",
+        "nl": "Ik heb een taxi nodig."
+      }
+    },
+    {
+      "id": "trans-017",
+      "tags": ["travel", "polite"],
+      "text": {
+        "en": "Please take me to this address.",
+        "fr": "Emmenez-moi à cette adresse, s’il vous plaît.",
+        "es": "Lléveme a esta dirección, por favor.",
+        "it": "Mi porti a questo indirizzo, per favore.",
+        "pt": "Leve-me a esta morada, por favor.",
+        "de": "Bitte bringen Sie mich zu dieser Adresse.",
+        "nl": "Breng me alstublieft naar dit adres."
+      }
+    },
+    {
+      "id": "trans-018",
+      "tags": ["question", "travel", "money"],
+      "text": {
+        "en": "How much will it cost?",
+        "fr": "Combien ça va coûter ?",
+        "es": "¿Cuánto va a costar?",
+        "it": "Quanto costerà?",
+        "pt": "Quanto vai custar?",
+        "de": "Wie viel wird das kosten?",
+        "nl": "Hoeveel gaat het kosten?"
+      }
+    },
+    {
+      "id": "trans-019",
+      "tags": ["problem", "travel"],
+      "text": {
+        "en": "I missed my train.",
+        "fr": "J’ai raté mon train.",
+        "es": "Perdí mi tren.",
+        "it": "Ho perso il treno.",
+        "pt": "Perdi o comboio.",
+        "de": "Ich habe meinen Zug verpasst.",
+        "nl": "Ik heb mijn trein gemist."
+      }
+    },
+    {
+      "id": "trans-020",
+      "tags": ["problem", "travel"],
+      "text": {
+        "en": "I need to change trains.",
+        "fr": "Je dois changer de train.",
+        "es": "Tengo que hacer transbordo.",
+        "it": "Devo cambiare treno.",
+        "pt": "Tenho de mudar de comboio.",
+        "de": "Ich muss umsteigen.",
+        "nl": "Ik moet overstappen."
+      }
+    }
+  ]
+}

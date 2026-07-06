@@ -1,0 +1,266 @@
+{
+  "themeId": "weather",
+  "name": "Weather",
+  "sentences": [
+    {
+      "id": "weath-001",
+      "tags": ["question", "basic", "smalltalk"],
+      "text": {
+        "en": "How's the weather?",
+        "fr": "Comment est le temps ?",
+        "es": "¿Qué tiempo hace?",
+        "it": "Che tempo fa?",
+        "pt": "Como está o tempo?",
+        "de": "Wie ist das Wetter?",
+        "nl": "Hoe is het weer?"
+      }
+    },
+    {
+      "id": "weath-002",
+      "tags": ["basic"],
+      "text": {
+        "en": "It's sunny.",
+        "fr": "Il fait soleil.",
+        "es": "Hace sol.",
+        "it": "C'è il sole.",
+        "pt": "Está sol.",
+        "de": "Es ist sonnig.",
+        "nl": "Het is zonnig."
+      }
+    },
+    {
+      "id": "weath-003",
+      "tags": ["basic"],
+      "text": {
+        "en": "It's raining.",
+        "fr": "Il pleut.",
+        "es": "Está lloviendo.",
+        "it": "Sta piovendo.",
+        "pt": "Está a chover.",
+        "de": "Es regnet.",
+        "nl": "Het regent."
+      }
+    },
+    {
+      "id": "weath-004",
+      "tags": ["basic"],
+      "text": {
+        "en": "It's snowing.",
+        "fr": "Il neige.",
+        "es": "Está nevando.",
+        "it": "Sta nevicando.",
+        "pt": "Está a nevar.",
+        "de": "Es schneit.",
+        "nl": "Het sneeuwt."
+      }
+    },
+    {
+      "id": "weath-005",
+      "tags": ["basic"],
+      "text": {
+        "en": "It's windy.",
+        "fr": "Il y a du vent.",
+        "es": "Hace viento.",
+        "it": "C'è vento.",
+        "pt": "Está vento.",
+        "de": "Es ist windig.",
+        "nl": "Het is winderig."
+      }
+    },
+    {
+      "id": "weath-006",
+      "tags": ["basic"],
+      "text": {
+        "en": "It's cloudy.",
+        "fr": "Il y a des nuages.",
+        "es": "Está nublado.",
+        "it": "È nuvoloso.",
+        "pt": "Está nublado.",
+        "de": "Es ist bewölkt.",
+        "nl": "Het is bewolkt."
+      }
+    },
+    {
+      "id": "weath-007",
+      "tags": ["basic"],
+      "text": {
+        "en": "It's hot today.",
+        "fr": "Il fait chaud aujourd’hui.",
+        "es": "Hace calor hoy.",
+        "it": "Fa caldo oggi.",
+        "pt": "Está calor hoje.",
+        "de": "Es ist heute heiß.",
+        "nl": "Het is vandaag warm."
+      }
+    },
+    {
+      "id": "weath-008",
+      "tags": ["basic"],
+      "text": {
+        "en": "It's cold today.",
+        "fr": "Il fait froid aujourd’hui.",
+        "es": "Hace frío hoy.",
+        "it": "Fa freddo oggi.",
+        "pt": "Está frio hoje.",
+        "de": "Es ist heute kalt.",
+        "nl": "Het is vandaag koud."
+      }
+    },
+    {
+      "id": "weath-009",
+      "tags": ["question"],
+      "text": {
+        "en": "What's the temperature?",
+        "fr": "Quelle est la température ?",
+        "es": "¿Cuál es la temperatura?",
+        "it": "Qual è la temperatura?",
+        "pt": "Qual é a temperatura?",
+        "de": "Wie ist die Temperatur?",
+        "nl": "Wat is de temperatuur?"
+      }
+    },
+    {
+      "id": "weath-010",
+      "tags": ["weather"],
+      "text": {
+        "en": "It's 20 degrees.",
+        "fr": "Il fait 20 degrés.",
+        "es": "Hace 20 grados.",
+        "it": "Ci sono 20 gradi.",
+        "pt": "Estão 20 graus.",
+        "de": "Es sind 20 Grad.",
+        "nl": "Het is 20 graden."
+      }
+    },
+    {
+      "id": "weath-011",
+      "tags": ["question", "weather"],
+      "text": {
+        "en": "Is it going to rain?",
+        "fr": "Est-ce qu’il va pleuvoir ?",
+        "es": "¿Va a llover?",
+        "it": "Pioverà?",
+        "pt": "Vai chover?",
+        "de": "Wird es regnen?",
+        "nl": "Gaat het regenen?"
+      }
+    },
+    {
+      "id": "weath-012",
+      "tags": ["weather"],
+      "text": {
+        "en": "It might rain later.",
+        "fr": "Il pourrait pleuvoir plus tard.",
+        "es": "Puede que llueva más tarde.",
+        "it": "Potrebbe piovere più tardi.",
+        "pt": "Pode chover mais tarde.",
+        "de": "Es könnte später regnen.",
+        "nl": "Het kan later gaan regenen."
+      }
+    },
+    {
+      "id": "weath-013",
+      "tags": ["weather"],
+      "text": {
+        "en": "The weather is nice.",
+        "fr": "Il fait beau.",
+        "es": "Hace buen tiempo.",
+        "it": "Il tempo è bello.",
+        "pt": "Está bom tempo.",
+        "de": "Das Wetter ist schön.",
+        "nl": "Het weer is mooi."
+      }
+    },
+    {
+      "id": "weath-014",
+      "tags": ["weather"],
+      "text": {
+        "en": "The weather is terrible.",
+        "fr": "Il fait mauvais.",
+        "es": "Hace mal tiempo.",
+        "it": "Il tempo è brutto.",
+        "pt": "Está mau tempo.",
+        "de": "Das Wetter ist schlecht.",
+        "nl": "Het weer is slecht."
+      }
+    },
+    {
+      "id": "weath-015",
+      "tags": ["smalltalk"],
+      "text": {
+        "en": "It's a beautiful day.",
+        "fr": "C’est une belle journée.",
+        "es": "Es un día hermoso.",
+        "it": "È una bella giornata.",
+        "pt": "É um dia bonito.",
+        "de": "Es ist ein schöner Tag.",
+        "nl": "Het is een mooie dag."
+      }
+    },
+    {
+      "id": "weath-016",
+      "tags": ["smalltalk"],
+      "text": {
+        "en": "I love this weather.",
+        "fr": "J’adore ce temps.",
+        "es": "Me encanta este clima.",
+        "it": "Adoro questo tempo.",
+        "pt": "Adoro este tempo.",
+        "de": "Ich liebe dieses Wetter.",
+        "nl": "Ik hou van dit weer."
+      }
+    },
+    {
+      "id": "weath-017",
+      "tags": ["smalltalk"],
+      "text": {
+        "en": "I prefer warm weather.",
+        "fr": "Je préfère le temps chaud.",
+        "es": "Prefiero el clima cálido.",
+        "it": "Preferisco il tempo caldo.",
+        "pt": "Prefiro tempo quente.",
+        "de": "Ich bevorzuge warmes Wetter.",
+        "nl": "Ik geef de voorkeur aan warm weer."
+      }
+    },
+    {
+      "id": "weath-018",
+      "tags": ["weather"],
+      "text": {
+        "en": "It's getting colder.",
+        "fr": "Il fait de plus en plus froid.",
+        "es": "Hace cada vez más frío.",
+        "it": "Fa sempre più freddo.",
+        "pt": "Está cada vez mais frio.",
+        "de": "Es wird kälter.",
+        "nl": "Het wordt kouder."
+      }
+    },
+    {
+      "id": "weath-019",
+      "tags": ["weather"],
+      "text": {
+        "en": "It's getting warmer.",
+        "fr": "Il fait de plus en plus chaud.",
+        "es": "Hace cada vez más calor.",
+        "it": "Fa sempre più caldo.",
+        "pt": "Está cada vez mais calor.",
+        "de": "Es wird wärmer.",
+        "nl": "Het wordt warmer."
+      }
+    },
+    {
+      "id": "weath-020",
+      "tags": ["weather", "advice"],
+      "text": {
+        "en": "Take an umbrella.",
+        "fr": "Prends un parapluie.",
+        "es": "Lleva un paraguas.",
+        "it": "Prendi un ombrello.",
+        "pt": "Leva um guarda-chuva.",
+        "de": "Nimm einen Regenschirm mit.",
+        "nl": "Neem een paraplu mee."
+      }
+    }
+  ]
+}

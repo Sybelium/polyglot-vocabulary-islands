@@ -1,0 +1,266 @@
+{
+  "themeId": "hotel",
+  "name": "Hotel & Accommodation",
+  "sentences": [
+    {
+      "id": "hotel-001",
+      "tags": ["basic", "polite"],
+      "text": {
+        "en": "I have a reservation.",
+        "fr": "J’ai une réservation.",
+        "es": "Tengo una reserva.",
+        "it": "Ho una prenotazione.",
+        "pt": "Tenho uma reserva.",
+        "de": "Ich habe eine Reservierung.",
+        "nl": "Ik heb een reservering."
+      }
+    },
+    {
+      "id": "hotel-002",
+      "tags": ["question"],
+      "text": {
+        "en": "I would like to book a room.",
+        "fr": "Je voudrais réserver une chambre.",
+        "es": "Quisiera reservar una habitación.",
+        "it": "Vorrei prenotare una camera.",
+        "pt": "Queria reservar um quarto.",
+        "de": "Ich möchte ein Zimmer buchen.",
+        "nl": "Ik wil graag een kamer boeken."
+      }
+    },
+    {
+      "id": "hotel-003",
+      "tags": ["question"],
+      "text": {
+        "en": "Do you have any rooms available?",
+        "fr": "Avez-vous des chambres disponibles ?",
+        "es": "¿Tienen habitaciones disponibles?",
+        "it": "Avete camere disponibili?",
+        "pt": "Têm quartos disponíveis?",
+        "de": "Haben Sie noch Zimmer frei?",
+        "nl": "Heeft u nog kamers vrij?"
+      }
+    },
+    {
+      "id": "hotel-004",
+      "tags": ["question"],
+      "text": {
+        "en": "For how many nights?",
+        "fr": "Pour combien de nuits ?",
+        "es": "¿Para cuántas noches?",
+        "it": "Per quante notti?",
+        "pt": "Para quantas noites?",
+        "de": "Für wie viele Nächte?",
+        "nl": "Voor hoeveel nachten?"
+      }
+    },
+    {
+      "id": "hotel-005",
+      "tags": ["basic"],
+      "text": {
+        "en": "For two nights.",
+        "fr": "Pour deux nuits.",
+        "es": "Para dos noches.",
+        "it": "Per due notti.",
+        "pt": "Para duas noites.",
+        "de": "Für zwei Nächte.",
+        "nl": "Voor twee nachten."
+      }
+    },
+    {
+      "id": "hotel-006",
+      "tags": ["question"],
+      "text": {
+        "en": "What time is check-in?",
+        "fr": "À quelle heure est l’enregistrement ?",
+        "es": "¿A qué hora es el check-in?",
+        "it": "A che ora è il check-in?",
+        "pt": "A que horas é o check-in?",
+        "de": "Wann ist Check-in?",
+        "nl": "Hoe laat is het inchecken?"
+      }
+    },
+    {
+      "id": "hotel-007",
+      "tags": ["question"],
+      "text": {
+        "en": "What time is check-out?",
+        "fr": "À quelle heure est le départ ?",
+        "es": "¿A qué hora es el check-out?",
+        "it": "A che ora è il check-out?",
+        "pt": "A que horas é o check-out?",
+        "de": "Wann ist Check-out?",
+        "nl": "Hoe laat is het uitchecken?"
+      }
+    },
+    {
+      "id": "hotel-008",
+      "tags": ["polite"],
+      "text": {
+        "en": "Can I check in early?",
+        "fr": "Puis-je m’enregistrer plus tôt ?",
+        "es": "¿Puedo hacer el check-in antes?",
+        "it": "Posso fare il check-in prima?",
+        "pt": "Posso fazer o check-in mais cedo?",
+        "de": "Kann ich früher einchecken?",
+        "nl": "Kan ik eerder inchecken?"
+      }
+    },
+    {
+      "id": "hotel-009",
+      "tags": ["polite"],
+      "text": {
+        "en": "Can I check out later?",
+        "fr": "Puis-je partir plus tard ?",
+        "es": "¿Puedo hacer el check-out más tarde?",
+        "it": "Posso fare il check-out più tardi?",
+        "pt": "Posso fazer o check-out mais tarde?",
+        "de": "Kann ich später auschecken?",
+        "nl": "Kan ik later uitchecken?"
+      }
+    },
+    {
+      "id": "hotel-010",
+      "tags": ["question"],
+      "text": {
+        "en": "Is breakfast included?",
+        "fr": "Le petit-déjeuner est-il inclus ?",
+        "es": "¿El desayuno está incluido?",
+        "it": "La colazione è inclusa?",
+        "pt": "O pequeno-almoço está incluído?",
+        "de": "Ist das Frühstück inbegriffen?",
+        "nl": "Is het ontbijt inbegrepen?"
+      }
+    },
+    {
+      "id": "hotel-011",
+      "tags": ["question"],
+      "text": {
+        "en": "What time is breakfast?",
+        "fr": "À quelle heure est le petit-déjeuner ?",
+        "es": "¿A qué hora es el desayuno?",
+        "it": "A che ora è la colazione?",
+        "pt": "A que horas é o pequeno-almoço?",
+        "de": "Wann ist Frühstück?",
+        "nl": "Hoe laat is het ontbijt?"
+      }
+    },
+    {
+      "id": "hotel-012",
+      "tags": ["question"],
+      "text": {
+        "en": "Is there Wi-Fi in the room?",
+        "fr": "Y a-t-il le Wi-Fi dans la chambre ?",
+        "es": "¿Hay Wi-Fi en la habitación?",
+        "it": "C’è il Wi-Fi in camera?",
+        "pt": "Há Wi-Fi no quarto?",
+        "de": "Gibt es WLAN im Zimmer?",
+        "nl": "Is er wifi op de kamer?"
+      }
+    },
+    {
+      "id": "hotel-013",
+      "tags": ["question"],
+      "text": {
+        "en": "What is the Wi-Fi password?",
+        "fr": "Quel est le mot de passe du Wi-Fi ?",
+        "es": "¿Cuál es la contraseña del Wi-Fi?",
+        "it": "Qual è la password del Wi-Fi?",
+        "pt": "Qual é a palavra-passe do Wi-Fi?",
+        "de": "Wie lautet das WLAN-Passwort?",
+        "nl": "Wat is het wifi-wachtwoord?"
+      }
+    },
+    {
+      "id": "hotel-014",
+      "tags": ["problem"],
+      "text": {
+        "en": "The room is too cold.",
+        "fr": "La chambre est trop froide.",
+        "es": "La habitación está demasiado fría.",
+        "it": "La camera è troppo fredda.",
+        "pt": "O quarto está demasiado frio.",
+        "de": "Das Zimmer ist zu kalt.",
+        "nl": "De kamer is te koud."
+      }
+    },
+    {
+      "id": "hotel-015",
+      "tags": ["problem"],
+      "text": {
+        "en": "The room is too noisy.",
+        "fr": "La chambre est trop bruyante.",
+        "es": "La habitación es demasiado ruidosa.",
+        "it": "La camera è troppo rumorosa.",
+        "pt": "O quarto é demasiado barulhento.",
+        "de": "Das Zimmer ist zu laut.",
+        "nl": "De kamer is te lawaaierig."
+      }
+    },
+    {
+      "id": "hotel-016",
+      "tags": ["problem"],
+      "text": {
+        "en": "The air conditioning doesn't work.",
+        "fr": "La climatisation ne fonctionne pas.",
+        "es": "El aire acondicionado no funciona.",
+        "it": "L’aria condizionata non funziona.",
+        "pt": "O ar condicionado não funciona.",
+        "de": "Die Klimaanlage funktioniert nicht.",
+        "nl": "De airconditioning werkt niet."
+      }
+    },
+    {
+      "id": "hotel-017",
+      "tags": ["polite"],
+      "text": {
+        "en": "Could you bring extra towels?",
+        "fr": "Pouvez-vous apporter des serviettes supplémentaires ?",
+        "es": "¿Puede traer toallas adicionales?",
+        "it": "Può portare degli asciugamani extra?",
+        "pt": "Pode trazer toalhas extra?",
+        "de": "Könnten Sie zusätzliche Handtücher bringen?",
+        "nl": "Kunt u extra handdoeken brengen?"
+      }
+    },
+    {
+      "id": "hotel-018",
+      "tags": ["polite"],
+      "text": {
+        "en": "Could you clean the room?",
+        "fr": "Pouvez-vous nettoyer la chambre ?",
+        "es": "¿Puede limpiar la habitación?",
+        "it": "Può pulire la camera?",
+        "pt": "Pode limpar o quarto?",
+        "de": "Könnten Sie das Zimmer reinigen?",
+        "nl": "Kunt u de kamer schoonmaken?"
+      }
+    },
+    {
+      "id": "hotel-019",
+      "tags": ["money"],
+      "text": {
+        "en": "Can I pay now?",
+        "fr": "Puis-je payer maintenant ?",
+        "es": "¿Puedo pagar ahora?",
+        "it": "Posso pagare ora?",
+        "pt": "Posso pagar agora?",
+        "de": "Kann ich jetzt bezahlen?",
+        "nl": "Kan ik nu betalen?"
+      }
+    },
+    {
+      "id": "hotel-020",
+      "tags": ["polite"],
+      "text": {
+        "en": "Thank you for your help.",
+        "fr": "Merci pour votre aide.",
+        "es": "Gracias por su ayuda.",
+        "it": "Grazie per il suo aiuto.",
+        "pt": "Obrigado/a pela sua ajuda.",
+        "de": "Danke für Ihre Hilfe.",
+        "nl": "Bedankt voor uw hulp."
+      }
+    }
+  ]
+}

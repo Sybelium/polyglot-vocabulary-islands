@@ -1,0 +1,370 @@
+{
+  "themeId": "greetings",
+  "name": "Greetings & Introductions",
+  "sentences": [
+    {
+      "id": "greet-001",
+      "tags": ["basic"],
+      "text": {
+        "en": "Hello!",
+        "fr": "Bonjour !",
+        "es": "¡Hola!",
+        "it": "Ciao!",
+        "pt": "Olá!",
+        "de": "Hallo!",
+        "nl": "Hallo!"
+      }
+    },
+    {
+      "id": "greet-002",
+      "tags": ["basic", "polite"],
+      "text": {
+        "en": "Good morning.",
+        "fr": "Bonjour.",
+        "es": "Buenos días.",
+        "it": "Buongiorno.",
+        "pt": "Bom dia.",
+        "de": "Guten Morgen.",
+        "nl": "Goedemorgen."
+      }
+    },
+    {
+      "id": "greet-003",
+      "tags": ["basic", "polite"],
+      "text": {
+        "en": "Good afternoon.",
+        "fr": "Bonjour.",
+        "es": "Buenas tardes.",
+        "it": "Buon pomeriggio.",
+        "pt": "Boa tarde.",
+        "de": "Guten Tag.",
+        "nl": "Goedemiddag."
+      }
+    },
+    {
+      "id": "greet-004",
+      "tags": ["basic", "polite"],
+      "text": {
+        "en": "Good evening.",
+        "fr": "Bonsoir.",
+        "es": "Buenas noches.",
+        "it": "Buonasera.",
+        "pt": "Boa noite.",
+        "de": "Guten Abend.",
+        "nl": "Goedenavond."
+      }
+    },
+    {
+      "id": "greet-005",
+      "tags": ["basic"],
+      "text": {
+        "en": "Goodbye!",
+        "fr": "Au revoir !",
+        "es": "¡Adiós!",
+        "it": "Arrivederci!",
+        "pt": "Adeus!",
+        "de": "Auf Wiedersehen!",
+        "nl": "Tot ziens!"
+      }
+    },
+    {
+      "id": "greet-006",
+      "tags": ["casual"],
+      "text": {
+        "en": "See you later!",
+        "fr": "À plus tard !",
+        "es": "¡Hasta luego!",
+        "it": "A dopo!",
+        "pt": "Até já!",
+        "de": "Bis später!",
+        "nl": "Tot straks!"
+      }
+    },
+    {
+      "id": "greet-007",
+      "tags": ["polite"],
+      "text": {
+        "en": "Please.",
+        "fr": "S’il vous plaît.",
+        "es": "Por favor.",
+        "it": "Per favore.",
+        "pt": "Por favor.",
+        "de": "Bitte.",
+        "nl": "Alstublieft."
+      }
+    },
+    {
+      "id": "greet-008",
+      "tags": ["basic", "polite"],
+      "text": {
+        "en": "Thank you.",
+        "fr": "Merci.",
+        "es": "Gracias.",
+        "it": "Grazie.",
+        "pt": "Obrigado/a.",
+        "de": "Danke.",
+        "nl": "Dank je."
+      }
+    },
+    {
+      "id": "greet-009",
+      "tags": ["basic", "polite"],
+      "text": {
+        "en": "You're welcome.",
+        "fr": "De rien.",
+        "es": "De nada.",
+        "it": "Prego.",
+        "pt": "De nada.",
+        "de": "Gern geschehen.",
+        "nl": "Graag gedaan."
+      }
+    },
+    {
+      "id": "greet-010",
+      "tags": ["polite"],
+      "text": {
+        "en": "Excuse me.",
+        "fr": "Excusez-moi.",
+        "es": "Perdón.",
+        "it": "Mi scusi.",
+        "pt": "Com licença.",
+        "de": "Entschuldigen Sie.",
+        "nl": "Pardon."
+      }
+    },
+    {
+      "id": "greet-011",
+      "tags": ["basic", "polite"],
+      "text": {
+        "en": "Sorry.",
+        "fr": "Désolé(e).",
+        "es": "Lo siento.",
+        "it": "Mi dispiace.",
+        "pt": "Desculpe.",
+        "de": "Entschuldigung.",
+        "nl": "Sorry."
+      }
+    },
+    {
+      "id": "greet-012",
+      "tags": ["question", "basic"],
+      "text": {
+        "en": "How are you?",
+        "fr": "Comment ça va ?",
+        "es": "¿Cómo estás?",
+        "it": "Come stai?",
+        "pt": "Como estás?",
+        "de": "Wie geht’s?",
+        "nl": "Hoe gaat het?"
+      }
+    },
+    {
+      "id": "greet-013",
+      "tags": ["answer", "basic"],
+      "text": {
+        "en": "I'm fine, thanks.",
+        "fr": "Ça va bien, merci.",
+        "es": "Estoy bien, gracias.",
+        "it": "Sto bene, grazie.",
+        "pt": "Estou bem, obrigado/a.",
+        "de": "Mir geht’s gut, danke.",
+        "nl": "Het gaat goed, dank je."
+      }
+    },
+    {
+      "id": "greet-014",
+      "tags": ["answer", "casual"],
+      "text": {
+        "en": "So-so.",
+        "fr": "Comme ci, comme ça.",
+        "es": "Así así.",
+        "it": "Così così.",
+        "pt": "Assim assim.",
+        "de": "So lala.",
+        "nl": "Gaat wel."
+      }
+    },
+    {
+      "id": "greet-015",
+      "tags": ["question", "polite"],
+      "text": {
+        "en": "What is your name?",
+        "fr": "Comment vous appelez-vous ?",
+        "es": "¿Cómo se llama?",
+        "it": "Come si chiama?",
+        "pt": "Como se chama?",
+        "de": "Wie heißen Sie?",
+        "nl": "Hoe heet u?"
+      }
+    },
+    {
+      "id": "greet-016",
+      "tags": ["answer", "basic"],
+      "text": {
+        "en": "My name is…",
+        "fr": "Je m’appelle…",
+        "es": "Me llamo…",
+        "it": "Mi chiamo…",
+        "pt": "Chamo-me…",
+        "de": "Ich heiße…",
+        "nl": "Ik heet…"
+      }
+    },
+    {
+      "id": "greet-017",
+      "tags": ["basic", "polite"],
+      "text": {
+        "en": "Nice to meet you.",
+        "fr": "Enchanté(e).",
+        "es": "Encantado/a.",
+        "it": "Piacere.",
+        "pt": "Muito prazer.",
+        "de": "Freut mich.",
+        "nl": "Aangenaam."
+      }
+    },
+    {
+      "id": "greet-018",
+      "tags": ["question"],
+      "text": {
+        "en": "Where are you from?",
+        "fr": "Vous venez d’où ?",
+        "es": "¿De dónde es?",
+        "it": "Di dove sei?",
+        "pt": "De onde és?",
+        "de": "Woher kommen Sie?",
+        "nl": "Waar komt u vandaan?"
+      }
+    },
+    {
+      "id": "greet-019",
+      "tags": ["answer"],
+      "text": {
+        "en": "I'm from Belgium.",
+        "fr": "Je viens de Belgique.",
+        "es": "Soy de Bélgica.",
+        "it": "Sono del Belgio.",
+        "pt": "Sou da Bélgica.",
+        "de": "Ich komme aus Belgien.",
+        "nl": "Ik kom uit België."
+      }
+    },
+    {
+      "id": "greet-020",
+      "tags": ["question", "polite"],
+      "text": {
+        "en": "Do you speak English?",
+        "fr": "Parlez-vous anglais ?",
+        "es": "¿Habla inglés?",
+        "it": "Parla inglese?",
+        "pt": "Fala inglês?",
+        "de": "Sprechen Sie Englisch?",
+        "nl": "Spreekt u Engels?"
+      }
+    },
+    {
+      "id": "greet-021",
+      "tags": ["answer", "basic"],
+      "text": {
+        "en": "A little.",
+        "fr": "Un peu.",
+        "es": "Un poco.",
+        "it": "Un po’.",
+        "pt": "Um pouco.",
+        "de": "Ein bisschen.",
+        "nl": "Een beetje."
+      }
+    },
+    {
+      "id": "greet-022",
+      "tags": ["repair", "basic"],
+      "text": {
+        "en": "I don't understand.",
+        "fr": "Je ne comprends pas.",
+        "es": "No entiendo.",
+        "it": "Non capisco.",
+        "pt": "Não percebo.",
+        "de": "Ich verstehe nicht.",
+        "nl": "Ik begrijp het niet."
+      }
+    },
+    {
+      "id": "greet-023",
+      "tags": ["repair", "polite"],
+      "text": {
+        "en": "Can you repeat, please?",
+        "fr": "Pouvez-vous répéter, s’il vous plaît ?",
+        "es": "¿Puede repetir, por favor?",
+        "it": "Può ripetere, per favore?",
+        "pt": "Pode repetir, por favor?",
+        "de": "Können Sie das bitte wiederholen?",
+        "nl": "Kunt u dat alstublieft herhalen?"
+      }
+    },
+    {
+      "id": "greet-024",
+      "tags": ["repair", "polite"],
+      "text": {
+        "en": "Please speak more slowly.",
+        "fr": "Parlez plus lentement, s’il vous plaît.",
+        "es": "Hable más despacio, por favor.",
+        "it": "Parli più lentamente, per favore.",
+        "pt": "Fale mais devagar, por favor.",
+        "de": "Bitte sprechen Sie langsamer.",
+        "nl": "Kunt u alstublieft langzamer spreken?"
+      }
+    },
+    {
+      "id": "greet-025",
+      "tags": ["repair", "question"],
+      "text": {
+        "en": "What does that mean?",
+        "fr": "Qu’est-ce que ça veut dire ?",
+        "es": "¿Qué significa eso?",
+        "it": "Cosa significa?",
+        "pt": "O que é que isso quer dizer?",
+        "de": "Was bedeutet das?",
+        "nl": "Wat betekent dat?"
+      }
+    },
+    {
+      "id": "greet-026",
+      "tags": ["polite"],
+      "text": {
+        "en": "Could you help me?",
+        "fr": "Pourriez-vous m’aider ?",
+        "es": "¿Podría ayudarme?",
+        "it": "Potrebbe aiutarmi?",
+        "pt": "Podia ajudar-me?",
+        "de": "Könnten Sie mir helfen?",
+        "nl": "Kunt u mij helpen?"
+      }
+    },
+    {
+      "id": "greet-027",
+      "tags": ["casual"],
+      "text": {
+        "en": "No problem.",
+        "fr": "Pas de souci.",
+        "es": "No hay problema.",
+        "it": "Nessun problema.",
+        "pt": "Sem problema.",
+        "de": "Kein Problem.",
+        "nl": "Geen probleem."
+      }
+    },
+    {
+      "id": "greet-028",
+      "tags": ["polite", "formal"],
+      "text": {
+        "en": "Have a nice day!",
+        "fr": "Bonne journée !",
+        "es": "¡Que tenga un buen día!",
+        "it": "Buona giornata!",
+        "pt": "Tenha um bom dia!",
+        "de": "Einen schönen Tag noch!",
+        "nl": "Fijne dag!"
+      }
+    }
+  ]
+}

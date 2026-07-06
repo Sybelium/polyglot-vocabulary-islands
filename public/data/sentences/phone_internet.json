@@ -1,0 +1,266 @@
+{
+  "themeId": "phone_internet",
+  "name": "Phone & Internet",
+  "sentences": [
+    {
+      "id": "phone-001",
+      "tags": ["question", "wifi"],
+      "text": {
+        "en": "Is there Wi-Fi here?",
+        "fr": "Y a-t-il du Wi-Fi ici ?",
+        "es": "¿Hay Wi-Fi aquí?",
+        "it": "C’è il Wi-Fi qui?",
+        "pt": "Há Wi-Fi aqui?",
+        "de": "Gibt es hier WLAN?",
+        "nl": "Is hier wifi?"
+      }
+    },
+    {
+      "id": "phone-002",
+      "tags": ["question", "wifi"],
+      "text": {
+        "en": "What is the Wi-Fi password?",
+        "fr": "Quel est le mot de passe du Wi-Fi ?",
+        "es": "¿Cuál es la contraseña del Wi-Fi?",
+        "it": "Qual è la password del Wi-Fi?",
+        "pt": "Qual é a palavra-passe do Wi-Fi?",
+        "de": "Wie lautet das WLAN-Passwort?",
+        "nl": "Wat is het wifi-wachtwoord?"
+      }
+    },
+    {
+      "id": "phone-003",
+      "tags": ["problem", "wifi"],
+      "text": {
+        "en": "The internet isn't working.",
+        "fr": "Internet ne fonctionne pas.",
+        "es": "Internet no funciona.",
+        "it": "Internet non funziona.",
+        "pt": "A internet não está a funcionar.",
+        "de": "Das Internet funktioniert nicht.",
+        "nl": "Het internet werkt niet."
+      }
+    },
+    {
+      "id": "phone-004",
+      "tags": ["problem", "wifi"],
+      "text": {
+        "en": "The connection is very slow.",
+        "fr": "La connexion est très lente.",
+        "es": "La conexión es muy lenta.",
+        "it": "La connessione è molto lenta.",
+        "pt": "A ligação é muito lenta.",
+        "de": "Die Verbindung ist sehr langsam.",
+        "nl": "De verbinding is erg traag."
+      }
+    },
+    {
+      "id": "phone-005",
+      "tags": ["phone", "problem"],
+      "text": {
+        "en": "My phone battery is low.",
+        "fr": "La batterie de mon téléphone est faible.",
+        "es": "La batería de mi teléfono está baja.",
+        "it": "La batteria del mio telefono è scarica.",
+        "pt": "A bateria do meu telemóvel está fraca.",
+        "de": "Mein Handy-Akku ist fast leer.",
+        "nl": "Mijn telefoonbatterij is bijna leeg."
+      }
+    },
+    {
+      "id": "phone-006",
+      "tags": ["phone", "request"],
+      "text": {
+        "en": "Can I charge my phone here?",
+        "fr": "Puis-je charger mon téléphone ici ?",
+        "es": "¿Puedo cargar mi teléfono aquí?",
+        "it": "Posso caricare il telefono qui?",
+        "pt": "Posso carregar o meu telemóvel aqui?",
+        "de": "Kann ich hier mein Handy aufladen?",
+        "nl": "Mag ik hier mijn telefoon opladen?"
+      }
+    },
+    {
+      "id": "phone-007",
+      "tags": ["phone"],
+      "text": {
+        "en": "I need a SIM card.",
+        "fr": "J’ai besoin d’une carte SIM.",
+        "es": "Necesito una tarjeta SIM.",
+        "it": "Ho bisogno di una SIM.",
+        "pt": "Preciso de um cartão SIM.",
+        "de": "Ich brauche eine SIM-Karte.",
+        "nl": "Ik heb een simkaart nodig."
+      }
+    },
+    {
+      "id": "phone-008",
+      "tags": ["phone", "question"],
+      "text": {
+        "en": "How much does it cost?",
+        "fr": "Combien ça coûte ?",
+        "es": "¿Cuánto cuesta?",
+        "it": "Quanto costa?",
+        "pt": "Quanto custa?",
+        "de": "Wie viel kostet das?",
+        "nl": "Hoeveel kost het?"
+      }
+    },
+    {
+      "id": "phone-009",
+      "tags": ["phone"],
+      "text": {
+        "en": "I don't have mobile data.",
+        "fr": "Je n’ai pas de données mobiles.",
+        "es": "No tengo datos móviles.",
+        "it": "Non ho dati mobili.",
+        "pt": "Não tenho dados móveis.",
+        "de": "Ich habe keine mobilen Daten.",
+        "nl": "Ik heb geen mobiele data."
+      }
+    },
+    {
+      "id": "phone-010",
+      "tags": ["phone", "problem"],
+      "text": {
+        "en": "There is no signal.",
+        "fr": "Il n’y a pas de signal.",
+        "es": "No hay señal.",
+        "it": "Non c’è segnale.",
+        "pt": "Não há sinal.",
+        "de": "Es gibt kein Signal.",
+        "nl": "Er is geen bereik."
+      }
+    },
+    {
+      "id": "phone-011",
+      "tags": ["communication"],
+      "text": {
+        "en": "Can you call me?",
+        "fr": "Tu peux m’appeler ?",
+        "es": "¿Puedes llamarme?",
+        "it": "Puoi chiamarmi?",
+        "pt": "Podes ligar-me?",
+        "de": "Kannst du mich anrufen?",
+        "nl": "Kun je me bellen?"
+      }
+    },
+    {
+      "id": "phone-012",
+      "tags": ["communication"],
+      "text": {
+        "en": "I'll call you later.",
+        "fr": "Je t’appelle plus tard.",
+        "es": "Te llamo más tarde.",
+        "it": "Ti chiamo più tardi.",
+        "pt": "Ligo-te mais tarde.",
+        "de": "Ich rufe dich später an.",
+        "nl": "Ik bel je later."
+      }
+    },
+    {
+      "id": "phone-013",
+      "tags": ["communication"],
+      "text": {
+        "en": "Can you send me a message?",
+        "fr": "Tu peux m’envoyer un message ?",
+        "es": "¿Puedes enviarme un mensaje?",
+        "it": "Puoi mandarmi un messaggio?",
+        "pt": "Podes enviar-me uma mensagem?",
+        "de": "Kannst du mir eine Nachricht schicken?",
+        "nl": "Kun je me een bericht sturen?"
+      }
+    },
+    {
+      "id": "phone-014",
+      "tags": ["communication"],
+      "text": {
+        "en": "I sent you a message.",
+        "fr": "Je t’ai envoyé un message.",
+        "es": "Te envié un mensaje.",
+        "it": "Ti ho mandato un messaggio.",
+        "pt": "Enviei-te uma mensagem.",
+        "de": "Ich habe dir eine Nachricht geschickt.",
+        "nl": "Ik heb je een bericht gestuurd."
+      }
+    },
+    {
+      "id": "phone-015",
+      "tags": ["communication"],
+      "text": {
+        "en": "Did you receive my message?",
+        "fr": "Tu as reçu mon message ?",
+        "es": "¿Recibiste mi mensaje?",
+        "it": "Hai ricevuto il mio messaggio?",
+        "pt": "Recebeste a minha mensagem?",
+        "de": "Hast du meine Nachricht bekommen?",
+        "nl": "Heb je mijn bericht ontvangen?"
+      }
+    },
+    {
+      "id": "phone-016",
+      "tags": ["apps"],
+      "text": {
+        "en": "Do you have WhatsApp?",
+        "fr": "Tu as WhatsApp ?",
+        "es": "¿Tienes WhatsApp?",
+        "it": "Hai WhatsApp?",
+        "pt": "Tens WhatsApp?",
+        "de": "Hast du WhatsApp?",
+        "nl": "Heb je WhatsApp?"
+      }
+    },
+    {
+      "id": "phone-017",
+      "tags": ["apps"],
+      "text": {
+        "en": "Add me on Instagram.",
+        "fr": "Ajoute-moi sur Instagram.",
+        "es": "Agrégame en Instagram.",
+        "it": "Aggiungimi su Instagram.",
+        "pt": "Adiciona-me no Instagram.",
+        "de": "Füge mich auf Instagram hinzu.",
+        "nl": "Voeg me toe op Instagram."
+      }
+    },
+    {
+      "id": "phone-018",
+      "tags": ["apps"],
+      "text": {
+        "en": "Can we make a video call?",
+        "fr": "On peut faire un appel vidéo ?",
+        "es": "¿Podemos hacer una videollamada?",
+        "it": "Possiamo fare una videochiamata?",
+        "pt": "Podemos fazer uma videochamada?",
+        "de": "Können wir einen Videoanruf machen?",
+        "nl": "Kunnen we videobellen?"
+      }
+    },
+    {
+      "id": "phone-019",
+      "tags": ["apps", "problem"],
+      "text": {
+        "en": "The video isn't working.",
+        "fr": "La vidéo ne fonctionne pas.",
+        "es": "El vídeo no funciona.",
+        "it": "Il video non funziona.",
+        "pt": "O vídeo não está a funcionar.",
+        "de": "Das Video funktioniert nicht.",
+        "nl": "De video werkt niet."
+      }
+    },
+    {
+      "id": "phone-020",
+      "tags": ["apps", "problem"],
+      "text": {
+        "en": "I can't hear you.",
+        "fr": "Je ne t’entends pas.",
+        "es": "No te escucho.",
+        "it": "Non ti sento.",
+        "pt": "Não te consigo ouvir.",
+        "de": "Ich kann dich nicht hören.",
+        "nl": "Ik kan je niet horen."
+      }
+    }
+  ]
+}
