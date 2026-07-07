@@ -1,5 +1,8 @@
 import Link from "next/link";
 
+export const dynamic = "force-dynamic";
+export const revalidate = 0;
+
 const apps = [
   {
     title: "Vocabulary Islands",
@@ -145,9 +148,12 @@ export default function HomePage() {
         </section>
 
         <footer className="text-center text-sm font-medium text-slate-500">
-          Vocabulary Islands, Sentences, Latin Conjugation, Germanic
-          Conjugation and Writing Systems are ready.
-        </footer>
+  Vocabulary Islands, Sentences, Latin Conjugation, Germanic Conjugation and
+  Writing Systems are ready.
+  <span className="ml-2 font-black text-sky-600">
+    Home v2
+  </span>
+</footer>
       </section>
     </main>
   );
