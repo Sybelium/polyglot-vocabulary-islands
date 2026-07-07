@@ -1,0 +1,39 @@
+{
+  "id": "family_PT",
+  "type": "sentences-theme",
+  "themeId": "family",
+  "themeName": "Family",
+  "language": "pt",
+  "locale": "pt-PT",
+  "voice": "pt-PT-RaquelNeural",
+  "audioSrc": "/data/audio/sentences/pt/family_PT.mp3",
+  "createdAt": "2026-07-06T23:18:29.264Z",
+  "status": "ready",
+  "gapSeconds": 0.75,
+  "totalDuration": 58.44,
+  "build": {
+    "concurrency": 3,
+    "retries": 2,
+    "forceRebuild": false,
+    "generatedCount": 15,
+    "reusedCount": 0,
+    "cachePath": "C:\\Users\\sybel\\Documents\\Projects\\Timestamped MP3 Maker\\output\\sentences\\family\\pt"
+  },
+  "segments": [
+    {"id":"family-001","sentenceId":"family-001","order":1,"tags":["basic"],"text":"Tenho uma família grande.","englishReference":"I have a big family.","start":0,"end":2.784,"duration":2.784},
+    {"id":"family-002","sentenceId":"family-002","order":2,"tags":["basic"],"text":"Tenho dois irmãos e uma irmã.","englishReference":"I have two brothers and one sister.","start":3.534,"end":7.014,"duration":3.48},
+    {"id":"family-003","sentenceId":"family-003","order":3,"tags":["basic"],"text":"Sou filho/a único/a.","englishReference":"I am an only child.","start":7.764,"end":11.004,"duration":3.24},
+    {"id":"family-004","sentenceId":"family-004","order":4,"tags":["basic"],"text":"Vivo com os meus pais.","englishReference":"I live with my parents.","start":11.754,"end":14.73,"duration":2.976},
+    {"id":"family-005","sentenceId":"family-005","order":5,"tags":["basic"],"text":"Vivo com o/a meu/minha companheiro/a.","englishReference":"I live with my partner.","start":15.48,"end":19.416,"duration":3.936},
+    {"id":"family-006","sentenceId":"family-006","order":6,"tags":["basic"],"text":"Sou casado/a.","englishReference":"I am married.","start":20.166,"end":22.758,"duration":2.592},
+    {"id":"family-007","sentenceId":"family-007","order":7,"tags":["basic"],"text":"Sou solteiro/a.","englishReference":"I am single.","start":23.508,"end":26.148,"duration":2.64},
+    {"id":"family-008","sentenceId":"family-008","order":8,"tags":["basic"],"text":"Tenho dois filhos.","englishReference":"I have two children.","start":26.898,"end":29.586,"duration":2.688},
+    {"id":"family-009","sentenceId":"family-009","order":9,"tags":["description"],"text":"O meu irmão é mais velho do que eu.","englishReference":"My brother is older than me.","start":30.336,"end":33.696,"duration":3.36},
+    {"id":"family-010","sentenceId":"family-010","order":10,"tags":["description"],"text":"A minha irmã é mais nova do que eu.","englishReference":"My sister is younger than me.","start":34.446,"end":37.782,"duration":3.336},
+    {"id":"family-011","sentenceId":"family-011","order":11,"tags":["question"],"text":"Tens irmãos?","englishReference":"Do you have any siblings?","start":38.532,"end":40.836,"duration":2.304},
+    {"id":"family-012","sentenceId":"family-012","order":12,"tags":["question"],"text":"Quantos filhos tens?","englishReference":"How many children do you have?","start":41.586,"end":44.274,"duration":2.688},
+    {"id":"family-013","sentenceId":"family-013","order":13,"tags":["description"],"text":"Os meus pais vivem noutra cidade.","englishReference":"My parents live in another city.","start":45.024,"end":48.768,"duration":3.744},
+    {"id":"family-014","sentenceId":"family-014","order":14,"tags":["description"],"text":"Visito os meus avós todos os fins de semana.","englishReference":"I visit my grandparents every weekend.","start":49.518,"end":53.886,"duration":4.368},
+    {"id":"family-015","sentenceId":"family-015","order":15,"tags":["emotion"],"text":"A família é muito importante para mim.","englishReference":"Family is very important to me.","start":54.636,"end":58.38,"duration":3.744}
+  ]
+}

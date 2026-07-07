@@ -19,14 +19,14 @@ export default function SentenceStepTabs({ lang, subjectId, activeStep }) {
                 key={step.id}
                 href={`/sentences/${lang}/${subjectId}/${step.id}`}
                 className={[
-                  "rounded-2xl px-3 py-3 text-center text-sm font-black transition",
+                  "flex min-h-[3.25rem] items-center justify-center rounded-2xl px-4 py-3 text-center text-base font-black leading-tight transition lg:text-lg",
                   active
                     ? "bg-sky-600 text-white shadow-sm"
                     : "bg-slate-50 text-slate-700 hover:bg-sky-50",
                 ].join(" ")}
               >
-                <span className="mr-1">{step.icon}</span>
-                {step.label}
+                <span className="mr-2 text-lg lg:text-xl">{step.icon}</span>
+                <span>{step.label}</span>
               </Link>
             );
           })}

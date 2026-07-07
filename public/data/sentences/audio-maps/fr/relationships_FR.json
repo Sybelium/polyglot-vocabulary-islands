@@ -1,0 +1,39 @@
+{
+  "id": "relationships_FR",
+  "type": "sentences-theme",
+  "themeId": "relationships",
+  "themeName": "Relationships",
+  "language": "fr",
+  "locale": "fr-FR",
+  "voice": "fr-FR-DeniseNeural",
+  "audioSrc": "/data/audio/sentences/fr/relationships_FR.mp3",
+  "createdAt": "2026-07-06T23:08:40.419Z",
+  "status": "ready",
+  "gapSeconds": 0.75,
+  "totalDuration": 46.92,
+  "build": {
+    "concurrency": 3,
+    "retries": 2,
+    "forceRebuild": false,
+    "generatedCount": 15,
+    "reusedCount": 0,
+    "cachePath": "C:\\Users\\sybel\\Documents\\Projects\\Timestamped MP3 Maker\\output\\sentences\\relationships\\fr"
+  },
+  "segments": [
+    {"id":"rel-001","sentenceId":"rel-001","order":1,"tags":["basic"],"text":"Nous sommes juste amis.","englishReference":"We are just friends.","start":0,"end":2.496,"duration":2.496},
+    {"id":"rel-002","sentenceId":"rel-002","order":2,"tags":["basic"],"text":"Nous sommes en couple.","englishReference":"We are in a relationship.","start":3.246,"end":5.598,"duration":2.352},
+    {"id":"rel-003","sentenceId":"rel-003","order":3,"tags":["basic"],"text":"Je suis amoureux/amoureuse.","englishReference":"I'm in love.","start":6.348,"end":9.3,"duration":2.952},
+    {"id":"rel-004","sentenceId":"rel-004","order":4,"tags":["affection"],"text":"Je t’aime.","englishReference":"I love you.","start":10.05,"end":11.946,"duration":1.896},
+    {"id":"rel-005","sentenceId":"rel-005","order":5,"tags":["affection"],"text":"Tu me manques.","englishReference":"I miss you.","start":12.696,"end":14.688,"duration":1.992},
+    {"id":"rel-006","sentenceId":"rel-006","order":6,"tags":["affection"],"text":"Tu comptes beaucoup pour moi.","englishReference":"You mean a lot to me.","start":15.438,"end":18.102,"duration":2.664},
+    {"id":"rel-007","sentenceId":"rel-007","order":7,"tags":["emotion"],"text":"Je te fais confiance.","englishReference":"I trust you.","start":18.852,"end":21.42,"duration":2.568},
+    {"id":"rel-008","sentenceId":"rel-008","order":8,"tags":["emotion"],"text":"Je suis jaloux/jalouse.","englishReference":"I'm jealous.","start":22.17,"end":24.954,"duration":2.784},
+    {"id":"rel-009","sentenceId":"rel-009","order":9,"tags":["conflict"],"text":"Il faut qu’on parle.","englishReference":"We need to talk.","start":25.704,"end":28.008,"duration":2.304},
+    {"id":"rel-010","sentenceId":"rel-010","order":10,"tags":["conflict"],"text":"Je suis désolé(e).","englishReference":"I'm sorry.","start":28.758,"end":31.086,"duration":2.328},
+    {"id":"rel-011","sentenceId":"rel-011","order":11,"tags":["conflict"],"text":"Je te pardonne.","englishReference":"I forgive you.","start":31.836,"end":34.092,"duration":2.256},
+    {"id":"rel-012","sentenceId":"rel-012","order":12,"tags":["conflict"],"text":"J’ai besoin d’espace.","englishReference":"I need some space.","start":34.842,"end":37.434,"duration":2.592},
+    {"id":"rel-013","sentenceId":"rel-013","order":13,"tags":["relationship"],"text":"On s’est séparés.","englishReference":"We broke up.","start":38.184,"end":40.296,"duration":2.112},
+    {"id":"rel-014","sentenceId":"rel-014","order":14,"tags":["relationship"],"text":"Nous sommes fiancés.","englishReference":"We are engaged.","start":41.046,"end":43.398,"duration":2.352},
+    {"id":"rel-015","sentenceId":"rel-015","order":15,"tags":["relationship"],"text":"On se marie l’année prochaine.","englishReference":"We're getting married next year.","start":44.148,"end":46.86,"duration":2.712}
+  ]
+}

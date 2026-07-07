@@ -1,0 +1,34 @@
+{
+  "id": "appointments_IT",
+  "type": "sentences-theme",
+  "themeId": "appointments",
+  "themeName": "Appointments",
+  "language": "it",
+  "locale": "it-IT",
+  "voice": "it-IT-ElsaNeural",
+  "audioSrc": "/data/audio/sentences/it/appointments_IT.mp3",
+  "createdAt": "2026-07-06T23:16:20.148Z",
+  "status": "ready",
+  "gapSeconds": 0.75,
+  "totalDuration": 30.816,
+  "build": {
+    "concurrency": 3,
+    "retries": 2,
+    "forceRebuild": false,
+    "generatedCount": 10,
+    "reusedCount": 0,
+    "cachePath": "C:\\Users\\sybel\\Documents\\Projects\\Timestamped MP3 Maker\\output\\sentences\\appointments\\it"
+  },
+  "segments": [
+    {"id":"appt-001","sentenceId":"appt-001","order":1,"tags":["basic"],"text":"Ho un appuntamento.","englishReference":"I have an appointment.","start":0,"end":1.752,"duration":1.752},
+    {"id":"appt-002","sentenceId":"appt-002","order":2,"tags":["question"],"text":"A che ora è il mio appuntamento?","englishReference":"What time is my appointment?","start":2.502,"end":4.734,"duration":2.232},
+    {"id":"appt-003","sentenceId":"appt-003","order":3,"tags":["question"],"text":"Posso prendere un appuntamento?","englishReference":"Can I make an appointment?","start":5.484,"end":7.86,"duration":2.376},
+    {"id":"appt-004","sentenceId":"appt-004","order":4,"tags":["schedule"],"text":"Vorrei fissare un appuntamento.","englishReference":"I would like to book an appointment.","start":8.61,"end":11.058,"duration":2.448},
+    {"id":"appt-005","sentenceId":"appt-005","order":5,"tags":["reschedule"],"text":"Devo riprogrammare l’appuntamento.","englishReference":"I need to reschedule.","start":11.808,"end":14.4,"duration":2.592},
+    {"id":"appt-006","sentenceId":"appt-006","order":6,"tags":["cancel"],"text":"Devo cancellare il mio appuntamento.","englishReference":"I need to cancel my appointment.","start":15.15,"end":17.814,"duration":2.664},
+    {"id":"appt-007","sentenceId":"appt-007","order":7,"tags":["late"],"text":"Arriverò con dieci minuti di ritardo.","englishReference":"I will be ten minutes late.","start":18.564,"end":21.492,"duration":2.928},
+    {"id":"appt-008","sentenceId":"appt-008","order":8,"tags":["question"],"text":"È possibile venire prima?","englishReference":"Is it possible to come earlier?","start":22.242,"end":24.282,"duration":2.04},
+    {"id":"appt-009","sentenceId":"appt-009","order":9,"tags":["confirmation"],"text":"Sono qui per il mio appuntamento.","englishReference":"I’m here for my appointment.","start":25.032,"end":27.504,"duration":2.472},
+    {"id":"appt-010","sentenceId":"appt-010","order":10,"tags":["confirmation"],"text":"Può confermare il mio appuntamento?","englishReference":"Can you confirm my appointment?","start":28.254,"end":30.75,"duration":2.496}
+  ]
+}

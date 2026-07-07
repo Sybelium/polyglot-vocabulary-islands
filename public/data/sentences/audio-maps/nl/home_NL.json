@@ -1,0 +1,39 @@
+{
+  "id": "home_NL",
+  "type": "sentences-theme",
+  "themeId": "home",
+  "themeName": "Home & Living",
+  "language": "nl",
+  "locale": "nl-NL",
+  "voice": "nl-NL-ColetteNeural",
+  "audioSrc": "/data/audio/sentences/nl/home_NL.mp3",
+  "createdAt": "2026-07-06T23:26:16.404Z",
+  "status": "ready",
+  "gapSeconds": 0.75,
+  "totalDuration": 56.304,
+  "build": {
+    "concurrency": 3,
+    "retries": 2,
+    "forceRebuild": false,
+    "generatedCount": 15,
+    "reusedCount": 0,
+    "cachePath": "C:\\Users\\sybel\\Documents\\Projects\\Timestamped MP3 Maker\\output\\sentences\\home\\nl"
+  },
+  "segments": [
+    {"id":"home-001","sentenceId":"home-001","order":1,"tags":["basic"],"text":"Ik woon in een appartement.","englishReference":"I live in an apartment.","start":0,"end":3.144,"duration":3.144},
+    {"id":"home-002","sentenceId":"home-002","order":2,"tags":["basic"],"text":"Ik woon in een huis.","englishReference":"I live in a house.","start":3.894,"end":6.606,"duration":2.712},
+    {"id":"home-003","sentenceId":"home-003","order":3,"tags":["description"],"text":"Mijn appartement is klein maar comfortabel.","englishReference":"My apartment is small but comfortable.","start":7.356,"end":11.724,"duration":4.368},
+    {"id":"home-004","sentenceId":"home-004","order":4,"tags":["description"],"text":"Er zijn drie kamers.","englishReference":"There are three rooms.","start":12.474,"end":15.21,"duration":2.736},
+    {"id":"home-005","sentenceId":"home-005","order":5,"tags":["description"],"text":"De keuken is naast de woonkamer.","englishReference":"The kitchen is next to the living room.","start":15.96,"end":19.56,"duration":3.6},
+    {"id":"home-006","sentenceId":"home-006","order":6,"tags":["chores"],"text":"Ik moet het huis schoonmaken.","englishReference":"I need to clean the house.","start":20.31,"end":23.502,"duration":3.192},
+    {"id":"home-007","sentenceId":"home-007","order":7,"tags":["chores"],"text":"Kun je het afval buiten zetten?","englishReference":"Can you take out the trash?","start":24.252,"end":27.252,"duration":3},
+    {"id":"home-008","sentenceId":"home-008","order":8,"tags":["chores"],"text":"Ik doe de afwas.","englishReference":"I'll wash the dishes.","start":28.002,"end":30.522,"duration":2.52},
+    {"id":"home-009","sentenceId":"home-009","order":9,"tags":["problem"],"text":"Er is een probleem met de verwarming.","englishReference":"There is a problem with the heating.","start":31.272,"end":34.68,"duration":3.408},
+    {"id":"home-010","sentenceId":"home-010","order":10,"tags":["problem"],"text":"Het water werkt niet.","englishReference":"The water isn't working.","start":35.43,"end":38.286,"duration":2.856},
+    {"id":"home-011","sentenceId":"home-011","order":11,"tags":["request"],"text":"Doe alsjeblieft de deur dicht.","englishReference":"Please close the door.","start":39.036,"end":42.156,"duration":3.12},
+    {"id":"home-012","sentenceId":"home-012","order":12,"tags":["request"],"text":"Kun je het raam openen?","englishReference":"Can you open the window?","start":42.906,"end":45.498,"duration":2.592},
+    {"id":"home-013","sentenceId":"home-013","order":13,"tags":["comfort"],"text":"Voel je thuis.","englishReference":"Make yourself at home.","start":46.248,"end":48.576,"duration":2.328},
+    {"id":"home-014","sentenceId":"home-014","order":14,"tags":["comfort"],"text":"Wil je iets drinken?","englishReference":"Would you like something to drink?","start":49.326,"end":51.822,"duration":2.496},
+    {"id":"home-015","sentenceId":"home-015","order":15,"tags":["housing"],"text":"De huur is volgende week verschuldigd.","englishReference":"The rent is due next week.","start":52.572,"end":56.244,"duration":3.672}
+  ]
+}

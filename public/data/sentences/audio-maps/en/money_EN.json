@@ -1,0 +1,39 @@
+{
+  "id": "money_EN",
+  "type": "sentences-theme",
+  "themeId": "money",
+  "themeName": "Money & Payments",
+  "language": "en",
+  "locale": "en-US",
+  "voice": "en-US-EmmaNeural",
+  "audioSrc": "/data/audio/sentences/en/money_EN.mp3",
+  "createdAt": "2026-07-06T23:05:31.737Z",
+  "status": "ready",
+  "gapSeconds": 0.75,
+  "totalDuration": 40.824,
+  "build": {
+    "concurrency": 3,
+    "retries": 2,
+    "forceRebuild": false,
+    "generatedCount": 15,
+    "reusedCount": 0,
+    "cachePath": "C:\\Users\\sybel\\Documents\\Projects\\Timestamped MP3 Maker\\output\\sentences\\money\\en"
+  },
+  "segments": [
+    {"id":"money-001","sentenceId":"money-001","order":1,"tags":["payment"],"text":"How much does it cost?","englishReference":"How much does it cost?","start":0,"end":2.016,"duration":2.016},
+    {"id":"money-002","sentenceId":"money-002","order":2,"tags":["payment"],"text":"Can I pay by card?","englishReference":"Can I pay by card?","start":2.766,"end":4.638,"duration":1.872},
+    {"id":"money-003","sentenceId":"money-003","order":3,"tags":["payment"],"text":"I will pay in cash.","englishReference":"I will pay in cash.","start":5.388,"end":7.236,"duration":1.848},
+    {"id":"money-004","sentenceId":"money-004","order":4,"tags":["payment"],"text":"Can we split the bill?","englishReference":"Can we split the bill?","start":7.986,"end":9.858,"duration":1.872},
+    {"id":"money-005","sentenceId":"money-005","order":5,"tags":["payment"],"text":"This is too expensive.","englishReference":"This is too expensive.","start":10.608,"end":12.624,"duration":2.016},
+    {"id":"money-006","sentenceId":"money-006","order":6,"tags":["banking"],"text":"I need to withdraw money.","englishReference":"I need to withdraw money.","start":13.374,"end":15.414,"duration":2.04},
+    {"id":"money-007","sentenceId":"money-007","order":7,"tags":["banking"],"text":"Where is the nearest ATM?","englishReference":"Where is the nearest ATM?","start":16.164,"end":18.42,"duration":2.256},
+    {"id":"money-008","sentenceId":"money-008","order":8,"tags":["salary"],"text":"What is the salary?","englishReference":"What is the salary?","start":19.17,"end":20.922,"duration":1.752},
+    {"id":"money-009","sentenceId":"money-009","order":9,"tags":["salary"],"text":"Is this salary negotiable?","englishReference":"Is this salary negotiable?","start":21.672,"end":23.904,"duration":2.232},
+    {"id":"money-010","sentenceId":"money-010","order":10,"tags":["salary"],"text":"I was expecting a higher offer.","englishReference":"I was expecting a higher offer.","start":24.654,"end":27.27,"duration":2.616},
+    {"id":"money-011","sentenceId":"money-011","order":11,"tags":["finance"],"text":"I need to save money.","englishReference":"I need to save money.","start":28.02,"end":29.82,"duration":1.8},
+    {"id":"money-012","sentenceId":"money-012","order":12,"tags":["finance"],"text":"I’m on a budget.","englishReference":"I’m on a budget.","start":30.57,"end":32.058,"duration":1.488},
+    {"id":"money-013","sentenceId":"money-013","order":13,"tags":["refund"],"text":"I would like a refund.","englishReference":"I would like a refund.","start":32.808,"end":34.608,"duration":1.8},
+    {"id":"money-014","sentenceId":"money-014","order":14,"tags":["refund"],"text":"There was a mistake in the bill.","englishReference":"There was a mistake in the bill.","start":35.358,"end":37.59,"duration":2.232},
+    {"id":"money-015","sentenceId":"money-015","order":15,"tags":["transfer"],"text":"I will transfer the money today.","englishReference":"I will transfer the money today.","start":38.34,"end":40.764,"duration":2.424}
+  ]
+}

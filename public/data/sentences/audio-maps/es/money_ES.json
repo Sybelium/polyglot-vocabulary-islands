@@ -1,0 +1,39 @@
+{
+  "id": "money_ES",
+  "type": "sentences-theme",
+  "themeId": "money",
+  "themeName": "Money & Payments",
+  "language": "es",
+  "locale": "es-ES",
+  "voice": "es-ES-ElviraNeural",
+  "audioSrc": "/data/audio/sentences/es/money_ES.mp3",
+  "createdAt": "2026-07-06T23:12:29.104Z",
+  "status": "ready",
+  "gapSeconds": 0.75,
+  "totalDuration": 52.128,
+  "build": {
+    "concurrency": 3,
+    "retries": 2,
+    "forceRebuild": false,
+    "generatedCount": 15,
+    "reusedCount": 0,
+    "cachePath": "C:\\Users\\sybel\\Documents\\Projects\\Timestamped MP3 Maker\\output\\sentences\\money\\es"
+  },
+  "segments": [
+    {"id":"money-001","sentenceId":"money-001","order":1,"tags":["payment"],"text":"¿Cuánto cuesta?","englishReference":"How much does it cost?","start":0,"end":2.136,"duration":2.136},
+    {"id":"money-002","sentenceId":"money-002","order":2,"tags":["payment"],"text":"¿Puedo pagar con tarjeta?","englishReference":"Can I pay by card?","start":2.886,"end":5.694,"duration":2.808},
+    {"id":"money-003","sentenceId":"money-003","order":3,"tags":["payment"],"text":"Pagaré en efectivo.","englishReference":"I will pay in cash.","start":6.444,"end":8.868,"duration":2.424},
+    {"id":"money-004","sentenceId":"money-004","order":4,"tags":["payment"],"text":"¿Podemos dividir la cuenta?","englishReference":"Can we split the bill?","start":9.618,"end":12.378,"duration":2.76},
+    {"id":"money-005","sentenceId":"money-005","order":5,"tags":["payment"],"text":"Es demasiado caro.","englishReference":"This is too expensive.","start":13.128,"end":15.576,"duration":2.448},
+    {"id":"money-006","sentenceId":"money-006","order":6,"tags":["banking"],"text":"Necesito retirar dinero.","englishReference":"I need to withdraw money.","start":16.326,"end":19.23,"duration":2.904},
+    {"id":"money-007","sentenceId":"money-007","order":7,"tags":["banking"],"text":"¿Dónde está el cajero más cercano?","englishReference":"Where is the nearest ATM?","start":19.98,"end":23.268,"duration":3.288},
+    {"id":"money-008","sentenceId":"money-008","order":8,"tags":["salary"],"text":"¿Cuál es el salario?","englishReference":"What is the salary?","start":24.018,"end":26.346,"duration":2.328},
+    {"id":"money-009","sentenceId":"money-009","order":9,"tags":["salary"],"text":"¿Es negociable este salario?","englishReference":"Is this salary negotiable?","start":27.096,"end":30.144,"duration":3.048},
+    {"id":"money-010","sentenceId":"money-010","order":10,"tags":["salary"],"text":"Esperaba una oferta más alta.","englishReference":"I was expecting a higher offer.","start":30.894,"end":34.086,"duration":3.192},
+    {"id":"money-011","sentenceId":"money-011","order":11,"tags":["finance"],"text":"Necesito ahorrar dinero.","englishReference":"I need to save money.","start":34.836,"end":37.716,"duration":2.88},
+    {"id":"money-012","sentenceId":"money-012","order":12,"tags":["finance"],"text":"Tengo un presupuesto limitado.","englishReference":"I’m on a budget.","start":38.466,"end":41.538,"duration":3.072},
+    {"id":"money-013","sentenceId":"money-013","order":13,"tags":["refund"],"text":"Quisiera un reembolso.","englishReference":"I would like a refund.","start":42.288,"end":45.024,"duration":2.736},
+    {"id":"money-014","sentenceId":"money-014","order":14,"tags":["refund"],"text":"Hay un error en la cuenta.","englishReference":"There was a mistake in the bill.","start":45.774,"end":48.558,"duration":2.784},
+    {"id":"money-015","sentenceId":"money-015","order":15,"tags":["transfer"],"text":"Transferiré el dinero hoy.","englishReference":"I will transfer the money today.","start":49.308,"end":52.068,"duration":2.76}
+  ]
+}

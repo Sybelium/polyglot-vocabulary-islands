@@ -1,0 +1,39 @@
+{
+  "id": "money_DE",
+  "type": "sentences-theme",
+  "themeId": "money",
+  "themeName": "Money & Payments",
+  "language": "de",
+  "locale": "de-DE",
+  "voice": "de-DE-KatjaNeural",
+  "audioSrc": "/data/audio/sentences/de/money_DE.mp3",
+  "createdAt": "2026-07-06T23:24:19.979Z",
+  "status": "ready",
+  "gapSeconds": 0.75,
+  "totalDuration": 55.296,
+  "build": {
+    "concurrency": 3,
+    "retries": 2,
+    "forceRebuild": false,
+    "generatedCount": 15,
+    "reusedCount": 0,
+    "cachePath": "C:\\Users\\sybel\\Documents\\Projects\\Timestamped MP3 Maker\\output\\sentences\\money\\de"
+  },
+  "segments": [
+    {"id":"money-001","sentenceId":"money-001","order":1,"tags":["payment"],"text":"Wie viel kostet das?","englishReference":"How much does it cost?","start":0,"end":2.52,"duration":2.52},
+    {"id":"money-002","sentenceId":"money-002","order":2,"tags":["payment"],"text":"Kann ich mit Karte bezahlen?","englishReference":"Can I pay by card?","start":3.27,"end":6.366,"duration":3.096},
+    {"id":"money-003","sentenceId":"money-003","order":3,"tags":["payment"],"text":"Ich bezahle bar.","englishReference":"I will pay in cash.","start":7.116,"end":9.468,"duration":2.352},
+    {"id":"money-004","sentenceId":"money-004","order":4,"tags":["payment"],"text":"Können wir die Rechnung teilen?","englishReference":"Can we split the bill?","start":10.218,"end":13.242,"duration":3.024},
+    {"id":"money-005","sentenceId":"money-005","order":5,"tags":["payment"],"text":"Das ist zu teuer.","englishReference":"This is too expensive.","start":13.992,"end":16.416,"duration":2.424},
+    {"id":"money-006","sentenceId":"money-006","order":6,"tags":["banking"],"text":"Ich muss Geld abheben.","englishReference":"I need to withdraw money.","start":17.166,"end":19.806,"duration":2.64},
+    {"id":"money-007","sentenceId":"money-007","order":7,"tags":["banking"],"text":"Wo ist der nächste Geldautomat?","englishReference":"Where is the nearest ATM?","start":20.556,"end":23.868,"duration":3.312},
+    {"id":"money-008","sentenceId":"money-008","order":8,"tags":["salary"],"text":"Wie hoch ist das Gehalt?","englishReference":"What is the salary?","start":24.618,"end":27.45,"duration":2.832},
+    {"id":"money-009","sentenceId":"money-009","order":9,"tags":["salary"],"text":"Ist dieses Gehalt verhandelbar?","englishReference":"Is this salary negotiable?","start":28.2,"end":31.392,"duration":3.192},
+    {"id":"money-010","sentenceId":"money-010","order":10,"tags":["salary"],"text":"Ich hatte ein höheres Angebot erwartet.","englishReference":"I was expecting a higher offer.","start":32.142,"end":35.934,"duration":3.792},
+    {"id":"money-011","sentenceId":"money-011","order":11,"tags":["finance"],"text":"Ich muss Geld sparen.","englishReference":"I need to save money.","start":36.684,"end":39.3,"duration":2.616},
+    {"id":"money-012","sentenceId":"money-012","order":12,"tags":["finance"],"text":"Ich habe ein begrenztes Budget.","englishReference":"I’m on a budget.","start":40.05,"end":43.05,"duration":3},
+    {"id":"money-013","sentenceId":"money-013","order":13,"tags":["refund"],"text":"Ich hätte gern eine Rückerstattung.","englishReference":"I would like a refund.","start":43.8,"end":46.92,"duration":3.12},
+    {"id":"money-014","sentenceId":"money-014","order":14,"tags":["refund"],"text":"Es gibt einen Fehler auf der Rechnung.","englishReference":"There was a mistake in the bill.","start":47.67,"end":51.054,"duration":3.384},
+    {"id":"money-015","sentenceId":"money-015","order":15,"tags":["transfer"],"text":"Ich werde das Geld heute überweisen.","englishReference":"I will transfer the money today.","start":51.804,"end":55.236,"duration":3.432}
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "daily_routine_NL",
+  "type": "sentences-theme",
+  "themeId": "daily_routine",
+  "themeName": "Daily Routine",
+  "language": "nl",
+  "locale": "nl-NL",
+  "voice": "nl-NL-ColetteNeural",
+  "audioSrc": "/data/audio/sentences/nl/daily_routine_NL.mp3",
+  "createdAt": "2026-07-06T23:26:20.383Z",
+  "status": "ready",
+  "gapSeconds": 0.75,
+  "totalDuration": 60.864,
+  "build": {
+    "concurrency": 3,
+    "retries": 2,
+    "forceRebuild": false,
+    "generatedCount": 15,
+    "reusedCount": 0,
+    "cachePath": "C:\\Users\\sybel\\Documents\\Projects\\Timestamped MP3 Maker\\output\\sentences\\daily_routine\\nl"
+  },
+  "segments": [
+    {"id":"routine-001","sentenceId":"routine-001","order":1,"tags":["morning"],"text":"Ik word om zeven uur wakker.","englishReference":"I wake up at seven.","start":0,"end":3.24,"duration":3.24},
+    {"id":"routine-002","sentenceId":"routine-002","order":2,"tags":["morning"],"text":"Ik sta op en neem een douche.","englishReference":"I get up and take a shower.","start":3.99,"end":7.23,"duration":3.24},
+    {"id":"routine-003","sentenceId":"routine-003","order":3,"tags":["morning"],"text":"Ik ontbijt thuis.","englishReference":"I have breakfast at home.","start":7.98,"end":10.644,"duration":2.664},
+    {"id":"routine-004","sentenceId":"routine-004","order":4,"tags":["work","school"],"text":"Ik ga met de auto naar het werk.","englishReference":"I go to work by car.","start":11.394,"end":14.874,"duration":3.48},
+    {"id":"routine-005","sentenceId":"routine-005","order":5,"tags":["work","school"],"text":"Ik ga met de bus naar school.","englishReference":"I go to school by bus.","start":15.624,"end":18.816,"duration":3.192},
+    {"id":"routine-006","sentenceId":"routine-006","order":6,"tags":["work"],"text":"Ik begin om negen uur te werken.","englishReference":"I start work at nine.","start":19.566,"end":23.118,"duration":3.552},
+    {"id":"routine-007","sentenceId":"routine-007","order":7,"tags":["school"],"text":"De lessen beginnen om acht uur.","englishReference":"Classes start at eight.","start":23.868,"end":27.132,"duration":3.264},
+    {"id":"routine-008","sentenceId":"routine-008","order":8,"tags":["daytime"],"text":"Ik lunch om twaalf uur.","englishReference":"I have lunch at noon.","start":27.882,"end":30.834,"duration":2.952},
+    {"id":"routine-009","sentenceId":"routine-009","order":9,"tags":["daytime"],"text":"Meestal stop ik om vijf uur.","englishReference":"I usually finish at five.","start":31.584,"end":35.232,"duration":3.648},
+    {"id":"routine-010","sentenceId":"routine-010","order":10,"tags":["evening"],"text":"Ik ga na het werk naar huis.","englishReference":"I go home after work.","start":35.982,"end":39.39,"duration":3.408},
+    {"id":"routine-011","sentenceId":"routine-011","order":11,"tags":["evening"],"text":"Ik kook 's avonds het avondeten.","englishReference":"I cook dinner in the evening.","start":40.14,"end":43.932,"duration":3.792},
+    {"id":"routine-012","sentenceId":"routine-012","order":12,"tags":["evening"],"text":"Ik kijk televisie voordat ik ga slapen.","englishReference":"I watch TV before bed.","start":44.682,"end":48.93,"duration":4.248},
+    {"id":"routine-013","sentenceId":"routine-013","order":13,"tags":["night"],"text":"Ik ga om elf uur naar bed.","englishReference":"I go to bed at eleven.","start":49.68,"end":52.992,"duration":3.312},
+    {"id":"routine-014","sentenceId":"routine-014","order":14,"tags":["frequency"],"text":"Ik sport drie keer per week.","englishReference":"I exercise three times a week.","start":53.742,"end":56.958,"duration":3.216},
+    {"id":"routine-015","sentenceId":"routine-015","order":15,"tags":["frequency"],"text":"Ik werk niet op zondag.","englishReference":"I don't work on Sundays.","start":57.708,"end":60.804,"duration":3.096}
+  ]
+}

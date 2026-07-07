@@ -1,0 +1,39 @@
+{
+  "id": "family_ES",
+  "type": "sentences-theme",
+  "themeId": "family",
+  "themeName": "Family",
+  "language": "es",
+  "locale": "es-ES",
+  "voice": "es-ES-ElviraNeural",
+  "audioSrc": "/data/audio/sentences/es/family_ES.mp3",
+  "createdAt": "2026-07-06T23:11:55.033Z",
+  "status": "ready",
+  "gapSeconds": 0.75,
+  "totalDuration": 56.448,
+  "build": {
+    "concurrency": 3,
+    "retries": 2,
+    "forceRebuild": false,
+    "generatedCount": 15,
+    "reusedCount": 0,
+    "cachePath": "C:\\Users\\sybel\\Documents\\Projects\\Timestamped MP3 Maker\\output\\sentences\\family\\es"
+  },
+  "segments": [
+    {"id":"family-001","sentenceId":"family-001","order":1,"tags":["basic"],"text":"Tengo una familia grande.","englishReference":"I have a big family.","start":0,"end":2.88,"duration":2.88},
+    {"id":"family-002","sentenceId":"family-002","order":2,"tags":["basic"],"text":"Tengo dos hermanos y una hermana.","englishReference":"I have two brothers and one sister.","start":3.63,"end":6.918,"duration":3.288},
+    {"id":"family-003","sentenceId":"family-003","order":3,"tags":["basic"],"text":"Soy hijo/hija único/a.","englishReference":"I am an only child.","start":7.668,"end":12.18,"duration":4.512},
+    {"id":"family-004","sentenceId":"family-004","order":4,"tags":["basic"],"text":"Vivo con mis padres.","englishReference":"I live with my parents.","start":12.93,"end":15.522,"duration":2.592},
+    {"id":"family-005","sentenceId":"family-005","order":5,"tags":["basic"],"text":"Vivo con mi pareja.","englishReference":"I live with my partner.","start":16.272,"end":18.744,"duration":2.472},
+    {"id":"family-006","sentenceId":"family-006","order":6,"tags":["basic"],"text":"Estoy casado/a.","englishReference":"I am married.","start":19.494,"end":22.83,"duration":3.336},
+    {"id":"family-007","sentenceId":"family-007","order":7,"tags":["basic"],"text":"Estoy soltero/a.","englishReference":"I am single.","start":23.58,"end":26.916,"duration":3.336},
+    {"id":"family-008","sentenceId":"family-008","order":8,"tags":["basic"],"text":"Tengo dos hijos.","englishReference":"I have two children.","start":27.666,"end":30.018,"duration":2.352},
+    {"id":"family-009","sentenceId":"family-009","order":9,"tags":["description"],"text":"Mi hermano es mayor que yo.","englishReference":"My brother is older than me.","start":30.768,"end":33.672,"duration":2.904},
+    {"id":"family-010","sentenceId":"family-010","order":10,"tags":["description"],"text":"Mi hermana es menor que yo.","englishReference":"My sister is younger than me.","start":34.422,"end":37.326,"duration":2.904},
+    {"id":"family-011","sentenceId":"family-011","order":11,"tags":["question"],"text":"¿Tienes hermanos?","englishReference":"Do you have any siblings?","start":38.076,"end":40.404,"duration":2.328},
+    {"id":"family-012","sentenceId":"family-012","order":12,"tags":["question"],"text":"¿Cuántos hijos tienes?","englishReference":"How many children do you have?","start":41.154,"end":43.77,"duration":2.616},
+    {"id":"family-013","sentenceId":"family-013","order":13,"tags":["description"],"text":"Mis padres viven en otra ciudad.","englishReference":"My parents live in another city.","start":44.52,"end":47.688,"duration":3.168},
+    {"id":"family-014","sentenceId":"family-014","order":14,"tags":["description"],"text":"Visito a mis abuelos cada fin de semana.","englishReference":"I visit my grandparents every weekend.","start":48.438,"end":52.158,"duration":3.72},
+    {"id":"family-015","sentenceId":"family-015","order":15,"tags":["emotion"],"text":"La familia es muy importante para mí.","englishReference":"Family is very important to me.","start":52.908,"end":56.388,"duration":3.48}
+  ]
+}

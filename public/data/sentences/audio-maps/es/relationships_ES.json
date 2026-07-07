@@ -1,0 +1,39 @@
+{
+  "id": "relationships_ES",
+  "type": "sentences-theme",
+  "themeId": "relationships",
+  "themeName": "Relationships",
+  "language": "es",
+  "locale": "es-ES",
+  "voice": "es-ES-ElviraNeural",
+  "audioSrc": "/data/audio/sentences/es/relationships_ES.mp3",
+  "createdAt": "2026-07-06T23:11:57.673Z",
+  "status": "ready",
+  "gapSeconds": 0.75,
+  "totalDuration": 48.72,
+  "build": {
+    "concurrency": 3,
+    "retries": 2,
+    "forceRebuild": false,
+    "generatedCount": 15,
+    "reusedCount": 0,
+    "cachePath": "C:\\Users\\sybel\\Documents\\Projects\\Timestamped MP3 Maker\\output\\sentences\\relationships\\es"
+  },
+  "segments": [
+    {"id":"rel-001","sentenceId":"rel-001","order":1,"tags":["basic"],"text":"Solo somos amigos.","englishReference":"We are just friends.","start":0,"end":2.712,"duration":2.712},
+    {"id":"rel-002","sentenceId":"rel-002","order":2,"tags":["basic"],"text":"Estamos en una relación.","englishReference":"We are in a relationship.","start":3.462,"end":6.27,"duration":2.808},
+    {"id":"rel-003","sentenceId":"rel-003","order":3,"tags":["basic"],"text":"Estoy enamorado/a.","englishReference":"I'm in love.","start":7.02,"end":10.5,"duration":3.48},
+    {"id":"rel-004","sentenceId":"rel-004","order":4,"tags":["affection"],"text":"Te quiero.","englishReference":"I love you.","start":11.25,"end":13.026,"duration":1.776},
+    {"id":"rel-005","sentenceId":"rel-005","order":5,"tags":["affection"],"text":"Te echo de menos.","englishReference":"I miss you.","start":13.776,"end":16.176,"duration":2.4},
+    {"id":"rel-006","sentenceId":"rel-006","order":6,"tags":["affection"],"text":"Significas mucho para mí.","englishReference":"You mean a lot to me.","start":16.926,"end":19.806,"duration":2.88},
+    {"id":"rel-007","sentenceId":"rel-007","order":7,"tags":["emotion"],"text":"Confío en ti.","englishReference":"I trust you.","start":20.556,"end":22.692,"duration":2.136},
+    {"id":"rel-008","sentenceId":"rel-008","order":8,"tags":["emotion"],"text":"Estoy celoso/a.","englishReference":"I'm jealous.","start":23.442,"end":26.658,"duration":3.216},
+    {"id":"rel-009","sentenceId":"rel-009","order":9,"tags":["conflict"],"text":"Tenemos que hablar.","englishReference":"We need to talk.","start":27.408,"end":29.664,"duration":2.256},
+    {"id":"rel-010","sentenceId":"rel-010","order":10,"tags":["conflict"],"text":"Lo siento.","englishReference":"I'm sorry.","start":30.414,"end":32.406,"duration":1.992},
+    {"id":"rel-011","sentenceId":"rel-011","order":11,"tags":["conflict"],"text":"Te perdono.","englishReference":"I forgive you.","start":33.156,"end":35.124,"duration":1.968},
+    {"id":"rel-012","sentenceId":"rel-012","order":12,"tags":["conflict"],"text":"Necesito espacio.","englishReference":"I need some space.","start":35.874,"end":38.394,"duration":2.52},
+    {"id":"rel-013","sentenceId":"rel-013","order":13,"tags":["relationship"],"text":"Rompimos.","englishReference":"We broke up.","start":39.144,"end":41.256,"duration":2.112},
+    {"id":"rel-014","sentenceId":"rel-014","order":14,"tags":["relationship"],"text":"Estamos comprometidos.","englishReference":"We are engaged.","start":42.006,"end":44.79,"duration":2.784},
+    {"id":"rel-015","sentenceId":"rel-015","order":15,"tags":["relationship"],"text":"Nos casamos el próximo año.","englishReference":"We're getting married next year.","start":45.54,"end":48.66,"duration":3.12}
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "emotions_IT",
+  "type": "sentences-theme",
+  "themeId": "emotions",
+  "themeName": "Emotions & Feelings",
+  "language": "it",
+  "locale": "it-IT",
+  "voice": "it-IT-ElsaNeural",
+  "audioSrc": "/data/audio/sentences/it/emotions_IT.mp3",
+  "createdAt": "2026-07-06T23:16:00.202Z",
+  "status": "ready",
+  "gapSeconds": 0.75,
+  "totalDuration": 35.112,
+  "build": {
+    "concurrency": 3,
+    "retries": 2,
+    "forceRebuild": false,
+    "generatedCount": 15,
+    "reusedCount": 0,
+    "cachePath": "C:\\Users\\sybel\\Documents\\Projects\\Timestamped MP3 Maker\\output\\sentences\\emotions\\it"
+  },
+  "segments": [
+    {"id":"emo-001","sentenceId":"emo-001","order":1,"tags":["basic"],"text":"Sono felice.","englishReference":"I am happy.","start":0,"end":1.392,"duration":1.392},
+    {"id":"emo-002","sentenceId":"emo-002","order":2,"tags":["basic"],"text":"Sono triste.","englishReference":"I am sad.","start":2.142,"end":3.606,"duration":1.464},
+    {"id":"emo-003","sentenceId":"emo-003","order":3,"tags":["basic"],"text":"Sono stanco/a.","englishReference":"I am tired.","start":4.356,"end":5.82,"duration":1.464},
+    {"id":"emo-004","sentenceId":"emo-004","order":4,"tags":["basic"],"text":"Sono stressato/a.","englishReference":"I am stressed.","start":6.57,"end":8.298,"duration":1.728},
+    {"id":"emo-005","sentenceId":"emo-005","order":5,"tags":["basic"],"text":"Sono entusiasta.","englishReference":"I am excited.","start":9.048,"end":10.68,"duration":1.632},
+    {"id":"emo-006","sentenceId":"emo-006","order":6,"tags":["basic"],"text":"Sono nervoso/a.","englishReference":"I am nervous.","start":11.43,"end":13.014,"duration":1.584},
+    {"id":"emo-007","sentenceId":"emo-007","order":7,"tags":["basic"],"text":"Sono preoccupato/a.","englishReference":"I am worried.","start":13.764,"end":15.588,"duration":1.824},
+    {"id":"emo-008","sentenceId":"emo-008","order":8,"tags":["basic"],"text":"Sono arrabbiato/a.","englishReference":"I am angry.","start":16.338,"end":17.994,"duration":1.656},
+    {"id":"emo-009","sentenceId":"emo-009","order":9,"tags":["basic"],"text":"Sono sorpreso/a.","englishReference":"I am surprised.","start":18.744,"end":20.352,"duration":1.608},
+    {"id":"emo-010","sentenceId":"emo-010","order":10,"tags":["basic"],"text":"Mi sento bene.","englishReference":"I feel good.","start":21.102,"end":22.59,"duration":1.488},
+    {"id":"emo-011","sentenceId":"emo-011","order":11,"tags":["basic"],"text":"Mi sento male.","englishReference":"I feel bad.","start":23.34,"end":24.828,"duration":1.488},
+    {"id":"emo-012","sentenceId":"emo-012","order":12,"tags":["reaction"],"text":"Questo mi rende felice.","englishReference":"That makes me happy.","start":25.578,"end":27.618,"duration":2.04},
+    {"id":"emo-013","sentenceId":"emo-013","order":13,"tags":["reaction"],"text":"Questo mi rende triste.","englishReference":"That makes me sad.","start":28.368,"end":30.36,"duration":1.992},
+    {"id":"emo-014","sentenceId":"emo-014","order":14,"tags":["reaction"],"text":"Questo mi fa arrabbiare.","englishReference":"That makes me angry.","start":31.11,"end":32.886,"duration":1.776},
+    {"id":"emo-015","sentenceId":"emo-015","order":15,"tags":["question"],"text":"Come ti senti?","englishReference":"How do you feel?","start":33.636,"end":35.052,"duration":1.416}
+  ]
+}

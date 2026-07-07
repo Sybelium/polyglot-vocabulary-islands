@@ -1,0 +1,39 @@
+{
+  "id": "family_FR",
+  "type": "sentences-theme",
+  "themeId": "family",
+  "themeName": "Family",
+  "language": "fr",
+  "locale": "fr-FR",
+  "voice": "fr-FR-DeniseNeural",
+  "audioSrc": "/data/audio/sentences/fr/family_FR.mp3",
+  "createdAt": "2026-07-06T23:08:38.087Z",
+  "status": "ready",
+  "gapSeconds": 0.75,
+  "totalDuration": 52.104,
+  "build": {
+    "concurrency": 3,
+    "retries": 2,
+    "forceRebuild": false,
+    "generatedCount": 15,
+    "reusedCount": 0,
+    "cachePath": "C:\\Users\\sybel\\Documents\\Projects\\Timestamped MP3 Maker\\output\\sentences\\family\\fr"
+  },
+  "segments": [
+    {"id":"family-001","sentenceId":"family-001","order":1,"tags":["basic"],"text":"J’ai une grande famille.","englishReference":"I have a big family.","start":0,"end":2.472,"duration":2.472},
+    {"id":"family-002","sentenceId":"family-002","order":2,"tags":["basic"],"text":"J’ai deux frères et une sœur.","englishReference":"I have two brothers and one sister.","start":3.222,"end":5.958,"duration":2.736},
+    {"id":"family-003","sentenceId":"family-003","order":3,"tags":["basic"],"text":"Je suis enfant unique.","englishReference":"I am an only child.","start":6.708,"end":9.372,"duration":2.664},
+    {"id":"family-004","sentenceId":"family-004","order":4,"tags":["basic"],"text":"Je vis avec mes parents.","englishReference":"I live with my parents.","start":10.122,"end":12.666,"duration":2.544},
+    {"id":"family-005","sentenceId":"family-005","order":5,"tags":["basic"],"text":"Je vis avec mon/ma partenaire.","englishReference":"I live with my partner.","start":13.416,"end":16.68,"duration":3.264},
+    {"id":"family-006","sentenceId":"family-006","order":6,"tags":["basic"],"text":"Je suis marié(e).","englishReference":"I am married.","start":17.43,"end":19.638,"duration":2.208},
+    {"id":"family-007","sentenceId":"family-007","order":7,"tags":["basic"],"text":"Je suis célibataire.","englishReference":"I am single.","start":20.388,"end":22.956,"duration":2.568},
+    {"id":"family-008","sentenceId":"family-008","order":8,"tags":["basic"],"text":"J’ai deux enfants.","englishReference":"I have two children.","start":23.706,"end":25.818,"duration":2.112},
+    {"id":"family-009","sentenceId":"family-009","order":9,"tags":["description"],"text":"Mon frère est plus âgé que moi.","englishReference":"My brother is older than me.","start":26.568,"end":29.448,"duration":2.88},
+    {"id":"family-010","sentenceId":"family-010","order":10,"tags":["description"],"text":"Ma sœur est plus jeune que moi.","englishReference":"My sister is younger than me.","start":30.198,"end":32.91,"duration":2.712},
+    {"id":"family-011","sentenceId":"family-011","order":11,"tags":["question"],"text":"Tu as des frères et sœurs ?","englishReference":"Do you have any siblings?","start":33.66,"end":36.228,"duration":2.568},
+    {"id":"family-012","sentenceId":"family-012","order":12,"tags":["question"],"text":"Combien d’enfants as-tu ?","englishReference":"How many children do you have?","start":36.978,"end":39.306,"duration":2.328},
+    {"id":"family-013","sentenceId":"family-013","order":13,"tags":["description"],"text":"Mes parents vivent dans une autre ville.","englishReference":"My parents live in another city.","start":40.056,"end":43.176,"duration":3.12},
+    {"id":"family-014","sentenceId":"family-014","order":14,"tags":["description"],"text":"Je rends visite à mes grands-parents chaque week-end.","englishReference":"I visit my grandparents every weekend.","start":43.926,"end":47.862,"duration":3.936},
+    {"id":"family-015","sentenceId":"family-015","order":15,"tags":["emotion"],"text":"La famille est très importante pour moi.","englishReference":"Family is very important to me.","start":48.612,"end":52.044,"duration":3.432}
+  ]
+}

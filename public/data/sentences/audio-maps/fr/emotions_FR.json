@@ -1,0 +1,39 @@
+{
+  "id": "emotions_FR",
+  "type": "sentences-theme",
+  "themeId": "emotions",
+  "themeName": "Emotions & Feelings",
+  "language": "fr",
+  "locale": "fr-FR",
+  "voice": "fr-FR-DeniseNeural",
+  "audioSrc": "/data/audio/sentences/fr/emotions_FR.mp3",
+  "createdAt": "2026-07-06T23:08:35.595Z",
+  "status": "ready",
+  "gapSeconds": 0.75,
+  "totalDuration": 47.112,
+  "build": {
+    "concurrency": 3,
+    "retries": 2,
+    "forceRebuild": false,
+    "generatedCount": 15,
+    "reusedCount": 0,
+    "cachePath": "C:\\Users\\sybel\\Documents\\Projects\\Timestamped MP3 Maker\\output\\sentences\\emotions\\fr"
+  },
+  "segments": [
+    {"id":"emo-001","sentenceId":"emo-001","order":1,"tags":["basic"],"text":"Je suis heureux/heureuse.","englishReference":"I am happy.","start":0,"end":2.616,"duration":2.616},
+    {"id":"emo-002","sentenceId":"emo-002","order":2,"tags":["basic"],"text":"Je suis triste.","englishReference":"I am sad.","start":3.366,"end":5.574,"duration":2.208},
+    {"id":"emo-003","sentenceId":"emo-003","order":3,"tags":["basic"],"text":"Je suis fatigué(e).","englishReference":"I am tired.","start":6.324,"end":8.604,"duration":2.28},
+    {"id":"emo-004","sentenceId":"emo-004","order":4,"tags":["basic"],"text":"Je suis stressé(e).","englishReference":"I am stressed.","start":9.354,"end":11.706,"duration":2.352},
+    {"id":"emo-005","sentenceId":"emo-005","order":5,"tags":["basic"],"text":"Je suis enthousiaste.","englishReference":"I am excited.","start":12.456,"end":15.096,"duration":2.64},
+    {"id":"emo-006","sentenceId":"emo-006","order":6,"tags":["basic"],"text":"Je suis nerveux/nerveuse.","englishReference":"I am nervous.","start":15.846,"end":18.582,"duration":2.736},
+    {"id":"emo-007","sentenceId":"emo-007","order":7,"tags":["basic"],"text":"Je suis inquiet/inquiète.","englishReference":"I am worried.","start":19.332,"end":22.116,"duration":2.784},
+    {"id":"emo-008","sentenceId":"emo-008","order":8,"tags":["basic"],"text":"Je suis en colère.","englishReference":"I am angry.","start":22.866,"end":25.29,"duration":2.424},
+    {"id":"emo-009","sentenceId":"emo-009","order":9,"tags":["basic"],"text":"Je suis surpris(e).","englishReference":"I am surprised.","start":26.04,"end":28.272,"duration":2.232},
+    {"id":"emo-010","sentenceId":"emo-010","order":10,"tags":["basic"],"text":"Je me sens bien.","englishReference":"I feel good.","start":29.022,"end":31.206,"duration":2.184},
+    {"id":"emo-011","sentenceId":"emo-011","order":11,"tags":["basic"],"text":"Je me sens mal.","englishReference":"I feel bad.","start":31.956,"end":34.236,"duration":2.28},
+    {"id":"emo-012","sentenceId":"emo-012","order":12,"tags":["reaction"],"text":"Ça me rend heureux/heureuse.","englishReference":"That makes me happy.","start":34.986,"end":37.77,"duration":2.784},
+    {"id":"emo-013","sentenceId":"emo-013","order":13,"tags":["reaction"],"text":"Ça me rend triste.","englishReference":"That makes me sad.","start":38.52,"end":40.848,"duration":2.328},
+    {"id":"emo-014","sentenceId":"emo-014","order":14,"tags":["reaction"],"text":"Ça me met en colère.","englishReference":"That makes me angry.","start":41.598,"end":44.094,"duration":2.496},
+    {"id":"emo-015","sentenceId":"emo-015","order":15,"tags":["question"],"text":"Comment te sens-tu ?","englishReference":"How do you feel?","start":44.844,"end":47.052,"duration":2.208}
+  ]
+}

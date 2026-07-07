@@ -1,0 +1,38 @@
+{
+  "id": "negotiation_IT",
+  "type": "sentences-theme",
+  "themeId": "negotiation",
+  "themeName": "Negotiation & Agreement",
+  "language": "it",
+  "locale": "it-IT",
+  "voice": "it-IT-ElsaNeural",
+  "audioSrc": "/data/audio/sentences/it/negotiation_IT.mp3",
+  "createdAt": "2026-07-06T23:16:36.049Z",
+  "status": "ready",
+  "gapSeconds": 0.75,
+  "totalDuration": 45.336,
+  "build": {
+    "concurrency": 3,
+    "retries": 2,
+    "forceRebuild": false,
+    "generatedCount": 14,
+    "reusedCount": 0,
+    "cachePath": "C:\\Users\\sybel\\Documents\\Projects\\Timestamped MP3 Maker\\output\\sentences\\negotiation\\it"
+  },
+  "segments": [
+    {"id":"nego-001","sentenceId":"nego-001","order":1,"tags":["proposal"],"text":"Mi permetta di fare una proposta.","englishReference":"Let me make a proposal.","start":0,"end":2.472,"duration":2.472},
+    {"id":"nego-002","sentenceId":"nego-002","order":2,"tags":["proposal"],"text":"Ecco cosa propongo.","englishReference":"Here is what I suggest.","start":3.222,"end":5.094,"duration":1.872},
+    {"id":"nego-003","sentenceId":"nego-003","order":3,"tags":["conditions"],"text":"In queste condizioni, possiamo andare avanti.","englishReference":"Under these conditions, we can move forward.","start":5.844,"end":9.492,"duration":3.648},
+    {"id":"nego-004","sentenceId":"nego-004","order":4,"tags":["clarification"],"text":"Potrebbe chiarire le sue aspettative?","englishReference":"Could you clarify your expectations?","start":10.242,"end":12.882,"duration":2.64},
+    {"id":"nego-005","sentenceId":"nego-005","order":5,"tags":["pricing"],"text":"Il prezzo è troppo alto per noi.","englishReference":"The price is too high for us.","start":13.632,"end":16.008,"duration":2.376},
+    {"id":"nego-006","sentenceId":"nego-006","order":6,"tags":["pricing"],"text":"Può offrire una tariffa migliore?","englishReference":"Can you offer a better rate?","start":16.758,"end":19.206,"duration":2.448},
+    {"id":"nego-007","sentenceId":"nego-007","order":7,"tags":["compromise"],"text":"Siamo disposti a trovare un compromesso.","englishReference":"We are willing to compromise.","start":19.956,"end":22.86,"duration":2.904},
+    {"id":"nego-008","sentenceId":"nego-008","order":8,"tags":["timeline"],"text":"Abbiamo bisogno di una tempistica chiara.","englishReference":"We need a clear timeline.","start":23.61,"end":26.49,"duration":2.88},
+    {"id":"nego-009","sentenceId":"nego-009","order":9,"tags":["agreement"],"text":"Sembra ragionevole.","englishReference":"That sounds reasonable.","start":27.24,"end":28.968,"duration":1.728},
+    {"id":"nego-010","sentenceId":"nego-010","order":10,"tags":["agreement"],"text":"Abbiamo un accordo.","englishReference":"We have an agreement.","start":29.718,"end":31.422,"duration":1.704},
+    {"id":"nego-011","sentenceId":"nego-011","order":11,"tags":["formal"],"text":"Mettiamolo per iscritto.","englishReference":"Let’s put this in writing.","start":32.172,"end":34.284,"duration":2.112},
+    {"id":"nego-012","sentenceId":"nego-012","order":12,"tags":["formal"],"text":"Esamineremo attentamente il contratto.","englishReference":"We will review the contract carefully.","start":35.034,"end":37.914,"duration":2.88},
+    {"id":"nego-013","sentenceId":"nego-013","order":13,"tags":["closing"],"text":"Grazie per la sua flessibilità.","englishReference":"Thank you for your flexibility.","start":38.664,"end":41.112,"duration":2.448},
+    {"id":"nego-014","sentenceId":"nego-014","order":14,"tags":["closing"],"text":"Attendo con interesse la nostra collaborazione.","englishReference":"I look forward to our collaboration.","start":41.862,"end":45.27,"duration":3.408}
+  ]
+}

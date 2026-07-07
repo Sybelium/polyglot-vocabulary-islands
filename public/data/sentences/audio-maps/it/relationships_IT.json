@@ -1,0 +1,39 @@
+{
+  "id": "relationships_IT",
+  "type": "sentences-theme",
+  "themeId": "relationships",
+  "themeName": "Relationships",
+  "language": "it",
+  "locale": "it-IT",
+  "voice": "it-IT-ElsaNeural",
+  "audioSrc": "/data/audio/sentences/it/relationships_IT.mp3",
+  "createdAt": "2026-07-06T23:16:05.804Z",
+  "status": "ready",
+  "gapSeconds": 0.75,
+  "totalDuration": 36.048,
+  "build": {
+    "concurrency": 3,
+    "retries": 2,
+    "forceRebuild": false,
+    "generatedCount": 15,
+    "reusedCount": 0,
+    "cachePath": "C:\\Users\\sybel\\Documents\\Projects\\Timestamped MP3 Maker\\output\\sentences\\relationships\\it"
+  },
+  "segments": [
+    {"id":"rel-001","sentenceId":"rel-001","order":1,"tags":["basic"],"text":"Siamo solo amici.","englishReference":"We are just friends.","start":0,"end":2.208,"duration":2.208},
+    {"id":"rel-002","sentenceId":"rel-002","order":2,"tags":["basic"],"text":"Siamo in una relazione.","englishReference":"We are in a relationship.","start":2.958,"end":4.95,"duration":1.992},
+    {"id":"rel-003","sentenceId":"rel-003","order":3,"tags":["basic"],"text":"Sono innamorato/a.","englishReference":"I'm in love.","start":5.7,"end":7.5,"duration":1.8},
+    {"id":"rel-004","sentenceId":"rel-004","order":4,"tags":["affection"],"text":"Ti amo.","englishReference":"I love you.","start":8.25,"end":9.258,"duration":1.008},
+    {"id":"rel-005","sentenceId":"rel-005","order":5,"tags":["affection"],"text":"Mi manchi.","englishReference":"I miss you.","start":10.008,"end":11.328,"duration":1.32},
+    {"id":"rel-006","sentenceId":"rel-006","order":6,"tags":["affection"],"text":"Sei molto importante per me.","englishReference":"You mean a lot to me.","start":12.078,"end":14.382,"duration":2.304},
+    {"id":"rel-007","sentenceId":"rel-007","order":7,"tags":["emotion"],"text":"Mi fido di te.","englishReference":"I trust you.","start":15.132,"end":16.596,"duration":1.464},
+    {"id":"rel-008","sentenceId":"rel-008","order":8,"tags":["emotion"],"text":"Sono geloso/a.","englishReference":"I'm jealous.","start":17.346,"end":18.882,"duration":1.536},
+    {"id":"rel-009","sentenceId":"rel-009","order":9,"tags":["conflict"],"text":"Dobbiamo parlare.","englishReference":"We need to talk.","start":19.632,"end":21.192,"duration":1.56},
+    {"id":"rel-010","sentenceId":"rel-010","order":10,"tags":["conflict"],"text":"Mi dispiace.","englishReference":"I'm sorry.","start":21.942,"end":23.502,"duration":1.56},
+    {"id":"rel-011","sentenceId":"rel-011","order":11,"tags":["conflict"],"text":"Ti perdono.","englishReference":"I forgive you.","start":24.252,"end":25.5,"duration":1.248},
+    {"id":"rel-012","sentenceId":"rel-012","order":12,"tags":["conflict"],"text":"Ho bisogno di spazio.","englishReference":"I need some space.","start":26.25,"end":28.242,"duration":1.992},
+    {"id":"rel-013","sentenceId":"rel-013","order":13,"tags":["relationship"],"text":"Ci siamo lasciati.","englishReference":"We broke up.","start":28.992,"end":30.6,"duration":1.608},
+    {"id":"rel-014","sentenceId":"rel-014","order":14,"tags":["relationship"],"text":"Siamo fidanzati.","englishReference":"We are engaged.","start":31.35,"end":33.126,"duration":1.776},
+    {"id":"rel-015","sentenceId":"rel-015","order":15,"tags":["relationship"],"text":"Ci sposiamo l’anno prossimo.","englishReference":"We're getting married next year.","start":33.876,"end":35.988,"duration":2.112}
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "home_DE",
+  "type": "sentences-theme",
+  "themeId": "home",
+  "themeName": "Home & Living",
+  "language": "de",
+  "locale": "de-DE",
+  "voice": "de-DE-KatjaNeural",
+  "audioSrc": "/data/audio/sentences/de/home_DE.mp3",
+  "createdAt": "2026-07-06T23:23:47.269Z",
+  "status": "ready",
+  "gapSeconds": 0.75,
+  "totalDuration": 54.984,
+  "build": {
+    "concurrency": 3,
+    "retries": 2,
+    "forceRebuild": false,
+    "generatedCount": 15,
+    "reusedCount": 0,
+    "cachePath": "C:\\Users\\sybel\\Documents\\Projects\\Timestamped MP3 Maker\\output\\sentences\\home\\de"
+  },
+  "segments": [
+    {"id":"home-001","sentenceId":"home-001","order":1,"tags":["basic"],"text":"Ich wohne in einer Wohnung.","englishReference":"I live in an apartment.","start":0,"end":2.832,"duration":2.832},
+    {"id":"home-002","sentenceId":"home-002","order":2,"tags":["basic"],"text":"Ich wohne in einem Haus.","englishReference":"I live in a house.","start":3.582,"end":6.294,"duration":2.712},
+    {"id":"home-003","sentenceId":"home-003","order":3,"tags":["description"],"text":"Meine Wohnung ist klein, aber gemütlich.","englishReference":"My apartment is small but comfortable.","start":7.044,"end":11.268,"duration":4.224},
+    {"id":"home-004","sentenceId":"home-004","order":4,"tags":["description"],"text":"Es gibt drei Zimmer.","englishReference":"There are three rooms.","start":12.018,"end":14.442,"duration":2.424},
+    {"id":"home-005","sentenceId":"home-005","order":5,"tags":["description"],"text":"Die Küche ist neben dem Wohnzimmer.","englishReference":"The kitchen is next to the living room.","start":15.192,"end":18.504,"duration":3.312},
+    {"id":"home-006","sentenceId":"home-006","order":6,"tags":["chores"],"text":"Ich muss das Haus putzen.","englishReference":"I need to clean the house.","start":19.254,"end":22.038,"duration":2.784},
+    {"id":"home-007","sentenceId":"home-007","order":7,"tags":["chores"],"text":"Kannst du den Müll rausbringen?","englishReference":"Can you take out the trash?","start":22.788,"end":25.668,"duration":2.88},
+    {"id":"home-008","sentenceId":"home-008","order":8,"tags":["chores"],"text":"Ich spüle das Geschirr.","englishReference":"I'll wash the dishes.","start":26.418,"end":28.938,"duration":2.52},
+    {"id":"home-009","sentenceId":"home-009","order":9,"tags":["problem"],"text":"Es gibt ein Problem mit der Heizung.","englishReference":"There is a problem with the heating.","start":29.688,"end":33.024,"duration":3.336},
+    {"id":"home-010","sentenceId":"home-010","order":10,"tags":["problem"],"text":"Das Wasser funktioniert nicht.","englishReference":"The water isn't working.","start":33.774,"end":36.87,"duration":3.096},
+    {"id":"home-011","sentenceId":"home-011","order":11,"tags":["request"],"text":"Bitte schließ die Tür.","englishReference":"Please close the door.","start":37.62,"end":40.14,"duration":2.52},
+    {"id":"home-012","sentenceId":"home-012","order":12,"tags":["request"],"text":"Kannst du das Fenster öffnen?","englishReference":"Can you open the window?","start":40.89,"end":43.914,"duration":3.024},
+    {"id":"home-013","sentenceId":"home-013","order":13,"tags":["comfort"],"text":"Fühl dich wie zu Hause.","englishReference":"Make yourself at home.","start":44.664,"end":47.16,"duration":2.496},
+    {"id":"home-014","sentenceId":"home-014","order":14,"tags":["comfort"],"text":"Möchtest du etwas trinken?","englishReference":"Would you like something to drink?","start":47.91,"end":50.67,"duration":2.76},
+    {"id":"home-015","sentenceId":"home-015","order":15,"tags":["housing"],"text":"Die Miete ist nächste Woche fällig.","englishReference":"The rent is due next week.","start":51.42,"end":54.924,"duration":3.504}
+  ]
+}

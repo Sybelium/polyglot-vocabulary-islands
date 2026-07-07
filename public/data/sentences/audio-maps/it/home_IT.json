@@ -1,0 +1,39 @@
+{
+  "id": "home_IT",
+  "type": "sentences-theme",
+  "themeId": "home",
+  "themeName": "Home & Living",
+  "language": "it",
+  "locale": "it-IT",
+  "voice": "it-IT-ElsaNeural",
+  "audioSrc": "/data/audio/sentences/it/home_IT.mp3",
+  "createdAt": "2026-07-06T23:16:08.541Z",
+  "status": "ready",
+  "gapSeconds": 0.75,
+  "totalDuration": 44.304,
+  "build": {
+    "concurrency": 3,
+    "retries": 2,
+    "forceRebuild": false,
+    "generatedCount": 15,
+    "reusedCount": 0,
+    "cachePath": "C:\\Users\\sybel\\Documents\\Projects\\Timestamped MP3 Maker\\output\\sentences\\home\\it"
+  },
+  "segments": [
+    {"id":"home-001","sentenceId":"home-001","order":1,"tags":["basic"],"text":"Vivo in un appartamento.","englishReference":"I live in an apartment.","start":0,"end":2.04,"duration":2.04},
+    {"id":"home-002","sentenceId":"home-002","order":2,"tags":["basic"],"text":"Vivo in una casa.","englishReference":"I live in a house.","start":2.79,"end":4.518,"duration":1.728},
+    {"id":"home-003","sentenceId":"home-003","order":3,"tags":["description"],"text":"Il mio appartamento è piccolo ma confortevole.","englishReference":"My apartment is small but comfortable.","start":5.268,"end":8.7,"duration":3.432},
+    {"id":"home-004","sentenceId":"home-004","order":4,"tags":["description"],"text":"Ci sono tre stanze.","englishReference":"There are three rooms.","start":9.45,"end":11.274,"duration":1.824},
+    {"id":"home-005","sentenceId":"home-005","order":5,"tags":["description"],"text":"La cucina è accanto al soggiorno.","englishReference":"The kitchen is next to the living room.","start":12.024,"end":14.712,"duration":2.688},
+    {"id":"home-006","sentenceId":"home-006","order":6,"tags":["chores"],"text":"Devo pulire la casa.","englishReference":"I need to clean the house.","start":15.462,"end":17.334,"duration":1.872},
+    {"id":"home-007","sentenceId":"home-007","order":7,"tags":["chores"],"text":"Puoi portare fuori la spazzatura?","englishReference":"Can you take out the trash?","start":18.084,"end":20.46,"duration":2.376},
+    {"id":"home-008","sentenceId":"home-008","order":8,"tags":["chores"],"text":"Laverò i piatti.","englishReference":"I'll wash the dishes.","start":21.21,"end":22.866,"duration":1.656},
+    {"id":"home-009","sentenceId":"home-009","order":9,"tags":["problem"],"text":"C’è un problema con il riscaldamento.","englishReference":"There is a problem with the heating.","start":23.616,"end":26.472,"duration":2.856},
+    {"id":"home-010","sentenceId":"home-010","order":10,"tags":["problem"],"text":"L’acqua non funziona.","englishReference":"The water isn't working.","start":27.222,"end":29.094,"duration":1.872},
+    {"id":"home-011","sentenceId":"home-011","order":11,"tags":["request"],"text":"Per favore, chiudi la porta.","englishReference":"Please close the door.","start":29.844,"end":32.292,"duration":2.448},
+    {"id":"home-012","sentenceId":"home-012","order":12,"tags":["request"],"text":"Puoi aprire la finestra?","englishReference":"Can you open the window?","start":33.042,"end":34.938,"duration":1.896},
+    {"id":"home-013","sentenceId":"home-013","order":13,"tags":["comfort"],"text":"Fai come se fossi a casa tua.","englishReference":"Make yourself at home.","start":35.688,"end":37.968,"duration":2.28},
+    {"id":"home-014","sentenceId":"home-014","order":14,"tags":["comfort"],"text":"Vuoi qualcosa da bere?","englishReference":"Would you like something to drink?","start":38.718,"end":40.542,"duration":1.824},
+    {"id":"home-015","sentenceId":"home-015","order":15,"tags":["housing"],"text":"L’affitto scade la prossima settimana.","englishReference":"The rent is due next week.","start":41.292,"end":44.244,"duration":2.952}
+  ]
+}

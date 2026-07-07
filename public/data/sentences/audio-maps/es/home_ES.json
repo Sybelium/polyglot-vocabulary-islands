@@ -1,0 +1,39 @@
+{
+  "id": "home_ES",
+  "type": "sentences-theme",
+  "themeId": "home",
+  "themeName": "Home & Living",
+  "language": "es",
+  "locale": "es-ES",
+  "voice": "es-ES-ElviraNeural",
+  "audioSrc": "/data/audio/sentences/es/home_ES.mp3",
+  "createdAt": "2026-07-06T23:12:00.239Z",
+  "status": "ready",
+  "gapSeconds": 0.75,
+  "totalDuration": 53.424,
+  "build": {
+    "concurrency": 3,
+    "retries": 2,
+    "forceRebuild": false,
+    "generatedCount": 15,
+    "reusedCount": 0,
+    "cachePath": "C:\\Users\\sybel\\Documents\\Projects\\Timestamped MP3 Maker\\output\\sentences\\home\\es"
+  },
+  "segments": [
+    {"id":"home-001","sentenceId":"home-001","order":1,"tags":["basic"],"text":"Vivo en un apartamento.","englishReference":"I live in an apartment.","start":0,"end":2.712,"duration":2.712},
+    {"id":"home-002","sentenceId":"home-002","order":2,"tags":["basic"],"text":"Vivo en una casa.","englishReference":"I live in a house.","start":3.462,"end":5.91,"duration":2.448},
+    {"id":"home-003","sentenceId":"home-003","order":3,"tags":["description"],"text":"Mi apartamento es pequeño pero cómodo.","englishReference":"My apartment is small but comfortable.","start":6.66,"end":10.212,"duration":3.552},
+    {"id":"home-004","sentenceId":"home-004","order":4,"tags":["description"],"text":"Hay tres habitaciones.","englishReference":"There are three rooms.","start":10.962,"end":13.722,"duration":2.76},
+    {"id":"home-005","sentenceId":"home-005","order":5,"tags":["description"],"text":"La cocina está al lado del salón.","englishReference":"The kitchen is next to the living room.","start":14.472,"end":17.736,"duration":3.264},
+    {"id":"home-006","sentenceId":"home-006","order":6,"tags":["chores"],"text":"Necesito limpiar la casa.","englishReference":"I need to clean the house.","start":18.486,"end":21.462,"duration":2.976},
+    {"id":"home-007","sentenceId":"home-007","order":7,"tags":["chores"],"text":"¿Puedes sacar la basura?","englishReference":"Can you take out the trash?","start":22.212,"end":24.852,"duration":2.64},
+    {"id":"home-008","sentenceId":"home-008","order":8,"tags":["chores"],"text":"Lavaré los platos.","englishReference":"I'll wash the dishes.","start":25.602,"end":28.122,"duration":2.52},
+    {"id":"home-009","sentenceId":"home-009","order":9,"tags":["problem"],"text":"Hay un problema con la calefacción.","englishReference":"There is a problem with the heating.","start":28.872,"end":32.04,"duration":3.168},
+    {"id":"home-010","sentenceId":"home-010","order":10,"tags":["problem"],"text":"El agua no funciona.","englishReference":"The water isn't working.","start":32.79,"end":35.334,"duration":2.544},
+    {"id":"home-011","sentenceId":"home-011","order":11,"tags":["request"],"text":"Por favor, cierra la puerta.","englishReference":"Please close the door.","start":36.084,"end":39.036,"duration":2.952},
+    {"id":"home-012","sentenceId":"home-012","order":12,"tags":["request"],"text":"¿Puedes abrir la ventana?","englishReference":"Can you open the window?","start":39.786,"end":42.498,"duration":2.712},
+    {"id":"home-013","sentenceId":"home-013","order":13,"tags":["comfort"],"text":"Siéntete como en casa.","englishReference":"Make yourself at home.","start":43.248,"end":45.96,"duration":2.712},
+    {"id":"home-014","sentenceId":"home-014","order":14,"tags":["comfort"],"text":"¿Quieres algo de beber?","englishReference":"Would you like something to drink?","start":46.71,"end":49.182,"duration":2.472},
+    {"id":"home-015","sentenceId":"home-015","order":15,"tags":["housing"],"text":"El alquiler vence la próxima semana.","englishReference":"The rent is due next week.","start":49.932,"end":53.364,"duration":3.432}
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "relationships_PT",
+  "type": "sentences-theme",
+  "themeId": "relationships",
+  "themeName": "Relationships",
+  "language": "pt",
+  "locale": "pt-PT",
+  "voice": "pt-PT-RaquelNeural",
+  "audioSrc": "/data/audio/sentences/pt/relationships_PT.mp3",
+  "createdAt": "2026-07-06T23:18:34.166Z",
+  "status": "ready",
+  "gapSeconds": 0.75,
+  "totalDuration": 50.16,
+  "build": {
+    "concurrency": 3,
+    "retries": 2,
+    "forceRebuild": false,
+    "generatedCount": 15,
+    "reusedCount": 0,
+    "cachePath": "C:\\Users\\sybel\\Documents\\Projects\\Timestamped MP3 Maker\\output\\sentences\\relationships\\pt"
+  },
+  "segments": [
+    {"id":"rel-001","sentenceId":"rel-001","order":1,"tags":["basic"],"text":"Somos apenas amigos.","englishReference":"We are just friends.","start":0,"end":3.12,"duration":3.12},
+    {"id":"rel-002","sentenceId":"rel-002","order":2,"tags":["basic"],"text":"Estamos numa relação.","englishReference":"We are in a relationship.","start":3.87,"end":6.774,"duration":2.904},
+    {"id":"rel-003","sentenceId":"rel-003","order":3,"tags":["basic"],"text":"Estou apaixonado/a.","englishReference":"I'm in love.","start":7.524,"end":10.524,"duration":3},
+    {"id":"rel-004","sentenceId":"rel-004","order":4,"tags":["affection"],"text":"Amo-te.","englishReference":"I love you.","start":11.274,"end":12.978,"duration":1.704},
+    {"id":"rel-005","sentenceId":"rel-005","order":5,"tags":["affection"],"text":"Tenho saudades tuas.","englishReference":"I miss you.","start":13.728,"end":16.632,"duration":2.904},
+    {"id":"rel-006","sentenceId":"rel-006","order":6,"tags":["affection"],"text":"Significas muito para mim.","englishReference":"You mean a lot to me.","start":17.382,"end":20.502,"duration":3.12},
+    {"id":"rel-007","sentenceId":"rel-007","order":7,"tags":["emotion"],"text":"Confio em ti.","englishReference":"I trust you.","start":21.252,"end":23.58,"duration":2.328},
+    {"id":"rel-008","sentenceId":"rel-008","order":8,"tags":["emotion"],"text":"Estou com ciúmes.","englishReference":"I'm jealous.","start":24.33,"end":26.97,"duration":2.64},
+    {"id":"rel-009","sentenceId":"rel-009","order":9,"tags":["conflict"],"text":"Temos de falar.","englishReference":"We need to talk.","start":27.72,"end":30.12,"duration":2.4},
+    {"id":"rel-010","sentenceId":"rel-010","order":10,"tags":["conflict"],"text":"Desculpa.","englishReference":"I'm sorry.","start":30.87,"end":33.078,"duration":2.208},
+    {"id":"rel-011","sentenceId":"rel-011","order":11,"tags":["conflict"],"text":"Perdoo-te.","englishReference":"I forgive you.","start":33.828,"end":35.772,"duration":1.944},
+    {"id":"rel-012","sentenceId":"rel-012","order":12,"tags":["conflict"],"text":"Preciso de espaço.","englishReference":"I need some space.","start":36.522,"end":39.306,"duration":2.784},
+    {"id":"rel-013","sentenceId":"rel-013","order":13,"tags":["relationship"],"text":"Terminámos.","englishReference":"We broke up.","start":40.056,"end":42.408,"duration":2.352},
+    {"id":"rel-014","sentenceId":"rel-014","order":14,"tags":["relationship"],"text":"Estamos noivos.","englishReference":"We are engaged.","start":43.158,"end":45.75,"duration":2.592},
+    {"id":"rel-015","sentenceId":"rel-015","order":15,"tags":["relationship"],"text":"Vamos casar-nos no próximo ano.","englishReference":"We're getting married next year.","start":46.5,"end":50.1,"duration":3.6}
+  ]
+}

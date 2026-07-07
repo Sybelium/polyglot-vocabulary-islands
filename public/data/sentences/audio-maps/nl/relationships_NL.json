@@ -1,0 +1,39 @@
+{
+  "id": "relationships_NL",
+  "type": "sentences-theme",
+  "themeId": "relationships",
+  "themeName": "Relationships",
+  "language": "nl",
+  "locale": "nl-NL",
+  "voice": "nl-NL-ColetteNeural",
+  "audioSrc": "/data/audio/sentences/nl/relationships_NL.mp3",
+  "createdAt": "2026-07-06T23:26:13.574Z",
+  "status": "ready",
+  "gapSeconds": 0.75,
+  "totalDuration": 48.264,
+  "build": {
+    "concurrency": 3,
+    "retries": 2,
+    "forceRebuild": false,
+    "generatedCount": 15,
+    "reusedCount": 0,
+    "cachePath": "C:\\Users\\sybel\\Documents\\Projects\\Timestamped MP3 Maker\\output\\sentences\\relationships\\nl"
+  },
+  "segments": [
+    {"id":"rel-001","sentenceId":"rel-001","order":1,"tags":["basic"],"text":"We zijn gewoon vrienden.","englishReference":"We are just friends.","start":0,"end":2.784,"duration":2.784},
+    {"id":"rel-002","sentenceId":"rel-002","order":2,"tags":["basic"],"text":"We hebben een relatie.","englishReference":"We are in a relationship.","start":3.534,"end":6.102,"duration":2.568},
+    {"id":"rel-003","sentenceId":"rel-003","order":3,"tags":["basic"],"text":"Ik ben verliefd.","englishReference":"I'm in love.","start":6.852,"end":9.252,"duration":2.4},
+    {"id":"rel-004","sentenceId":"rel-004","order":4,"tags":["affection"],"text":"Ik hou van je.","englishReference":"I love you.","start":10.002,"end":12.138,"duration":2.136},
+    {"id":"rel-005","sentenceId":"rel-005","order":5,"tags":["affection"],"text":"Ik mis je.","englishReference":"I miss you.","start":12.888,"end":14.904,"duration":2.016},
+    {"id":"rel-006","sentenceId":"rel-006","order":6,"tags":["affection"],"text":"Je betekent veel voor mij.","englishReference":"You mean a lot to me.","start":15.654,"end":18.678,"duration":3.024},
+    {"id":"rel-007","sentenceId":"rel-007","order":7,"tags":["emotion"],"text":"Ik vertrouw je.","englishReference":"I trust you.","start":19.428,"end":21.708,"duration":2.28},
+    {"id":"rel-008","sentenceId":"rel-008","order":8,"tags":["emotion"],"text":"Ik ben jaloers.","englishReference":"I'm jealous.","start":22.458,"end":24.858,"duration":2.4},
+    {"id":"rel-009","sentenceId":"rel-009","order":9,"tags":["conflict"],"text":"We moeten praten.","englishReference":"We need to talk.","start":25.608,"end":27.936,"duration":2.328},
+    {"id":"rel-010","sentenceId":"rel-010","order":10,"tags":["conflict"],"text":"Het spijt me.","englishReference":"I'm sorry.","start":28.686,"end":30.822,"duration":2.136},
+    {"id":"rel-011","sentenceId":"rel-011","order":11,"tags":["conflict"],"text":"Ik vergeef je.","englishReference":"I forgive you.","start":31.572,"end":33.828,"duration":2.256},
+    {"id":"rel-012","sentenceId":"rel-012","order":12,"tags":["conflict"],"text":"Ik heb wat ruimte nodig.","englishReference":"I need some space.","start":34.578,"end":37.602,"duration":3.024},
+    {"id":"rel-013","sentenceId":"rel-013","order":13,"tags":["relationship"],"text":"We zijn uit elkaar.","englishReference":"We broke up.","start":38.352,"end":40.992,"duration":2.64},
+    {"id":"rel-014","sentenceId":"rel-014","order":14,"tags":["relationship"],"text":"We zijn verloofd.","englishReference":"We are engaged.","start":41.742,"end":44.238,"duration":2.496},
+    {"id":"rel-015","sentenceId":"rel-015","order":15,"tags":["relationship"],"text":"We gaan volgend jaar trouwen.","englishReference":"We're getting married next year.","start":44.988,"end":48.204,"duration":3.216}
+  ]
+}

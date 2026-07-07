@@ -1,0 +1,39 @@
+{
+  "id": "conflict_NL",
+  "type": "sentences-theme",
+  "themeId": "conflict",
+  "themeName": "Conflict & Constructive Disagreement",
+  "language": "nl",
+  "locale": "nl-NL",
+  "voice": "nl-NL-ColetteNeural",
+  "audioSrc": "/data/audio/sentences/nl/conflict_NL.mp3",
+  "createdAt": "2026-07-06T23:26:44.895Z",
+  "status": "ready",
+  "gapSeconds": 0.75,
+  "totalDuration": 62.016,
+  "build": {
+    "concurrency": 3,
+    "retries": 2,
+    "forceRebuild": false,
+    "generatedCount": 15,
+    "reusedCount": 0,
+    "cachePath": "C:\\Users\\sybel\\Documents\\Projects\\Timestamped MP3 Maker\\output\\sentences\\conflict\\nl"
+  },
+  "segments": [
+    {"id":"conf-001","sentenceId":"conf-001","order":1,"tags":["disagreement"],"text":"Ik zie dat anders.","englishReference":"I see it differently.","start":0,"end":2.592,"duration":2.592},
+    {"id":"conf-002","sentenceId":"conf-002","order":2,"tags":["disagreement"],"text":"Ik begrijp je standpunt, maar ik heb een andere mening.","englishReference":"I understand your point, but I have a different opinion.","start":3.342,"end":8.214,"duration":4.872},
+    {"id":"conf-003","sentenceId":"conf-003","order":3,"tags":["clarification"],"text":"Laat me mijn standpunt uitleggen.","englishReference":"Let me explain my position.","start":8.964,"end":12.588,"duration":3.624},
+    {"id":"conf-004","sentenceId":"conf-004","order":4,"tags":["boundary"],"text":"Daar voel ik me niet prettig bij.","englishReference":"I’m not comfortable with that.","start":13.338,"end":16.818,"duration":3.48},
+    {"id":"conf-005","sentenceId":"conf-005","order":5,"tags":["boundary"],"text":"Dat werkt voor mij niet.","englishReference":"That doesn’t work for me.","start":17.568,"end":20.4,"duration":2.832},
+    {"id":"conf-006","sentenceId":"conf-006","order":6,"tags":["assertive"],"text":"Ik heb meer tijd nodig om erover na te denken.","englishReference":"I need more time to think about it.","start":21.15,"end":25.662,"duration":4.512},
+    {"id":"conf-007","sentenceId":"conf-007","order":7,"tags":["calm"],"text":"Laten we dit rustig bespreken.","englishReference":"Let’s discuss this calmly.","start":26.412,"end":29.82,"duration":3.408},
+    {"id":"conf-008","sentenceId":"conf-008","order":8,"tags":["solution"],"text":"Welke oplossing stel je voor?","englishReference":"What solution would you suggest?","start":30.57,"end":33.93,"duration":3.36},
+    {"id":"conf-009","sentenceId":"conf-009","order":9,"tags":["solution"],"text":"Laten we een gemeenschappelijk punt vinden.","englishReference":"Let’s try to find common ground.","start":34.68,"end":38.4,"duration":3.72},
+    {"id":"conf-010","sentenceId":"conf-010","order":10,"tags":["assertive"],"text":"Ik blijf bij mijn beslissing.","englishReference":"I stand by my decision.","start":39.15,"end":42.27,"duration":3.12},
+    {"id":"conf-011","sentenceId":"conf-011","order":11,"tags":["respect"],"text":"Ik respecteer je mening.","englishReference":"I respect your opinion.","start":43.02,"end":46.02,"duration":3},
+    {"id":"conf-012","sentenceId":"conf-012","order":12,"tags":["deescalation"],"text":"Laten we ons richten op de oplossing.","englishReference":"Let’s focus on solving the problem.","start":46.77,"end":50.442,"duration":3.672},
+    {"id":"conf-013","sentenceId":"conf-013","order":13,"tags":["clarification"],"text":"Kun je verduidelijken wat je bedoelt?","englishReference":"Can you clarify what you mean?","start":51.192,"end":54.48,"duration":3.288},
+    {"id":"conf-014","sentenceId":"conf-014","order":14,"tags":["assertive"],"text":"Dat kan ik niet accepteren.","englishReference":"I cannot accept that.","start":55.23,"end":58.422,"duration":3.192},
+    {"id":"conf-015","sentenceId":"conf-015","order":15,"tags":["resolution"],"text":"Laten we verdergaan.","englishReference":"Let’s move forward.","start":59.172,"end":61.956,"duration":2.784}
+  ]
+}

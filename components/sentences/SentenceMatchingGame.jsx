@@ -36,6 +36,7 @@ export default function SentenceMatchingGame({ lang, supportLang, sentences }) {
   }
 
   const complete = matchedIds.length === items.length;
+  const rowCount = Math.max(leftItems.length, rightItems.length);
 
   return (
     <section className="rounded-[2rem] border border-white/80 bg-white/95 p-4 shadow-xl md:p-6">
@@ -44,12 +45,13 @@ export default function SentenceMatchingGame({ lang, supportLang, sentences }) {
           <p className="text-xs font-black uppercase tracking-wide text-sky-600">
             Matching sentences
           </p>
+
           <h2 className="text-2xl font-black leading-tight text-slate-950 md:text-3xl">
-  Match meaning and sentence
-</h2>
+            Match meaning and sentence
+          </h2>
         </div>
 
-        <div className="rounded-2xl bg-sky-50 px-3 py-2 text-sm font-black text-sky-700">
+        <div className="rounded-2xl bg-sky-50 px-3 py-2 text-sm font-black text-sky-700 md:text-base">
           {matchedIds.length}/{items.length}
         </div>
       </div>
@@ -66,63 +68,79 @@ export default function SentenceMatchingGame({ lang, supportLang, sentences }) {
         </div>
       )}
 
-      <div className="grid gap-4 md:grid-cols-2">
-        <div className="grid gap-2">
-          <p className="text-xs font-black uppercase tracking-wide text-slate-500">
-            Meaning
-          </p>
+      <div className="grid gap-2 md:grid-cols-2 md:gap-x-5 md:gap-y-3">
+        <p className="text-xs font-black uppercase tracking-wide text-slate-500">
+          Meaning
+        </p>
 
-          {leftItems.map((sentence) => {
-            const matched = matchedIds.includes(sentence.id);
-            const selected = selectedLeftId === sentence.id;
+        <p className="hidden text-xs font-black uppercase tracking-wide text-slate-500 md:block">
+          Target sentence
+        </p>
 
-            return (
-              <button
-                key={sentence.id}
-                type="button"
-                disabled={matched}
-                onClick={() => setSelectedLeftId(sentence.id)}
-                className={[
-                  "text-left text-base font-black leading-snug md:text-lg",
-                  matched
-                    ? "border-emerald-200 bg-emerald-50 text-emerald-700"
-                    : selected
-                    ? "border-sky-400 bg-sky-50 text-sky-800"
-                    : "border-slate-200 bg-white text-slate-700 hover:bg-slate-50",
-                ].join(" ")}
-              >
-                {getSentenceText(sentence, supportLang)}
-              </button>
-            );
-          })}
-        </div>
+        {Array.from({ length: rowCount }).map((_, index) => {
+          const leftSentence = leftItems[index];
+          const rightSentence = rightItems[index];
 
-        <div className="grid gap-2">
-          <p className="text-xs font-black uppercase tracking-wide text-slate-500">
-            Target sentence
-          </p>
+          const leftMatched = leftSentence
+            ? matchedIds.includes(leftSentence.id)
+            : false;
 
-          {rightItems.map((sentence) => {
-            const matched = matchedIds.includes(sentence.id);
+          const leftSelected = leftSentence
+            ? selectedLeftId === leftSentence.id
+            : false;
 
-            return (
-              <button
-                key={sentence.id}
-                type="button"
-                disabled={matched}
-                onClick={() => selectRight(sentence)}
-                className={[
-                  "rounded-2xl border px-4 py-3 text-left text-base font-black leading-snug transition md:px-5 md:py-4 md:text-lg",
-                  matched
-                    ? "border-emerald-200 bg-emerald-50 text-emerald-700"
-                    : "border-slate-200 bg-white text-slate-700 hover:bg-sky-50",
-                ].join(" ")}
-              >
-                {getSentenceText(sentence, lang)}
-              </button>
-            );
-          })}
-        </div>
+          const rightMatched = rightSentence
+            ? matchedIds.includes(rightSentence.id)
+            : false;
+
+          return (
+            <div key={`row-${index}`} className="contents">
+              {leftSentence ? (
+                <button
+                  type="button"
+                  disabled={leftMatched}
+                  onClick={() => setSelectedLeftId(leftSentence.id)}
+                  className={[
+                    "flex min-h-[3.75rem] items-center rounded-2xl border px-4 py-3 text-left text-base font-black leading-snug transition md:px-5 md:py-4 md:text-lg",
+                    leftMatched
+                      ? "border-emerald-200 bg-emerald-50 text-emerald-700"
+                      : leftSelected
+                      ? "border-sky-400 bg-sky-50 text-sky-800"
+                      : "border-slate-200 bg-white text-slate-700 hover:bg-slate-50",
+                  ].join(" ")}
+                >
+                  {getSentenceText(leftSentence, supportLang)}
+                </button>
+              ) : (
+                <div />
+              )}
+
+              {index === 0 && (
+                <p className="mt-3 text-xs font-black uppercase tracking-wide text-slate-500 md:hidden">
+                  Target sentence
+                </p>
+              )}
+
+              {rightSentence ? (
+                <button
+                  type="button"
+                  disabled={rightMatched}
+                  onClick={() => selectRight(rightSentence)}
+                  className={[
+                    "flex min-h-[3.75rem] items-center rounded-2xl border px-4 py-3 text-left text-base font-black leading-snug transition md:px-5 md:py-4 md:text-lg",
+                    rightMatched
+                      ? "border-emerald-200 bg-emerald-50 text-emerald-700"
+                      : "border-slate-200 bg-white text-slate-700 hover:bg-sky-50",
+                  ].join(" ")}
+                >
+                  {getSentenceText(rightSentence, lang)}
+                </button>
+              ) : (
+                <div />
+              )}
+            </div>
+          );
+        })}
       </div>
     </section>
   );

@@ -1,0 +1,39 @@
+{
+  "id": "relationships_DE",
+  "type": "sentences-theme",
+  "themeId": "relationships",
+  "themeName": "Relationships",
+  "language": "de",
+  "locale": "de-DE",
+  "voice": "de-DE-KatjaNeural",
+  "audioSrc": "/data/audio/sentences/de/relationships_DE.mp3",
+  "createdAt": "2026-07-06T23:23:44.648Z",
+  "status": "ready",
+  "gapSeconds": 0.75,
+  "totalDuration": 47.472,
+  "build": {
+    "concurrency": 3,
+    "retries": 2,
+    "forceRebuild": false,
+    "generatedCount": 15,
+    "reusedCount": 0,
+    "cachePath": "C:\\Users\\sybel\\Documents\\Projects\\Timestamped MP3 Maker\\output\\sentences\\relationships\\de"
+  },
+  "segments": [
+    {"id":"rel-001","sentenceId":"rel-001","order":1,"tags":["basic"],"text":"Wir sind nur Freunde.","englishReference":"We are just friends.","start":0,"end":2.448,"duration":2.448},
+    {"id":"rel-002","sentenceId":"rel-002","order":2,"tags":["basic"],"text":"Wir sind in einer Beziehung.","englishReference":"We are in a relationship.","start":3.198,"end":5.982,"duration":2.784},
+    {"id":"rel-003","sentenceId":"rel-003","order":3,"tags":["basic"],"text":"Ich bin verliebt.","englishReference":"I'm in love.","start":6.732,"end":9.012,"duration":2.28},
+    {"id":"rel-004","sentenceId":"rel-004","order":4,"tags":["affection"],"text":"Ich liebe dich.","englishReference":"I love you.","start":9.762,"end":11.85,"duration":2.088},
+    {"id":"rel-005","sentenceId":"rel-005","order":5,"tags":["affection"],"text":"Ich vermisse dich.","englishReference":"I miss you.","start":12.6,"end":14.832,"duration":2.232},
+    {"id":"rel-006","sentenceId":"rel-006","order":6,"tags":["affection"],"text":"Du bedeutest mir viel.","englishReference":"You mean a lot to me.","start":15.582,"end":18.198,"duration":2.616},
+    {"id":"rel-007","sentenceId":"rel-007","order":7,"tags":["emotion"],"text":"Ich vertraue dir.","englishReference":"I trust you.","start":18.948,"end":21.252,"duration":2.304},
+    {"id":"rel-008","sentenceId":"rel-008","order":8,"tags":["emotion"],"text":"Ich bin eifersüchtig.","englishReference":"I'm jealous.","start":22.002,"end":24.57,"duration":2.568},
+    {"id":"rel-009","sentenceId":"rel-009","order":9,"tags":["conflict"],"text":"Wir müssen reden.","englishReference":"We need to talk.","start":25.32,"end":27.6,"duration":2.28},
+    {"id":"rel-010","sentenceId":"rel-010","order":10,"tags":["conflict"],"text":"Es tut mir leid.","englishReference":"I'm sorry.","start":28.35,"end":30.558,"duration":2.208},
+    {"id":"rel-011","sentenceId":"rel-011","order":11,"tags":["conflict"],"text":"Ich vergebe dir.","englishReference":"I forgive you.","start":31.308,"end":33.492,"duration":2.184},
+    {"id":"rel-012","sentenceId":"rel-012","order":12,"tags":["conflict"],"text":"Ich brauche etwas Abstand.","englishReference":"I need some space.","start":34.242,"end":37.266,"duration":3.024},
+    {"id":"rel-013","sentenceId":"rel-013","order":13,"tags":["relationship"],"text":"Wir haben uns getrennt.","englishReference":"We broke up.","start":38.016,"end":40.608,"duration":2.592},
+    {"id":"rel-014","sentenceId":"rel-014","order":14,"tags":["relationship"],"text":"Wir sind verlobt.","englishReference":"We are engaged.","start":41.358,"end":43.758,"duration":2.4},
+    {"id":"rel-015","sentenceId":"rel-015","order":15,"tags":["relationship"],"text":"Wir heiraten nächstes Jahr.","englishReference":"We're getting married next year.","start":44.508,"end":47.412,"duration":2.904}
+  ]
+}

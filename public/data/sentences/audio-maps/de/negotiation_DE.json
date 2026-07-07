@@ -1,0 +1,38 @@
+{
+  "id": "negotiation_DE",
+  "type": "sentences-theme",
+  "themeId": "negotiation",
+  "themeName": "Negotiation & Agreement",
+  "language": "de",
+  "locale": "de-DE",
+  "voice": "de-DE-KatjaNeural",
+  "audioSrc": "/data/audio/sentences/de/negotiation_DE.mp3",
+  "createdAt": "2026-07-06T23:24:16.870Z",
+  "status": "ready",
+  "gapSeconds": 0.75,
+  "totalDuration": 59.736,
+  "build": {
+    "concurrency": 3,
+    "retries": 2,
+    "forceRebuild": false,
+    "generatedCount": 14,
+    "reusedCount": 0,
+    "cachePath": "C:\\Users\\sybel\\Documents\\Projects\\Timestamped MP3 Maker\\output\\sentences\\negotiation\\de"
+  },
+  "segments": [
+    {"id":"nego-001","sentenceId":"nego-001","order":1,"tags":["proposal"],"text":"Lassen Sie mich einen Vorschlag machen.","englishReference":"Let me make a proposal.","start":0,"end":3.288,"duration":3.288},
+    {"id":"nego-002","sentenceId":"nego-002","order":2,"tags":["proposal"],"text":"Folgendes schlage ich vor.","englishReference":"Here is what I suggest.","start":4.038,"end":6.918,"duration":2.88},
+    {"id":"nego-003","sentenceId":"nego-003","order":3,"tags":["conditions"],"text":"Unter diesen Bedingungen können wir fortfahren.","englishReference":"Under these conditions, we can move forward.","start":7.668,"end":11.844,"duration":4.176},
+    {"id":"nego-004","sentenceId":"nego-004","order":4,"tags":["clarification"],"text":"Könnten Sie Ihre Erwartungen präzisieren?","englishReference":"Could you clarify your expectations?","start":12.594,"end":16.53,"duration":3.936},
+    {"id":"nego-005","sentenceId":"nego-005","order":5,"tags":["pricing"],"text":"Der Preis ist für uns zu hoch.","englishReference":"The price is too high for us.","start":17.28,"end":20.4,"duration":3.12},
+    {"id":"nego-006","sentenceId":"nego-006","order":6,"tags":["pricing"],"text":"Können Sie einen besseren Preis anbieten?","englishReference":"Can you offer a better rate?","start":21.15,"end":24.918,"duration":3.768},
+    {"id":"nego-007","sentenceId":"nego-007","order":7,"tags":["compromise"],"text":"Wir sind bereit, einen Kompromiss einzugehen.","englishReference":"We are willing to compromise.","start":25.668,"end":30.084,"duration":4.416},
+    {"id":"nego-008","sentenceId":"nego-008","order":8,"tags":["timeline"],"text":"Wir brauchen einen klaren Zeitplan.","englishReference":"We need a clear timeline.","start":30.834,"end":34.506,"duration":3.672},
+    {"id":"nego-009","sentenceId":"nego-009","order":9,"tags":["agreement"],"text":"Das klingt vernünftig.","englishReference":"That sounds reasonable.","start":35.256,"end":37.92,"duration":2.664},
+    {"id":"nego-010","sentenceId":"nego-010","order":10,"tags":["agreement"],"text":"Wir haben eine Vereinbarung.","englishReference":"We have an agreement.","start":38.67,"end":41.646,"duration":2.976},
+    {"id":"nego-011","sentenceId":"nego-011","order":11,"tags":["formal"],"text":"Lassen Sie uns das schriftlich festhalten.","englishReference":"Let’s put this in writing.","start":42.396,"end":46.116,"duration":3.72},
+    {"id":"nego-012","sentenceId":"nego-012","order":12,"tags":["formal"],"text":"Wir werden den Vertrag sorgfältig prüfen.","englishReference":"We will review the contract carefully.","start":46.866,"end":50.874,"duration":4.008},
+    {"id":"nego-013","sentenceId":"nego-013","order":13,"tags":["closing"],"text":"Vielen Dank für Ihre Flexibilität.","englishReference":"Thank you for your flexibility.","start":51.624,"end":55.224,"duration":3.6},
+    {"id":"nego-014","sentenceId":"nego-014","order":14,"tags":["closing"],"text":"Ich freue mich auf unsere Zusammenarbeit.","englishReference":"I look forward to our collaboration.","start":55.974,"end":59.67,"duration":3.696}
+  ]
+}

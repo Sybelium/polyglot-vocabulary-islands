@@ -1,0 +1,39 @@
+{
+  "id": "money_NL",
+  "type": "sentences-theme",
+  "themeId": "money",
+  "themeName": "Money & Payments",
+  "language": "nl",
+  "locale": "nl-NL",
+  "voice": "nl-NL-ColetteNeural",
+  "audioSrc": "/data/audio/sentences/nl/money_NL.mp3",
+  "createdAt": "2026-07-06T23:26:50.528Z",
+  "status": "ready",
+  "gapSeconds": 0.75,
+  "totalDuration": 56.568,
+  "build": {
+    "concurrency": 3,
+    "retries": 2,
+    "forceRebuild": false,
+    "generatedCount": 15,
+    "reusedCount": 0,
+    "cachePath": "C:\\Users\\sybel\\Documents\\Projects\\Timestamped MP3 Maker\\output\\sentences\\money\\nl"
+  },
+  "segments": [
+    {"id":"money-001","sentenceId":"money-001","order":1,"tags":["payment"],"text":"Hoeveel kost het?","englishReference":"How much does it cost?","start":0,"end":2.4,"duration":2.4},
+    {"id":"money-002","sentenceId":"money-002","order":2,"tags":["payment"],"text":"Kan ik met kaart betalen?","englishReference":"Can I pay by card?","start":3.15,"end":6.054,"duration":2.904},
+    {"id":"money-003","sentenceId":"money-003","order":3,"tags":["payment"],"text":"Ik betaal contant.","englishReference":"I will pay in cash.","start":6.804,"end":9.516,"duration":2.712},
+    {"id":"money-004","sentenceId":"money-004","order":4,"tags":["payment"],"text":"Kunnen we de rekening splitsen?","englishReference":"Can we split the bill?","start":10.266,"end":13.242,"duration":2.976},
+    {"id":"money-005","sentenceId":"money-005","order":5,"tags":["payment"],"text":"Dat is te duur.","englishReference":"This is too expensive.","start":13.992,"end":16.32,"duration":2.328},
+    {"id":"money-006","sentenceId":"money-006","order":6,"tags":["banking"],"text":"Ik moet geld opnemen.","englishReference":"I need to withdraw money.","start":17.07,"end":19.806,"duration":2.736},
+    {"id":"money-007","sentenceId":"money-007","order":7,"tags":["banking"],"text":"Waar is de dichtstbijzijnde geldautomaat?","englishReference":"Where is the nearest ATM?","start":20.556,"end":24.756,"duration":4.2},
+    {"id":"money-008","sentenceId":"money-008","order":8,"tags":["salary"],"text":"Wat is het salaris?","englishReference":"What is the salary?","start":25.506,"end":28.17,"duration":2.664},
+    {"id":"money-009","sentenceId":"money-009","order":9,"tags":["salary"],"text":"Is dit salaris onderhandelbaar?","englishReference":"Is this salary negotiable?","start":28.92,"end":32.4,"duration":3.48},
+    {"id":"money-010","sentenceId":"money-010","order":10,"tags":["salary"],"text":"Ik had een hoger aanbod verwacht.","englishReference":"I was expecting a higher offer.","start":33.15,"end":36.75,"duration":3.6},
+    {"id":"money-011","sentenceId":"money-011","order":11,"tags":["finance"],"text":"Ik moet geld besparen.","englishReference":"I need to save money.","start":37.5,"end":40.308,"duration":2.808},
+    {"id":"money-012","sentenceId":"money-012","order":12,"tags":["finance"],"text":"Ik heb een beperkt budget.","englishReference":"I’m on a budget.","start":41.058,"end":44.082,"duration":3.024},
+    {"id":"money-013","sentenceId":"money-013","order":13,"tags":["refund"],"text":"Ik wil graag een terugbetaling.","englishReference":"I would like a refund.","start":44.832,"end":48.144,"duration":3.312},
+    {"id":"money-014","sentenceId":"money-014","order":14,"tags":["refund"],"text":"Er zit een fout in de rekening.","englishReference":"There was a mistake in the bill.","start":48.894,"end":52.11,"duration":3.216},
+    {"id":"money-015","sentenceId":"money-015","order":15,"tags":["transfer"],"text":"Ik zal het geld vandaag overmaken.","englishReference":"I will transfer the money today.","start":52.86,"end":56.508,"duration":3.648}
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "family_DE",
+  "type": "sentences-theme",
+  "themeId": "family",
+  "themeName": "Family",
+  "language": "de",
+  "locale": "de-DE",
+  "voice": "de-DE-KatjaNeural",
+  "audioSrc": "/data/audio/sentences/de/family_DE.mp3",
+  "createdAt": "2026-07-06T23:23:42.026Z",
+  "status": "ready",
+  "gapSeconds": 0.75,
+  "totalDuration": 55.824,
+  "build": {
+    "concurrency": 3,
+    "retries": 2,
+    "forceRebuild": false,
+    "generatedCount": 15,
+    "reusedCount": 0,
+    "cachePath": "C:\\Users\\sybel\\Documents\\Projects\\Timestamped MP3 Maker\\output\\sentences\\family\\de"
+  },
+  "segments": [
+    {"id":"family-001","sentenceId":"family-001","order":1,"tags":["basic"],"text":"Ich habe eine große Familie.","englishReference":"I have a big family.","start":0,"end":3.072,"duration":3.072},
+    {"id":"family-002","sentenceId":"family-002","order":2,"tags":["basic"],"text":"Ich habe zwei Brüder und eine Schwester.","englishReference":"I have two brothers and one sister.","start":3.822,"end":7.374,"duration":3.552},
+    {"id":"family-003","sentenceId":"family-003","order":3,"tags":["basic"],"text":"Ich bin Einzelkind.","englishReference":"I am an only child.","start":8.124,"end":10.596,"duration":2.472},
+    {"id":"family-004","sentenceId":"family-004","order":4,"tags":["basic"],"text":"Ich wohne bei meinen Eltern.","englishReference":"I live with my parents.","start":11.346,"end":14.226,"duration":2.88},
+    {"id":"family-005","sentenceId":"family-005","order":5,"tags":["basic"],"text":"Ich lebe mit meinem/meiner Partner/in.","englishReference":"I live with my partner.","start":14.976,"end":18.384,"duration":3.408},
+    {"id":"family-006","sentenceId":"family-006","order":6,"tags":["basic"],"text":"Ich bin verheiratet.","englishReference":"I am married.","start":19.134,"end":21.63,"duration":2.496},
+    {"id":"family-007","sentenceId":"family-007","order":7,"tags":["basic"],"text":"Ich bin ledig.","englishReference":"I am single.","start":22.38,"end":24.564,"duration":2.184},
+    {"id":"family-008","sentenceId":"family-008","order":8,"tags":["basic"],"text":"Ich habe zwei Kinder.","englishReference":"I have two children.","start":25.314,"end":27.906,"duration":2.592},
+    {"id":"family-009","sentenceId":"family-009","order":9,"tags":["description"],"text":"Mein Bruder ist älter als ich.","englishReference":"My brother is older than me.","start":28.656,"end":31.848,"duration":3.192},
+    {"id":"family-010","sentenceId":"family-010","order":10,"tags":["description"],"text":"Meine Schwester ist jünger als ich.","englishReference":"My sister is younger than me.","start":32.598,"end":35.838,"duration":3.24},
+    {"id":"family-011","sentenceId":"family-011","order":11,"tags":["question"],"text":"Hast du Geschwister?","englishReference":"Do you have any siblings?","start":36.588,"end":38.844,"duration":2.256},
+    {"id":"family-012","sentenceId":"family-012","order":12,"tags":["question"],"text":"Wie viele Kinder hast du?","englishReference":"How many children do you have?","start":39.594,"end":42.162,"duration":2.568},
+    {"id":"family-013","sentenceId":"family-013","order":13,"tags":["description"],"text":"Meine Eltern leben in einer anderen Stadt.","englishReference":"My parents live in another city.","start":42.912,"end":46.92,"duration":4.008},
+    {"id":"family-014","sentenceId":"family-014","order":14,"tags":["description"],"text":"Ich besuche meine Großeltern jedes Wochenende.","englishReference":"I visit my grandparents every weekend.","start":47.67,"end":51.918,"duration":4.248},
+    {"id":"family-015","sentenceId":"family-015","order":15,"tags":["emotion"],"text":"Familie ist mir sehr wichtig.","englishReference":"Family is very important to me.","start":52.668,"end":55.764,"duration":3.096}
+  ]
+}

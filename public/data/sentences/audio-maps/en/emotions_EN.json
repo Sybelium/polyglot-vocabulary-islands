@@ -1,0 +1,39 @@
+{
+  "id": "emotions_EN",
+  "type": "sentences-theme",
+  "themeId": "emotions",
+  "themeName": "Emotions & Feelings",
+  "language": "en",
+  "locale": "en-US",
+  "voice": "en-US-EmmaNeural",
+  "audioSrc": "/data/audio/sentences/en/emotions_EN.mp3",
+  "createdAt": "2026-07-06T22:11:33.720Z",
+  "status": "ready",
+  "gapSeconds": 0.75,
+  "totalDuration": 32.592,
+  "build": {
+    "concurrency": 3,
+    "retries": 2,
+    "forceRebuild": false,
+    "generatedCount": 15,
+    "reusedCount": 0,
+    "cachePath": "C:\\Users\\sybel\\Documents\\Projects\\Timestamped MP3 Maker\\output\\sentences\\emotions\\en"
+  },
+  "segments": [
+    {"id":"emo-001","sentenceId":"emo-001","order":1,"tags":["basic"],"text":"I am happy.","englishReference":"I am happy.","start":0,"end":1.32,"duration":1.32},
+    {"id":"emo-002","sentenceId":"emo-002","order":2,"tags":["basic"],"text":"I am sad.","englishReference":"I am sad.","start":2.07,"end":3.462,"duration":1.392},
+    {"id":"emo-003","sentenceId":"emo-003","order":3,"tags":["basic"],"text":"I am tired.","englishReference":"I am tired.","start":4.212,"end":5.484,"duration":1.272},
+    {"id":"emo-004","sentenceId":"emo-004","order":4,"tags":["basic"],"text":"I am stressed.","englishReference":"I am stressed.","start":6.234,"end":7.722,"duration":1.488},
+    {"id":"emo-005","sentenceId":"emo-005","order":5,"tags":["basic"],"text":"I am excited.","englishReference":"I am excited.","start":8.472,"end":9.984,"duration":1.512},
+    {"id":"emo-006","sentenceId":"emo-006","order":6,"tags":["basic"],"text":"I am nervous.","englishReference":"I am nervous.","start":10.734,"end":12.15,"duration":1.416},
+    {"id":"emo-007","sentenceId":"emo-007","order":7,"tags":["basic"],"text":"I am worried.","englishReference":"I am worried.","start":12.9,"end":14.124,"duration":1.224},
+    {"id":"emo-008","sentenceId":"emo-008","order":8,"tags":["basic"],"text":"I am angry.","englishReference":"I am angry.","start":14.874,"end":16.218,"duration":1.344},
+    {"id":"emo-009","sentenceId":"emo-009","order":9,"tags":["basic"],"text":"I am surprised.","englishReference":"I am surprised.","start":16.968,"end":18.624,"duration":1.656},
+    {"id":"emo-010","sentenceId":"emo-010","order":10,"tags":["basic"],"text":"I feel good.","englishReference":"I feel good.","start":19.374,"end":20.598,"duration":1.224},
+    {"id":"emo-011","sentenceId":"emo-011","order":11,"tags":["basic"],"text":"I feel bad.","englishReference":"I feel bad.","start":21.348,"end":22.62,"duration":1.272},
+    {"id":"emo-012","sentenceId":"emo-012","order":12,"tags":["reaction"],"text":"That makes me happy.","englishReference":"That makes me happy.","start":23.37,"end":25.146,"duration":1.776},
+    {"id":"emo-013","sentenceId":"emo-013","order":13,"tags":["reaction"],"text":"That makes me sad.","englishReference":"That makes me sad.","start":25.896,"end":27.624,"duration":1.728},
+    {"id":"emo-014","sentenceId":"emo-014","order":14,"tags":["reaction"],"text":"That makes me angry.","englishReference":"That makes me angry.","start":28.374,"end":30.222,"duration":1.848},
+    {"id":"emo-015","sentenceId":"emo-015","order":15,"tags":["question"],"text":"How do you feel?","englishReference":"How do you feel?","start":30.972,"end":32.532,"duration":1.56}
+  ]
+}

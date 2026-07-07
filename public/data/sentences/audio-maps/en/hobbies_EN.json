@@ -1,0 +1,39 @@
+{
+  "id": "hobbies_EN",
+  "type": "sentences-theme",
+  "themeId": "hobbies",
+  "themeName": "Hobbies & Free Time",
+  "language": "en",
+  "locale": "en-US",
+  "voice": "en-US-EmmaNeural",
+  "audioSrc": "/data/audio/sentences/en/hobbies_EN.mp3",
+  "createdAt": "2026-07-06T23:05:36.463Z",
+  "status": "ready",
+  "gapSeconds": 0.75,
+  "totalDuration": 41.952,
+  "build": {
+    "concurrency": 3,
+    "retries": 2,
+    "forceRebuild": false,
+    "generatedCount": 15,
+    "reusedCount": 0,
+    "cachePath": "C:\\Users\\sybel\\Documents\\Projects\\Timestamped MP3 Maker\\output\\sentences\\hobbies\\en"
+  },
+  "segments": [
+    {"id":"hobby-001","sentenceId":"hobby-001","order":1,"tags":["basic"],"text":"In my free time, I like to read.","englishReference":"In my free time, I like to read.","start":0,"end":2.496,"duration":2.496},
+    {"id":"hobby-002","sentenceId":"hobby-002","order":2,"tags":["basic"],"text":"I enjoy listening to music.","englishReference":"I enjoy listening to music.","start":3.246,"end":5.622,"duration":2.376},
+    {"id":"hobby-003","sentenceId":"hobby-003","order":3,"tags":["basic"],"text":"I play football on weekends.","englishReference":"I play football on weekends.","start":6.372,"end":8.676,"duration":2.304},
+    {"id":"hobby-004","sentenceId":"hobby-004","order":4,"tags":["basic"],"text":"I go to the gym twice a week.","englishReference":"I go to the gym twice a week.","start":9.426,"end":11.898,"duration":2.472},
+    {"id":"hobby-005","sentenceId":"hobby-005","order":5,"tags":["basic"],"text":"I like watching movies.","englishReference":"I like watching movies.","start":12.648,"end":14.544,"duration":1.896},
+    {"id":"hobby-006","sentenceId":"hobby-006","order":6,"tags":["basic"],"text":"I love traveling.","englishReference":"I love traveling.","start":15.294,"end":16.878,"duration":1.584},
+    {"id":"hobby-007","sentenceId":"hobby-007","order":7,"tags":["basic"],"text":"I enjoy cooking.","englishReference":"I enjoy cooking.","start":17.628,"end":19.284,"duration":1.656},
+    {"id":"hobby-008","sentenceId":"hobby-008","order":8,"tags":["basic"],"text":"I like drawing and painting.","englishReference":"I like drawing and painting.","start":20.034,"end":22.098,"duration":2.064},
+    {"id":"hobby-009","sentenceId":"hobby-009","order":9,"tags":["basic"],"text":"I play the guitar.","englishReference":"I play the guitar.","start":22.848,"end":24.552,"duration":1.704},
+    {"id":"hobby-010","sentenceId":"hobby-010","order":10,"tags":["basic"],"text":"I like learning languages.","englishReference":"I like learning languages.","start":25.302,"end":27.462,"duration":2.16},
+    {"id":"hobby-011","sentenceId":"hobby-011","order":11,"tags":["question"],"text":"What do you like to do in your free time?","englishReference":"What do you like to do in your free time?","start":28.212,"end":30.804,"duration":2.592},
+    {"id":"hobby-012","sentenceId":"hobby-012","order":12,"tags":["question"],"text":"Do you play any sports?","englishReference":"Do you play any sports?","start":31.554,"end":33.522,"duration":1.968},
+    {"id":"hobby-013","sentenceId":"hobby-013","order":13,"tags":["question"],"text":"What kind of music do you like?","englishReference":"What kind of music do you like?","start":34.272,"end":36.624,"duration":2.352},
+    {"id":"hobby-014","sentenceId":"hobby-014","order":14,"tags":["frequency"],"text":"I practice every day.","englishReference":"I practice every day.","start":37.374,"end":39.294,"duration":1.92},
+    {"id":"hobby-015","sentenceId":"hobby-015","order":15,"tags":["invitation"],"text":"Would you like to join me?","englishReference":"Would you like to join me?","start":40.044,"end":41.892,"duration":1.848}
+  ]
+}

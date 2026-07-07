@@ -1,0 +1,39 @@
+{
+  "id": "hobbies_NL",
+  "type": "sentences-theme",
+  "themeId": "hobbies",
+  "themeName": "Hobbies & Free Time",
+  "language": "nl",
+  "locale": "nl-NL",
+  "voice": "nl-NL-ColetteNeural",
+  "audioSrc": "/data/audio/sentences/nl/hobbies_NL.mp3",
+  "createdAt": "2026-07-06T23:26:53.367Z",
+  "status": "ready",
+  "gapSeconds": 0.75,
+  "totalDuration": 55.512,
+  "build": {
+    "concurrency": 3,
+    "retries": 2,
+    "forceRebuild": false,
+    "generatedCount": 15,
+    "reusedCount": 0,
+    "cachePath": "C:\\Users\\sybel\\Documents\\Projects\\Timestamped MP3 Maker\\output\\sentences\\hobbies\\nl"
+  },
+  "segments": [
+    {"id":"hobby-001","sentenceId":"hobby-001","order":1,"tags":["basic"],"text":"In mijn vrije tijd lees ik graag.","englishReference":"In my free time, I like to read.","start":0,"end":3.816,"duration":3.816},
+    {"id":"hobby-002","sentenceId":"hobby-002","order":2,"tags":["basic"],"text":"Ik luister graag naar muziek.","englishReference":"I enjoy listening to music.","start":4.566,"end":7.782,"duration":3.216},
+    {"id":"hobby-003","sentenceId":"hobby-003","order":3,"tags":["basic"],"text":"Ik speel in het weekend voetbal.","englishReference":"I play football on weekends.","start":8.532,"end":11.892,"duration":3.36},
+    {"id":"hobby-004","sentenceId":"hobby-004","order":4,"tags":["basic"],"text":"Ik ga twee keer per week naar de sportschool.","englishReference":"I go to the gym twice a week.","start":12.642,"end":16.77,"duration":4.128},
+    {"id":"hobby-005","sentenceId":"hobby-005","order":5,"tags":["basic"],"text":"Ik kijk graag films.","englishReference":"I like watching movies.","start":17.52,"end":20.424,"duration":2.904},
+    {"id":"hobby-006","sentenceId":"hobby-006","order":6,"tags":["basic"],"text":"Ik hou ervan om te reizen.","englishReference":"I love traveling.","start":21.174,"end":24.342,"duration":3.168},
+    {"id":"hobby-007","sentenceId":"hobby-007","order":7,"tags":["basic"],"text":"Ik kook graag.","englishReference":"I enjoy cooking.","start":25.092,"end":27.372,"duration":2.28},
+    {"id":"hobby-008","sentenceId":"hobby-008","order":8,"tags":["basic"],"text":"Ik teken en schilder graag.","englishReference":"I like drawing and painting.","start":28.122,"end":31.314,"duration":3.192},
+    {"id":"hobby-009","sentenceId":"hobby-009","order":9,"tags":["basic"],"text":"Ik speel gitaar.","englishReference":"I play the guitar.","start":32.064,"end":34.536,"duration":2.472},
+    {"id":"hobby-010","sentenceId":"hobby-010","order":10,"tags":["basic"],"text":"Ik leer graag talen.","englishReference":"I like learning languages.","start":35.286,"end":38.022,"duration":2.736},
+    {"id":"hobby-011","sentenceId":"hobby-011","order":11,"tags":["question"],"text":"Wat doe je graag in je vrije tijd?","englishReference":"What do you like to do in your free time?","start":38.772,"end":42.18,"duration":3.408},
+    {"id":"hobby-012","sentenceId":"hobby-012","order":12,"tags":["question"],"text":"Doe je aan sport?","englishReference":"Do you play any sports?","start":42.93,"end":45.258,"duration":2.328},
+    {"id":"hobby-013","sentenceId":"hobby-013","order":13,"tags":["question"],"text":"Wat voor muziek vind je leuk?","englishReference":"What kind of music do you like?","start":46.008,"end":49.056,"duration":3.048},
+    {"id":"hobby-014","sentenceId":"hobby-014","order":14,"tags":["frequency"],"text":"Ik oefen elke dag.","englishReference":"I practice every day.","start":49.806,"end":52.518,"duration":2.712},
+    {"id":"hobby-015","sentenceId":"hobby-015","order":15,"tags":["invitation"],"text":"Wil je meedoen?","englishReference":"Would you like to join me?","start":53.268,"end":55.452,"duration":2.184}
+  ]
+}

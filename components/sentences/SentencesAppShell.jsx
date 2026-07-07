@@ -62,8 +62,13 @@ export default function SentencesAppShell({
   }
 
   if (step === "polyglot") {
-    content = <SentencePolyglot sentences={sentences} />;
-  }
+  content = (
+    <SentencePolyglot
+      subjectId={subjectId}
+      sentences={sentences}
+    />
+  );
+}
 
   return (
     <main className="min-h-screen bg-gradient-to-b from-sky-100 via-white to-emerald-50 px-3 py-4 pb-28 text-slate-900 md:px-6 md:py-8 md:pb-8">

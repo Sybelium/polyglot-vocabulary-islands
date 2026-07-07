@@ -86,13 +86,7 @@
       "description": "Expressing how you feel",
       "tags": ["personal", "basic"]
     },
-    {
-      "id": "opinions",
-      "name": "Opinions & Preferences",
-      "icon": "🗣️",
-      "description": "Saying what you think, like, and prefer",
-      "tags": ["conversation", "basic"]
-    },
+    
     {
       "id": "family",
       "name": "Family",

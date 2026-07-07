@@ -1,0 +1,39 @@
+{
+  "id": "conflict_DE",
+  "type": "sentences-theme",
+  "themeId": "conflict",
+  "themeName": "Conflict & Constructive Disagreement",
+  "language": "de",
+  "locale": "de-DE",
+  "voice": "de-DE-KatjaNeural",
+  "audioSrc": "/data/audio/sentences/de/conflict_DE.mp3",
+  "createdAt": "2026-07-06T23:24:14.069Z",
+  "status": "ready",
+  "gapSeconds": 0.75,
+  "totalDuration": 61.896,
+  "build": {
+    "concurrency": 3,
+    "retries": 2,
+    "forceRebuild": false,
+    "generatedCount": 15,
+    "reusedCount": 0,
+    "cachePath": "C:\\Users\\sybel\\Documents\\Projects\\Timestamped MP3 Maker\\output\\sentences\\conflict\\de"
+  },
+  "segments": [
+    {"id":"conf-001","sentenceId":"conf-001","order":1,"tags":["disagreement"],"text":"Ich sehe das anders.","englishReference":"I see it differently.","start":0,"end":2.496,"duration":2.496},
+    {"id":"conf-002","sentenceId":"conf-002","order":2,"tags":["disagreement"],"text":"Ich verstehe deinen Standpunkt, aber ich habe eine andere Meinung.","englishReference":"I understand your point, but I have a different opinion.","start":3.246,"end":8.67,"duration":5.424},
+    {"id":"conf-003","sentenceId":"conf-003","order":3,"tags":["clarification"],"text":"Lass mich meine Position erklären.","englishReference":"Let me explain my position.","start":9.42,"end":12.972,"duration":3.552},
+    {"id":"conf-004","sentenceId":"conf-004","order":4,"tags":["boundary"],"text":"Damit fühle ich mich nicht wohl.","englishReference":"I’m not comfortable with that.","start":13.722,"end":16.674,"duration":2.952},
+    {"id":"conf-005","sentenceId":"conf-005","order":5,"tags":["boundary"],"text":"Das funktioniert für mich nicht.","englishReference":"That doesn’t work for me.","start":17.424,"end":20.376,"duration":2.952},
+    {"id":"conf-006","sentenceId":"conf-006","order":6,"tags":["assertive"],"text":"Ich brauche mehr Zeit, um darüber nachzudenken.","englishReference":"I need more time to think about it.","start":21.126,"end":25.614,"duration":4.488},
+    {"id":"conf-007","sentenceId":"conf-007","order":7,"tags":["calm"],"text":"Lass uns das ruhig besprechen.","englishReference":"Let’s discuss this calmly.","start":26.364,"end":29.556,"duration":3.192},
+    {"id":"conf-008","sentenceId":"conf-008","order":8,"tags":["solution"],"text":"Welche Lösung schlägst du vor?","englishReference":"What solution would you suggest?","start":30.306,"end":33.354,"duration":3.048},
+    {"id":"conf-009","sentenceId":"conf-009","order":9,"tags":["solution"],"text":"Lass uns einen gemeinsamen Nenner finden.","englishReference":"Let’s try to find common ground.","start":34.104,"end":37.992,"duration":3.888},
+    {"id":"conf-010","sentenceId":"conf-010","order":10,"tags":["assertive"],"text":"Ich bleibe bei meiner Entscheidung.","englishReference":"I stand by my decision.","start":38.742,"end":41.67,"duration":2.928},
+    {"id":"conf-011","sentenceId":"conf-011","order":11,"tags":["respect"],"text":"Ich respektiere deine Meinung.","englishReference":"I respect your opinion.","start":42.42,"end":45.54,"duration":3.12},
+    {"id":"conf-012","sentenceId":"conf-012","order":12,"tags":["deescalation"],"text":"Lass uns uns auf die Lösung konzentrieren.","englishReference":"Let’s focus on solving the problem.","start":46.29,"end":50.25,"duration":3.96},
+    {"id":"conf-013","sentenceId":"conf-013","order":13,"tags":["clarification"],"text":"Kannst du klarstellen, was du meinst?","englishReference":"Can you clarify what you mean?","start":51,"end":54.672,"duration":3.672},
+    {"id":"conf-014","sentenceId":"conf-014","order":14,"tags":["assertive"],"text":"Das kann ich nicht akzeptieren.","englishReference":"I cannot accept that.","start":55.422,"end":58.542,"duration":3.12},
+    {"id":"conf-015","sentenceId":"conf-015","order":15,"tags":["resolution"],"text":"Lass uns weitermachen.","englishReference":"Let’s move forward.","start":59.292,"end":61.836,"duration":2.544}
+  ]
+}

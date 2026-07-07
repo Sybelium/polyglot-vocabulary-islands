@@ -1,0 +1,39 @@
+{
+  "id": "daily_routine_DE",
+  "type": "sentences-theme",
+  "themeId": "daily_routine",
+  "themeName": "Daily Routine",
+  "language": "de",
+  "locale": "de-DE",
+  "voice": "de-DE-KatjaNeural",
+  "audioSrc": "/data/audio/sentences/de/daily_routine_DE.mp3",
+  "createdAt": "2026-07-06T23:23:50.223Z",
+  "status": "ready",
+  "gapSeconds": 0.75,
+  "totalDuration": 56.568,
+  "build": {
+    "concurrency": 3,
+    "retries": 2,
+    "forceRebuild": false,
+    "generatedCount": 15,
+    "reusedCount": 0,
+    "cachePath": "C:\\Users\\sybel\\Documents\\Projects\\Timestamped MP3 Maker\\output\\sentences\\daily_routine\\de"
+  },
+  "segments": [
+    {"id":"routine-001","sentenceId":"routine-001","order":1,"tags":["morning"],"text":"Ich wache um sieben auf.","englishReference":"I wake up at seven.","start":0,"end":2.664,"duration":2.664},
+    {"id":"routine-002","sentenceId":"routine-002","order":2,"tags":["morning"],"text":"Ich stehe auf und dusche.","englishReference":"I get up and take a shower.","start":3.414,"end":6.03,"duration":2.616},
+    {"id":"routine-003","sentenceId":"routine-003","order":3,"tags":["morning"],"text":"Ich frühstücke zu Hause.","englishReference":"I have breakfast at home.","start":6.78,"end":9.444,"duration":2.664},
+    {"id":"routine-004","sentenceId":"routine-004","order":4,"tags":["work","school"],"text":"Ich fahre mit dem Auto zur Arbeit.","englishReference":"I go to work by car.","start":10.194,"end":13.554,"duration":3.36},
+    {"id":"routine-005","sentenceId":"routine-005","order":5,"tags":["work","school"],"text":"Ich fahre mit dem Bus zur Schule.","englishReference":"I go to school by bus.","start":14.304,"end":17.328,"duration":3.024},
+    {"id":"routine-006","sentenceId":"routine-006","order":6,"tags":["work"],"text":"Ich fange um neun an zu arbeiten.","englishReference":"I start work at nine.","start":18.078,"end":21.486,"duration":3.408},
+    {"id":"routine-007","sentenceId":"routine-007","order":7,"tags":["school"],"text":"Der Unterricht beginnt um acht.","englishReference":"Classes start at eight.","start":22.236,"end":25.476,"duration":3.24},
+    {"id":"routine-008","sentenceId":"routine-008","order":8,"tags":["daytime"],"text":"Ich esse um zwölf zu Mittag.","englishReference":"I have lunch at noon.","start":26.226,"end":29.298,"duration":3.072},
+    {"id":"routine-009","sentenceId":"routine-009","order":9,"tags":["daytime"],"text":"Normalerweise höre ich um fünf auf.","englishReference":"I usually finish at five.","start":30.048,"end":33.648,"duration":3.6},
+    {"id":"routine-010","sentenceId":"routine-010","order":10,"tags":["evening"],"text":"Ich gehe nach der Arbeit nach Hause.","englishReference":"I go home after work.","start":34.398,"end":37.59,"duration":3.192},
+    {"id":"routine-011","sentenceId":"routine-011","order":11,"tags":["evening"],"text":"Ich koche abends Abendessen.","englishReference":"I cook dinner in the evening.","start":38.34,"end":41.34,"duration":3},
+    {"id":"routine-012","sentenceId":"routine-012","order":12,"tags":["evening"],"text":"Ich sehe vor dem Schlafengehen fern.","englishReference":"I watch TV before bed.","start":42.09,"end":45.402,"duration":3.312},
+    {"id":"routine-013","sentenceId":"routine-013","order":13,"tags":["night"],"text":"Ich gehe um elf ins Bett.","englishReference":"I go to bed at eleven.","start":46.152,"end":48.864,"duration":2.712},
+    {"id":"routine-014","sentenceId":"routine-014","order":14,"tags":["frequency"],"text":"Ich trainiere dreimal pro Woche.","englishReference":"I exercise three times a week.","start":49.614,"end":52.782,"duration":3.168},
+    {"id":"routine-015","sentenceId":"routine-015","order":15,"tags":["frequency"],"text":"Ich arbeite sonntags nicht.","englishReference":"I don't work on Sundays.","start":53.532,"end":56.508,"duration":2.976}
+  ]
+}

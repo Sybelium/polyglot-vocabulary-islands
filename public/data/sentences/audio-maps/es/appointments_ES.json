@@ -1,0 +1,34 @@
+{
+  "id": "appointments_ES",
+  "type": "sentences-theme",
+  "themeId": "appointments",
+  "themeName": "Appointments",
+  "language": "es",
+  "locale": "es-ES",
+  "voice": "es-ES-ElviraNeural",
+  "audioSrc": "/data/audio/sentences/es/appointments_ES.mp3",
+  "createdAt": "2026-07-06T23:12:11.777Z",
+  "status": "ready",
+  "gapSeconds": 0.75,
+  "totalDuration": 34.992,
+  "build": {
+    "concurrency": 3,
+    "retries": 2,
+    "forceRebuild": false,
+    "generatedCount": 10,
+    "reusedCount": 0,
+    "cachePath": "C:\\Users\\sybel\\Documents\\Projects\\Timestamped MP3 Maker\\output\\sentences\\appointments\\es"
+  },
+  "segments": [
+    {"id":"appt-001","sentenceId":"appt-001","order":1,"tags":["basic"],"text":"Tengo una cita.","englishReference":"I have an appointment.","start":0,"end":2.28,"duration":2.28},
+    {"id":"appt-002","sentenceId":"appt-002","order":2,"tags":["question"],"text":"¿A qué hora es mi cita?","englishReference":"What time is my appointment?","start":3.03,"end":5.55,"duration":2.52},
+    {"id":"appt-003","sentenceId":"appt-003","order":3,"tags":["question"],"text":"¿Puedo pedir una cita?","englishReference":"Can I make an appointment?","start":6.3,"end":8.892,"duration":2.592},
+    {"id":"appt-004","sentenceId":"appt-004","order":4,"tags":["schedule"],"text":"Me gustaría reservar una cita.","englishReference":"I would like to book an appointment.","start":9.642,"end":12.882,"duration":3.24},
+    {"id":"appt-005","sentenceId":"appt-005","order":5,"tags":["reschedule"],"text":"Necesito cambiar la cita.","englishReference":"I need to reschedule.","start":13.632,"end":16.584,"duration":2.952},
+    {"id":"appt-006","sentenceId":"appt-006","order":6,"tags":["cancel"],"text":"Necesito cancelar mi cita.","englishReference":"I need to cancel my appointment.","start":17.334,"end":20.382,"duration":3.048},
+    {"id":"appt-007","sentenceId":"appt-007","order":7,"tags":["late"],"text":"Llegaré diez minutos tarde.","englishReference":"I will be ten minutes late.","start":21.132,"end":24.156,"duration":3.024},
+    {"id":"appt-008","sentenceId":"appt-008","order":8,"tags":["question"],"text":"¿Es posible venir antes?","englishReference":"Is it possible to come earlier?","start":24.906,"end":27.834,"duration":2.928},
+    {"id":"appt-009","sentenceId":"appt-009","order":9,"tags":["confirmation"],"text":"Estoy aquí para mi cita.","englishReference":"I’m here for my appointment.","start":28.584,"end":31.416,"duration":2.832},
+    {"id":"appt-010","sentenceId":"appt-010","order":10,"tags":["confirmation"],"text":"¿Puede confirmar mi cita?","englishReference":"Can you confirm my appointment?","start":32.166,"end":34.926,"duration":2.76}
+  ]
+}

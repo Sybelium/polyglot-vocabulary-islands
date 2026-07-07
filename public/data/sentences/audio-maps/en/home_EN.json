@@ -1,0 +1,39 @@
+{
+  "id": "home_EN",
+  "type": "sentences-theme",
+  "themeId": "home",
+  "themeName": "Home & Living",
+  "language": "en",
+  "locale": "en-US",
+  "voice": "en-US-EmmaNeural",
+  "audioSrc": "/data/audio/sentences/en/home_EN.mp3",
+  "createdAt": "2026-07-06T23:04:32.889Z",
+  "status": "ready",
+  "gapSeconds": 0.75,
+  "totalDuration": 41.928,
+  "build": {
+    "concurrency": 3,
+    "retries": 2,
+    "forceRebuild": false,
+    "generatedCount": 15,
+    "reusedCount": 0,
+    "cachePath": "C:\\Users\\sybel\\Documents\\Projects\\Timestamped MP3 Maker\\output\\sentences\\home\\en"
+  },
+  "segments": [
+    {"id":"home-001","sentenceId":"home-001","order":1,"tags":["basic"],"text":"I live in an apartment.","englishReference":"I live in an apartment.","start":0,"end":1.968,"duration":1.968},
+    {"id":"home-002","sentenceId":"home-002","order":2,"tags":["basic"],"text":"I live in a house.","englishReference":"I live in a house.","start":2.718,"end":4.398,"duration":1.68},
+    {"id":"home-003","sentenceId":"home-003","order":3,"tags":["description"],"text":"My apartment is small but comfortable.","englishReference":"My apartment is small but comfortable.","start":5.148,"end":8.004,"duration":2.856},
+    {"id":"home-004","sentenceId":"home-004","order":4,"tags":["description"],"text":"There are three rooms.","englishReference":"There are three rooms.","start":8.754,"end":10.434,"duration":1.68},
+    {"id":"home-005","sentenceId":"home-005","order":5,"tags":["description"],"text":"The kitchen is next to the living room.","englishReference":"The kitchen is next to the living room.","start":11.184,"end":13.896,"duration":2.712},
+    {"id":"home-006","sentenceId":"home-006","order":6,"tags":["chores"],"text":"I need to clean the house.","englishReference":"I need to clean the house.","start":14.646,"end":16.638,"duration":1.992},
+    {"id":"home-007","sentenceId":"home-007","order":7,"tags":["chores"],"text":"Can you take out the trash?","englishReference":"Can you take out the trash?","start":17.388,"end":19.452,"duration":2.064},
+    {"id":"home-008","sentenceId":"home-008","order":8,"tags":["chores"],"text":"I'll wash the dishes.","englishReference":"I'll wash the dishes.","start":20.202,"end":22.074,"duration":1.872},
+    {"id":"home-009","sentenceId":"home-009","order":9,"tags":["problem"],"text":"There is a problem with the heating.","englishReference":"There is a problem with the heating.","start":22.824,"end":25.176,"duration":2.352},
+    {"id":"home-010","sentenceId":"home-010","order":10,"tags":["problem"],"text":"The water isn't working.","englishReference":"The water isn't working.","start":25.926,"end":27.966,"duration":2.04},
+    {"id":"home-011","sentenceId":"home-011","order":11,"tags":["request"],"text":"Please close the door.","englishReference":"Please close the door.","start":28.716,"end":30.588,"duration":1.872},
+    {"id":"home-012","sentenceId":"home-012","order":12,"tags":["request"],"text":"Can you open the window?","englishReference":"Can you open the window?","start":31.338,"end":33.258,"duration":1.92},
+    {"id":"home-013","sentenceId":"home-013","order":13,"tags":["comfort"],"text":"Make yourself at home.","englishReference":"Make yourself at home.","start":34.008,"end":35.976,"duration":1.968},
+    {"id":"home-014","sentenceId":"home-014","order":14,"tags":["comfort"],"text":"Would you like something to drink?","englishReference":"Would you like something to drink?","start":36.726,"end":38.958,"duration":2.232},
+    {"id":"home-015","sentenceId":"home-015","order":15,"tags":["housing"],"text":"The rent is due next week.","englishReference":"The rent is due next week.","start":39.708,"end":41.868,"duration":2.16}
+  ]
+}

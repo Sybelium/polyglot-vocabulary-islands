@@ -11,6 +11,15 @@ const apps = [
     active: true,
   },
   {
+    title: "Sentences",
+    subtitle:
+      "Practice useful sentences by listening, ordering words, matching meanings and comparing languages.",
+    href: "/sentences",
+    image: "/images/sentences-appPicker.webp",
+    status: "Available",
+    active: true,
+  },
+  {
     title: "Latin Conjugation",
     subtitle:
       "Practice regular and irregular verbs in French, Spanish, Italian and Portuguese.",
@@ -65,8 +74,8 @@ export default function HomePage() {
             </h1>
 
             <p className="mt-5 max-w-xl text-base font-semibold leading-relaxed text-sky-50 sm:text-lg">
-              Small, playful learning apps for vocabulary, conjugation and
-              writing systems.
+              Small, playful learning apps for vocabulary, sentences,
+              conjugation and writing systems.
             </p>
           </div>
         </header>
@@ -102,7 +111,6 @@ export default function HomePage() {
                     <h2 className="text-xl font-black text-slate-950">
                       {app.title}
                     </h2>
-
                   </div>
 
                   <p className="mt-3 text-sm font-medium leading-relaxed text-slate-600">
@@ -137,8 +145,8 @@ export default function HomePage() {
         </section>
 
         <footer className="text-center text-sm font-medium text-slate-500">
-          Vocabulary Islands, Latin Conjugation, Germanic Conjugation and
-          Writing Systems are ready.
+          Vocabulary Islands, Sentences, Latin Conjugation, Germanic
+          Conjugation and Writing Systems are ready.
         </footer>
       </section>
     </main>

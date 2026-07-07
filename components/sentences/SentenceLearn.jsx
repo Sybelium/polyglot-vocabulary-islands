@@ -1,12 +1,8 @@
 "use client";
 
 import { useEffect, useRef, useState } from "react";
-import {
-  getSentenceText,
-  getSentenceAudioPaths,
-  speakSentence,
-  stopSentenceSpeech,
-} from "./sentenceUtils";
+import { getSentenceText } from "./sentenceUtils";
+import useSentenceAudio from "./useSentenceAudio";
 import AudioLoadStatus from "@/components/audio/AudioLoadStatus";
 
 export default function SentenceLearn({
@@ -19,24 +15,32 @@ export default function SentenceLearn({
   const [playing, setPlaying] = useState(false);
   const stoppedRef = useRef(false);
 
-  const audioPaths = getSentenceAudioPaths({ lang, subjectId });
+  const { audioPaths, playSentence, stopAudio } = useSentenceAudio({
+    lang,
+    subjectId,
+  });
 
   function playOne(index) {
     const sentence = sentences[index];
     if (!sentence) return;
 
+    stoppedRef.current = false;
+    setPlaying(false);
     setActiveIndex(index);
 
-    speakSentence(getSentenceText(sentence, lang), lang, () => {
-      if (stoppedRef.current) return;
-      setPlaying(false);
+    playSentence(sentence, {
+      text: getSentenceText(sentence, lang),
+      onEnd: () => {
+        if (stoppedRef.current) return;
+        setActiveIndex(-1);
+      },
     });
   }
 
   function playAll(startIndex = 0) {
     stoppedRef.current = false;
     setPlaying(true);
-    stopSentenceSpeech();
+    stopAudio();
 
     const playAt = (index) => {
       if (stoppedRef.current) return;
@@ -47,10 +51,19 @@ export default function SentenceLearn({
         return;
       }
 
+      const sentence = sentences[index];
+
       setActiveIndex(index);
 
-      speakSentence(getSentenceText(sentences[index], lang), lang, () => {
-        window.setTimeout(() => playAt(index + 1), 650);
+      playSentence(sentence, {
+        text: getSentenceText(sentence, lang),
+        onEnd: () => {
+          if (stoppedRef.current) return;
+
+          window.setTimeout(() => {
+            playAt(index + 1);
+          }, 650);
+        },
       });
     };
 
@@ -61,11 +74,13 @@ export default function SentenceLearn({
     stoppedRef.current = true;
     setPlaying(false);
     setActiveIndex(-1);
-    stopSentenceSpeech();
+    stopAudio();
   }
 
   useEffect(() => {
-    return () => stopSentenceSpeech();
+    return () => {
+      stopAudio();
+    };
   }, []);
 
   return (
@@ -81,11 +96,11 @@ export default function SentenceLearn({
           </h2>
 
           <div className="mt-2">
-  <AudioLoadStatus
-    audioSrc={audioPaths.audioSrc}
-    mapSrc={audioPaths.mapSrc}
-  />
-</div>
+            <AudioLoadStatus
+              audioSrc={audioPaths.audioSrc}
+              mapSrc={audioPaths.mapSrc}
+            />
+          </div>
         </div>
 
         <div className="flex gap-2">
@@ -117,7 +132,7 @@ export default function SentenceLearn({
             <article
               key={sentence.id}
               className={[
-                "rounded-3xl border p-4 transition",
+                "rounded-3xl border p-4 transition md:p-5",
                 active
                   ? "border-yellow-300 bg-yellow-50 shadow-md"
                   : "border-slate-100 bg-white hover:bg-sky-50",
@@ -134,11 +149,11 @@ export default function SentenceLearn({
                 </button>
 
                 <div className="min-w-0 flex-1">
-                  <p className="text-lg font-black text-slate-950 md:text-xl">
+                  <p className="text-xl font-black leading-snug text-slate-950 md:text-2xl">
                     {getSentenceText(sentence, lang)}
                   </p>
 
-                  <p className="mt-1 text-sm font-bold text-slate-500">
+                  <p className="mt-1 text-base font-bold leading-snug text-slate-500 md:text-lg">
                     {getSentenceText(sentence, supportLang)}
                   </p>
                 </div>

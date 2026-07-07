@@ -1,0 +1,39 @@
+{
+  "id": "emotions_PT",
+  "type": "sentences-theme",
+  "themeId": "emotions",
+  "themeName": "Emotions & Feelings",
+  "language": "pt",
+  "locale": "pt-PT",
+  "voice": "pt-PT-RaquelNeural",
+  "audioSrc": "/data/audio/sentences/pt/emotions_PT.mp3",
+  "createdAt": "2026-07-06T23:18:23.357Z",
+  "status": "ready",
+  "gapSeconds": 0.75,
+  "totalDuration": 50.592,
+  "build": {
+    "concurrency": 3,
+    "retries": 2,
+    "forceRebuild": false,
+    "generatedCount": 15,
+    "reusedCount": 0,
+    "cachePath": "C:\\Users\\sybel\\Documents\\Projects\\Timestamped MP3 Maker\\output\\sentences\\emotions\\pt"
+  },
+  "segments": [
+    {"id":"emo-001","sentenceId":"emo-001","order":1,"tags":["basic"],"text":"Estou feliz.","englishReference":"I am happy.","start":0,"end":2.352,"duration":2.352},
+    {"id":"emo-002","sentenceId":"emo-002","order":2,"tags":["basic"],"text":"Estou triste.","englishReference":"I am sad.","start":3.102,"end":5.454,"duration":2.352},
+    {"id":"emo-003","sentenceId":"emo-003","order":3,"tags":["basic"],"text":"Estou cansado/a.","englishReference":"I am tired.","start":6.204,"end":8.892,"duration":2.688},
+    {"id":"emo-004","sentenceId":"emo-004","order":4,"tags":["basic"],"text":"Estou stressado/a.","englishReference":"I am stressed.","start":9.642,"end":12.498,"duration":2.856},
+    {"id":"emo-005","sentenceId":"emo-005","order":5,"tags":["basic"],"text":"Estou entusiasmado/a.","englishReference":"I am excited.","start":13.248,"end":16.224,"duration":2.976},
+    {"id":"emo-006","sentenceId":"emo-006","order":6,"tags":["basic"],"text":"Estou nervoso/a.","englishReference":"I am nervous.","start":16.974,"end":19.638,"duration":2.664},
+    {"id":"emo-007","sentenceId":"emo-007","order":7,"tags":["basic"],"text":"Estou preocupado/a.","englishReference":"I am worried.","start":20.388,"end":23.268,"duration":2.88},
+    {"id":"emo-008","sentenceId":"emo-008","order":8,"tags":["basic"],"text":"Estou zangado/a.","englishReference":"I am angry.","start":24.018,"end":26.73,"duration":2.712},
+    {"id":"emo-009","sentenceId":"emo-009","order":9,"tags":["basic"],"text":"Estou surpreendido/a.","englishReference":"I am surprised.","start":27.48,"end":30.384,"duration":2.904},
+    {"id":"emo-010","sentenceId":"emo-010","order":10,"tags":["basic"],"text":"Sinto-me bem.","englishReference":"I feel good.","start":31.134,"end":33.39,"duration":2.256},
+    {"id":"emo-011","sentenceId":"emo-011","order":11,"tags":["basic"],"text":"Sinto-me mal.","englishReference":"I feel bad.","start":34.14,"end":36.396,"duration":2.256},
+    {"id":"emo-012","sentenceId":"emo-012","order":12,"tags":["reaction"],"text":"Isso deixa-me feliz.","englishReference":"That makes me happy.","start":37.146,"end":40.002,"duration":2.856},
+    {"id":"emo-013","sentenceId":"emo-013","order":13,"tags":["reaction"],"text":"Isso deixa-me triste.","englishReference":"That makes me sad.","start":40.752,"end":43.584,"duration":2.832},
+    {"id":"emo-014","sentenceId":"emo-014","order":14,"tags":["reaction"],"text":"Isso deixa-me zangado/a.","englishReference":"That makes me angry.","start":44.334,"end":47.43,"duration":3.096},
+    {"id":"emo-015","sentenceId":"emo-015","order":15,"tags":["question"],"text":"Como te sentes?","englishReference":"How do you feel?","start":48.18,"end":50.532,"duration":2.352}
+  ]
+}

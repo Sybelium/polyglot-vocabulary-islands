@@ -1,0 +1,39 @@
+{
+  "id": "daily_routine_ES",
+  "type": "sentences-theme",
+  "themeId": "daily_routine",
+  "themeName": "Daily Routine",
+  "language": "es",
+  "locale": "es-ES",
+  "voice": "es-ES-ElviraNeural",
+  "audioSrc": "/data/audio/sentences/es/daily_routine_ES.mp3",
+  "createdAt": "2026-07-06T23:12:03.096Z",
+  "status": "ready",
+  "gapSeconds": 0.75,
+  "totalDuration": 55.416,
+  "build": {
+    "concurrency": 3,
+    "retries": 2,
+    "forceRebuild": false,
+    "generatedCount": 15,
+    "reusedCount": 0,
+    "cachePath": "C:\\Users\\sybel\\Documents\\Projects\\Timestamped MP3 Maker\\output\\sentences\\daily_routine\\es"
+  },
+  "segments": [
+    {"id":"routine-001","sentenceId":"routine-001","order":1,"tags":["morning"],"text":"Me despierto a las siete.","englishReference":"I wake up at seven.","start":0,"end":2.88,"duration":2.88},
+    {"id":"routine-002","sentenceId":"routine-002","order":2,"tags":["morning"],"text":"Me levanto y me ducho.","englishReference":"I get up and take a shower.","start":3.63,"end":6.246,"duration":2.616},
+    {"id":"routine-003","sentenceId":"routine-003","order":3,"tags":["morning"],"text":"Desayuno en casa.","englishReference":"I have breakfast at home.","start":6.996,"end":9.492,"duration":2.496},
+    {"id":"routine-004","sentenceId":"routine-004","order":4,"tags":["work","school"],"text":"Voy al trabajo en coche.","englishReference":"I go to work by car.","start":10.242,"end":13.05,"duration":2.808},
+    {"id":"routine-005","sentenceId":"routine-005","order":5,"tags":["work","school"],"text":"Voy a la escuela en autobús.","englishReference":"I go to school by bus.","start":13.8,"end":16.8,"duration":3},
+    {"id":"routine-006","sentenceId":"routine-006","order":6,"tags":["work"],"text":"Empiezo a trabajar a las nueve.","englishReference":"I start work at nine.","start":17.55,"end":20.694,"duration":3.144},
+    {"id":"routine-007","sentenceId":"routine-007","order":7,"tags":["school"],"text":"Las clases empiezan a las ocho.","englishReference":"Classes start at eight.","start":21.444,"end":24.684,"duration":3.24},
+    {"id":"routine-008","sentenceId":"routine-008","order":8,"tags":["daytime"],"text":"Almuerzo al mediodía.","englishReference":"I have lunch at noon.","start":25.434,"end":28.098,"duration":2.664},
+    {"id":"routine-009","sentenceId":"routine-009","order":9,"tags":["daytime"],"text":"Normalmente termino a las cinco.","englishReference":"I usually finish at five.","start":28.848,"end":32.112,"duration":3.264},
+    {"id":"routine-010","sentenceId":"routine-010","order":10,"tags":["evening"],"text":"Vuelvo a casa después del trabajo.","englishReference":"I go home after work.","start":32.862,"end":36.174,"duration":3.312},
+    {"id":"routine-011","sentenceId":"routine-011","order":11,"tags":["evening"],"text":"Cocino la cena por la noche.","englishReference":"I cook dinner in the evening.","start":36.924,"end":39.876,"duration":2.952},
+    {"id":"routine-012","sentenceId":"routine-012","order":12,"tags":["evening"],"text":"Veo la televisión antes de dormir.","englishReference":"I watch TV before bed.","start":40.626,"end":43.914,"duration":3.288},
+    {"id":"routine-013","sentenceId":"routine-013","order":13,"tags":["night"],"text":"Me acuesto a las once.","englishReference":"I go to bed at eleven.","start":44.664,"end":47.304,"duration":2.64},
+    {"id":"routine-014","sentenceId":"routine-014","order":14,"tags":["frequency"],"text":"Hago ejercicio tres veces por semana.","englishReference":"I exercise three times a week.","start":48.054,"end":51.75,"duration":3.696},
+    {"id":"routine-015","sentenceId":"routine-015","order":15,"tags":["frequency"],"text":"No trabajo los domingos.","englishReference":"I don't work on Sundays.","start":52.5,"end":55.356,"duration":2.856}
+  ]
+}

@@ -1,6 +1,6 @@
 "use client";
 
-import { useEffect, useMemo, useState } from "react";
+import { useEffect, useMemo, useRef, useState } from "react";
 import {
   getSentenceText,
   shuffleArray,
@@ -15,26 +15,37 @@ export default function SentenceOrderGame({ lang, supportLang, sentences }) {
   const [score, setScore] = useState(0);
   const [finished, setFinished] = useState(false);
 
+  const timeoutRef = useRef(null);
+
   const questions = useMemo(() => sentences || [], [sentences]);
   const currentSentence = questions[questionIndex];
 
+  function clearCurrentTimer() {
+    if (timeoutRef.current) {
+      clearTimeout(timeoutRef.current);
+      timeoutRef.current = null;
+    }
+  }
+
   useEffect(() => {
     if (!currentSentence) return;
+
+    clearCurrentTimer();
 
     const words = splitSentenceWords(getSentenceText(currentSentence, lang));
     setAvailableWords(shuffleArray(words));
     setAnswerWords([]);
     setFeedback(null);
+
+    return () => {
+      clearCurrentTimer();
+    };
   }, [currentSentence, lang]);
 
-  function chooseWord(word) {
-    setAvailableWords((items) => items.filter((item) => item.id !== word.id));
-    setAnswerWords((items) => [...items, word]);
-  }
-
-  function removeWord(word) {
-    setAnswerWords((items) => items.filter((item) => item.id !== word.id));
-    setAvailableWords((items) => [...items, word]);
+  function getExpectedAnswer(sentence) {
+    return splitSentenceWords(getSentenceText(sentence, lang))
+      .map((word) => word.text)
+      .join(" ");
   }
 
   function nextQuestion() {
@@ -48,26 +59,59 @@ export default function SentenceOrderGame({ lang, supportLang, sentences }) {
     setQuestionIndex(next);
   }
 
-  function checkAnswer() {
-    const expected = splitSentenceWords(getSentenceText(currentSentence, lang))
-      .map((word) => word.text)
-      .join(" ");
+  function checkAnswer(nextAnswerWords) {
+    if (!currentSentence) return;
 
-    const userAnswer = answerWords.map((word) => word.text).join(" ");
+    const expected = getExpectedAnswer(currentSentence);
+    const userAnswer = nextAnswerWords.map((word) => word.text).join(" ");
 
     if (userAnswer === expected) {
       setFeedback("correct");
       setScore((value) => value + 1);
-      setTimeout(nextQuestion, 800);
-    } else {
-      setFeedback("wrong");
-      setTimeout(nextQuestion, 1100);
+
+      timeoutRef.current = setTimeout(() => {
+        nextQuestion();
+      }, 900);
+
+      return;
+    }
+
+    setFeedback("wrong");
+
+    timeoutRef.current = setTimeout(() => {
+      nextQuestion();
+    }, 1500);
+  }
+
+  function chooseWord(word) {
+    if (feedback) return;
+
+    const nextAvailableWords = availableWords.filter(
+      (item) => item.id !== word.id
+    );
+
+    const nextAnswerWords = [...answerWords, word];
+
+    setAvailableWords(nextAvailableWords);
+    setAnswerWords(nextAnswerWords);
+
+    if (nextAvailableWords.length === 0) {
+      checkAnswer(nextAnswerWords);
     }
   }
 
+  function removeWord(word) {
+    if (feedback) return;
+
+    setAnswerWords((items) => items.filter((item) => item.id !== word.id));
+    setAvailableWords((items) => [...items, word]);
+  }
+
   function restart() {
+    clearCurrentTimer();
     setQuestionIndex(0);
     setScore(0);
+    setFeedback(null);
     setFinished(false);
   }
 
@@ -79,9 +123,11 @@ export default function SentenceOrderGame({ lang, supportLang, sentences }) {
         <p className="text-xs font-black uppercase tracking-wide text-emerald-600">
           Order complete
         </p>
+
         <h2 className="mt-2 text-3xl font-black text-slate-950">
           Score: {score} / {questions.length}
         </h2>
+
         <button
           type="button"
           onClick={restart}
@@ -100,33 +146,45 @@ export default function SentenceOrderGame({ lang, supportLang, sentences }) {
           <p className="text-xs font-black uppercase tracking-wide text-sky-600">
             Put words in order
           </p>
-          <h2 className="text-2xl font-black text-slate-950">
+
+          <h2 className="text-2xl font-black leading-tight text-slate-950 md:text-3xl">
             Build the sentence
           </h2>
         </div>
 
-        <div className="rounded-2xl bg-sky-50 px-3 py-2 text-sm font-black text-sky-700">
+        <div className="rounded-2xl bg-sky-50 px-3 py-2 text-sm font-black text-sky-700 md:text-base">
           {questionIndex + 1}/{questions.length} · {score}
         </div>
       </div>
 
-      <div className="rounded-3xl bg-slate-50 p-4">
+      <div className="rounded-3xl bg-slate-50 p-4 md:p-5">
         <p className="text-xs font-black uppercase tracking-wide text-slate-500">
           Meaning
         </p>
-        <p className="mt-1 text-lg font-black text-slate-950">
+
+        <p className="mt-1 text-lg font-black leading-snug text-slate-950 md:text-2xl">
           {getSentenceText(currentSentence, supportLang)}
         </p>
       </div>
 
-      <div className="mt-4 min-h-24 rounded-3xl border-2 border-dashed border-slate-200 bg-white p-3">
-        <div className="flex flex-wrap gap-2">
+      <div
+        className={[
+          "mt-4 min-h-28 rounded-3xl border-2 border-dashed p-3 transition md:min-h-32 md:p-4",
+          feedback === "correct"
+            ? "border-emerald-300 bg-emerald-50"
+            : feedback === "wrong"
+            ? "border-red-300 bg-red-50"
+            : "border-slate-200 bg-white",
+        ].join(" ")}
+      >
+        <div className="flex flex-wrap gap-2 md:gap-3">
           {answerWords.map((word) => (
             <button
               key={word.id}
               type="button"
               onClick={() => removeWord(word)}
-              className="rounded-2xl bg-sky-600 px-3 py-2 text-sm font-black text-white"
+              disabled={Boolean(feedback)}
+              className="rounded-2xl bg-sky-600 px-4 py-3 text-base font-black leading-tight text-white shadow-sm transition hover:bg-sky-700 disabled:cursor-default disabled:hover:bg-sky-600 md:px-5 md:py-4 md:text-xl"
             >
               {word.text}
             </button>
@@ -134,38 +192,33 @@ export default function SentenceOrderGame({ lang, supportLang, sentences }) {
         </div>
       </div>
 
-      <div className="mt-4 flex flex-wrap gap-2">
+      <div className="mt-4 flex flex-wrap gap-2 md:gap-3">
         {availableWords.map((word) => (
           <button
             key={word.id}
             type="button"
             onClick={() => chooseWord(word)}
-            className="rounded-2xl bg-amber-100 px-3 py-2 text-sm font-black text-amber-800 hover:bg-amber-200"
+            disabled={Boolean(feedback)}
+            className="rounded-2xl bg-amber-100 px-4 py-3 text-base font-black leading-tight text-amber-800 shadow-sm transition hover:bg-amber-200 disabled:cursor-default disabled:opacity-60 md:px-5 md:py-4 md:text-xl"
           >
             {word.text}
           </button>
         ))}
       </div>
 
-      <button
-        type="button"
-        onClick={checkAnswer}
-        disabled={!answerWords.length}
-        className="mt-5 w-full rounded-2xl bg-slate-950 px-5 py-3 text-sm font-black text-white disabled:opacity-40"
-      >
-        Check
-      </button>
-
       {feedback === "correct" && (
-        <p className="mt-3 rounded-2xl bg-emerald-100 px-4 py-3 text-center font-black text-emerald-700">
+        <p className="mt-4 rounded-2xl bg-emerald-100 px-4 py-3 text-center text-base font-black text-emerald-700 md:text-lg">
           Correct!
         </p>
       )}
 
       {feedback === "wrong" && (
-        <p className="mt-3 rounded-2xl bg-red-100 px-4 py-3 text-center font-black text-red-700">
-          Not this time. Correct answer: {getSentenceText(currentSentence, lang)}
-        </p>
+        <div className="mt-4 rounded-2xl bg-red-100 px-4 py-3 text-center text-base font-black text-red-700 md:text-lg">
+          <p>Not this time.</p>
+          <p className="mt-1 text-sm md:text-base">
+            Correct answer: {getSentenceText(currentSentence, lang)}
+          </p>
+        </div>
       )}
     </section>
   );

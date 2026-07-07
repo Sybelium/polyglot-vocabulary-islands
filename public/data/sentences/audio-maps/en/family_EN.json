@@ -1,0 +1,39 @@
+{
+  "id": "family_EN",
+  "type": "sentences-theme",
+  "themeId": "family",
+  "themeName": "Family",
+  "language": "en",
+  "locale": "en-US",
+  "voice": "en-US-EmmaNeural",
+  "audioSrc": "/data/audio/sentences/en/family_EN.mp3",
+  "createdAt": "2026-07-06T22:12:07.698Z",
+  "status": "ready",
+  "gapSeconds": 0.75,
+  "totalDuration": 42.144,
+  "build": {
+    "concurrency": 3,
+    "retries": 2,
+    "forceRebuild": false,
+    "generatedCount": 15,
+    "reusedCount": 0,
+    "cachePath": "C:\\Users\\sybel\\Documents\\Projects\\Timestamped MP3 Maker\\output\\sentences\\family\\en"
+  },
+  "segments": [
+    {"id":"family-001","sentenceId":"family-001","order":1,"tags":["basic"],"text":"I have a big family.","englishReference":"I have a big family.","start":0,"end":1.8,"duration":1.8},
+    {"id":"family-002","sentenceId":"family-002","order":2,"tags":["basic"],"text":"I have two brothers and one sister.","englishReference":"I have two brothers and one sister.","start":2.55,"end":5.286,"duration":2.736},
+    {"id":"family-003","sentenceId":"family-003","order":3,"tags":["basic"],"text":"I am an only child.","englishReference":"I am an only child.","start":6.036,"end":7.956,"duration":1.92},
+    {"id":"family-004","sentenceId":"family-004","order":4,"tags":["basic"],"text":"I live with my parents.","englishReference":"I live with my parents.","start":8.706,"end":10.674,"duration":1.968},
+    {"id":"family-005","sentenceId":"family-005","order":5,"tags":["basic"],"text":"I live with my partner.","englishReference":"I live with my partner.","start":11.424,"end":13.392,"duration":1.968},
+    {"id":"family-006","sentenceId":"family-006","order":6,"tags":["basic"],"text":"I am married.","englishReference":"I am married.","start":14.142,"end":15.582,"duration":1.44},
+    {"id":"family-007","sentenceId":"family-007","order":7,"tags":["basic"],"text":"I am single.","englishReference":"I am single.","start":16.332,"end":17.748,"duration":1.416},
+    {"id":"family-008","sentenceId":"family-008","order":8,"tags":["basic"],"text":"I have two children.","englishReference":"I have two children.","start":18.498,"end":20.178,"duration":1.68},
+    {"id":"family-009","sentenceId":"family-009","order":9,"tags":["description"],"text":"My brother is older than me.","englishReference":"My brother is older than me.","start":20.928,"end":23.16,"duration":2.232},
+    {"id":"family-010","sentenceId":"family-010","order":10,"tags":["description"],"text":"My sister is younger than me.","englishReference":"My sister is younger than me.","start":23.91,"end":26.262,"duration":2.352},
+    {"id":"family-011","sentenceId":"family-011","order":11,"tags":["question"],"text":"Do you have any siblings?","englishReference":"Do you have any siblings?","start":27.012,"end":28.98,"duration":1.968},
+    {"id":"family-012","sentenceId":"family-012","order":12,"tags":["question"],"text":"How many children do you have?","englishReference":"How many children do you have?","start":29.73,"end":31.938,"duration":2.208},
+    {"id":"family-013","sentenceId":"family-013","order":13,"tags":["description"],"text":"My parents live in another city.","englishReference":"My parents live in another city.","start":32.688,"end":35.184,"duration":2.496},
+    {"id":"family-014","sentenceId":"family-014","order":14,"tags":["description"],"text":"I visit my grandparents every weekend.","englishReference":"I visit my grandparents every weekend.","start":35.934,"end":38.91,"duration":2.976},
+    {"id":"family-015","sentenceId":"family-015","order":15,"tags":["emotion"],"text":"Family is very important to me.","englishReference":"Family is very important to me.","start":39.66,"end":42.084,"duration":2.424}
+  ]
+}

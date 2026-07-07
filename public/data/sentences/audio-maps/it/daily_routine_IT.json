@@ -1,0 +1,39 @@
+{
+  "id": "daily_routine_IT",
+  "type": "sentences-theme",
+  "themeId": "daily_routine",
+  "themeName": "Daily Routine",
+  "language": "it",
+  "locale": "it-IT",
+  "voice": "it-IT-ElsaNeural",
+  "audioSrc": "/data/audio/sentences/it/daily_routine_IT.mp3",
+  "createdAt": "2026-07-06T23:16:11.306Z",
+  "status": "ready",
+  "gapSeconds": 0.75,
+  "totalDuration": 43.968,
+  "build": {
+    "concurrency": 3,
+    "retries": 2,
+    "forceRebuild": false,
+    "generatedCount": 15,
+    "reusedCount": 0,
+    "cachePath": "C:\\Users\\sybel\\Documents\\Projects\\Timestamped MP3 Maker\\output\\sentences\\daily_routine\\it"
+  },
+  "segments": [
+    {"id":"routine-001","sentenceId":"routine-001","order":1,"tags":["morning"],"text":"Mi sveglio alle sette.","englishReference":"I wake up at seven.","start":0,"end":1.896,"duration":1.896},
+    {"id":"routine-002","sentenceId":"routine-002","order":2,"tags":["morning"],"text":"Mi alzo e faccio la doccia.","englishReference":"I get up and take a shower.","start":2.646,"end":4.758,"duration":2.112},
+    {"id":"routine-003","sentenceId":"routine-003","order":3,"tags":["morning"],"text":"Faccio colazione a casa.","englishReference":"I have breakfast at home.","start":5.508,"end":7.548,"duration":2.04},
+    {"id":"routine-004","sentenceId":"routine-004","order":4,"tags":["work","school"],"text":"Vado al lavoro in macchina.","englishReference":"I go to work by car.","start":8.298,"end":10.29,"duration":1.992},
+    {"id":"routine-005","sentenceId":"routine-005","order":5,"tags":["work","school"],"text":"Vado a scuola in autobus.","englishReference":"I go to school by bus.","start":11.04,"end":13.224,"duration":2.184},
+    {"id":"routine-006","sentenceId":"routine-006","order":6,"tags":["work"],"text":"Inizio a lavorare alle nove.","englishReference":"I start work at nine.","start":13.974,"end":16.134,"duration":2.16},
+    {"id":"routine-007","sentenceId":"routine-007","order":7,"tags":["school"],"text":"Le lezioni iniziano alle otto.","englishReference":"Classes start at eight.","start":16.884,"end":19.404,"duration":2.52},
+    {"id":"routine-008","sentenceId":"routine-008","order":8,"tags":["daytime"],"text":"Pranzo a mezzogiorno.","englishReference":"I have lunch at noon.","start":20.154,"end":22.122,"duration":1.968},
+    {"id":"routine-009","sentenceId":"routine-009","order":9,"tags":["daytime"],"text":"Di solito finisco alle cinque.","englishReference":"I usually finish at five.","start":22.872,"end":25.392,"duration":2.52},
+    {"id":"routine-010","sentenceId":"routine-010","order":10,"tags":["evening"],"text":"Torno a casa dopo il lavoro.","englishReference":"I go home after work.","start":26.142,"end":28.23,"duration":2.088},
+    {"id":"routine-011","sentenceId":"routine-011","order":11,"tags":["evening"],"text":"Preparo la cena la sera.","englishReference":"I cook dinner in the evening.","start":28.98,"end":30.9,"duration":1.92},
+    {"id":"routine-012","sentenceId":"routine-012","order":12,"tags":["evening"],"text":"Guardo la televisione prima di dormire.","englishReference":"I watch TV before bed.","start":31.65,"end":34.434,"duration":2.784},
+    {"id":"routine-013","sentenceId":"routine-013","order":13,"tags":["night"],"text":"Vado a letto alle undici.","englishReference":"I go to bed at eleven.","start":35.184,"end":37.536,"duration":2.352},
+    {"id":"routine-014","sentenceId":"routine-014","order":14,"tags":["frequency"],"text":"Faccio esercizio tre volte a settimana.","englishReference":"I exercise three times a week.","start":38.286,"end":41.262,"duration":2.976},
+    {"id":"routine-015","sentenceId":"routine-015","order":15,"tags":["frequency"],"text":"Non lavoro la domenica.","englishReference":"I don't work on Sundays.","start":42.012,"end":43.908,"duration":1.896}
+  ]
+}

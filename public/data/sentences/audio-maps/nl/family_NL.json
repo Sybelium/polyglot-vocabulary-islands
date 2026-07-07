@@ -1,0 +1,39 @@
+{
+  "id": "family_NL",
+  "type": "sentences-theme",
+  "themeId": "family",
+  "themeName": "Family",
+  "language": "nl",
+  "locale": "nl-NL",
+  "voice": "nl-NL-ColetteNeural",
+  "audioSrc": "/data/audio/sentences/nl/family_NL.mp3",
+  "createdAt": "2026-07-06T23:26:10.675Z",
+  "status": "ready",
+  "gapSeconds": 0.75,
+  "totalDuration": 58.08,
+  "build": {
+    "concurrency": 3,
+    "retries": 2,
+    "forceRebuild": false,
+    "generatedCount": 15,
+    "reusedCount": 0,
+    "cachePath": "C:\\Users\\sybel\\Documents\\Projects\\Timestamped MP3 Maker\\output\\sentences\\family\\nl"
+  },
+  "segments": [
+    {"id":"family-001","sentenceId":"family-001","order":1,"tags":["basic"],"text":"Ik heb een grote familie.","englishReference":"I have a big family.","start":0,"end":2.808,"duration":2.808},
+    {"id":"family-002","sentenceId":"family-002","order":2,"tags":["basic"],"text":"Ik heb twee broers en één zus.","englishReference":"I have two brothers and one sister.","start":3.558,"end":7.326,"duration":3.768},
+    {"id":"family-003","sentenceId":"family-003","order":3,"tags":["basic"],"text":"Ik ben enig kind.","englishReference":"I am an only child.","start":8.076,"end":10.74,"duration":2.664},
+    {"id":"family-004","sentenceId":"family-004","order":4,"tags":["basic"],"text":"Ik woon bij mijn ouders.","englishReference":"I live with my parents.","start":11.49,"end":14.61,"duration":3.12},
+    {"id":"family-005","sentenceId":"family-005","order":5,"tags":["basic"],"text":"Ik woon samen met mijn partner.","englishReference":"I live with my partner.","start":15.36,"end":18.696,"duration":3.336},
+    {"id":"family-006","sentenceId":"family-006","order":6,"tags":["basic"],"text":"Ik ben getrouwd.","englishReference":"I am married.","start":19.446,"end":21.894,"duration":2.448},
+    {"id":"family-007","sentenceId":"family-007","order":7,"tags":["basic"],"text":"Ik ben vrijgezel.","englishReference":"I am single.","start":22.644,"end":25.236,"duration":2.592},
+    {"id":"family-008","sentenceId":"family-008","order":8,"tags":["basic"],"text":"Ik heb twee kinderen.","englishReference":"I have two children.","start":25.986,"end":28.626,"duration":2.64},
+    {"id":"family-009","sentenceId":"family-009","order":9,"tags":["description"],"text":"Mijn broer is ouder dan ik.","englishReference":"My brother is older than me.","start":29.376,"end":32.736,"duration":3.36},
+    {"id":"family-010","sentenceId":"family-010","order":10,"tags":["description"],"text":"Mijn zus is jonger dan ik.","englishReference":"My sister is younger than me.","start":33.486,"end":36.678,"duration":3.192},
+    {"id":"family-011","sentenceId":"family-011","order":11,"tags":["question"],"text":"Heb je broers of zussen?","englishReference":"Do you have any siblings?","start":37.428,"end":40.284,"duration":2.856},
+    {"id":"family-012","sentenceId":"family-012","order":12,"tags":["question"],"text":"Hoeveel kinderen heb je?","englishReference":"How many children do you have?","start":41.034,"end":43.674,"duration":2.64},
+    {"id":"family-013","sentenceId":"family-013","order":13,"tags":["description"],"text":"Mijn ouders wonen in een andere stad.","englishReference":"My parents live in another city.","start":44.424,"end":48.408,"duration":3.984},
+    {"id":"family-014","sentenceId":"family-014","order":14,"tags":["description"],"text":"Ik bezoek mijn grootouders elk weekend.","englishReference":"I visit my grandparents every weekend.","start":49.158,"end":53.454,"duration":4.296},
+    {"id":"family-015","sentenceId":"family-015","order":15,"tags":["emotion"],"text":"Familie is erg belangrijk voor mij.","englishReference":"Family is very important to me.","start":54.204,"end":58.02,"duration":3.816}
+  ]
+}

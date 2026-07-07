@@ -1,0 +1,39 @@
+{
+  "id": "travel_problems_PT",
+  "type": "sentences-theme",
+  "themeId": "travel_problems",
+  "themeName": "Travel Problems",
+  "language": "pt",
+  "locale": "pt-PT",
+  "voice": "pt-PT-RaquelNeural",
+  "audioSrc": "/data/audio/sentences/pt/travel_problems_PT.mp3",
+  "createdAt": "2026-07-06T23:17:42.744Z",
+  "status": "ready",
+  "gapSeconds": 0.75,
+  "totalDuration": 61.2,
+  "build": {
+    "concurrency": 3,
+    "retries": 2,
+    "forceRebuild": false,
+    "generatedCount": 15,
+    "reusedCount": 0,
+    "cachePath": "C:\\Users\\sybel\\Documents\\Projects\\Timestamped MP3 Maker\\output\\sentences\\travel_problems\\pt"
+  },
+  "segments": [
+    {"id":"tprob-001","sentenceId":"tprob-001","order":1,"tags":["airport"],"text":"O meu voo foi cancelado.","englishReference":"My flight has been cancelled.","start":0,"end":3.096,"duration":3.096},
+    {"id":"tprob-002","sentenceId":"tprob-002","order":2,"tags":["airport"],"text":"O meu voo está atrasado.","englishReference":"My flight is delayed.","start":3.846,"end":6.894,"duration":3.048},
+    {"id":"tprob-003","sentenceId":"tprob-003","order":3,"tags":["airport"],"text":"Perdi o voo.","englishReference":"I missed my flight.","start":7.644,"end":9.852,"duration":2.208},
+    {"id":"tprob-004","sentenceId":"tprob-004","order":4,"tags":["luggage"],"text":"A minha bagagem está desaparecida.","englishReference":"My luggage is missing.","start":10.602,"end":14.178,"duration":3.576},
+    {"id":"tprob-005","sentenceId":"tprob-005","order":5,"tags":["luggage"],"text":"A minha mala foi danificada.","englishReference":"My suitcase has been damaged.","start":14.928,"end":18.216,"duration":3.288},
+    {"id":"tprob-006","sentenceId":"tprob-006","order":6,"tags":["booking"],"text":"Há um problema com a minha reserva.","englishReference":"There is a problem with my reservation.","start":18.966,"end":22.254,"duration":3.288},
+    {"id":"tprob-007","sentenceId":"tprob-007","order":7,"tags":["hotel"],"text":"O quarto não corresponde à descrição.","englishReference":"The room is not as described.","start":23.004,"end":26.676,"duration":3.672},
+    {"id":"tprob-008","sentenceId":"tprob-008","order":8,"tags":["hotel"],"text":"O ar condicionado não está a funcionar.","englishReference":"The air conditioning isn't working.","start":27.426,"end":31.386,"duration":3.96},
+    {"id":"tprob-009","sentenceId":"tprob-009","order":9,"tags":["documents"],"text":"Perdi o meu passaporte.","englishReference":"I lost my passport.","start":32.136,"end":35.16,"duration":3.024},
+    {"id":"tprob-010","sentenceId":"tprob-010","order":10,"tags":["documents"],"text":"Onde fica a embaixada mais próxima?","englishReference":"Where is the nearest embassy?","start":35.91,"end":39.438,"duration":3.528},
+    {"id":"tprob-011","sentenceId":"tprob-011","order":11,"tags":["money"],"text":"O meu cartão não está a funcionar.","englishReference":"My card is not working.","start":40.188,"end":43.668,"duration":3.48},
+    {"id":"tprob-012","sentenceId":"tprob-012","order":12,"tags":["money"],"text":"Fui cobrado duas vezes.","englishReference":"I was charged twice.","start":44.418,"end":47.706,"duration":3.288},
+    {"id":"tprob-013","sentenceId":"tprob-013","order":13,"tags":["communication"],"text":"Não falo bem a língua.","englishReference":"I don't speak the language well.","start":48.456,"end":51.336,"duration":2.88},
+    {"id":"tprob-014","sentenceId":"tprob-014","order":14,"tags":["solution"],"text":"O que podemos fazer para resolver isto?","englishReference":"What can we do to solve this?","start":52.086,"end":55.662,"duration":3.576},
+    {"id":"tprob-015","sentenceId":"tprob-015","order":15,"tags":["solution"],"text":"Gostaria de uma solução o mais rapidamente possível.","englishReference":"I would like a solution as soon as possible.","start":56.412,"end":61.14,"duration":4.728}
+  ]
+}

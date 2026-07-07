@@ -1,0 +1,39 @@
+{
+  "id": "daily_routine_FR",
+  "type": "sentences-theme",
+  "themeId": "daily_routine",
+  "themeName": "Daily Routine",
+  "language": "fr",
+  "locale": "fr-FR",
+  "voice": "fr-FR-DeniseNeural",
+  "audioSrc": "/data/audio/sentences/fr/daily_routine_FR.mp3",
+  "createdAt": "2026-07-06T23:08:46.016Z",
+  "status": "ready",
+  "gapSeconds": 0.75,
+  "totalDuration": 56.52,
+  "build": {
+    "concurrency": 3,
+    "retries": 2,
+    "forceRebuild": false,
+    "generatedCount": 15,
+    "reusedCount": 0,
+    "cachePath": "C:\\Users\\sybel\\Documents\\Projects\\Timestamped MP3 Maker\\output\\sentences\\daily_routine\\fr"
+  },
+  "segments": [
+    {"id":"routine-001","sentenceId":"routine-001","order":1,"tags":["morning"],"text":"Je me réveille à sept heures.","englishReference":"I wake up at seven.","start":0,"end":2.736,"duration":2.736},
+    {"id":"routine-002","sentenceId":"routine-002","order":2,"tags":["morning"],"text":"Je me lève et je prends une douche.","englishReference":"I get up and take a shower.","start":3.486,"end":6.438,"duration":2.952},
+    {"id":"routine-003","sentenceId":"routine-003","order":3,"tags":["morning"],"text":"Je prends le petit-déjeuner à la maison.","englishReference":"I have breakfast at home.","start":7.188,"end":10.5,"duration":3.312},
+    {"id":"routine-004","sentenceId":"routine-004","order":4,"tags":["work","school"],"text":"Je vais au travail en voiture.","englishReference":"I go to work by car.","start":11.25,"end":14.178,"duration":2.928},
+    {"id":"routine-005","sentenceId":"routine-005","order":5,"tags":["work","school"],"text":"Je vais à l’école en bus.","englishReference":"I go to school by bus.","start":14.928,"end":17.544,"duration":2.616},
+    {"id":"routine-006","sentenceId":"routine-006","order":6,"tags":["work"],"text":"Je commence le travail à neuf heures.","englishReference":"I start work at nine.","start":18.294,"end":21.582,"duration":3.288},
+    {"id":"routine-007","sentenceId":"routine-007","order":7,"tags":["school"],"text":"Les cours commencent à huit heures.","englishReference":"Classes start at eight.","start":22.332,"end":25.284,"duration":2.952},
+    {"id":"routine-008","sentenceId":"routine-008","order":8,"tags":["daytime"],"text":"Je déjeune à midi.","englishReference":"I have lunch at noon.","start":26.034,"end":28.554,"duration":2.52},
+    {"id":"routine-009","sentenceId":"routine-009","order":9,"tags":["daytime"],"text":"Je finis généralement à cinq heures.","englishReference":"I usually finish at five.","start":29.304,"end":32.664,"duration":3.36},
+    {"id":"routine-010","sentenceId":"routine-010","order":10,"tags":["evening"],"text":"Je rentre à la maison après le travail.","englishReference":"I go home after work.","start":33.414,"end":36.894,"duration":3.48},
+    {"id":"routine-011","sentenceId":"routine-011","order":11,"tags":["evening"],"text":"Je prépare le dîner le soir.","englishReference":"I cook dinner in the evening.","start":37.644,"end":40.644,"duration":3},
+    {"id":"routine-012","sentenceId":"routine-012","order":12,"tags":["evening"],"text":"Je regarde la télévision avant de dormir.","englishReference":"I watch TV before bed.","start":41.394,"end":45.282,"duration":3.888},
+    {"id":"routine-013","sentenceId":"routine-013","order":13,"tags":["night"],"text":"Je me couche à onze heures.","englishReference":"I go to bed at eleven.","start":46.032,"end":48.744,"duration":2.712},
+    {"id":"routine-014","sentenceId":"routine-014","order":14,"tags":["frequency"],"text":"Je fais du sport trois fois par semaine.","englishReference":"I exercise three times a week.","start":49.494,"end":52.854,"duration":3.36},
+    {"id":"routine-015","sentenceId":"routine-015","order":15,"tags":["frequency"],"text":"Je ne travaille pas le dimanche.","englishReference":"I don't work on Sundays.","start":53.604,"end":56.46,"duration":2.856}
+  ]
+}

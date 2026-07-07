@@ -1,0 +1,39 @@
+{
+  "id": "travel_problems_NL",
+  "type": "sentences-theme",
+  "themeId": "travel_problems",
+  "themeName": "Travel Problems",
+  "language": "nl",
+  "locale": "nl-NL",
+  "voice": "nl-NL-ColetteNeural",
+  "audioSrc": "/data/audio/sentences/nl/travel_problems_NL.mp3",
+  "createdAt": "2026-07-06T23:25:43.498Z",
+  "status": "ready",
+  "gapSeconds": 0.75,
+  "totalDuration": 62.856,
+  "build": {
+    "concurrency": 3,
+    "retries": 2,
+    "forceRebuild": false,
+    "generatedCount": 15,
+    "reusedCount": 0,
+    "cachePath": "C:\\Users\\sybel\\Documents\\Projects\\Timestamped MP3 Maker\\output\\sentences\\travel_problems\\nl"
+  },
+  "segments": [
+    {"id":"tprob-001","sentenceId":"tprob-001","order":1,"tags":["airport"],"text":"Mijn vlucht is geannuleerd.","englishReference":"My flight has been cancelled.","start":0,"end":3.264,"duration":3.264},
+    {"id":"tprob-002","sentenceId":"tprob-002","order":2,"tags":["airport"],"text":"Mijn vlucht heeft vertraging.","englishReference":"My flight is delayed.","start":4.014,"end":7.182,"duration":3.168},
+    {"id":"tprob-003","sentenceId":"tprob-003","order":3,"tags":["airport"],"text":"Ik heb mijn vlucht gemist.","englishReference":"I missed my flight.","start":7.932,"end":10.98,"duration":3.048},
+    {"id":"tprob-004","sentenceId":"tprob-004","order":4,"tags":["luggage"],"text":"Mijn bagage is verdwenen.","englishReference":"My luggage is missing.","start":11.73,"end":14.994,"duration":3.264},
+    {"id":"tprob-005","sentenceId":"tprob-005","order":5,"tags":["luggage"],"text":"Mijn koffer is beschadigd.","englishReference":"My suitcase has been damaged.","start":15.744,"end":18.912,"duration":3.168},
+    {"id":"tprob-006","sentenceId":"tprob-006","order":6,"tags":["booking"],"text":"Er is een probleem met mijn reservering.","englishReference":"There is a problem with my reservation.","start":19.662,"end":23.574,"duration":3.912},
+    {"id":"tprob-007","sentenceId":"tprob-007","order":7,"tags":["hotel"],"text":"De kamer komt niet overeen met de beschrijving.","englishReference":"The room is not as described.","start":24.324,"end":28.812,"duration":4.488},
+    {"id":"tprob-008","sentenceId":"tprob-008","order":8,"tags":["hotel"],"text":"De airconditioning werkt niet.","englishReference":"The air conditioning isn't working.","start":29.562,"end":32.85,"duration":3.288},
+    {"id":"tprob-009","sentenceId":"tprob-009","order":9,"tags":["documents"],"text":"Ik ben mijn paspoort kwijt.","englishReference":"I lost my passport.","start":33.6,"end":36.864,"duration":3.264},
+    {"id":"tprob-010","sentenceId":"tprob-010","order":10,"tags":["documents"],"text":"Waar is de dichtstbijzijnde ambassade?","englishReference":"Where is the nearest embassy?","start":37.614,"end":41.502,"duration":3.888},
+    {"id":"tprob-011","sentenceId":"tprob-011","order":11,"tags":["money"],"text":"Mijn kaart werkt niet.","englishReference":"My card is not working.","start":42.252,"end":45.156,"duration":2.904},
+    {"id":"tprob-012","sentenceId":"tprob-012","order":12,"tags":["money"],"text":"Er is twee keer geld afgeschreven.","englishReference":"I was charged twice.","start":45.906,"end":49.698,"duration":3.792},
+    {"id":"tprob-013","sentenceId":"tprob-013","order":13,"tags":["communication"],"text":"Ik spreek de taal niet goed.","englishReference":"I don't speak the language well.","start":50.448,"end":53.784,"duration":3.336},
+    {"id":"tprob-014","sentenceId":"tprob-014","order":14,"tags":["solution"],"text":"Wat kunnen we doen om dit op te lossen?","englishReference":"What can we do to solve this?","start":54.534,"end":58.014,"duration":3.48},
+    {"id":"tprob-015","sentenceId":"tprob-015","order":15,"tags":["solution"],"text":"Ik wil zo snel mogelijk een oplossing.","englishReference":"I would like a solution as soon as possible.","start":58.764,"end":62.796,"duration":4.032}
+  ]
+}
