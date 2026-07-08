@@ -16,26 +16,52 @@ function getWordText(word, lang) {
   return word[lang] || word.en || "";
 }
 
-function getVocabularyImageSrc(word) {
-  return word?.imageSrc || "";
+function slugifyImageName(value) {
+  return String(value || "")
+    .trim()
+    .toLowerCase()
+    .normalize("NFD")
+    .replace(/\p{Diacritic}/gu, "")
+    .replace(/[^a-z0-9-]+/g, "-")
+    .replace(/^-+|-+$/g, "");
+}
+
+function getVocabularyImageCandidates(word, category) {
+  const candidates = [];
+
+  if (word?.imageSrc) {
+    candidates.push(word.imageSrc);
+  }
+
+  if (category && word?.en) {
+    candidates.push(
+      `/data/vocabulary/images/${category}/${slugifyImageName(word.en)}.webp`
+    );
+  }
+
+  return [...new Set(candidates.filter(Boolean))];
 }
 
 function WordThumbnail({ word, category, fallback }) {
-  const imageSrc = getVocabularyImageSrc(word);
-  const [imageFailed, setImageFailed] = useState(false);
+  const imageCandidates = getVocabularyImageCandidates(word, category);
+  const [candidateIndex, setCandidateIndex] = useState(0);
 
   useEffect(() => {
-    setImageFailed(false);
-  }, [imageSrc]);
+    setCandidateIndex(0);
+  }, [word?.id, word?.en, word?.imageSrc, category]);
 
-  if (imageSrc && !imageFailed) {
+  const imageSrc = imageCandidates[candidateIndex];
+
+  if (imageSrc) {
     return (
       <img
         src={imageSrc}
         alt=""
         className="h-full w-full rounded-2xl object-cover"
         draggable="false"
-        onError={() => setImageFailed(true)}
+        onError={() => {
+          setCandidateIndex((index) => index + 1);
+        }}
       />
     );
   }
