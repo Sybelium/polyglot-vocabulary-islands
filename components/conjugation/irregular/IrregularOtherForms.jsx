@@ -1,6 +1,7 @@
 "use client";
 
 import { speakConjugation } from "../conjugationAudio";
+import { buildIrregularFootnotes } from "./irregularConjugationUtils";
 
 export default function IrregularOtherForms({
   verb,
@@ -16,6 +17,7 @@ export default function IrregularOtherForms({
   };
 
   const speechLang = speechLangByTargetLang[targetLang] || "fr-FR";
+  const footnotes = buildIrregularFootnotes(verb);
 
   function play(text) {
     if (!text) return;
@@ -36,22 +38,16 @@ export default function IrregularOtherForms({
         <p className="mt-2 text-slate-600">
           Infinitive, participles, gerund and imperative forms.
         </p>
-
-        {verb.compound?.note?.en && (
-          <p className="mt-3 rounded-2xl bg-amber-50 px-4 py-3 text-sm font-bold text-amber-800">
-            {verb.compound.note.en}
-          </p>
-        )}
       </div>
 
       <div className="grid gap-4 lg:grid-cols-2">
         {verb.otherForms.sections.map((section) => (
           <div
-            key={section.title?.en || section.title?.fr}
+            key={section.title?.en || section.title?.fr || section.title?.it}
             className="rounded-3xl border border-slate-100 bg-slate-50 p-5"
           >
             <h3 className="text-xl font-black text-slate-900">
-              {section.title?.en || section.title?.fr}
+              {section.title?.en || section.title?.fr || section.title?.it}
             </h3>
 
             {section.note?.en && (
@@ -66,11 +62,11 @@ export default function IrregularOtherForms({
 
                 return (
                   <div
-                    key={item.label?.en || item.label?.fr}
+                    key={item.label?.en || item.label?.fr || item.label?.it}
                     className="rounded-2xl bg-white p-4 shadow-sm"
                   >
                     <p className="text-xs font-black uppercase tracking-wide text-slate-500">
-                      {item.label?.en || item.label?.fr}
+                      {item.label?.en || item.label?.fr || item.label?.it}
                     </p>
 
                     <div className="mt-2 flex flex-wrap gap-2">
@@ -92,6 +88,19 @@ export default function IrregularOtherForms({
           </div>
         ))}
       </div>
+
+      {footnotes.length > 0 && (
+        <div className="mt-5 space-y-2">
+          {footnotes.map((note) => (
+            <p
+              key={note}
+              className="rounded-2xl bg-amber-50 px-4 py-3 text-sm font-bold leading-6 text-amber-800"
+            >
+              {note}
+            </p>
+          ))}
+        </div>
+      )}
     </section>
   );
 }

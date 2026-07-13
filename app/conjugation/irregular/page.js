@@ -5,6 +5,24 @@ export const metadata = {
   description: "Practice irregular conjugation forms in French, Spanish, Italian and Portuguese.",
 };
 
-export default function IrregularConjugationPage() {
-  return <IrregularConjugationTrainer targetLang="fr" />;
+const SUPPORTED_CONJUGATION_LANGUAGES = new Set(["fr", "es", "it", "pt"]);
+
+function getTargetLangFromSearchParams(searchParams = {}) {
+  const rawLang = Array.isArray(searchParams?.lang)
+    ? searchParams.lang[0]
+    : searchParams?.lang;
+
+  return SUPPORTED_CONJUGATION_LANGUAGES.has(rawLang) ? rawLang : "";
+}
+
+export default async function IrregularConjugationPage({ searchParams }) {
+  const resolvedSearchParams = await searchParams;
+  const targetLang = getTargetLangFromSearchParams(resolvedSearchParams);
+
+  return (
+    <IrregularConjugationTrainer
+      targetLang={targetLang || "fr"}
+      preferStoredLang={!targetLang}
+    />
+  );
 }

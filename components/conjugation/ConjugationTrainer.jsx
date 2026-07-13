@@ -6,11 +6,20 @@ import ConjugationEndingExercise from "./ConjugationEndingExercise";
 import ConjugationFullFormExercise from "./ConjugationFullFormExercise";
 import ConjugationBuildForm from "./ConjugationBuildForm";
 import PolyglotConjugationTable from "./polyglot/PolyglotConjugationTable";
-import ConjugationAppControls from "./ConjugationAppControls";
+import ConjugationAppControls, {
+  getSafeLatinConjugationLanguageId,
+  readStoredLatinConjugationLanguage,
+  saveLatinConjugationLanguage,
+} from "./ConjugationAppControls";
 import ConjugationModeDock from "./ConjugationModeDock";
 
-export default function ConjugationTrainer({ targetLang = "fr" }) {
-  const [selectedLang, setSelectedLang] = useState(targetLang);
+export default function ConjugationTrainer({
+  targetLang = "fr",
+  preferStoredLang = true,
+}) {
+  const [selectedLang, setSelectedLang] = useState(() =>
+    getSafeLatinConjugationLanguageId(targetLang)
+  );
   const [verbs, setVerbs] = useState([]);
   const [persons, setPersons] = useState([]);
   const [patterns, setPatterns] = useState(null);
@@ -20,6 +29,40 @@ export default function ConjugationTrainer({ targetLang = "fr" }) {
   const [activeMode, setActiveMode] = useState("pattern");
   const [showPolyglotOnly, setShowPolyglotOnly] = useState(false);
   const [loading, setLoading] = useState(true);
+
+  useEffect(() => {
+    const nextLanguageId = getSafeLatinConjugationLanguageId(targetLang);
+
+    setSelectedLang((currentLanguageId) =>
+      currentLanguageId === nextLanguageId ? currentLanguageId : nextLanguageId
+    );
+  }, [targetLang]);
+
+  useEffect(() => {
+    if (!preferStoredLang) return;
+
+    const storedLanguageId = readStoredLatinConjugationLanguage();
+    if (!storedLanguageId) return;
+
+    setSelectedLang((currentLanguageId) =>
+      currentLanguageId === storedLanguageId
+        ? currentLanguageId
+        : storedLanguageId
+    );
+  }, [preferStoredLang]);
+
+  useEffect(() => {
+    saveLatinConjugationLanguage(selectedLang);
+  }, [selectedLang]);
+
+  function handleLanguageChange(languageId) {
+    const nextLanguageId = getSafeLatinConjugationLanguageId(languageId);
+
+    saveLatinConjugationLanguage(nextLanguageId);
+    setSelectedLang(nextLanguageId);
+    setActiveMode("pattern");
+    setShowPolyglotOnly(false);
+  }
 
   useEffect(() => {
   let alive = true;
@@ -192,11 +235,7 @@ const firstGroupId = firstTenseId
       <ConjugationAppControls
         selectedLang={selectedLang}
         activeType="regular"
-        onLanguageChange={(languageId) => {
-          setSelectedLang(languageId);
-          setActiveMode("pattern");
-          setShowPolyglotOnly(false);
-        }}
+        onLanguageChange={handleLanguageChange}
       />
 
       <section className="mt-4 rounded-3xl bg-white/90 p-6 shadow-sm">
@@ -214,11 +253,7 @@ if (!selectedPattern) {
       <ConjugationAppControls
         selectedLang={selectedLang}
         activeType="regular"
-        onLanguageChange={(languageId) => {
-          setSelectedLang(languageId);
-          setActiveMode("pattern");
-          setShowPolyglotOnly(false);
-        }}
+        onLanguageChange={handleLanguageChange}
       />
 
       <section className="mt-4 rounded-3xl border border-red-100 bg-red-50 p-6 text-red-700">
@@ -233,11 +268,7 @@ return (
     <ConjugationAppControls
       selectedLang={selectedLang}
       activeType="regular"
-      onLanguageChange={(languageId) => {
-        setSelectedLang(languageId);
-        setActiveMode("pattern");
-        setShowPolyglotOnly(false);
-      }}
+      onLanguageChange={handleLanguageChange}
     />
 
     <section className="mb-2 rounded-2xl border border-sky-100 bg-white/95 p-2 shadow-sm">

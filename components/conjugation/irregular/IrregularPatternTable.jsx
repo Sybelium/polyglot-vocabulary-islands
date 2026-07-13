@@ -5,8 +5,10 @@ import {
   getSpeechLangForTargetLang,
   playConjugationAudio,
 } from "../conjugationAudio";
-import { buildIrregularRows } from "./irregularConjugationUtils";
-import { splitIrregularForm } from "./irregularConjugationUtils";
+import {
+  buildIrregularFootnotes,
+  buildIrregularRows,
+} from "./irregularConjugationUtils";
 
 export default function IrregularPatternTable({
   verb,
@@ -20,25 +22,32 @@ export default function IrregularPatternTable({
 
   const speechLang = getSpeechLangForTargetLang(targetLang);
 
-  const rows = useMemo(() => buildIrregularRows(verb, tense, persons), [verb, tense, persons]);
+  const rows = useMemo(
+    () => buildIrregularRows(verb, tense, persons),
+    [verb, tense, persons]
+  );
+  const footnotes = useMemo(
+    () => buildIrregularFootnotes(verb, tense),
+    [verb, tense]
+  );
   const isCompound = tense?.patternType === "compound";
 
   function playRow(row) {
-  setPlayingId(row.personId);
+    setPlayingId(row.personId);
 
-  playConjugationAudio({
-    languageId: targetLang,
-    sourceType: "irregular",
-    tenseId,
-    verbId: verb.id,
-    personId: row.personId,
-    fallbackText: row.spokenForm || row.fullForm,
-    speechLang,
-    onEnd: () => {
-      setPlayingId(null);
-    },
-  });
-}
+    playConjugationAudio({
+      languageId: targetLang,
+      sourceType: "irregular",
+      tenseId,
+      verbId: verb.id,
+      personId: row.personId,
+      fallbackText: row.spokenForm || row.fullForm,
+      speechLang,
+      onEnd: () => {
+        setPlayingId(null);
+      },
+    });
+  }
 
   function playAllRows(index = 0) {
     if (!rows[index]) {
@@ -52,17 +61,17 @@ export default function IrregularPatternTable({
     setPlayingId(row.personId);
 
     playConjugationAudio({
-  languageId: targetLang,
-  sourceType: "irregular",
-  tenseId,
-  verbId: verb.id,
-  personId: row.personId,
-  fallbackText: row.spokenForm || row.fullForm,
-  speechLang,
-  onEnd: () => {
-    setTimeout(() => playAllRows(index + 1), 250);
-  },
-});
+      languageId: targetLang,
+      sourceType: "irregular",
+      tenseId,
+      verbId: verb.id,
+      personId: row.personId,
+      fallbackText: row.spokenForm || row.fullForm,
+      speechLang,
+      onEnd: () => {
+        setTimeout(() => playAllRows(index + 1), 250);
+      },
+    });
   }
 
   if (!rows.length) return null;
@@ -71,17 +80,17 @@ export default function IrregularPatternTable({
     <section className="mt-8 rounded-3xl border border-sky-100 bg-white p-6 shadow-sm">
       <div className="mb-5 flex flex-col gap-4 sm:flex-row sm:items-start sm:justify-between">
         <div>
-          <p className="text-sm font-black uppercase tracking-wide text-sky-600">Pattern</p>
-          <h2 className="mt-1 text-2xl font-black text-slate-900">{verb.infinitive}</h2>
-          <p className="mt-2 text-sm text-slate-600">
-            {isCompound ? "Auxiliary in blue, participle in orange." : "Irregular form in green."}
+          <p className="text-sm font-black uppercase tracking-wide text-sky-600">
+            Pattern
           </p>
-
-          {isCompound && verb.compound?.note?.en && (
-            <p className="mt-2 rounded-2xl bg-amber-50 px-4 py-3 text-sm font-bold text-amber-800">
-              {verb.compound.note.en}
-            </p>
-          )}
+          <h2 className="mt-1 text-2xl font-black text-slate-900">
+            {verb.infinitive}
+          </h2>
+          <p className="mt-2 text-sm text-slate-600">
+            {isCompound
+              ? "Auxiliary in blue, participle in orange."
+              : "Irregular form in green."}
+          </p>
         </div>
 
         <button
@@ -113,18 +122,28 @@ export default function IrregularPatternTable({
           <tbody>
             {rows.map((row) => (
               <tr key={row.personId} className="border-t border-slate-100">
-                <td className="px-4 py-4 text-lg font-black text-slate-700">{row.pronoun}</td>
+                <td className="px-4 py-4 text-lg font-black text-slate-700">
+                  {row.pronoun}
+                </td>
                 {isCompound ? (
                   <>
-                    <td className="px-4 py-4 text-lg font-black text-blue-700">{row.auxiliary}</td>
-                    <td className="px-4 py-4 text-lg font-black text-orange-600">{row.participle}</td>
+                    <td className="px-4 py-4 text-lg font-black text-blue-700">
+                      {row.auxiliary}
+                    </td>
+                    <td className="px-4 py-4 text-lg font-black text-orange-600">
+                      {row.participle}
+                    </td>
                   </>
                 ) : (
-                  <td className="px-4 py-4 text-lg font-black text-emerald-700">{row.form}</td>
+                  <td className="px-4 py-4 text-lg font-black text-emerald-700">
+                    {row.form}
+                  </td>
                 )}
                 <td className="px-4 py-4">
                   <div className="flex items-center gap-3">
-                    <span className="text-lg font-black text-emerald-700">{row.fullForm}</span>
+                    <span className="text-lg font-black text-emerald-700">
+                      {row.fullForm}
+                    </span>
                     <button
                       type="button"
                       onClick={() => playRow(row)}
@@ -139,6 +158,19 @@ export default function IrregularPatternTable({
           </tbody>
         </table>
       </div>
+
+      {footnotes.length > 0 && (
+        <div className="mt-4 space-y-2">
+          {footnotes.map((note) => (
+            <p
+              key={note}
+              className="rounded-2xl bg-amber-50 px-4 py-3 text-sm font-bold leading-6 text-amber-800"
+            >
+              {note}
+            </p>
+          ))}
+        </div>
+      )}
     </section>
   );
 }

@@ -9,11 +9,56 @@ export const LATIN_CONJUGATION_LANGUAGES = [
   { id: "pt", label: "Portuguese", short: "PT" },
 ];
 
+export const LATIN_CONJUGATION_LANGUAGE_IDS = LATIN_CONJUGATION_LANGUAGES.map(
+  (language) => language.id
+);
+
+export const LATIN_CONJUGATION_SELECTED_LANGUAGE_STORAGE_KEY =
+  "latin-conjugation-selected-language";
+
+export function getSafeLatinConjugationLanguageId(languageId, fallback = "fr") {
+  return LATIN_CONJUGATION_LANGUAGE_IDS.includes(languageId)
+    ? languageId
+    : fallback;
+}
+
+export function readStoredLatinConjugationLanguage() {
+  if (typeof window === "undefined") return "";
+
+  try {
+    const storedLanguageId = window.localStorage.getItem(
+      LATIN_CONJUGATION_SELECTED_LANGUAGE_STORAGE_KEY
+    );
+
+    return getSafeLatinConjugationLanguageId(storedLanguageId, "");
+  } catch {
+    return "";
+  }
+}
+
+export function saveLatinConjugationLanguage(languageId) {
+  if (typeof window === "undefined") return;
+
+  const safeLanguageId = getSafeLatinConjugationLanguageId(languageId, "");
+  if (!safeLanguageId) return;
+
+  try {
+    window.localStorage.setItem(
+      LATIN_CONJUGATION_SELECTED_LANGUAGE_STORAGE_KEY,
+      safeLanguageId
+    );
+  } catch {
+    // Ignore storage errors. The URL query still preserves the language while navigating.
+  }
+}
+
 export default function ConjugationAppControls({
   selectedLang,
   onLanguageChange,
   activeType = "regular",
 }) {
+  const safeSelectedLang = getSafeLatinConjugationLanguageId(selectedLang);
+
   const typeTabs = [
     {
       id: "regular",
@@ -26,6 +71,16 @@ export default function ConjugationAppControls({
       href: "/conjugation/irregular",
     },
   ];
+
+  function buildTypeHref(href) {
+    return `${href}?lang=${encodeURIComponent(safeSelectedLang)}`;
+  }
+
+  function handleLanguageClick(languageId) {
+    const nextLanguageId = getSafeLatinConjugationLanguageId(languageId);
+    saveLatinConjugationLanguage(nextLanguageId);
+    onLanguageChange(nextLanguageId);
+  }
 
   return (
     <section className="mb-3 rounded-2xl border border-sky-100 bg-white/95 p-2 shadow-sm">
@@ -47,7 +102,7 @@ export default function ConjugationAppControls({
             return (
               <Link
                 key={tab.id}
-                href={tab.href}
+                href={buildTypeHref(tab.href)}
                 className={`rounded-xl px-2 py-2 text-center text-xs font-black transition ${
                   isActive
                     ? "bg-sky-600 text-white shadow-sm"
@@ -63,13 +118,13 @@ export default function ConjugationAppControls({
 
       <div className="mt-2 grid grid-cols-4 gap-1">
         {LATIN_CONJUGATION_LANGUAGES.map((language) => {
-          const isActive = selectedLang === language.id;
+          const isActive = safeSelectedLang === language.id;
 
           return (
             <button
               key={language.id}
               type="button"
-              onClick={() => onLanguageChange(language.id)}
+              onClick={() => handleLanguageClick(language.id)}
               className={`rounded-xl px-2 py-2 text-center text-xs font-black transition ${
                 isActive
                   ? "bg-emerald-600 text-white shadow-sm"
@@ -77,7 +132,7 @@ export default function ConjugationAppControls({
               }`}
             >
               <span>{language.short}</span>
-<span className="sr-only">{language.label}</span>
+              <span className="sr-only">{language.label}</span>
             </button>
           );
         })}

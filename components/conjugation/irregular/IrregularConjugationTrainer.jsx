@@ -5,7 +5,11 @@ import IrregularPatternTable from "./IrregularPatternTable";
 import IrregularFormExercise from "./IrregularFormExercise";
 import IrregularOtherForms from "./IrregularOtherForms";
 import PolyglotConjugationTable from "../polyglot/PolyglotConjugationTable";
-import ConjugationAppControls from "../ConjugationAppControls";
+import ConjugationAppControls, {
+  getSafeLatinConjugationLanguageId,
+  readStoredLatinConjugationLanguage,
+  saveLatinConjugationLanguage,
+} from "../ConjugationAppControls";
 import ConjugationModeDock from "../ConjugationModeDock";
 
 const languageNames = {
@@ -15,8 +19,13 @@ const languageNames = {
   pt: "Portuguese",
 };
 
-export default function IrregularConjugationTrainer({ targetLang = "fr" }) {
-  const [selectedLang, setSelectedLang] = useState(targetLang);
+export default function IrregularConjugationTrainer({
+  targetLang = "fr",
+  preferStoredLang = true,
+}) {
+  const [selectedLang, setSelectedLang] = useState(() =>
+    getSafeLatinConjugationLanguageId(targetLang)
+  );
   const [persons, setPersons] = useState([]);
   const [families, setFamilies] = useState([]);
   const [verbs, setVerbs] = useState([]);
@@ -29,6 +38,40 @@ export default function IrregularConjugationTrainer({ targetLang = "fr" }) {
   const [loading, setLoading] = useState(true);
   const [loadError, setLoadError] = useState(false);
   const practiceAreaRef = useRef(null);
+
+  useEffect(() => {
+    const nextLanguageId = getSafeLatinConjugationLanguageId(targetLang);
+
+    setSelectedLang((currentLanguageId) =>
+      currentLanguageId === nextLanguageId ? currentLanguageId : nextLanguageId
+    );
+  }, [targetLang]);
+
+  useEffect(() => {
+    if (!preferStoredLang) return;
+
+    const storedLanguageId = readStoredLatinConjugationLanguage();
+    if (!storedLanguageId) return;
+
+    setSelectedLang((currentLanguageId) =>
+      currentLanguageId === storedLanguageId
+        ? currentLanguageId
+        : storedLanguageId
+    );
+  }, [preferStoredLang]);
+
+  useEffect(() => {
+    saveLatinConjugationLanguage(selectedLang);
+  }, [selectedLang]);
+
+  function handleLanguageChange(languageId) {
+    const nextLanguageId = getSafeLatinConjugationLanguageId(languageId);
+
+    saveLatinConjugationLanguage(nextLanguageId);
+    setSelectedLang(nextLanguageId);
+    setActiveMode("pattern");
+    setShowPolyglotOnly(false);
+  }
 
   useEffect(() => {
     let alive = true;
@@ -230,11 +273,7 @@ export default function IrregularConjugationTrainer({ targetLang = "fr" }) {
       <ConjugationAppControls
         selectedLang={selectedLang}
         activeType="irregular"
-        onLanguageChange={(languageId) => {
-          setSelectedLang(languageId);
-          setActiveMode("pattern");
-          setShowPolyglotOnly(false);
-        }}
+        onLanguageChange={handleLanguageChange}
       />
 
       <section className="mt-4 rounded-3xl bg-white/90 p-6 shadow-sm">
@@ -252,11 +291,7 @@ if (loadError || !selectedTense || verbs.length === 0) {
       <ConjugationAppControls
         selectedLang={selectedLang}
         activeType="irregular"
-        onLanguageChange={(languageId) => {
-          setSelectedLang(languageId);
-          setActiveMode("pattern");
-          setShowPolyglotOnly(false);
-        }}
+        onLanguageChange={handleLanguageChange}
       />
 
       <section className="mt-4 rounded-3xl border border-red-100 bg-red-50 p-6 font-bold text-red-700">
@@ -271,11 +306,7 @@ return (
     <ConjugationAppControls
       selectedLang={selectedLang}
       activeType="irregular"
-      onLanguageChange={(languageId) => {
-        setSelectedLang(languageId);
-        setActiveMode("pattern");
-        setShowPolyglotOnly(false);
-      }}
+      onLanguageChange={handleLanguageChange}
     />
 
     <section className="mb-3 rounded-2xl bg-gradient-to-br from-sky-50 to-emerald-50 p-2 shadow-sm md:p-3">

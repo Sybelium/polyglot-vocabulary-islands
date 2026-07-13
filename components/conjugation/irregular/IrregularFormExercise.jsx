@@ -110,11 +110,19 @@ export default function IrregularFormExercise({ verb, tense, persons, mode = "ch
     if (!currentQuestion || feedback) return;
 
     const accepted = isFull
-      ? [currentQuestion.fullForm, currentQuestion.form]
+      ? [
+          currentQuestion.fullForm,
+          currentQuestion.form,
+          ...(currentQuestion.acceptedFullForms || []),
+          ...(currentQuestion.acceptedForms || []),
+        ]
       : [expectedShort(currentQuestion)];
 
-    const isCorrect = accepted.some(
-      (item) => normalizeAnswer(answer) === normalizeAnswer(item)
+    const uniqueAccepted = [...new Set(accepted.filter(Boolean))];
+    const normalizedAnswer = normalizeAnswer(answer);
+
+    const isCorrect = uniqueAccepted.some(
+      (item) => normalizedAnswer === normalizeAnswer(item)
     );
 
     if (isCorrect) {
