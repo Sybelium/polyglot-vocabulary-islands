@@ -3,6 +3,7 @@
 import { useEffect, useMemo, useRef, useState } from "react";
 
 const VOICE_BY_SYSTEM = {
+  latin: "en-US",
   cyrillic: "ru-RU",
   greek: "el-GR",
   arabic: "ar-SA",
@@ -25,6 +26,29 @@ function getPrompt(letter) {
 
 function getLetterLabel(letter) {
   return letter.name || letter.sound || letter.transliteration || "";
+}
+
+function getPreferredVoiceLang(system, voiceLang = "") {
+  return voiceLang || VOICE_BY_SYSTEM[system] || "en-US";
+}
+
+function findBestSpeechVoice(lang) {
+  if (typeof window === "undefined" || !window.speechSynthesis) {
+    return null;
+  }
+
+  const voices = window.speechSynthesis.getVoices();
+  const normalizedLang = String(lang || "").toLowerCase();
+
+  if (!normalizedLang || !voices.length) return null;
+
+  return (
+    voices.find((voice) => voice.lang?.toLowerCase() === normalizedLang) ||
+    voices.find((voice) =>
+      voice.lang?.toLowerCase().startsWith(normalizedLang.split("-")[0])
+    ) ||
+    null
+  );
 }
 
 function waitForSpeechVoices() {
@@ -64,7 +88,12 @@ function buildChoices(current, letters) {
   return shuffle([current, ...selectedWrongChoices]);
 }
 
-export default function AlphabetClickGame({ system, letters }) {
+export default function AlphabetClickGame({
+  system,
+  letters,
+  voiceLang = "",
+  audioMode = "timestamped",
+}) {
   const [mode, setMode] = useState("training");
   const [questions, setQuestions] = useState([]);
   const [choices, setChoices] = useState([]);
@@ -83,6 +112,9 @@ const audioRef = useRef(null);
 const segmentTimerRef = useRef(null);
 
   const current = questions[index];
+  const speechLang = getPreferredVoiceLang(system, voiceLang);
+  const shouldUseTimestampAudio = audioMode !== "browser-tts";
+
 
   const visibleLetters = useMemo(() => {
   return letters.slice(0, 48);
@@ -136,8 +168,13 @@ function speakWithBrowserTts(letter) {
   window.speechSynthesis.cancel();
 
   const utterance = new SpeechSynthesisUtterance(text);
-  utterance.lang = VOICE_BY_SYSTEM[system] || "en-US";
+  utterance.lang = speechLang;
   utterance.rate = 0.7;
+
+  const matchingVoice = findBestSpeechVoice(speechLang);
+  if (matchingVoice) {
+    utterance.voice = matchingVoice;
+  }
 
   window.speechSynthesis.speak(utterance);
 }
@@ -238,6 +275,11 @@ useEffect(() => {
       audioRef.current = null;
     }
 
+    if (!shouldUseTimestampAudio) {
+      setAudioStatus("fallback");
+      return;
+    }
+
     try {
       const response = await fetch(
         `/data/writing-systems/audio-maps/${system}.json`,
@@ -287,7 +329,7 @@ useEffect(() => {
       audioRef.current = null;
     }
   };
-}, [system]);
+}, [system, shouldUseTimestampAudio]);
 
   useEffect(() => {
   if (mode !== "training") return;

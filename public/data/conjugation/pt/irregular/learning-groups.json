@@ -1,0 +1,127 @@
+[
+  {
+    "id": "essential-verbs",
+    "label": {
+      "en": "Essential verbs",
+      "pt": "Verbos essenciais"
+    },
+    "level": "A1",
+    "summary": {
+      "en": "The core Portuguese irregular verbs to recognize first.",
+      "pt": "Os verbos irregulares portugueses essenciais para reconhecer primeiro."
+    },
+    "familyIds": [
+      "ser-family",
+      "estar-family",
+      "ter-family",
+      "haver-family",
+      "ir-family"
+    ],
+    "featuredVerbIds": [
+      "ser",
+      "estar",
+      "ter",
+      "haver",
+      "ir"
+    ]
+  },
+  {
+    "id": "modal-helper-common",
+    "label": {
+      "en": "Modal and common helper verbs",
+      "pt": "Verbos modais e auxiliares comuns"
+    },
+    "level": "A2",
+    "summary": {
+      "en": "Very common verbs used for ability, desire, knowledge, possession, movement and basic actions.",
+      "pt": "Verbos muito comuns para capacidade, vontade, conhecimento, posse, movimento e ações básicas."
+    },
+    "familyIds": [
+      "poder-family",
+      "querer-family",
+      "saber-family",
+      "dar-family",
+      "ver-family",
+      "vir-family",
+      "por-family"
+    ]
+  },
+  {
+    "id": "fazer-dizer-trazer",
+    "label": {
+      "en": "Fazer / dizer / trazer families",
+      "pt": "Famílias fazer / dizer / trazer"
+    },
+    "level": "A2",
+    "summary": {
+      "en": "Important verbs with strong stems and related -duzir behavior.",
+      "pt": "Verbos importantes com radicais fortes e comportamento relacionado em -duzir."
+    },
+    "familyIds": [
+      "fazer-family",
+      "dizer-family",
+      "trazer-family",
+      "duzir-family"
+    ]
+  },
+  {
+    "id": "spelling-changes",
+    "label": {
+      "en": "Spelling changes",
+      "pt": "Mudanças ortográficas"
+    },
+    "level": "A2",
+    "summary": {
+      "en": "Mostly regular verbs with spelling changes to keep the same sound: -ger/-gir, -ecer and -car.",
+      "pt": "Verbos quase regulares com mudanças ortográficas para manter o som: -ger/-gir, -ecer e -car."
+    },
+    "familyIds": [
+      "ger-gir-family",
+      "ecer-cedilla-family",
+      "car-spelling-family"
+    ]
+  },
+  {
+    "id": "stem-vowel-changes",
+    "label": {
+      "en": "Stem and vowel changes",
+      "pt": "Mudanças de radical e vogal"
+    },
+    "level": "A2-B1",
+    "summary": {
+      "en": "Families where the stem or vowel changes in common present or special forms.",
+      "pt": "Famílias em que o radical ou a vogal muda em formas comuns do presente ou especiais."
+    },
+    "familyIds": [
+      "pedir-medir-family",
+      "perder-family",
+      "fugir-family",
+      "seguir-family",
+      "servir-sentir-family",
+      "dormir-family",
+      "rir-family",
+      "ouvir-family",
+      "cair-sair-family",
+      "air-family"
+    ]
+  },
+  {
+    "id": "participles-and-advanced",
+    "label": {
+      "en": "Participles and advanced specials",
+      "pt": "Participios e especiais avançados"
+    },
+    "level": "B1",
+    "summary": {
+      "en": "Irregular participles and a few compact advanced families.",
+      "pt": "Particípios irregulares e algumas famílias avançadas compactas."
+    },
+    "familyIds": [
+      "irregular-participles-er",
+      "irregular-participles-ir",
+      "caber-family",
+      "crer-ler-family",
+      "valer-family"
+    ]
+  }
+]

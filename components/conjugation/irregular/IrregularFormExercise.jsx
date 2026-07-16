@@ -1,9 +1,61 @@
 "use client";
 
 import { useEffect, useMemo, useRef, useState } from "react";
-import { buildIrregularRows, normalizeAnswer, shuffleArray } from "./irregularConjugationUtils";
+import {
+  buildIrregularRows,
+  normalizeAnswer,
+  shuffleArray,
+} from "./irregularConjugationUtils";
 
-export default function IrregularFormExercise({ verb, tense, persons, mode = "choose" }) {
+function getLocalizedText(value, preferredLang = "en") {
+  if (!value) return "";
+  if (typeof value === "string") return value;
+
+  return (
+    value[preferredLang] ||
+    value.en ||
+    value.fr ||
+    value.es ||
+    value.it ||
+    value.pt ||
+    Object.values(value).find(Boolean) ||
+    ""
+  );
+}
+
+function makeQuestionRows({ verbs, fallbackVerb, tense, persons }) {
+  const exerciseVerbs = Array.isArray(verbs) && verbs.length
+    ? verbs
+    : fallbackVerb
+    ? [fallbackVerb]
+    : [];
+
+  return exerciseVerbs.flatMap((currentVerb) =>
+    buildIrregularRows(currentVerb, tense, persons)
+      .filter((row) => row.form || row.auxiliary)
+      .map((row) => ({
+        ...row,
+        verb: currentVerb,
+        verbId: currentVerb.id,
+        infinitive: currentVerb.infinitive,
+        meaning: currentVerb.meaning,
+      }))
+  );
+}
+
+function uniqueValues(values) {
+  return [...new Set(values.filter(Boolean))];
+}
+
+export default function IrregularFormExercise({
+  verb,
+  verbs = null,
+  tense,
+  persons,
+  mode = "choose",
+  scopeLabel = "",
+  questionCount = 12,
+}) {
   const [questions, setQuestions] = useState([]);
   const [questionIndex, setQuestionIndex] = useState(0);
   const [answer, setAnswer] = useState("");
@@ -13,7 +65,23 @@ export default function IrregularFormExercise({ verb, tense, persons, mode = "ch
   const [finished, setFinished] = useState(false);
 
   const inputRef = useRef(null);
-  const rows = useMemo(() => buildIrregularRows(verb, tense, persons), [verb, tense, persons]);
+
+  const exerciseVerbs = useMemo(() => {
+    if (Array.isArray(verbs) && verbs.length) return verbs;
+    return verb ? [verb] : [];
+  }, [verbs, verb]);
+
+  const rows = useMemo(
+    () =>
+      makeQuestionRows({
+        verbs: exerciseVerbs,
+        fallbackVerb: verb,
+        tense,
+        persons,
+      }),
+    [exerciseVerbs, verb, tense, persons]
+  );
+
   const isCompound = tense?.patternType === "compound";
   const isFull = mode === "full";
   const isChoose = mode === "choose";
@@ -21,23 +89,34 @@ export default function IrregularFormExercise({ verb, tense, persons, mode = "ch
   const tenseLabel =
     tense?.label?.en ||
     tense?.label?.it ||
+    tense?.label?.fr ||
+    tense?.label?.es ||
+    tense?.label?.pt ||
     tense?.name?.en ||
     tense?.name?.it ||
     tense?.id?.replaceAll("-", " ") ||
     "Tense";
 
-  const exerciseTitle = `${tenseLabel} of ${verb?.infinitive || ""}`.trim();
+  const visibleQuestionCount = Math.max(1, Number(questionCount) || 12);
+  const uniqueVerbCount = new Set(rows.map((row) => row.verbId)).size;
+  const isGroupPractice = uniqueVerbCount > 1;
 
   useEffect(() => {
     if (!rows.length) return;
-    setQuestions(shuffleArray(rows));
+
+    const nextQuestions = shuffleArray(rows).slice(
+      0,
+      Math.min(rows.length, visibleQuestionCount)
+    );
+
+    setQuestions(nextQuestions);
     setQuestionIndex(0);
     setAnswer("");
     setSelected(null);
     setFeedback(null);
     setScore(0);
     setFinished(false);
-  }, [rows]);
+  }, [rows, visibleQuestionCount, mode]);
 
   useEffect(() => {
     if (!isChoose && !finished) {
@@ -56,8 +135,15 @@ export default function IrregularFormExercise({ verb, tense, persons, mode = "ch
     if (!currentQuestion || !isChoose) return [];
 
     const correct = expectedShort(currentQuestion);
-    const pool = rows.map((row) => expectedShort(row)).filter(Boolean);
-    const unique = [...new Set([correct, ...shuffleArray(pool).filter((item) => item !== correct)])];
+    const samePersonPool = rows
+      .filter((row) => row.personId === currentQuestion.personId)
+      .map((row) => expectedShort(row));
+    const allPool = rows.map((row) => expectedShort(row));
+    const unique = uniqueValues([
+      correct,
+      ...shuffleArray(samePersonPool).filter((item) => item !== correct),
+      ...shuffleArray(allPool).filter((item) => item !== correct),
+    ]);
 
     return shuffleArray(unique.slice(0, 4));
   }, [currentQuestion, rows, isChoose, isCompound]);
@@ -76,7 +162,12 @@ export default function IrregularFormExercise({ verb, tense, persons, mode = "ch
   }
 
   function restart() {
-    setQuestions(shuffleArray(rows));
+    const nextQuestions = shuffleArray(rows).slice(
+      0,
+      Math.min(rows.length, visibleQuestionCount)
+    );
+
+    setQuestions(nextQuestions);
     setQuestionIndex(0);
     setAnswer("");
     setSelected(null);
@@ -118,7 +209,7 @@ export default function IrregularFormExercise({ verb, tense, persons, mode = "ch
         ]
       : [expectedShort(currentQuestion)];
 
-    const uniqueAccepted = [...new Set(accepted.filter(Boolean))];
+    const uniqueAccepted = uniqueValues(accepted);
     const normalizedAnswer = normalizeAnswer(answer);
 
     const isCorrect = uniqueAccepted.some(
@@ -141,13 +232,24 @@ export default function IrregularFormExercise({ verb, tense, persons, mode = "ch
 
   if (!currentQuestion) return null;
 
+  const currentVerb = currentQuestion.verb || verb;
+  const currentInfinitive = currentVerb?.infinitive || "";
+  const currentMeaning = getLocalizedText(currentVerb?.meaning, "en");
+  const exerciseTitle = `${tenseLabel} · ${currentInfinitive}`.trim();
+  const poolLabel = scopeLabel || "Selected learning focus";
+
   if (finished) {
     return (
       <section className="mt-8 rounded-3xl border border-emerald-100 bg-emerald-50 p-6 shadow-sm">
-        <p className="text-sm font-black uppercase tracking-wide text-emerald-700">Exercise complete</p>
+        <p className="text-sm font-black uppercase tracking-wide text-emerald-700">
+          Exercise complete
+        </p>
         <h2 className="mt-2 text-3xl font-black text-slate-900">
           Score: {score} / {questions.length}
         </h2>
+        <p className="mt-2 text-sm font-bold text-emerald-800">
+          Pool: {poolLabel} · {uniqueVerbCount} verb{uniqueVerbCount === 1 ? "" : "s"}
+        </p>
         <button
           type="button"
           onClick={restart}
@@ -159,11 +261,21 @@ export default function IrregularFormExercise({ verb, tense, persons, mode = "ch
     );
   }
 
-  const title = isChoose ? "Choose the form" : isFull ? "Type the full form" : "Type the form";
+  const title = isChoose
+    ? "Choose the form"
+    : isFull
+    ? "Type the full form"
+    : "Type the form";
+
   const subtitle = isChoose
-    ? isCompound ? "Click the correct auxiliary." : "Click the correct irregular form."
-    : isFull ? "Write the complete form, including the pronoun."
-    : isCompound ? "Type the conjugated auxiliary." : "Type only the conjugated verb form.";
+    ? isCompound
+      ? "Click the correct auxiliary for this verb."
+      : "Click the correct irregular form for this verb."
+    : isFull
+    ? "Write the complete form, including the pronoun."
+    : isCompound
+    ? "Type the conjugated auxiliary."
+    : "Type only the conjugated verb form.";
 
   const accent = isChoose ? "sky" : isFull ? "violet" : "amber";
   const feedbackClass =
@@ -177,9 +289,16 @@ export default function IrregularFormExercise({ verb, tense, persons, mode = "ch
     <section className={`mt-8 rounded-3xl border border-${accent}-100 bg-white p-6 shadow-sm`}>
       <div className="mb-5 flex flex-col gap-3 sm:flex-row sm:items-end sm:justify-between">
         <div>
-          <p className={`text-sm font-black uppercase tracking-wide text-${accent}-600`}>Exercise</p>
+          <p className={`text-sm font-black uppercase tracking-wide text-${accent}-600`}>
+            Exercise
+          </p>
           <h2 className="mt-1 text-3xl font-black text-slate-900">{title}</h2>
           <p className="mt-2 text-slate-600">{subtitle}</p>
+          {isGroupPractice && (
+            <p className="mt-2 rounded-2xl bg-slate-50 px-4 py-2 text-sm font-bold text-slate-600">
+              Pool: {poolLabel} · {uniqueVerbCount} verbs · {questions.length} questions
+            </p>
+          )}
         </div>
         <div className={`rounded-2xl bg-${accent}-50 px-5 py-3 font-black text-${accent}-700`}>
           {questionIndex + 1} / {questions.length} · Score {score}
@@ -191,18 +310,28 @@ export default function IrregularFormExercise({ verb, tense, persons, mode = "ch
           {exerciseTitle}
         </p>
 
+        {currentMeaning && (
+          <p className="mt-2 text-sm font-bold text-slate-500">
+            {currentMeaning}
+          </p>
+        )}
+
         <div className="mt-6 flex flex-wrap items-center justify-center gap-3 text-4xl font-black">
           {isFull ? (
             <>
               <span className="text-slate-700">{currentQuestion.pronoun}</span>
               <span className="text-slate-400">+</span>
-              <span className="text-blue-700">{verb.infinitive}</span>
+              <span className="text-blue-700">{currentInfinitive}</span>
             </>
           ) : (
             <>
               <span className="text-slate-700">{currentQuestion.pronoun}</span>
-              <span className="rounded-xl border-2 border-dashed border-amber-400 px-3 py-2 text-orange-600">?</span>
-              {isCompound && <span className="text-blue-700">{currentQuestion.participle}</span>}
+              <span className="rounded-xl border-2 border-dashed border-amber-400 px-3 py-2 text-orange-600">
+                ?
+              </span>
+              {isCompound && (
+                <span className="text-orange-600">{currentQuestion.participle}</span>
+              )}
             </>
           )}
         </div>
@@ -232,7 +361,10 @@ export default function IrregularFormExercise({ verb, tense, persons, mode = "ch
             })}
           </div>
         ) : (
-          <form onSubmit={checkAnswer} className="mt-8 flex flex-col items-center justify-center gap-3 sm:flex-row">
+          <form
+            onSubmit={checkAnswer}
+            className="mt-8 flex flex-col items-center justify-center gap-3 sm:flex-row"
+          >
             <input
               ref={inputRef}
               value={answer}

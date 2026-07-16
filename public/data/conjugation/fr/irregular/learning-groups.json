@@ -1,0 +1,85 @@
+[
+  {
+    "id": "essential-verbs",
+    "label": {
+      "en": "Essential verbs",
+      "fr": "Verbes essentiels"
+    },
+    "level": "A1",
+    "summary": {
+      "en": "Start here: the most common irregular verbs and helper verbs.",
+      "fr": "Commence ici : les verbes irréguliers et auxiliaires les plus fréquents."
+    },
+    "familyIds": [
+      "core-irregular",
+      "modal-irregular",
+      "savoir-family"
+    ],
+    "featuredVerbIds": [
+      "etre",
+      "avoir",
+      "aller",
+      "faire",
+      "pouvoir",
+      "vouloir",
+      "devoir",
+      "savoir"
+    ]
+  },
+  {
+    "id": "movement-etre",
+    "label": {
+      "en": "Movement verbs with être",
+      "fr": "Verbes de mouvement avec être"
+    },
+    "level": "A1-A2",
+    "summary": {
+      "en": "Verbs that use être in compound tenses for movement or change: je suis allé, je suis entré, je suis tombé.",
+      "fr": "Verbes qui utilisent être aux temps composés pour le mouvement ou le changement : je suis allé, je suis entré, je suis tombé."
+    },
+    "familyIds": [
+      "movement-etre",
+      "venir-tenir",
+      "partir-sortir-dormir"
+    ]
+  },
+  {
+    "id": "common-irregular-stems",
+    "label": {
+      "en": "Common irregular stems",
+      "fr": "Bases irrégulières fréquentes"
+    },
+    "level": "A2",
+    "summary": {
+      "en": "Useful families with stem changes or short participles: prendre, mettre, dire, lire, écrire, voir, boire, recevoir.",
+      "fr": "Familles utiles avec changements de base ou participes courts : prendre, mettre, dire, lire, écrire, voir, boire, recevoir."
+    },
+    "familyIds": [
+      "voir-family",
+      "prendre-family",
+      "mettre-family",
+      "dire-lire-ecrire",
+      "connaitre-croire-boire",
+      "recevoir-family"
+    ]
+  },
+  {
+    "id": "spelling-changes",
+    "label": {
+      "en": "Spelling changes",
+      "fr": "Changements d’écriture"
+    },
+    "level": "A2",
+    "summary": {
+      "en": "Mostly regular verbs whose spelling changes to preserve sound: nous plaçons, nous mangeons, j’appelle, je paie.",
+      "fr": "Verbes presque réguliers dont l’écriture change pour garder le son : nous plaçons, nous mangeons, j’appelle, je paie."
+    },
+    "familyIds": [
+      "accent-change-e",
+      "double-consonant",
+      "ger-verbs",
+      "cer-verbs",
+      "yer-envoyer"
+    ]
+  }
+]

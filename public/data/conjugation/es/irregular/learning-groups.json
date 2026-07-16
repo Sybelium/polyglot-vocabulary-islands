@@ -1,0 +1,131 @@
+[
+  {
+    "id": "essential-verbs",
+    "label": {
+      "en": "Essential verbs",
+      "es": "Verbos esenciales"
+    },
+    "level": "A1",
+    "summary": {
+      "en": "The most common Spanish irregular verbs to recognize first.",
+      "es": "Los verbos irregulares españoles más frecuentes para reconocer primero."
+    },
+    "familyIds": [
+      "ser-ir",
+      "estar-family",
+      "tener-venir",
+      "hacer-family",
+      "poder-querer",
+      "saber-family"
+    ],
+    "featuredVerbIds": [
+      "ser",
+      "ir",
+      "estar",
+      "tener",
+      "venir",
+      "hacer",
+      "poder",
+      "querer",
+      "saber"
+    ]
+  },
+  {
+    "id": "first-person-irregulars",
+    "label": {
+      "en": "First-person irregulars",
+      "es": "Irregulares en yo"
+    },
+    "level": "A2",
+    "summary": {
+      "en": "Verbs with special yo forms or very common small irregularities: pongo, salgo, doy, veo, oigo.",
+      "es": "Verbos con formas especiales en yo o irregularidades pequeñas muy frecuentes: pongo, salgo, doy, veo, oigo."
+    },
+    "familyIds": [
+      "poner-family",
+      "salir-family",
+      "dar-family",
+      "ver-family",
+      "oir-family",
+      "caber-family",
+      "valer-family",
+      "caer-family"
+    ]
+  },
+  {
+    "id": "stem-changing-verbs",
+    "label": {
+      "en": "Stem-changing verbs",
+      "es": "Verbos con cambio de raíz"
+    },
+    "level": "A2",
+    "summary": {
+      "en": "The vowel changes inside the stem: e→ie, o→ue, e→i, plus related high-frequency patterns.",
+      "es": "La vocal cambia dentro de la raíz: e→ie, o→ue, e→i, y patrones frecuentes relacionados."
+    },
+    "familyIds": [
+      "stem-e-ie",
+      "stem-o-ue",
+      "stem-e-i",
+      "jugar-family",
+      "reir-family",
+      "oler-family"
+    ]
+  },
+  {
+    "id": "spelling-changes",
+    "label": {
+      "en": "Spelling changes",
+      "es": "Cambios ortográficos"
+    },
+    "level": "A2",
+    "summary": {
+      "en": "Mostly regular verbs whose spelling changes to protect pronunciation: busqué, llegué, empecé, conozco, leí.",
+      "es": "Verbos casi regulares cuya escritura cambia para proteger la pronunciación: busqué, llegué, empecé, conozco, leí."
+    },
+    "familyIds": [
+      "car-verbs",
+      "gar-verbs",
+      "zar-verbs",
+      "ger-gir-verbs",
+      "cer-cir-zc-verbs",
+      "uir-verbs",
+      "leer-creer"
+    ]
+  },
+  {
+    "id": "preterite-specials",
+    "label": {
+      "en": "Preterite and strong stems",
+      "es": "Pretérito y raíces fuertes"
+    },
+    "level": "B1",
+    "summary": {
+      "en": "Families with strong or special preterite behavior, useful for written and story tenses.",
+      "es": "Familias con comportamiento fuerte o especial en pretérito, útiles para narración y escritura."
+    },
+    "familyIds": [
+      "decir-traer",
+      "ducir-verbs",
+      "andar-family",
+      "satisfacer-family"
+    ]
+  },
+  {
+    "id": "participles-and-advanced",
+    "label": {
+      "en": "Participles and advanced specials",
+      "es": "Participios y especiales avanzados"
+    },
+    "level": "B1",
+    "summary": {
+      "en": "Irregular participles and rare advanced families kept separate for precision.",
+      "es": "Participios irregulares y familias avanzadas poco frecuentes, separadas para mayor precisión."
+    },
+    "familyIds": [
+      "irregular-participles",
+      "asir-family",
+      "variant-specials"
+    ]
+  }
+]

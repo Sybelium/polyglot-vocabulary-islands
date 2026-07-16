@@ -1,0 +1,132 @@
+[
+  {
+    "id": "essential-verbs",
+    "label": {
+      "en": "Essential verbs",
+      "it": "Verbi essenziali"
+    },
+    "level": "A1",
+    "summary": {
+      "en": "Start here: essere, avere, andare, fare, stare, dare and dire.",
+      "it": "Comincia qui: essere, avere, andare, fare, stare, dare e dire."
+    },
+    "familyIds": [
+      "essere-family",
+      "avere-family",
+      "andare-family",
+      "fare-family",
+      "dire-family",
+      "stare-family",
+      "dare-family"
+    ],
+    "featuredVerbIds": [
+      "essere",
+      "avere",
+      "andare",
+      "fare",
+      "dire",
+      "stare",
+      "dare"
+    ]
+  },
+  {
+    "id": "modal-helper-verbs",
+    "label": {
+      "en": "Modal and helper verbs",
+      "it": "Verbi modali e di supporto"
+    },
+    "level": "A2",
+    "summary": {
+      "en": "Common helper-like verbs often followed by an infinitive or used in frequent expressions.",
+      "it": "Verbi molto comuni, spesso seguiti da un infinito o usati in espressioni frequenti."
+    },
+    "familyIds": [
+      "modal-family",
+      "valere-family"
+    ]
+  },
+  {
+    "id": "movement-essere-verbs",
+    "label": {
+      "en": "Movement / essere verbs",
+      "it": "Verbi di movimento con essere"
+    },
+    "level": "A1-A2",
+    "summary": {
+      "en": "Verbs that commonly use essere in compound tenses, with participle agreement.",
+      "it": "Verbi che usano spesso essere nei tempi composti, con accordo del participio."
+    },
+    "familyIds": [
+      "andare-family",
+      "venire-family",
+      "salire-family",
+      "rimanere-family",
+      "regular-essere-family"
+    ]
+  },
+  {
+    "id": "spelling-pronunciation",
+    "label": {
+      "en": "Spelling and pronunciation changes",
+      "it": "Cambi di grafia e pronuncia"
+    },
+    "level": "A2",
+    "summary": {
+      "en": "Mostly regular verbs with spelling or pronunciation protection: studiare, giocare, riempire, guarire.",
+      "it": "Verbi quasi regolari con cambi di grafia o pronuncia: studiare, giocare, riempire, guarire."
+    },
+    "familyIds": [
+      "studiare-family",
+      "giocare-family",
+      "riempire-family",
+      "guarire-family"
+    ]
+  },
+  {
+    "id": "common-irregular-stems",
+    "label": {
+      "en": "Common irregular stems",
+      "it": "Radici irregolari frequenti"
+    },
+    "level": "A2-B1",
+    "summary": {
+      "en": "Larger families with important stem changes: bere, uscire, tenere, porre, -durre, -trarre, piacere and more.",
+      "it": "Famiglie più ampie con cambi di radice importanti: bere, uscire, tenere, porre, -durre, -trarre, piacere e altri."
+    },
+    "familyIds": [
+      "bere-family",
+      "uscire-family",
+      "tenere-family",
+      "porre-family",
+      "durre-family",
+      "trarre-family",
+      "gliere-family",
+      "gnere-family",
+      "gere-family",
+      "giungere-family",
+      "stringere-family",
+      "cere-scere-family",
+      "piacere-family",
+      "tacere-family",
+      "cuocere-family",
+      "leggere-family",
+      "morire-family"
+    ]
+  },
+  {
+    "id": "irregular-participles",
+    "label": {
+      "en": "Irregular participles",
+      "it": "Participi irregolari"
+    },
+    "level": "B1",
+    "summary": {
+      "en": "Verbs whose compound tenses need special past participles.",
+      "it": "Verbi i cui tempi composti richiedono participi passati speciali."
+    },
+    "familyIds": [
+      "irregular-participles-ere",
+      "irregular-participles-ire"
+    ]
+  }
+]

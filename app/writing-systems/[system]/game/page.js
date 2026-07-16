@@ -86,14 +86,18 @@ function normalizeLetters(data) {
     .filter((letter) => letter.symbol);
 }
 
-function getCharacterSet(systemId) {
+function getCharacterSetPackage(systemId) {
   const data = readJsonIfExists(
     `public/data/writing-systems/character-sets/${systemId}.json`
   );
 
   if (!data) return null;
 
-  return normalizeLetters(data);
+  return {
+    letters: normalizeLetters(data),
+    voiceLang: data.voiceLang || "",
+    audioMode: data.audioMode || "timestamped",
+  };
 }
 
 export async function generateMetadata({ params }) {
@@ -111,9 +115,10 @@ export default async function WritingSystemGamePage({ params }) {
   const { system } = await params;
 
   const meta = getSystemMeta(system);
-  const letters = getCharacterSet(system);
+  const characterSet = getCharacterSetPackage(system);
+  const letters = characterSet?.letters || [];
 
-  if (!meta || !letters) return notFound();
+  if (!meta || !characterSet || !letters.length) return notFound();
 
   const title = getText(meta.title) || system;
 
@@ -150,7 +155,12 @@ export default async function WritingSystemGamePage({ params }) {
         </header>
 
         <div className="mt-5">
-          <AlphabetClickGame system={system} letters={letters} />
+          <AlphabetClickGame
+            system={system}
+            letters={letters}
+            voiceLang={characterSet.voiceLang}
+            audioMode={characterSet.audioMode}
+          />
         </div>
       </section>
     </main>
