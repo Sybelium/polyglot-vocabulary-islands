@@ -18,7 +18,8 @@ function readJsonIfExists(relativePath) {
 function getText(value) {
   if (!value) return "";
   if (typeof value === "string") return value;
-  return value.en || Object.values(value)[0] || "";
+  if (typeof value === "number") return String(value);
+  return value.en || Object.values(value).find(Boolean) || "";
 }
 
 function getWritingSystems() {
@@ -31,7 +32,23 @@ function getSystemMeta(systemId) {
   return getWritingSystems().find((system) => system.id === systemId) || null;
 }
 
+function getDefaultAudioVariant(data) {
+  return data.defaultAudioVariant || data.audioVariants?.[0]?.id || "EN";
+}
+
+function getAudioText(item, defaultAudioVariant = "") {
+  return (
+    getText(item.audioTextByVariant?.[defaultAudioVariant]) ||
+    getText(item.audioTextByVariant?.EN) ||
+    getText(item.audioText) ||
+    getText(item.audio) ||
+    ""
+  );
+}
+
 function normalizeLetters(data) {
+  const defaultAudioVariant = getDefaultAudioVariant(data);
+
   const rawLetters = Array.isArray(data)
     ? data
     : data.letters ||
@@ -63,10 +80,10 @@ function normalizeLetters(data) {
       const sound =
         getText(item.sound) ||
         getText(item.pronunciation) ||
-        getText(item.audio) ||
-        getText(item.audioText) ||
         getText(item.value) ||
         "";
+
+      const audioText = getAudioText(item, defaultAudioVariant) || sound || name || symbol;
 
       return {
         id: item.id || `${symbol}-${index}`,
@@ -75,12 +92,7 @@ function normalizeLetters(data) {
         sound,
         transliteration:
           getText(item.transliteration) || getText(item.romanization) || "",
-        audioText:
-          getText(item.audioText) ||
-          getText(item.audio) ||
-          sound ||
-          name ||
-          symbol,
+        audioText,
       };
     })
     .filter((letter) => letter.symbol);

@@ -1,115 +1,46 @@
 {
   "id": "latin",
-  "name": {
-    "en": "Latin Alphabet"
-  },
+  "name": {"en": "Latin Alphabet"},
+  "defaultAudioVariant": "EN",
+  "audioVariants": [
+    {"id": "EN", "label": {"en": "English"}},
+    {"id": "FR", "label": {"en": "French"}},
+    {"id": "ES", "label": {"en": "Spanish"}},
+    {"id": "DE", "label": {"en": "German"}},
+    {"id": "IT", "label": {"en": "Italian"}},
+    {"id": "PT", "label": {"en": "Portuguese"}},
+    {"id": "NL", "label": {"en": "Dutch"}}
+  ],
+  "variantNotes": {"IT": {"en": "Italian traditionally uses 21 native letters. J, K, W, X and Y are foreign letters used in names, loanwords and international words."}, "ES": {"en": "Spanish uses the Latin alphabet and also treats Ñ as its own letter. Ñ should be added later as a Spanish-specific extra letter."}, "NL": {"en": "Dutch uses the Latin alphabet. The IJ digraph is important and can be added later as a Dutch-specific extra item or lesson."}},
+  "letterGroupsByVariant": {"IT": [{"id": "native", "label": {"en": "Italian native alphabet"}, "letterIds": ["a", "b", "c", "d", "e", "f", "g", "h", "i", "l", "m", "n", "o", "p", "q", "r", "s", "t", "u", "v", "z"]}, {"id": "foreign", "label": {"en": "Foreign letters"}, "letterIds": ["j", "k", "w", "x", "y"]}]},
   "voiceLang": "en-US",
   "columns": 7,
   "letters": [
-    {
-      "symbol": "A",
-      "name": "A"
-    },
-    {
-      "symbol": "B",
-      "name": "B"
-    },
-    {
-      "symbol": "C",
-      "name": "C"
-    },
-    {
-      "symbol": "D",
-      "name": "D"
-    },
-    {
-      "symbol": "E",
-      "name": "E"
-    },
-    {
-      "symbol": "F",
-      "name": "F"
-    },
-    {
-      "symbol": "G",
-      "name": "G"
-    },
-    {
-      "symbol": "H",
-      "name": "H"
-    },
-    {
-      "symbol": "I",
-      "name": "I"
-    },
-    {
-      "symbol": "J",
-      "name": "J"
-    },
-    {
-      "symbol": "K",
-      "name": "K"
-    },
-    {
-      "symbol": "L",
-      "name": "L"
-    },
-    {
-      "symbol": "M",
-      "name": "M"
-    },
-    {
-      "symbol": "N",
-      "name": "N"
-    },
-    {
-      "symbol": "O",
-      "name": "O"
-    },
-    {
-      "symbol": "P",
-      "name": "P"
-    },
-    {
-      "symbol": "Q",
-      "name": "Q"
-    },
-    {
-      "symbol": "R",
-      "name": "R"
-    },
-    {
-      "symbol": "S",
-      "name": "S"
-    },
-    {
-      "symbol": "T",
-      "name": "T"
-    },
-    {
-      "symbol": "U",
-      "name": "U"
-    },
-    {
-      "symbol": "V",
-      "name": "V"
-    },
-    {
-      "symbol": "W",
-      "name": "W"
-    },
-    {
-      "symbol": "X",
-      "name": "X"
-    },
-    {
-      "symbol": "Y",
-      "name": "Y"
-    },
-    {
-      "symbol": "Z",
-      "name": "Z"
-    }
-  ],
-  "audioMode": "browser-tts"
+    {"id": "a", "symbol": "A", "name": "A", "audioTextByVariant": {"EN": "hay", "FR": "a", "ES": "ha", "DE": "a", "IT": "a", "PT": "á", "NL": "a"}},
+    {"id": "b", "symbol": "B", "name": "B", "audioTextByVariant": {"EN": "bee", "FR": "bé", "ES": "b", "DE": "be", "IT": "bi", "PT": "bê", "NL": "bee."}},
+    {"id": "c", "symbol": "C", "name": "C", "audioTextByVariant": {"EN": "see", "FR": "cé", "ES": "c", "DE": "tse", "IT": "ci", "PT": "se.", "NL": "see"}},
+    {"id": "d", "symbol": "D", "name": "D", "audioTextByVariant": {"EN": "dee", "FR": "dé", "ES": "d", "DE": "de", "IT": "di", "PT": "dê.", "NL": "die."}},
+    {"id": "e", "symbol": "E", "name": "E", "audioTextByVariant": {"EN": "e", "FR": "euh", "ES": "e", "DE": "e", "IT": "e", "PT": "é", "NL": "e"}},
+    {"id": "f", "symbol": "F", "name": "F", "audioTextByVariant": {"EN": "heff", "FR": "èf", "ES": "efe", "DE": "ef", "IT": "èffe", "PT": "éfe", "NL": "f"}},
+    {"id": "g", "symbol": "G", "name": "G", "audioTextByVariant": {"EN": "jee", "FR": "gé", "ES": "ge", "DE": "ge", "IT": "gi", "PT": "gê", "NL": "gay."}},
+    {"id": "h", "symbol": "H", "name": "H", "audioTextByVariant": {"EN": "aitch", "FR": "hache", "ES": "hache", "DE": "ha", "IT": "acca", "PT": "agá", "NL": "ha."}},
+    {"id": "i", "symbol": "I", "name": "I", "audioTextByVariant": {"EN": "eye", "FR": "hi", "ES": "i", "DE": "i", "IT": "i", "PT": "i", "NL": "hi"}},
+    {"id": "j", "symbol": "J", "name": "J", "audioTextByVariant": {"EN": "jay", "FR": "ji", "ES": "jota", "DE": "jott", "IT": "i lunga", "PT": "jota", "NL": "jot"}},
+    {"id": "k", "symbol": "K", "name": "K", "audioTextByVariant": {"EN": "kay", "FR": "ka", "ES": "ka", "DE": "ka", "IT": "cappa", "PT": "capa", "NL": "kaa"}},
+    {"id": "l", "symbol": "L", "name": "L", "audioTextByVariant": {"EN": "el", "FR": "èl", "ES": "ele", "DE": "el", "IT": "èlle", "PT": "éle", "NL": "el"}},
+    {"id": "m", "symbol": "M", "name": "M", "audioTextByVariant": {"EN": "em", "FR": "èm", "ES": "eme", "DE": "em", "IT": "èmme", "PT": "éme", "NL": "emme."}},
+    {"id": "n", "symbol": "N", "name": "N", "audioTextByVariant": {"EN": "en", "FR": "èn", "ES": "ene", "DE": "en", "IT": "ènne", "PT": "éne", "NL": "en"}},
+    {"id": "o", "symbol": "O", "name": "O", "audioTextByVariant": {"EN": "oh", "FR": "o", "ES": "o", "DE": "o", "IT": "o", "PT": "ó", "NL": "oo"}},
+    {"id": "p", "symbol": "P", "name": "P", "audioTextByVariant": {"EN": "pee", "FR": "pé", "ES": "pe", "DE": "pe", "IT": "pi", "PT": "p.", "NL": "peeh"}},
+    {"id": "q", "symbol": "Q", "name": "Q", "audioTextByVariant": {"EN": "cue", "FR": "ku", "ES": "ku", "DE": "ku", "IT": "cu", "PT": "ku", "NL": "kuu."}},
+    {"id": "r", "symbol": "R", "name": "R", "audioTextByVariant": {"EN": "har", "FR": "èr", "ES": "erre", "DE": "er", "IT": "èrre", "PT": "érre", "NL": "heer."}},
+    {"id": "s", "symbol": "S", "name": "S", "audioTextByVariant": {"EN": "hess", "FR": "ès", "ES": "ese", "DE": "es", "IT": "èsse", "PT": "ésse", "NL": "es"}},
+    {"id": "t", "symbol": "T", "name": "T", "audioTextByVariant": {"EN": "tee", "FR": "té", "ES": "te", "DE": "te", "IT": "ti", "PT": "te.", "NL": "teeh."}},
+    {"id": "u", "symbol": "U", "name": "U", "audioTextByVariant": {"EN": "you", "FR": "eu", "ES": "u", "DE": "u", "IT": "u", "PT": "u", "NL": "u."}},
+    {"id": "v", "symbol": "V", "name": "V", "audioTextByVariant": {"EN": "vee", "FR": "vé", "ES": "uve", "DE": "fau", "IT": "vu", "PT": "vê", "NL": "vee"}},
+    {"id": "w", "symbol": "W", "name": "W", "audioTextByVariant": {"EN": "double you", "FR": "double vé", "ES": "uve doble", "DE": "ve", "IT": "doppia vu", "PT": "dáblio", "NL": "wee"}},
+    {"id": "x", "symbol": "X", "name": "X", "audioTextByVariant": {"EN": "ex", "FR": "x", "ES": "equis", "DE": "iks", "IT": "ics", "PT": "xis", "NL": "iks"}},
+    {"id": "y", "symbol": "Y", "name": "Y", "audioTextByVariant": {"EN": "why", "FR": "i grec", "ES": "i griega", "DE": "üpsilon", "IT": "ipsilon", "PT": "ípsilon", "NL": "griekse ij."}},
+    {"id": "z", "symbol": "Z", "name": "Z", "audioTextByVariant": {"EN": "zee", "FR": "zède", "ES": "zeta", "DE": "zett", "IT": "zeta", "PT": "zê", "NL": "zet"}}
+  ]
 }
